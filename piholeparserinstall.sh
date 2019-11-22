@@ -10,7 +10,7 @@
 
 ## Install Variables
 REPONAME=piholeparser
-REPOOWNER=deathbybandaid
+REPOOWNER=bast69
 INSTALLPLACE=/etc/"$REPONAME"/
 
 ## Update
