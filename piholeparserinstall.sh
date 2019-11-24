@@ -56,12 +56,12 @@ if (whiptail --title ""$REPONAME"" --yes-button "yes" --no-button "no" --yesno "
 then
   git clone https://github.com/"$REPOOWNER"/"$REPONAME".git /etc/"$REPONAME"/
   cp /etc/"$REPONAME"/scripts/updaterun"$REPONAME".sh /etc/updaterun"$REPONAME".sh
-  (crontab -l ; echo "20 0 * * * bash /updaterun"$REPONAME".sh") | crontab -
+  (crontab -l ; echo "20 0 * * * bash /etc/updaterun"$REPONAME".sh") | crontab -
 else
   exit
 fi
 
-## Save a pervious config?
+## Save a previous config?
 if [[ -n $PREVIOUSINSTALL ]]
 then
   if (whiptail --title ""$REPONAME"" --yes-button "keep config" --no-button "create new config" --yesno "Keep a previous config?" 10 80)
