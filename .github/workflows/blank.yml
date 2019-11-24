@@ -12,5 +12,5 @@ jobs:
     steps:
     - name: Bash for GitHub Actions
     - uses: jcblw/bash@1.0.0
-      run: bash piholeparser.sh
-      shell: bash
+      with:
+        args: "bash piholeparser.sh"
