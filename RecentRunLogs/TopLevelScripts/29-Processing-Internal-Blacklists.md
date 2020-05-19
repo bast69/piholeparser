@@ -1,9 +1,9 @@
-[Return To Repository](https://github.com/deathbybandaid/piholeparser/)
-[Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/bast69/piholeparser/)
+[Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Script Blacklist File not there, not removing. Tue May 19 00:20:31 UTC 2020
+* Script Blacklist File not there, not removing. Tue May 19 19:56:31 CEST 2020
 ### Pulling Domains From Individual Lists.
 1 In AlexaVoiceAssistant
 1 In BlogPostAds

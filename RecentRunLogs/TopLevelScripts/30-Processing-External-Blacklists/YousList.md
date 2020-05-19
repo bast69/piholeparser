@@ -1,6 +1,6 @@
-[Return To Repository](https://github.com/deathbybandaid/piholeparser/)
-[Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+[Return To Repository](https://github.com/bast69/piholeparser/)
+[Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # YousList
 ## Setting Temporary Parsing Variables
@@ -20,13 +20,13 @@ ____________________________________
 ## Attempting Creation Of Mirror File
 ## Parsing List
 ### Removing Comments
-5959 Lines After Removing Comments
+5961 Lines After Removing Comments
 ### Removing Content Filtering
-5959 Lines After Removing Content Filtering
+5961 Lines After Removing Content Filtering
 ### Trimming HOSTS Format IP Addresses
-5959 Lines After Trimming HOSTS Format IP Addresses
+5961 Lines After Trimming HOSTS Format IP Addresses
 ### Removing Empty Space
-5458 Lines After Removing Empty Space
+5459 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
 145 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case

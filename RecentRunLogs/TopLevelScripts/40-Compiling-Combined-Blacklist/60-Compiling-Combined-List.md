@@ -1,6 +1,6 @@
-[Return To Repository](https://github.com/deathbybandaid/piholeparser/)
-[Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
+[Return To Repository](https://github.com/bast69/piholeparser/)
+[Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 60-Compiling-Combined-List
-* All Parsed List Removed. Tue May 19 00:34:16 UTC 2020
+* All Parsed List Removed. Tue May 19 20:56:41 CEST 2020
