@@ -2,31 +2,31 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Recreating TempVar File Tue May 19 19:55:09 CEST 2020
+## Recreating TempVar File Wed May 20 03:00:49 CEST 2020
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
 
-## Removing Temp Files Tue May 19 19:55:10 CEST 2020
-Process Took 2 Seconds.
+## Removing Temp Files Wed May 20 03:00:50 CEST 2020
+Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 
-## Setting Start Time Variable Tue May 19 19:55:12 CEST 2020
+## Setting Start Time Variable Wed May 20 03:00:52 CEST 2020
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 
-## Identifying Lists Without https Tue May 19 19:55:13 CEST 2020
+## Identifying Lists Without https Wed May 20 03:00:53 CEST 2020
 Process Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
-## Counting Lists To Process Tue May 19 19:55:25 CEST 2020
-Process Took 1 Seconds.
+## Counting Lists To Process Wed May 20 03:01:04 CEST 2020
+Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/25-Counting-Lists-To-Process.md)
 
-## Checking For Lists With Multiple Sources Tue May 19 19:55:26 CEST 2020
-Process Took 19 Seconds.
+## Checking For Lists With Multiple Sources Wed May 20 03:01:06 CEST 2020
+Process Took 18 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/30-Checking-For-Lists-With-Multiple-Sources.md)
 
-## Checking To See If Parsing Method Has Changed Tue May 19 19:55:45 CEST 2020
+## Checking To See If Parsing Method Has Changed Wed May 20 03:01:24 CEST 2020
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
 
