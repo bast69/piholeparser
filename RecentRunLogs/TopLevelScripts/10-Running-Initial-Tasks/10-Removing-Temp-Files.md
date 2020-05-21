@@ -4,4 +4,4 @@
 ____________________________________
 # 
 ### Checking For Old Temp Files.
-* No Temp Files To Purge.
+* Old Temp Files Purged.

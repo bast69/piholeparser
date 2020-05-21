@@ -27,6 +27,7 @@ banners.spiceworks.com
 bigzipfiles.facebook.com
 bit.ly
 bitbucket.org
+bj.bcebos.com
 blocklist.kowabit.de
 blog.halle-leaks.de
 blogram.net
@@ -37,12 +38,15 @@ cdn.embedly.com
 cdn.optimizely.com
 cdn.tabnak.ir
 cdnjs.cloudflare.com
+cdnjs.cloudflare.com
 chrome.google.com
+clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
 cloudflare.com
+content.jwplatform.com
 contra-magazin.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -73,9 +77,11 @@ easylist-downloads.adblockplus.org
 easylist.to
 ebay.co.uk
 ebay.fr
+ebay.fr
 ebay.it
 ec-ns.sascdn.com
 edge-chat.facebook.com
+edge-mqtt.facebook.com
 einwanderungskritik.de
 epochtimes.de
 external-lhr0-1.xx.fbcdn.net 
@@ -95,9 +101,12 @@ filters.adtidy.org
 fonts.googleapis.com
 forums.sonarr.tv
 fpdownload.adobe.com
+fr-fr.facebook.com
+fr.aliexpress.com
 fr.osdn.net
 freiezeiten.net
 g.live.com
+gamergen.com
 gekko.spiceworks.com
 geo-prod.do.dsp.mp.microsoft.com 
 github.com
@@ -130,7 +139,9 @@ kundencenter.telekom.de
 lego.com
 live.com
 login.live.com
+login.microsoftonline.com
 m.hotmail.com 
+m.lahalle.com
 m.weeklyad.target.com 
 malwareurls.joxeankoret.com
 messenger.com
@@ -178,6 +189,7 @@ rapefugees.net
 raw.github.com
 raw.githubusercontent.com
 redirector.gvt1.com
+res.cloudinary.com
 road.adblock.ro
 rover.ebay.com
 s.gateway.messenger.live.com 
@@ -206,6 +218,7 @@ splashtop.com
 sportcompactwarehouse.com
 sputniknews.com
 ssl.google-analytics.com
+ssl.p.jwpcdn.com
 staging.plex.tv
 stanev.org
 static.kickstarter.com
@@ -259,6 +272,7 @@ www.messenger.com
 www.niecko.pl
 www.no-ip.com
 www.npd-mv.de
+www.paypal.com
 www.paypal.com
 www.pinterest.com
 www.plex.tv
