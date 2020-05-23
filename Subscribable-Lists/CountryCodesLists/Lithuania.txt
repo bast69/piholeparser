@@ -18,6 +18,7 @@ aservisas.lt
 auto.rusvile.lt
 autoabs.lt
 avitela.lt
+baidaremis.lt
 balosa.lt
 baltela.lt
 bancestad0.96.lt
@@ -198,5 +199,6 @@ www.top100.lt
 www.visits.lt
 xbox.visits.lt
 zaidimai-zaidimai.lt
+zaliaskaimas.lt
 zemindar.lt
 zemynapm.lt

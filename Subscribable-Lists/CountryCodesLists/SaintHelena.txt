@@ -1,14 +1,19 @@
 81.17.16.122zeros6x.sh
 ad.proxy.sh
 apu.sh
+cc2.vsl.sh
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive-stratum-bqywuwxwij.now.sh
 coin-hive-stratum-cilswgfvet.now.sh
 coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
+comptesenlignelabanquepostale-fr.surge.sh
 freelanxer-ddn-net.now.sh
 harvest.surge.sh
+independentcy.now.sh
 init.sh
+instagram-findwhoishavingcrushonyou.now.sh
+instagram-scratchcardcontest.now.sh
 instagramaagsjsjsjtest.now.sh
 is.sh
 maestr.sh
@@ -16,6 +21,7 @@ mainid.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
+mkbnetbankar-hu.surge.sh
 mxcdn1.now.sh
 mxcdn2.now.sh
 npcdn1.now.sh
@@ -44,6 +50,7 @@ updata.sh
 urht.sh
 vani.sh
 vanshlol.now.sh
+well-made-iron.surge.sh
 windows-defender.con.sh
 www.coin-hive-proxy-ybydcnjgkl.now.sh
 www.coin-hive-stratum-bqywuwxwij.now.sh

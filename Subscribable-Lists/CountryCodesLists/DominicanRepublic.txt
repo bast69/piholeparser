@@ -4,6 +4,7 @@ arsffaa.mil.do
 bit.do
 boomerang.do
 carabela.com.do
+construlok.com.do
 debuguean.do
 dok.do
 feed.snap.do
@@ -18,7 +19,9 @@ maunaloa.com.do
 megasol.com.do
 metrigo.zalan.do
 panastore.com.do
+paypalaccount.dulcessuenos.com.do
 pe.com.do
+po.do
 raquelguzman.com.do
 search.snap.do
 segurnet.com.do

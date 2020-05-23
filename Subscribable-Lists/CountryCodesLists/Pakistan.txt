@@ -7,6 +7,7 @@ accountverificationaus.pk
 active-azuredirectory-875463247mc365.alnoorsmd.com.pk
 adexcel.com.pk
 adiltraders.com.pk
+admission.tuf.edu.pk
 ads.brain.pk
 ads.songs.pk
 aghaz.org.pk
@@ -30,6 +31,7 @@ asjayz.pk
 askaria.edu.pk
 assetplus.com.pk
 attt.mppl.pk
+automationhub.pk
 baazar.com.pk
 babulhawaij.com.pk
 bacr.com.pk
@@ -146,12 +148,15 @@ iup.edu.pk
 jacadikids.com.pk
 jamiat.org.pk
 jazzpackages.pk
+jbimpex.com.pk
 jikauw.pk
 kaims.edu.pk
 kamalesultaniwke.pk
 kamu.pk
 karandaaz.com.pk
 kba.org.pk
+kbctouch.kbc.be.chajjo.pk
+kidsfit.pk
 kreation.pk
 lamarzocco.com.pk
 leo.net.pk
