@@ -760,6 +760,7 @@ dash-as.coinmine.pl
 dash-eu.coinmine.pl
 dash.coinmine.pl
 datasmierci.pl
+datempus.pl
 davidcandy.website.pl
 dbl.coinmine.pl
 dc.sabela.com.pl
@@ -791,7 +792,6 @@ demo.website.pl
 denaros.pl
 denoncocoon.pl
 dent-lux.com.pl
-dentalline.pl
 deviltorrents.pl
 dfyhnddsalog.7m.pl
 dgc.coinmine.pl
@@ -873,6 +873,7 @@ downloaded.adeforsa.pl
 downloadfiles.pl
 downloaduj.pl
 dpcdn-s06.pl
+dpdpolska.pl
 dps-nysa.pl
 dpsdomnadziei.pl
 dpsjonkowo.pl
@@ -919,16 +920,17 @@ dziennik24.uyp.pl
 dziennikarze.lo-kolaczyce.pl
 dziewczyny.biz.pl
 dziubeka.cba.pl
+e-24gwaltfakt.pl
 e-avanti.e-maco.pl
 e-cda.pl
 e-dworzecporwaniepl.pl
 e-efaktygwalt.pl
-e-emonitoring24.pl
 e-eporwaniedziecka.pl
 e-faktgwalt24.pl
 e-faktyzaginiecie24.pl
 e-fohow.pl
 e-fotodtp.pl
+e-gwaltwiadomosc.pl
 e-kasa.w8w.pl
 e-kinoman.pl
 e-kwiaciarz.pl
@@ -1055,7 +1057,6 @@ emerge.imstore.pl
 emisja.adsearch.pl
 emisja.contentstream.pl
 emisjawidgeet.onet.pl
-emonitoring24.net.pl
 empe3net7.neostrada.pl
 emptyus.trixy.pl
 emticall.pl
@@ -1281,6 +1282,7 @@ flash.studiomultimedia.pl
 flewer.pl
 flinsut.pl
 fmg.pl
+foliar.pl
 fon-gsm.pl
 food-safety.pl
 forkids.pl
@@ -1297,6 +1299,7 @@ forumzadluzonych.pl
 fosnab.w.interiowo.pl
 fosze.com.pl
 fotobojahr.pl
+fotografnapiatke.pl
 fotografuj.pl
 fotogrupa.pl
 fotomonto.pl
@@ -1758,8 +1761,6 @@ gtlv.hit.gemius.pl
 gttr.hit.gemius.pl
 guminska.pl
 gw.firesub.pl
-gwaltmonitoring.com.pl
-gwaltmonitoring.pl
 gwaltpolska.com.pl
 gwaltwiadomosc.com.pl
 gwaltwiadomosc.net.pl
@@ -1851,6 +1852,7 @@ icorpadro.hit.gemius.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
+iemonitoring24.pl
 ifaktgwalt24.pl
 ifaktygwalt.com.pl
 ifaktyzaginiecie24.pl
@@ -2192,6 +2194,7 @@ ksw26-transmisja.pl
 kszozkosz.pl
 ktpn.kalisz.pl
 kubud.pl
+kulkowo.ct8.pl
 kupzytax.pl
 kuriero.pl
 kurierpremium.pl
@@ -2405,7 +2408,6 @@ mf-mojafirma.pl
 mgops-konskie.pl
 mice.pl
 michpol95.5v.pl
-microhost.com.pl
 microstatic.pl
 miedzyrzec-online.pl
 mieszkania-pokoje-wynajem.pl
@@ -2470,7 +2472,6 @@ moviestarplanet-hacki.pl
 moviestarplanet-haki-i-kody.crazylife.pl
 moviestarplanethack.net.pl
 moviestarplanethacks.pl
-moz-bud.pl
 mpcnet.com.pl
 mr-concept.pl
 mreg.hit.gemius.pl
@@ -2664,7 +2665,6 @@ newmedscialis.pl
 newpillmed.pl
 newrutor.org.pl
 newsgeek.pl
-newsgwalt.net.pl
 newsgwalt.pl
 newsgwalt24.pl
 newsgwalt24.waw.pl
@@ -3756,6 +3756,7 @@ sq2jk.pl
 src.coinmine.pl
 srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
+ssl-paybylink.pl
 ssl.bezpieczne-platnosci.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
@@ -4216,7 +4217,6 @@ wapster.pl
 warco.pl
 wargaming.all-stars.pl
 warmiainkaso.pl
-warszawa-gov24.pl
 warszawa-info24.pl
 warszawski-serwis-laptopow.warszawa.pl
 warszowka.pl

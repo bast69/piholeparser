@@ -102,7 +102,6 @@ cgi-banamex.com.mx
 chameleongroup.com.mx
 charlie-colop.com.mx
 chaseonline.com.mx
-chefcenter.mx
 chemicalguys.mx
 chemicalguysmexico.com.mx
 chrisalim.com.mx
@@ -216,8 +215,8 @@ fufu.com.mx
 fullframews.com.mx
 funnygames.com.mx
 gabybeltran.com.mx
+galaxyweb.mx
 gamers.com.mx
-gassomatic.com.mx
 gdgames.com.mx
 gdlactivo.com.mx
 geocad.com.mx
@@ -324,6 +323,7 @@ makerlabs.mx
 manoamiga.com.mx
 marcasdelnorte.com.mx
 marcate.com.mx
+marcodenova.com.mx
 mardesa.com.mx
 mariaitzel.com.mx
 marketdynamic.com.mx
@@ -421,6 +421,7 @@ rconnect.mx
 refsanjuan.com.mx
 relectrica.com.mx
 repuestosyfrenos.com.mx
+retroexcavadoras.com.mx
 rocafarm.com.mx
 rodolfotorres.com.mx
 roken.com.mx
@@ -442,6 +443,7 @@ segob.gob.mx
 servermx20.com.mx
 servermx24.com.mx
 serviceylubel.com.mx
+servimed.com.mx
 sexi.com.mx
 sexyjeans.com.mx
 sexyporngirls.blogspot.mx
@@ -451,7 +453,6 @@ siemco.com.mx
 siinsol.com.mx
 sima-ingenieria.com.mx
 simone.com.mx
-sistema.proexito.com.mx
 smp.com.mx
 snowball.itetlax.org.mx
 sociedadcivicademexico.org.mx
@@ -474,6 +475,7 @@ streaming-att.com.mx
 strings.com.mx
 studiomovil.com.mx
 stweb.coremisgm.gob.mx
+sucursalvirtualbancolombia.tunafishexport.com.mx
 suecomexicano.edu.mx
 sumacorporativo.com.mx
 superama.com.mx

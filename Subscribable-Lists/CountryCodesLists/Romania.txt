@@ -207,8 +207,6 @@ climatizareonline.ro
 cloud305.mxserver.ro
 clubdiesel.ro
 clubnet.ro
-clubulnautic.ro
-clubulnauticroman.ro
 cmn5uuql6bhafukwc05r.viomil.ro
 cniptmoldovanoua.ro
 cnvv.ro
@@ -410,6 +408,7 @@ img.neogen.ro
 incercari.icedesign.ro
 indivizual.ro
 indochina-art.ro
+infosantioana.hi2.ro
 ingservice.ro
 inspireconsulting.ro
 instagram-media.ro
