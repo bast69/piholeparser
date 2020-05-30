@@ -21,7 +21,6 @@ metrigo.zalan.do
 panastore.com.do
 paypalaccount.dulcessuenos.com.do
 pe.com.do
-po.do
 raquelguzman.com.do
 search.snap.do
 segurnet.com.do

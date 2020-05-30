@@ -72,6 +72,7 @@ allvisas.ro
 almatours.ro
 along.ro
 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
+alpreco.ro
 ambacart.ro
 amedeea.ro
 amoni.pisynailart.ro
@@ -109,7 +110,6 @@ autochemicals.ro
 autocosmi.ro
 autodemitrans.ro
 autogarametropoli.ro
-autograff.ro
 automatizari-online.ro
 automotorsa.ro
 autoseven.ro
@@ -131,7 +131,6 @@ banners.kappa.ro
 barbarossa.ro
 bardavavillage.ro
 bc-tour.ro
-bcaffe.ro
 bde1wtzxfho2d9krz0ar.viomil.ro
 beautybyena.ro
 bee-store.ro
@@ -207,6 +206,8 @@ climatizareonline.ro
 cloud305.mxserver.ro
 clubdiesel.ro
 clubnet.ro
+clubulnautic.ro
+clubulnauticroman.ro
 cmn5uuql6bhafukwc05r.viomil.ro
 cniptmoldovanoua.ro
 cnvv.ro
@@ -407,8 +408,6 @@ imex.cezard.imcserver.ro
 img.neogen.ro
 incercari.icedesign.ro
 indivizual.ro
-indochina-art.ro
-infosantioana.hi2.ro
 ingservice.ro
 inspireconsulting.ro
 instagram-media.ro
@@ -773,7 +772,6 @@ studiodin.ro
 studiofusion.ro
 supermeditatii.ro
 suruburi-autoforante.ro
-susai.ro
 suub-sper.ro
 sweeties.ro
 swrnotificationsoshmobile.webnode.ro

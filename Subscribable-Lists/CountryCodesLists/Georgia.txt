@@ -40,13 +40,11 @@ juventus.ge
 kadmixer.ge
 kmwine.ge
 kondi.ge
-krevetebi.ge
 lagi.ge
 links.boom.ge
 login.drawbrid.ge
 marketplace.drawbrid.ge
 misc.drawbrid.ge
-mnsglobal.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge

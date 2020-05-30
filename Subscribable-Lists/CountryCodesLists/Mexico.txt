@@ -41,7 +41,6 @@ amv.org.mx
 andes.org.mx
 angelsscort.com.mx
 aptra.mx
-aquixtlapuebla.gob.mx
 areaslimpias.com.mx
 arroba.mx
 artesehistoria.mx
@@ -102,6 +101,7 @@ cgi-banamex.com.mx
 chameleongroup.com.mx
 charlie-colop.com.mx
 chaseonline.com.mx
+chefcenter.mx
 chemicalguys.mx
 chemicalguysmexico.com.mx
 chrisalim.com.mx
@@ -110,6 +110,7 @@ cideac.mx
 cidecmujer.com.mx
 cieh.mx
 cimaco.com.mx
+cimacrg.mx
 circuitodigital.com.mx
 ckiam.com.mx
 clickking.mx
@@ -135,7 +136,6 @@ construfuturo.com.mx
 construmac.com.mx
 consultaprevia.org.mx
 consultoriacml.com.mx
-consultoriaiunit.com.mx
 consultoriodentalmedina.com.mx
 contacto1190.com.mx
 contesi.com.mx
@@ -175,7 +175,7 @@ e-tender.com.mx
 ebay.thorsman.mx
 ecobebe.com.mx
 edomex.portalesvip.com.mx
-eladios.com.mx
+eeeeisa.com.mx
 elektra.com.mx
 elpalaciodehierro.com.mx
 elrincondelvalle.com.mx
@@ -204,11 +204,13 @@ fedpatmex.org.mx
 felicesfiestas.com.mx
 fibradevidrioenmexico.com.mx
 fiduciariobajio.com.mx
+fiestaquince.mx
 firmajuridica.com.mx
 follajesyflores.mx
 fonart.com.mx
 foros.elsiglodetorreon.com.mx
 francachela.com.mx
+fratelafilms.com.mx
 freeporn.com.mx
 freeporn4everyone.blogspot.mx
 fufu.com.mx
@@ -338,7 +340,6 @@ medistaff.com.mx
 medusags.com.mx
 megavision.com.mx
 mercadolibre.com.mx
-messages.postmaster.lovelypets.mx
 metosys.com.mx
 mheleva.com.mx
 micronetworks.com.mx
@@ -373,9 +374,7 @@ p.ato.mx
 palaciohierro.com.mx
 pangealogistics.com.mx
 pastelesallegro.mx
-pastelesgloriadelis.com.mx
 pavsia.com.mx
-pedidos.aguilaammo.com.mx
 pegasocyc.com.mx
 pendingmessages.delivery.kidsfashion.com.mx
 peterfilesblog.blogspot.mx
@@ -402,7 +401,6 @@ pornomexicana.com.mx
 pornopoly.blogspot.mx
 pornvtope.blogspot.mx
 post.gabrielatapia.mx
-postmaster.ukwebmail.teocaltiche.com.mx
 pranaentretenimiento.com.mx
 prdcortazargto.org.mx
 priceshoes.com.mx
@@ -443,7 +441,6 @@ segob.gob.mx
 servermx20.com.mx
 servermx24.com.mx
 serviceylubel.com.mx
-servimed.com.mx
 sexi.com.mx
 sexyjeans.com.mx
 sexyporngirls.blogspot.mx
@@ -451,11 +448,9 @@ sfgame.mx
 show.com.mx
 siemco.com.mx
 siinsol.com.mx
-sima-ingenieria.com.mx
 simone.com.mx
 smp.com.mx
 snowball.itetlax.org.mx
-sociedadcivicademexico.org.mx
 sofishome.com.mx
 solartec.mx
 solojuegos.com.mx
@@ -471,11 +466,9 @@ stain.egregiesystems.mx
 standardlab.mx
 steelfs.com.mx
 stek.com.mx
-streaming-att.com.mx
 strings.com.mx
 studiomovil.com.mx
 stweb.coremisgm.gob.mx
-sucursalvirtualbancolombia.tunafishexport.com.mx
 suecomexicano.edu.mx
 sumacorporativo.com.mx
 superama.com.mx

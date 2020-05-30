@@ -42,6 +42,7 @@ medness.ma
 monarchitecte.ma
 myfitness.ma
 networksgates.ma
+novancia.ma
 officeon.ch.ma
 pneumorek.ma
 poly-tech.ma
@@ -52,7 +53,6 @@ purenice.ma
 rabita-chorafa-adarissa.ma
 rbc-royalbank-online-services-security-update-cananda.jecreemonentreprise.ma
 royalair.koom.ma
-siri.ma
 six.ma
 sportech.ma
 sushistore.ma

@@ -26,7 +26,6 @@ ads.promo.web.id
 ads.xl.co.id
 adsrv.adplus.co.id
 adstars.co.id
-adventkjkt.or.id
 aerocom.co.id
 afrikocell.co.id
 agenkoranku.id
@@ -74,6 +73,7 @@ anugrahabadi.co.id
 anzshoesoriginal.co.id
 aphien.id
 apotikmalabo.co.id
+app-support-pages-2020.my.id
 app.managerpage-help.my.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
@@ -141,10 +141,10 @@ bankmaluku.co.id
 bankofamerica.justusianet.id
 bappeda.dharmasrayakab.go.id
 bappeda.palangkaraya.go.id
-bappelitbang.tanggamus.go.id
 barangantik.co.id
 barlapak.id
 barselkab.bps.go.id
+basecampresto.co.id
 batikdiajengsolo.co.id
 batikhap.co.id
 batualamridhoillahi.id
@@ -205,7 +205,6 @@ bptpm.sragenkab.go.id
 brandingcity.co.id
 brigifraider9-tniad.mil.id
 btik.web.id
-btsa.co.id
 bukhari.or.id
 bursatiket.id
 busainoac.co.id
@@ -278,7 +277,6 @@ deaslovehijab.co.id
 decorindo.co.id
 deecun.id
 dekartcraft.biz.id
-depart-recovery-society.my.id
 departs-society-ganteng-tobingg.my.id
 departs-society.my.id
 deposit.interac.com.canada.refund.from.bell.bindo.unja.ac.id
@@ -302,7 +300,6 @@ dkwm.suwan.co.id
 docsign.libra.id
 domisothi.id
 downloadlagu.or.id
-dpparki.or.id
 dpupr.lomboktengahkab.go.id
 dpw.co.id
 driand.web.id
@@ -362,7 +359,6 @@ ghemayuder.co.id
 gicibusinessschool.ac.id
 gkiklasisjakartautara.or.id
 globalbrandforum.co.id
-globalfeednusantara.co.id
 globalmediatama.co.id
 globissys.co.id
 gogogo.id
@@ -421,12 +417,12 @@ hmpip.or.id
 homes.co.id
 hrcraf.id
 hukum.unmuha.ac.id
+i.coffees.fh.unila.ac.id
 iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
 icasset.id
 icloud.com.find-iphone.id
-icloud.coms.my.id
 iclouds.fadly.id
 icsot.na.its.ac.id
 id912312313.login.authorities.xtra.co.nz.coster.id
@@ -454,7 +450,6 @@ interac.online1.verified.deposit-funds-canada.jaimorishop.id
 interbanx.co.id
 interiorbandung.co.id
 internetpositif.uzone.id
-investasidpmptsp.lampungtimurkab.go.id
 ipktradis.id
 ipoc.or.id
 isiform.id
@@ -507,7 +502,6 @@ jurnalmts.unsyiah.ac.id
 kacanghijaubahagia.co.id
 kad.kaskus.co.id
 kadubeureum-serang.desa.id
-kadudampit.sukabumikab.go.id
 kahanan.co.id
 kalamomia.id
 kalingga.um.ac.id
@@ -518,7 +512,6 @@ karateinkai.ukm.undip.ac.id
 karisma.id
 karuniabinainsani-16.co.id
 katanews.id
-katedraljakarta.or.id
 kats_surrender.blogspot.co.id
 kawalpilkadabot.getacipta.co.id
 kebunrayabaturraden.id
@@ -610,6 +603,7 @@ man2jakarta.sch.id
 manage.mitrakreasi.co.id
 mandiriiiicellid.masterweb.id
 mandirijayapersada.co.id
+mandirimco.co.id
 manmagelang.sch.id
 manreok.sch.id
 mapena.ac.id
@@ -629,7 +623,6 @@ matatinta.co.id
 matchpixvxz.coffeelajang.id
 mature2porn.blogspot.co.id
 maya-ad.co.id
-media.bigpond-telstra.com.au.pa-pangkalanbalai.go.id
 meidianahijab.id
 member.smpasbsolo.sch.id
 mentariilmukarawang.sch.id
@@ -714,6 +707,7 @@ pandansari120.id
 panjebarsemangat.co.id
 paparazzi-filth-exposed-celebs.blogspot.co.id
 parameswari.co.id
+partiicipatioonadmin.my.id
 pasarseluler.co.id
 pascasarjana.uniba-bpn.ac.id
 pauditgerbang.sch.id
@@ -833,7 +827,6 @@ rumahmakannusantara.biz.id
 rumahpengadaan.id
 rusyatamareload.web.id
 s3ilmupeternakan.pps.unud.ac.id
-s3indonesia.co.id
 s3managemen.pps.unud.ac.id
 sahabatqurancenter.or.id
 sahurbareng.my.id
@@ -866,7 +859,6 @@ sdnkeranggantangsel.sch.id
 sdnpakis5surabaya.sch.id
 sdnpudakpayung02semarang.sch.id
 sdnrambaykulon.sch.id
-sdnunurulquranbanyuwangi.sch.id
 securelogin.verifica.portaletitolari.poste.it.a7378449.multitrendindo.id
 securfb20.my.id
 securityupgrade.sumitro.my.id
@@ -918,7 +910,6 @@ smk1nglipar.sch.id
 smkfadris.sch.id
 smkkartika2sby.sch.id
 smkkartikalawang.sch.id
-smkn1bdl.sch.id
 smkn1lumut.sch.id
 smkn1muaraenim.sch.id
 smkn2ponorogo.sch.id
@@ -982,6 +973,7 @@ superherbal.id
 support.apple.com.br-my.id
 suryaselindo.co.id
 suryo1234store.belihosting.co.id
+swpofficial.co.id
 syahrayavectorpestcontrol.co.id
 ta-menengah.lab.gunadarma.ac.id
 talent.ismartv.id
@@ -1014,6 +1006,7 @@ tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
 tkjarea51.web.id
 tksurabaya2.id
+tlmi.co.id
 tlni.co.id
 tmlewin.id
 tokodirin.co.id
@@ -1087,6 +1080,7 @@ yoessycoid.masterweb.id
 yuliarachma.id
 yulynshop.co.id
 yumishop.id
+yunivandra.web.id
 zentronic.co.id
 zhacybernet.web.id
 zizicell.id

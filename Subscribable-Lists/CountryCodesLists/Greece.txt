@@ -16,6 +16,7 @@ ad.xe.gr
 ad2.linkwise.gr
 ad4mat.gr
 adbanner.gr
+adidasgr.gr
 adman.gr
 adman.in.gr
 adman.kathimerini.gr
@@ -37,7 +38,6 @@ adult-sex-story.blogspot.gr
 aerostato-balonia.gr
 aetos.it.teithe.gr
 aetozi.gr
-afandoublu.gr
 aftodioikitiko-kinima.gr
 aggelosdeluxe.gr
 agirosis.gr
@@ -73,7 +73,6 @@ arhodiko.gr
 aris-petroupolis.gr
 arpac-hellas.gr
 artalumin.gr
-asteriassa.gr
 asterix.gr
 autodreams.gr
 avrakougioumtzi.gr
@@ -107,7 +106,6 @@ call.theowl.gr
 camping.gr
 candleshop.gr
 car2rent.gr
-caravelstudio.gr
 casanatura.gr
 cayado.snn.gr
 cellworks.gr
@@ -138,14 +136,12 @@ desite.gr
 diabitiki-poria.gr
 dialexti.gr
 diasstudios.gr
-diathermiki.gr
 dikastro.gr
 dim-aigeir.ach.sch.gr
 dimitrakotoula.gr
 dimosvoiou.gr
 dinorossi.gr
 dlls-oit-0777147.gr
-dolce.com.gr
 domussofa.gr
 doubleshop.gr
 dovanko.gr
@@ -184,6 +180,7 @@ exohi-sarti.gr
 eye-laser.gr
 eystathiosluxuryapartments.gr
 ezigarettenkaufen1.pagina.gr
+farma-bafeiadi.gr
 fastfashion.gr
 feriki.oikodomus.gr
 flexografic.gr
@@ -296,7 +293,6 @@ mediadellarte.gr
 medialaw.gr
 meis.gr
 meletes.web.auth.gr
-menon.org.gr
 metaldamage.gr
 mikoniou.gr
 mindtheshoe.gr
@@ -356,7 +352,6 @@ plataniaspalace.gr
 platinumdeals.gr
 playboy.gr
 polikona.gr
-politikesgeuseis.gr
 pornofreedom.blogspot.gr
 pornographo.blogspot.de.blogspot.gr
 pornographo.blogspot.de.br.blogspot.gr
@@ -409,7 +404,6 @@ site.endodontist.gr
 skales-kritis.gr
 southdental.gr
 spaparne.gr
-specialblend.gr
 specialrentals.gr
 sportfishing.gr
 sportsarena.gr
@@ -430,7 +424,6 @@ tasiosgrigoris.gr
 tasosrepair.gr
 tavari.gr
 taverna-zisis.gr
-taxagent.gr
 taxi-dimos.gr
 technocom.gr
 technomould.gr

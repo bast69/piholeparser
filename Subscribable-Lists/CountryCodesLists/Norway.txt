@@ -1,7 +1,6 @@
 1001spill.no
 123spill.no
 800blomsten.no
-9m.no
 a.plapre.no
 aa.oasfile.aftenposten.no
 ad.aftenposten.no

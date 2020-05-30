@@ -62,7 +62,6 @@ creative.apn.co.nz
 creative.whi.co.nz
 cryptopia.co.nz
 ct.eid.co.nz
-cya.nz
 cyctrust.org.nz
 data.apn.co.nz
 data.webads.co.nz
@@ -169,7 +168,6 @@ pools.cryptopia.co.nz
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 prelive.cryptopia.co.nz
-primetech.nz
 propcare.co.nz
 propertyservicesqueenstown.co.nz
 proplast.co.nz
@@ -222,7 +220,6 @@ vitamincphotography.co.nz
 vps.activedevelopment.co.nz
 vsf.co.nz
 waimakexcavation.co.nz
-wealthcreationhomes.co.nz
 webads.co.nz
 windfarmdevelopments.co.nz
 womensshoesnz.co.nz
