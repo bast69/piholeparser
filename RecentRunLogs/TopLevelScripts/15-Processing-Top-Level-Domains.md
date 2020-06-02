@@ -18,11 +18,11 @@ ____________________________________
 ### Checking For Old TLD File.
 * Old TLD List Not Present.
 ### Merging Individual TLD Lists.
-16326 After Merging Individual TLD Lists.
+16329 After Merging Individual TLD Lists.
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-4607 After Formatting TLD List.
+4610 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1751 After Removing Duplicatates From TLD List.
 ____________________________________
