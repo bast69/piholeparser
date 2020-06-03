@@ -37,10 +37,12 @@ edu-src.msu.ac.th
 edu.tsu.ac.th
 educationthai.co.th
 enagic.co.th
+fdx.co.th
 framehouse.in.th
 gdap.crma.ac.th
 gloriajeanscoffees.co.th
 golden.pmk.ac.th
+graddip.rpu.ac.th
 greatwall.co.th
 hazel-azure.co.th
 hinsorn.ac.th
@@ -50,6 +52,7 @@ hrsoftware.in.th
 human.tru.ac.th
 hydro-tek.co.th
 hygienic.co.th
+industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
 ipphone.nstru.ac.th
@@ -84,6 +87,7 @@ mice.co.th
 mis.nbcc.ac.th
 mkho.moph.go.th
 mpmec.co.th
+mrcurtain.co.th
 mrs.ac.th
 mrtrecycling.co.th
 nfc-sukhothai.or.th
@@ -92,6 +96,7 @@ nirvana.co.th
 nkedu1.go.th
 nmp.ac.th
 nuffnang.co.th
+oaep.diw.go.th
 openlink.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
@@ -134,6 +139,7 @@ tepcian.utcc.ac.th
 thaisuperphone.atcreative.co.th
 thaivictory.co.th
 thaiyonei.co.th
+thapthan.ac.th
 thungchang.go.th
 tracker.stats.in.th
 tracker.truehits.in.th
@@ -148,6 +154,7 @@ tsnwires.co.th
 turner.co.th
 unilife.co.th
 vispac.co.th
+webkc.dede.go.th
 welltechgroup.co.th
 wmsjournal.wu.ac.th
 wnksupply.co.th

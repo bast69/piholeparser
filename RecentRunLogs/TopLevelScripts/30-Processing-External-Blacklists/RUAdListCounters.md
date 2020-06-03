@@ -14,3 +14,7 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+* RUAdListCounters List Was An Empty File After Download. Wed Jun  3 03:32:05 CEST 2020

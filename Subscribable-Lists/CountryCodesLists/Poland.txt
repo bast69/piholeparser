@@ -446,6 +446,7 @@ babie.pl
 badusound.pl
 badv.wp.pl
 badznaptak.pl
+bajer.info.pl
 bajkowedekoracje.pl
 baktria.pl
 banery.acr.pl
@@ -791,6 +792,7 @@ demo.website.pl
 denaros.pl
 denoncocoon.pl
 dent-lux.com.pl
+dentalline.pl
 deviltorrents.pl
 dfyhnddsalog.7m.pl
 dgc.coinmine.pl
@@ -873,6 +875,7 @@ downloaded.adeforsa.pl
 downloadfiles.pl
 downloaduj.pl
 dpcdn-s06.pl
+dpdpolska.pl
 dps-nysa.pl
 dpsdomnadziei.pl
 dpsjonkowo.pl
@@ -1286,6 +1289,7 @@ flash.studiomultimedia.pl
 flewer.pl
 flinsut.pl
 fmg.pl
+foliar.pl
 fon-gsm.pl
 food-safety.pl
 forkids.pl
@@ -1473,6 +1477,7 @@ gloryfactory.pl
 glosowanie.ujm.pl
 glx.coinmine.pl
 gminasiedlce.home.pl
+gminasiedlce.pl
 gmviagra.pl
 gngginininlook.7m.pl
 go.kbsolution.home.pl
@@ -1940,6 +1945,7 @@ intrack.pl
 intymna.pl
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
+invois.pl
 ionetporwanie.pl
 ipnt.pl
 iporwania-24.pl
@@ -1948,6 +1954,7 @@ iporwania.net.pl
 iporwania.pl
 iporwanie.pl
 iporwanie.waw.pl
+iposzukiwanialaury.pl
 ipowereliterubypalace.pl
 ipzd.pl
 iq-testuj.pl
@@ -2796,6 +2803,7 @@ okazjoteka.pl
 okiemkibica.pl
 okleinyvescom.pl
 okna-katowice.pl
+oknogrup.pl
 oknomat.com.pl
 okpbingocash.pl
 okpbingotime.pl
@@ -2987,6 +2995,7 @@ pinkstar.pl
 piotrprzewozy.pl
 piotruspan.com.pl
 pisanie-online.pl
+pisarz.internetdsl.pl
 pitbull-video.ujm.pl
 pitbull.ek1.pl
 pitbullwestcoast.pl
@@ -3033,6 +3042,7 @@ pobierzgo.pl
 pobierzpliki.pl
 pobierzse.pl
 pobraniowo.pl
+poczta.bydnet.com.pl
 poczta.savatrade.com.pl
 podkogucikiem.pl
 podroz-wedwoje.pl
@@ -3092,7 +3102,9 @@ poswieciekuchni.pl
 poszukiwananatalka.net.pl
 poszukiwananatalka.waw.pl
 poszukiwania24.com.pl
+poszukiwanialaury.com.pl
 poszukiwanialaury.net.pl
+poszukiwanialaury.pl
 powerplate.pl
 powerwebrubypalace.pl
 powiatpoznan.pl
@@ -3420,6 +3432,7 @@ ringieradrs.hit.gemius.pl
 ringierro.adocean.pl
 ringierrs.adocean.pl
 rlisowska.pl
+rneo.pl
 ro.adocean.pl
 ro.hit.gemius.pl
 ro1adro.hit.gemius.pl
@@ -3764,6 +3777,7 @@ sq2jk.pl
 src.coinmine.pl
 srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
+ssl-paybylink.pl
 ssl.bezpieczne-platnosci.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
@@ -3889,6 +3903,7 @@ tag.coinmine.pl
 tags.grajteraz.pl
 taichi.org.pl
 takapaka.pl
+tani-klucz.pl
 tanie-pranie.za.pl
 taniec.org.pl
 taniedlugopisy.com.pl
@@ -4075,6 +4090,7 @@ ugoldringskyvip.pl
 ugoldringvip.pl
 ugoldringweb.pl
 uio7.pl
+ukfis.pl
 ukpbingocash.pl
 ukpbingotime.pl
 ukpbonuscash.pl
@@ -4307,6 +4323,7 @@ wpkoszyk.wp.pl
 wpoplawski.pl
 wroclaw.paulini.pl
 wroclawski.com.pl
+wruka.pl
 wrutor.org.pl
 wrzucacz.pl
 wspolnie.com.pl
@@ -4691,6 +4708,7 @@ zastrzyk-gotowki.waw.pl
 zbierajnagrody.bo.pl
 zbigniewzaleski.pl
 zbmzory.pl
+zbyk.drl.pl
 zckupila.republika.pl
 zcl.coinmine.pl
 zclpool01.coinmine.pl
