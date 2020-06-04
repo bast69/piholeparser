@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RUAdListCounters List Unavailable To Download. Thu Jun  4 03:01:50 CEST 2020
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RUAdListCounters List Was An Empty File After Download. Wed Jun  3 03:32:05 CEST 2020
+* RUAdListCounters List Was An Empty File After Download. Thu Jun  4 03:01:56 CEST 2020
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RUAdListCounters List Was Killed By The Parsing Process. It will be skipped in the future. Thu Jun  4 03:01:58 CEST 2020

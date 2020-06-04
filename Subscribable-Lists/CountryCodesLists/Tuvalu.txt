@@ -961,7 +961,6 @@ stain.tv
 stat.bilibili.tv
 stat.vidcore.tv
 static.shoofle.tv
-stats.1internet.tv
 stats.justin.tv
 stats.sawlive.tv
 sterling.alphonso.tv
