@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RU-AdList List Unavailable To Download. Sat Jun  6 03:01:49 CEST 2020
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RU-AdList List Was An Empty File After Download. Fri Jun  5 03:22:17 CEST 2020
+* RU-AdList List Was An Empty File After Download. Sat Jun  6 03:01:53 CEST 2020
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RU-AdList List Was Killed By The Parsing Process. It will be skipped in the future. Sat Jun  6 03:01:55 CEST 2020

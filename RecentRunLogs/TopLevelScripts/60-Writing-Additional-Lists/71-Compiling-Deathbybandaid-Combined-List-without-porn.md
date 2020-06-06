@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 71-Compiling-Deathbybandaid-Combined-List-without-porn
-* All Parsed List (edited without porn) Removed. Fri Jun  5 03:37:13 CEST 2020
+* All Parsed List (edited without porn) Removed. Sat Jun  6 03:40:55 CEST 2020

@@ -90,7 +90,6 @@ famosas.ws
 faraononline.ws
 fatou.ws
 faulkner.ws
-films.ws
 firellia.ws
 fly2.ws
 freechatrooms.ws
@@ -167,7 +166,6 @@ mariola.ws
 markdll5.ws
 mdelectric.ws
 medcity.ws
-mediarich.ws
 mefa.ws
 miyama.ws
 molod5.ws
@@ -257,7 +255,6 @@ trybttr.ws
 tuominen.ws
 twoandhalfyear.ws
 udp96.ws
-ultrabit.ws
 vegas-vip-casino.ws
 vegasvipcasino.ws
 vemma.ws

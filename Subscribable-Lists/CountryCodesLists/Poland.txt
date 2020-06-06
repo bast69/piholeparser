@@ -2673,14 +2673,10 @@ netsprint.hit.gemius.pl
 neurokampus.pl
 nevident.pl
 new-art.pl
-new-rutor.com.pl
-new-rutor.net.pl
-new-rutor.org.pl
 new.smartcontext.pl
 newhealthcarepill.pl
 newmedscialis.pl
 newpillmed.pl
-newrutor.org.pl
 newsgeek.pl
 newsgwalt.net.pl
 newsgwalt.pl
@@ -3468,7 +3464,6 @@ rubygrandmycash.pl
 rubypalaceelitnet.pl
 rubypalacenight.pl
 run-faster.pl
-rutor.biz.pl
 rutor.edu.pl
 rutor.net.pl
 rutracker.org.pl
@@ -3992,7 +3987,6 @@ toplista.xonx.pl
 topseans.pl
 topsecrets.com.pl
 torontotab.pl
-torrent-rutor.pl
 torrenty--org.pl
 torrenty-org.pl
 tpack.com.pl
@@ -4324,7 +4318,6 @@ wpoplawski.pl
 wroclaw.paulini.pl
 wroclawski.com.pl
 wruka.pl
-wrutor.org.pl
 wrzucacz.pl
 wspolnie.com.pl
 wszendobylscy.pl

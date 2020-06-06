@@ -2,7 +2,7 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Compiling Combined List Fri Jun  5 03:32:54 CEST 2020
-Process Took 3 Minutes.
+## Compiling Combined List Sat Jun  6 03:36:21 CEST 2020
+Process Took 4 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist/60-Compiling-Combined-List.md)
 

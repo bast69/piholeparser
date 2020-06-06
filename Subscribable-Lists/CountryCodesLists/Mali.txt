@@ -1022,7 +1022,6 @@ rohithreguri.ml
 rolexkings.ml
 rusiapromo2018.ml
 rusoolw.ml
-rutor.ml
 s3.gasolina.ml
 sakixx.ml
 saldao-de-ofertas.ml
