@@ -2,15 +2,15 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Compiling Deathbybandaid Combined List Sun Jun 21 03:32:57 CEST 2020
-Process Took 25 Seconds.
+## Compiling Deathbybandaid Combined List Mon Jun 22 03:43:28 CEST 2020
+Process Took 21 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists/70-Compiling-Deathbybandaid-Combined-List.md)
 
-## Compiling Deathbybandaid Combined List without porn Sun Jun 21 03:33:22 CEST 2020
+## Compiling Deathbybandaid Combined List without porn Mon Jun 22 03:43:49 CEST 2020
 Process Took 1 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists/71-Compiling-Deathbybandaid-Combined-List-without-porn.md)
 
-## Compiling Country Code Lists Sun Jun 21 03:34:28 CEST 2020
-Process Took 18 Minutes.
+## Compiling Country Code Lists Mon Jun 22 03:45:09 CEST 2020
+Process Took 14 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists/75-Compiling-Country-Code-Lists.md)
 
