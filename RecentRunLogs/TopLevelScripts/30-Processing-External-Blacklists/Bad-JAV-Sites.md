@@ -14,3 +14,7 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+* Bad-JAV-Sites List Was An Empty File After Download. Fri Jul 24 03:05:49 CEST 2020
