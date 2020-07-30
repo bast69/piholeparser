@@ -11,18 +11,18 @@ List Took 6 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 
 ## TLD-List
-List Took 7 Seconds.
+List Took 6 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
 ### Checking For Old TLD File.
 * Old TLD List Not Present.
 ### Merging Individual TLD Lists.
-16381 After Merging Individual TLD Lists.
+16377 After Merging Individual TLD Lists.
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-4606 After Formatting TLD List.
+4604 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1752 After Removing Duplicatates From TLD List.
 ____________________________________
