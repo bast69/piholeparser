@@ -1,46 +1,46 @@
-## Creating Main Recent Run Log. Wed Aug 12 03:00:04 CEST 2020
+## Creating Main Recent Run Log. Thu Aug 13 03:00:03 CEST 2020
 * Recent Run Log Recreated.
-##    Checking For Dependencies Wed Aug 12 03:00:17 CEST 2020
+##    Checking For Dependencies Thu Aug 13 03:00:16 CEST 2020
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/05-Checking-For-Dependencies.md)
 
-##    Running Initial Tasks Wed Aug 12 03:00:19 CEST 2020
+##    Running Initial Tasks Thu Aug 13 03:00:18 CEST 2020
 Process Took 37 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 
-##    Processing Top Level Domains Wed Aug 12 03:00:56 CEST 2020
-Process Took 24 Seconds.
+##    Processing Top Level Domains Thu Aug 13 03:00:55 CEST 2020
+Process Took 23 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 
-##    Processing Internal Whitelists Wed Aug 12 03:01:20 CEST 2020
+##    Processing Internal Whitelists Thu Aug 13 03:01:18 CEST 2020
 Process Took 18 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/25-Processing-Internal-Whitelists.md)
 
-##    Processing External Whitelists Wed Aug 12 03:01:38 CEST 2020
+##    Processing External Whitelists Thu Aug 13 03:01:36 CEST 2020
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/26-Processing-External-Whitelists.md)
 
-##    Processing Internal Blacklists Wed Aug 12 03:01:39 CEST 2020
+##    Processing Internal Blacklists Thu Aug 13 03:01:37 CEST 2020
 Process Took 3 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/29-Processing-Internal-Blacklists.md)
 
-##    Processing External Blacklists Wed Aug 12 03:01:42 CEST 2020
-Process Took 27 Minutes.
+##    Processing External Blacklists Thu Aug 13 03:01:40 CEST 2020
+Process Took 36 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 
-##    Compiling Combined Blacklist Wed Aug 12 03:29:02 CEST 2020
+##    Compiling Combined Blacklist Thu Aug 13 03:38:20 CEST 2020
 Process Took 4 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
 
-##    Compiling Combined Whitelist Wed Aug 12 03:33:02 CEST 2020
+##    Compiling Combined Whitelist Thu Aug 13 03:42:32 CEST 2020
 Process Took 3 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
 
-##    Writing Additional Lists Wed Aug 12 03:33:05 CEST 2020
+##    Writing Additional Lists Thu Aug 13 03:42:35 CEST 2020
 Process Took 16 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
 
-##    Completing End Tasks Wed Aug 12 03:49:07 CEST 2020
+##    Completing End Tasks Thu Aug 13 03:58:40 CEST 2020
 Process Took 43 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
