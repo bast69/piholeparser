@@ -242,6 +242,7 @@ analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
+analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -404,6 +405,7 @@ bridportnews-gb.bridportnews.co.uk
 bright.bncnt.com
 bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 browser-updater.yandex.net
+browser.sentry-cdn.com
 bs.yandex.ru
 bt.mediaimpact.de
 btn.clickability.com
@@ -491,6 +493,7 @@ clicks.dealer.com
 clicks.hurriyet.com.tr
 clicks.traffictrader.net
 clicktale.pantherssl.com
+clicktime.symantec.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv

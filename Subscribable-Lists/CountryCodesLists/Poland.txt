@@ -85,6 +85,7 @@ ad.gra.pl
 ad.groupon.pl
 ad.hit.gemius.pl
 ad.hosting.pl
+ad.myapple.pl
 ad.polskiprzemysl.com.pl
 ad.prv.pl
 ad.redkorn.pl

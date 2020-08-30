@@ -261,6 +261,7 @@ analytics.soup.io
 analytics.tiltingpoint.io
 analytics.uax.io
 analytics.urx.io
+analytics.video.meredithcorp.io
 analytics.webgains.io
 anchr.io
 angular-exrste.stackblitz.io
