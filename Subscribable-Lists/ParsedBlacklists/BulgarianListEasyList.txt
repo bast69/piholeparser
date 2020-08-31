@@ -1456,6 +1456,7 @@ mms.silive.com
 mms.splinternews.com
 mms.syracuse.com
 mms.theroot.com
+mms.wwe.com
 mo.moonpig.com
 mormont.gamer-network.net
 mqs.ioam.de
