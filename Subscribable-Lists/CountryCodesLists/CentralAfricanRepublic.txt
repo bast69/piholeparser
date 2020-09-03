@@ -89,7 +89,6 @@ acesso-bb-online.cf
 acme-challenge.cf
 acontdisabeldsacme0011.cf
 acontdisabeldsacme0012.cf
-acontsystem-suportacme.cf
 acount-disabled-page.cf
 acount-page-dlsabled.cf
 admintadministre.cf
@@ -117,6 +116,7 @@ amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom004.cf
 amazon.co.jp.uolthfjdfyheruekrtghdfhewkfgndfghsdfhshfh.cf
 amazon.co.jp.update-now.cf
 amazon.com.on.accountpreferredpayment.nz-clasic.cf
+amazon.com.preferredmethod.nz-c0bk.cf
 amazon.de.openid315561.unetutma.cf
 amazon.de.signin.verification.openid.5935156.viekofinews.cf
 amazon.ej195g.cf
@@ -140,10 +140,10 @@ aoedefinate.cf
 aoiboias.cf
 aol1ertyj756k8uiymnrte546j57utdnyftrsjkdutyte.aol3m6.cf
 aosj.conoakosi.cf
+aplicativobron.cf
 app.lojasamericanasonline.cf
 appinvest-club.cf
 appitaucard.cf
-apple-id.com-manage.account-access.support-token-new.407339954babda0c.cf
 apple-securestore.cf
 apple-usa.cf
 applechoiceses.cf
@@ -293,6 +293,7 @@ chase-security-6765451.cf
 chase.file23953.cf
 chasefindal.cf
 chat-groupwhatsapp.grups-cht.cf
+chat-grupwhatsapp8.dnvnt.cf
 chat-watsaap-18.jooiinn.cf
 chat-whatsaap33.cf
 chat-whatsapp-free-fire.bundle66.cf
@@ -322,7 +323,6 @@ checkyourpages.cf
 cheeksfanpage1222.plischeksfansspage.cf
 chelatefor.cf
 chelsoto.cf
-chenmo.cf
 chinaexport-ltd.cf
 ciastepselturnzetscu.cf
 cibcon.cf
@@ -348,6 +348,7 @@ coinpirate.cf
 colbaservices.cf
 comcore.cf
 cometomeallhethatlabo.cf
+commentaentufotos.cf
 compdevid.cf
 configurpaqes098734.cf
 confirm-csupportin.cf
@@ -373,9 +374,7 @@ courtrightx.cf
 cousk.cf
 cpcalendars.join-chatwhatsapp0547514824.wa-bkp99.cf
 cpcontacts.join-chatwhatsapp0547514824.wa-bkp99.cf
-cpcontacts.serviceupgrade.cf
 cpcontacts.whatsapp-group-ind0.hostjaya-free.cf
-createanewdecksa-login.cf
 credentrawsheq.cf
 credinow.cf
 creditc.cf
@@ -463,6 +462,7 @@ enview-subscriptionitunesordernr9910237.cf
 eoce.cf
 eocie.cf
 epicnetwork.cf
+error-09m39lq.cf
 error-0m3ls.cf
 errorcode-1504.cf
 errorcode-1906.cf
@@ -474,8 +474,8 @@ etcj.cf
 euromouldings.cf
 eusnex.cf
 ev0lve.cf
+event63.cf
 ewfplkgb.cf
-ewoaktu-71.cf
 ex2life.cf
 expeditiongroup.cf
 explorer.crypto9coin.cf
@@ -556,6 +556,7 @@ gmail.com89162589125.cf
 go.megabanners.cf
 go.supportline.cf
 goldstrength.cf
+gooaoala.cf
 gooldog.cf
 grand-avenue.cf
 grati.cf
@@ -644,7 +645,6 @@ hotelresnikz.cf
 howfet-71.cf
 hujii.qplanner.cf
 humge.cf
-huopty.cf
 hurdfloorinmi.cf
 ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 iccornacircri.cf
@@ -695,6 +695,7 @@ instagramveriifybadge.cf
 instagramwebsecurity.cf
 internetnc2-itau.cf
 inv-paterehab.cf
+inv-seniorcarecentersltc-auth-page.cf
 inv-swltc.cf
 invitechat18.cf
 iotiot.cf
@@ -742,7 +743,6 @@ joingroupwa.chatxx-18.cf
 joingrubanaksma18plusviral.login-wa18.cf
 joingrubwhatsapp-18plus.claims-71.cf
 joingrubwhatsappnew.sosmed-90.cf
-joingrup.b88kp.event63.cf
 joingrup18.laen.cf
 joingrup18plusnew.myl8.cf
 joingrupbkp-2020.log-now7.cf
@@ -826,6 +826,7 @@ lnstagram-feedback.cf
 lnstagram-groups.cf
 lnstagram-help-contact.cf
 lnstagram-help-support.cf
+lnstagram-helpweb.cf
 lnstagram-livesupport.cf
 lnstagram-livesupports.cf
 lnstagram-team-support.cf
@@ -848,7 +849,6 @@ login-fb47.cf
 login-rakuten.cf
 login-sec-apple-secure-account-updated.cf
 login.blockchain.com1902736283.cf
-login.gmail.com18975215.cf
 login.gmail.com18975812.cf
 login.microsofteonline.cf
 login.oregonstate.edu.nlll.cf
@@ -939,7 +939,6 @@ mulla.cf
 multitraction.cf
 munnabhai.cf
 murky-embarrassed.cf
-musicloverlys.cf
 mview-jp-chastoreitemwebh-webath-003948102037.cf
 mview-jp-chastoreitemwebh-webath-003948102038.cf
 my.account.instagram.com.198663092739365.cf
@@ -956,6 +955,7 @@ napau.cf
 ncsn.cf
 nemelg.cf
 nepossupport.cf
+netflix-br.cf
 netflixautopay.cf
 netsosifi.cf
 networkrx-shop365.cf
@@ -974,6 +974,7 @@ njwb.cf
 noda-8879.cf
 nomerounddec.cf
 nomnyz.cf
+nonchothetohear.cf
 notftrak.cf
 noticeaccounts.cf
 notificationaccountpages.cf
@@ -994,6 +995,7 @@ ofertaamericanas-j7.cf
 oglody.cf
 oiortipori.cf
 ojmyxee.cf
+olares.cf
 olivercorron.cf
 ollxear.cf
 olsiyll.cf
@@ -1017,7 +1019,6 @@ onlinerxsolutions724.cf
 onlinesupportwells2020.cf
 oooxxx.cf
 oraclesvms.cf
-overcacked.cf
 ovqc.cf
 owa.exchangevoice.cf
 owa.exchangevoiceaccess.cf
@@ -1042,8 +1043,10 @@ paude-daude.cf
 payanoix.cf
 payments.xn--gogle-jye.cf
 paypal-account-verify.cf
+paypal-id-sign-in-customer-center-locale-q-en.cf
 paypal-id-signin-customer-center-customer-locale-g-en.cf
 paypal-misecure09.cf
+paypal-recovery.secure2-signin.cf
 paypal-reseter.cf
 paypal-security-service.cf
 paypal-security-session.cf
@@ -1068,6 +1071,7 @@ paypal.id.signin-customer-center-customer-locale-us-en.cf
 paypal.id.signin-customer.center.customer.locale.d-en.cf
 paypal.sicherungsserver-id-133660.cf
 paypalverified.cf
+paypalx-gh.cf
 pbgbpia.cf
 pcgiujk.cf
 pcmehanics.cf
@@ -1150,10 +1154,10 @@ rd.rakuten.co.jp.sadasdadwqdqdsadd.cf
 reactivation.cf
 realdmnalltoaccss.cf
 realestate-page-7854000004376323468.cf
+realestate-page-9999000004376322343.cf
 realestate-page-id-14576323.cf
 recipesexciting.cf
 recoverpages-adsfb.cf
-recovery-yourspages306.cf
 recoverysupport-confrimis91.cf
 recoveryunispot6.cf
 recytechs.cf
@@ -1163,6 +1167,7 @@ registerelogiin.cf
 registerer2.f4npage-confr1m.cf
 rekovery004.fanpage0001.cf
 remote1.cf
+renegodd.cf
 report-cherry.cf
 resellerspanel.cf
 restart-recovery.cf
@@ -1193,6 +1198,7 @@ s1mplify.cf
 sabinamalls.cf
 sac-atendimento.cf
 safe-pages-recovery.cf
+saftyacont-adm098767.cf
 saftyalerts-systemsoperions00.cf
 saftyalerts-systemsopertions01.cf
 samething.cf
@@ -1223,6 +1229,7 @@ service-helpinstagram.cf
 service-paypal.limit-resolvecenter.cf
 service-verified.cf
 services-acc0unt.cf
+serviceupgrade.cf
 sesurity.cf
 sethichans.cf
 sethisongs.cf
@@ -1257,6 +1264,7 @@ smartdocuments.cf
 snukerison.cf
 so-netell-so.cf
 somaplast.cf
+sonicradius.cf
 sosichlenblyad.cf
 specializeds.cf
 speedwayqatar.cf
@@ -1294,6 +1302,7 @@ suport-fanpage1211.suport-acount-confrim12.cf
 suportswork.cf
 support-account123.cf
 support-fbmnas.uniposupport.cf
+support-token-new.407339954babda0c.cf
 support.instagram.com.id-198663092739365.cf
 supportaccounts.cf
 supporte32-here.fanpagge-confrim.cf
@@ -1339,6 +1348,7 @@ thehangpower.cf
 theysay-71.cf
 thiiiioo.cf
 tinticocoby.cf
+tintuccovidmoinhat.cf
 tonnacticus.cf
 topquality.cf
 topuogodo.cf
@@ -1386,7 +1396,6 @@ usaa-documents.cf
 usacarinsur.cf
 usersecurity-de.cf
 ussearche.cf
-utopianseshore.cf
 uvzoou.cf
 uzxgegt.cf
 validarmilhasapp.cf
@@ -1405,6 +1414,7 @@ veromcashopping.cf
 viacolors.cf
 vidious5.cf
 vidxnxxpro.cf
+viestatnorfali.cf
 vietjetair.cf
 vinastardiamonds.cf
 violationpage2017.cf
@@ -1582,6 +1592,7 @@ xfbolv.cf
 xis-six.cf
 xjock4evej.cf
 xlmmsdt.cf
+xnaif.cf
 xvgbtoplm.cf
 xwatsappxx.event-new908.cf
 xwatsapxxx.gratis8.cf

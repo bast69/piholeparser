@@ -242,7 +242,6 @@ infirmaryfoundation.sg
 infomedguide.sg
 inmedclinic.sg
 innovativemedicalclinic.sg
-intelligence.com.sg
 intercfood.sg
 interlab.com.sg
 intermedhospital.sg
@@ -282,6 +281,7 @@ medspecialist.sg
 medvisiondoctor.sg
 medwaydoc.sg
 mezzointeriors.com.sg
+mindyourliver.com.sg
 mlm.com.sg
 mmmsnne.englam.com.sg
 mobilefashion.sg
