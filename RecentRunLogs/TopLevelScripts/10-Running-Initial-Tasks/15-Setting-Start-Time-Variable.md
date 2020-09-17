@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
 # 
-* Start Time Set To Wed Sep 16 03:00:24 CEST 2020
+* Start Time Set To Thu Sep 17 03:00:23 CEST 2020
