@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 60-Compiling-Combined-List
-* All Parsed List Removed. Sun Sep 27 03:47:08 CEST 2020
+* All Parsed List Removed. Mon Sep 28 03:35:54 CEST 2020
