@@ -292,7 +292,6 @@ bytrrjo.cf
 bzetniu.cf
 c6.e.paypal.com.loginap8.cf
 caixa.aplicativobron.cf
-caixa.atualizacaocadastro.cf
 caixa.webwhatsappatendimento.cf
 caixafgts.cf
 californianews.cf
@@ -389,6 +388,7 @@ confrimrecovery0012.cf
 confrimrecovery12.cf
 coolmed.cf
 coonfrim21.regist3r2.cf
+copyrightcentralconfirmed.cf
 copyrights-objection-instagram.cf
 coroqueenv.cf
 costing.cf
@@ -578,6 +578,7 @@ gasurgabusiness.cf
 geikbbh.cf
 geos1.cf
 getsnapleaksnow.cf
+getsx.cf
 ghadtanter.cf
 ghfgkhg.cf
 ghthf.cf
@@ -708,6 +709,7 @@ info-facebookservices.cf
 infocenter-authmob-i764934.cf
 informasicreditcard.cf
 iniandakenablokir.freefire9999.cf
+inreconfrimpagesrecoverys.cf
 insafe-pages-recoverys22.cf
 instagraamm.cf
 instagram-copyright-centers.cf
@@ -858,6 +860,7 @@ kvstream.cf
 lalalukc-71.cf
 lamilton.cf
 lanpchaldaibans.cf
+laporan-pemblokiran.cf
 lavaflow.cf
 laydomain.cf
 lazllht.cf
