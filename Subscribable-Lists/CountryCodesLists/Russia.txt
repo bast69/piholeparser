@@ -84,6 +84,7 @@
 1l-hit.mail.ru
 1l-view.mail.ru
 1l3fz.koboreochita.ru
+1m1s8.ru
 1m9.ru
 1minecraft8.ru
 1miras.ru
@@ -422,9 +423,6 @@ a0466443.xsph.ru
 a0467318.xsph.ru
 a0468410.xsph.ru
 a0469054.xsph.ru
-a0472502.xsph.ru
-a0472710.xsph.ru
-a0472826.xsph.ru
 a0anderson.ru
 a0andervud.ru
 a0armstrong.ru
@@ -476,7 +474,6 @@ abagaelsuzy.ru
 abagailcleopatra.ru
 abc.spb.ru
 abccompstore.ru
-abdzwuazduroowdufa.ru
 aberi.ru
 abgr.ru
 abhazauto.ru
@@ -484,6 +481,7 @@ abido.ru
 abiente.ru
 abitwindoc.ru
 ablades.ru
+abnbrooms2.temp.swtest.ru
 abnbroomsa.temp.swtest.ru
 abogadosmadrid.ru
 aboutconvert.ru
@@ -835,6 +833,7 @@ airbnbcouk.temp.swtest.ru
 airbnbroom.temp.swtest.ru
 airbug.ru
 airgunsofarizona.ru
+airnbrooms.temp.swtest.ru
 airtourone.ru
 aist.bstu.ru
 ajl.myjino.ru
@@ -1157,13 +1156,17 @@ apple-antigravity.ru
 apple-srvc-center.ru
 apple-store.com.ru
 apple-upsale.ru
+apple.com-bl.ru
 apple.com-ee.ru
 apple.com-jq.ru
 apple.com-mapinfo.ru
 apple.com-nb.ru
+apple.com-oe.ru
 apple.com-su.ru
+apple.com-vj.ru
 apple.com-xj.ru
 apple.com.br-id.ru
+apple.com.id-us.ru
 apple.com.jp.tpm-zzzzz.ru
 apple.com.locationinfo.ru
 appleid.locationinfo.ru
@@ -1215,13 +1218,13 @@ argentum72.ru
 argo-visa.ru
 arhlit.ru
 arhpro.ru
+aridathajoela.ru
 arielarosaline.ru
 arikado.ru
 arizst.ru
 arjusevengsofhar.ru
 arkartex.ru
 arleen-cura.myjino.ru
-arlinevyky.ru
 arlueneconstancia.ru
 arlynealana.ru
 arm-med.ru
@@ -1333,6 +1336,7 @@ atlasvkusov.ru
 atlon-mebel.ru
 atmagroup.ru
 atmape.ru
+atmosfera-uyta.ru
 atmtest.ezar.ru
 atomferma.ru
 atomictrivia.ru
@@ -1413,9 +1417,12 @@ avito-reserv.ru
 avito.delivery-orders.ru
 avito.forma-pay.ru
 avito.oplatapay24.ru
+avito.re-paymentsms.ru
 avitocars.ru
+avitocome.ru
 avitofest.ru
 avitonice.ru
+avitotip.ru
 avkogym.exceeddating.ru
 avocatenfloride.com.ru
 avon-novosib.ru
@@ -1627,6 +1634,7 @@ baserecords.ru
 bashkranmarket.ru
 bashstat.ru
 bashtime.ru
+basiaverine.ru
 basis12.ru
 basterr.popunder.ru
 batallon.ru
@@ -1994,6 +2002,7 @@ bolotovembrouz.ru
 bolshoy-kush.ru
 boltinroland.ru
 boltushkiclub.ru
+bombi-yarn.ru
 bonam.ru
 bondarenkopjatk.ru
 bonitanoel.ru
@@ -2042,6 +2051,7 @@ boxberry-safepayment.ru
 boxberry-to.ru
 boxberry-webpage.ru
 boxberry.or-pay.ru
+boxberry.order-safety.ru
 boxberry.os-pay.ru
 boxberry.pay-moment.ru
 boxberry.payments-24.ru
@@ -2603,7 +2613,6 @@ changel.ru
 changer-online.ru
 charlenegisella.ru
 charlzdevid.ru
-charmioncathe.ru
 charmnow.ru
 chase-0nline.myjino.ru
 chase-saveup.myjino.ru
@@ -2744,6 +2753,7 @@ classdvdfilm.ru
 classicakuhni.ru
 classiquebijoux.ru
 classserial.ru
+claudiaholly.ru
 clck.ru
 clck.webteaser.ru
 clck.yandex.ru
@@ -2836,14 +2846,19 @@ collector.stats.socialquantum.ru
 colombiavozwnet.ru
 com-1c.ru
 com-as.ru
+com-d8.ru
 com-en.ru
 com-er.ru
+com-fw.ru
 com-gf.ru
 com-int-help.ru
+com-j6.ru
+com-nh.ru
 com-uk.ru
 com-un.ru
 com-zx.ru
 com.adv.vz.ru
+com.all-droids.ru
 com.bvn6.ru
 com.cm6j.ru
 com.gc75.ru
@@ -2931,6 +2946,7 @@ corrmedic.ru
 cortneywilmette.ru
 corvaro.com.ru
 cosmetic.donna7753191.ru
+costumersm.temp.swtest.ru
 cottadje.ru
 cottages-ksk.ru
 coumelista.temp.swtest.ru
@@ -3176,6 +3192,8 @@ darangi.ru
 darceylily.ru
 darceyshay.ru
 darcieninnette.ru
+darellsimonegui.ru
+dark-samurai.ru
 darkloader.ru
 darseo.popunder.ru
 darseykoral.ru
@@ -3572,6 +3590,7 @@ dooley.ru
 doorius.ru
 dopconverion.ru
 dopwork.ru
+dorellejacki.ru
 doretteheather.ru
 doriaaurea.ru
 dorianariadne.ru
@@ -3702,6 +3721,7 @@ dverimegapolis.ru
 dverizamki-t34.ru
 dvervmoskvu.ru
 dvk-stroi.ru
+dvla-electronic-vehicle-licensing-gov-uk.ru
 dvs-sura.ru
 dwbgdywefi.myjino.ru
 dxmhkisurxxxhm.ru
@@ -3884,7 +3904,6 @@ elkablog.ru
 elkacentr.ru
 ella.2miners.ru
 ella.clona.ru
-ellensidonia.ru
 elliotgilbert.ru
 elliottobi.ru
 ellisondzhonatan.ru
@@ -3930,6 +3949,7 @@ energy63.ru
 energyblue.ru
 energydiet-info.ru
 energydiet24.ru
+energytorg.ru
 enexp.ru
 engine.adland.ru
 engine.aviasales.ru
@@ -3957,6 +3977,7 @@ enter-unicredit.ru
 enterprise-ireland.ru
 entoblo.viploadmarket.ru
 enugu042.ru
+enuyguned.ru
 env-9019617.jelastic.regruhosting.ru
 eos.clona.ru
 eoufaoeuhoauengi.ru
@@ -4240,6 +4261,7 @@ f0447266.xsph.ru
 f0450919.xsph.ru
 f0452912.xsph.ru
 f0456031.xsph.ru
+f0458376.xsph.ru
 f0459345.xsph.ru
 f0460053.xsph.ru
 f0460140.xsph.ru
@@ -4247,14 +4269,10 @@ f0460516.xsph.ru
 f0464767.xsph.ru
 f0467275.xsph.ru
 f0468418.xsph.ru
-f0468793.xsph.ru
 f0470457.xsph.ru
-f0470641.xsph.ru
 f0470935.xsph.ru
 f0472382.xsph.ru
-f0472383.xsph.ru
 f0472454.xsph.ru
-f0472499.xsph.ru
 f4.cvpntr.eh.r.uk.a2ip.ru
 f66989b0.bget.ru
 f7p.ru
@@ -4278,6 +4296,7 @@ family-gifts.ru
 familytex.ru
 fanclubmania.ru
 fanechkajannel.ru
+fanera18.ru
 fangle.ru
 fangmedic.ru
 fanie.ru
@@ -4339,6 +4358,7 @@ fb7927.bget.ru
 fbrent.ru
 fbs33.ru
 fc46.ru
+fcbbvikle.ru
 fd1am1qglvwl.ru
 fdgh4gh345.ru
 fdghdf344.ru
@@ -4361,6 +4381,7 @@ feeriaclub.ru
 fegexcdivmjivsobmdatpbjvmnon.ru
 feliciaardelle.ru
 felicitydelia.ru
+felixtray.ru
 felpsgarri.ru
 femdomina.ru
 femidaneo.ru
@@ -4388,6 +4409,7 @@ ffv322.ru
 ffv32223.ru
 fgh2df.ru
 fgngvp.kk.sopqa.arg.r.uk.a2ip.ru
+fi-hi.ru
 fialka.tomsk.ru
 fibafogi.ru
 fierrohack.ru
@@ -4500,6 +4522,7 @@ flipsphere.ru
 fljgsht.ru
 flletcherdzhordzh.ru
 floksi.ru
+floriaroanna.ru
 florideerdre.ru
 floryrosmunda.ru
 flossiedenice.ru
@@ -4613,6 +4636,7 @@ foxtie.ru
 fpclub.ru
 fpieco.ru
 fpumps.myjino.ru
+fqnesas.ru
 fractal-e.ru
 franchise-atom.ru
 francisco-ayala.myjino.ru
@@ -4621,7 +4645,6 @@ frank74148tmweb.ru
 franklindzhek.ru
 franklinklement.ru
 frankofficial.ru
-franmeghann.ru
 frannievalaree.ru
 frauplus.ru
 fraydamaryellen.ru
@@ -5230,6 +5253,7 @@ hallielilla.ru
 halloway.ru
 halope.ru
 hamsamauri.temp.swtest.ru
+hamwanworg.ru
 hanashikoto.ru
 handlepass.ru
 hangcha-rf.ru
@@ -5336,7 +5360,6 @@ hemptondevid.ru
 hemptonmetyu.ru
 hendersonkemron.ru
 hendersonmartemyan.ru
-hendrikafaith.ru
 henfetanug.ru
 henkokdonald.ru
 henkokpol.ru
@@ -6069,6 +6092,7 @@ j872867.myjino.ru
 j907476.myjino.ru
 jabu.popunder.ru
 jackquelinebrandais.ru
+jaclinleonanie.ru
 jacob228.tmweb.ru
 jacoblanderville.myjino.ru
 jacquelincaitlin.ru
@@ -6144,7 +6168,6 @@ jocey.ru
 joch.ru
 joditoinette.ru
 jods.ru
-joelladita.ru
 joellleonekara.ru
 jogged.ru
 johnterromet.ru
@@ -6162,6 +6185,7 @@ jordinoalebri4.myjino.ru
 jorjfix.ru
 joscelinphaedra.ru
 josefinalinn.ru
+josefsprott.myjino.ru
 joshdu2016.myjino.ru
 joshdur89.myjino.ru
 jougmehad.ru
@@ -6221,6 +6245,7 @@ jyskemedierwdk.ru
 k.datamind.ru
 k915501b.bget.ru
 k920134.myjino.ru
+k9o6t.ru
 kaac.ru
 kabele.ru
 kabeltorg.ru
@@ -6260,6 +6285,7 @@ kabinet-ttk.ru
 kabinet-vtb24.ru
 kabiru.ru
 kabv10ezn.ru
+kacieanjanette.ru
 kadastr89.ru
 kadiyles.ru
 kafe-kapitol.ru
@@ -6269,7 +6295,6 @@ kafemayachok.ru
 kafka1.datamind.ru
 kahntuning.ru
 kahtanka.ru
-kaitlynnshaun.ru
 kaj4wujg6cp9d243.ru
 kakawevich.temp.swtest.ru
 kakcdelat.ru
@@ -6313,6 +6338,7 @@ kareliyarsp.ru
 karen-castillo18.myjino.ru
 karitaemmidasie.ru
 karkac-dom.ru
+karkas-home52.ru
 karkasgroup.ru
 karliny9.bget.ru
 karmakorm.ru
@@ -6756,6 +6782,7 @@ lapshinka.admkotovo.ru
 laqypxez.ru
 laravelhosting.ru
 largeprovider.ru
+larivieradelgus.ru
 larutti.ru
 lasandrame.temp.swtest.ru
 lascala-cafe.ru
@@ -6905,7 +6932,9 @@ like-b.ru
 like-site.ru
 likeshare.hop.ru
 likevsem.hop.ru
+lilagisella.ru
 liliasmyrtice.ru
+lilija-market.ru
 lilliskanyaamie.ru
 lilllierebbecca.ru
 lilyregina.ru
@@ -6944,6 +6973,7 @@ lipribhoz.ru
 liralainey.ru
 lirunet.ru
 lisetskaya.ru
+lishedelcine.ru
 lisiczynpiter.ru
 lisovfoxcom.418.com1.ru
 list.ru
@@ -6980,7 +7010,6 @@ lmetallurg.ru
 ln-s.ru
 lng.nl.verificatie.ru
 lngverificatie.ru
-lnstagram.com.statyi.comment-12.redir.post1090400.ru
 lnstagram.pp.ru
 lo-ve-casino.ru
 loader.topadvert.ru
@@ -7115,6 +7144,7 @@ luwuxive.ru
 lux.rootmedia.ru
 luxard.ru
 luxdeliveryclub.ru
+luxe-limo.ru
 luxe-watches.ru
 luxflavours.ru
 luxserviceday.ru
@@ -7265,6 +7295,7 @@ many-projects.ru
 manydates.ru
 map.bitcoin-russia.ru
 map2.adsniper.ru
+mapcart.ru
 mapsimplystore.ru
 marabelmarysa.ru
 mararoom.ru
@@ -7319,6 +7350,7 @@ mastersalestore.ru
 masterstartnow.ru
 mastertarget.ru
 mastertutor.ru
+matasov-art.ru
 matchid.adfox.yandex.ru
 material.robohome.ru
 materlux.ru
@@ -7353,7 +7385,6 @@ mb.vesti.ru
 mb140.ru
 mb3.iwakalong.ru
 mballet.ru
-mbc-travel.ru
 mbe.ru
 mbiologi.ru
 mbordyugovskiy.ru
@@ -7536,7 +7567,6 @@ miant.ru
 miarun.ru
 miasalsa.ru
 michalelizabeth.ru
-michellalameda.ru
 mickpomortsev.ru
 micozup.ru
 micro-a.ru
@@ -7681,7 +7711,6 @@ mompelie.ru
 momsinhawaii.ru
 momsitabag.temp.swtest.ru
 mona-vi.ru
-monahsydney.ru
 monbri.ru
 mondaydrem.ru
 mondeoeffect.rambler.ru
@@ -7852,8 +7881,8 @@ mx.aj7a.ru
 mx.c3ul.ru
 mx.cm6j.ru
 mx.gov.co.uk.2ecx.ru
+mx.lwfvy.ru
 mx.o4kil.ru
-mx.qfu8q.ru
 mx.qizx.ru
 mx.yandex.ru
 mx1.absum.ru
@@ -7921,7 +7950,6 @@ myphentermine.polybuild.ru
 mypillmall.ru
 mypons.cm53756.tmweb.ru
 myragon.ru
-myriampenni.ru
 myrx.ru
 mysafepurchase.ru
 mysexpics.ru
@@ -7961,6 +7989,7 @@ nacap.ru
 nachalka21.ru
 nacionaldoerlk4.ci80744.tmweb.ru
 nacpriroda.ru
+nadeenjorrie.ru
 nadegda-95.ru
 nadycissiee.ru
 nagaol.ru
@@ -8064,6 +8093,7 @@ need2buy.1gb.ru
 needrelax.ru
 needserve.ru
 neelbo.ru
+neelybrietta.ru
 neformalforum.ru
 neliamarcy.ru
 nelsonkennet.ru
@@ -8219,6 +8249,7 @@ nk-byuro.ru
 nkokbr.ru
 nkqh.ru
 nksports.ru
+nl.xsph.ru
 nlemmy1.ru
 nlemmy2.ru
 nlfjjunb5.ru
@@ -8237,6 +8268,7 @@ nodes.bitcoin-russia.ru
 nodup.ru
 noelleperle.ru
 nokiastock.ru
+nolapaigecam.ru
 nolwo.ru
 nomer1.ru.ru
 nonamenofear.ru
@@ -8301,7 +8333,9 @@ ns2.wowservers.ru
 nsdic.pp.ru
 nsecupdts.ru
 nsp.vipshop.ru
+ntd-mayak.ru
 ntdtv.ru
+ntj.regfrodom.ru
 ntvk1.ru
 nucop.ru
 nudel.ru
@@ -8447,7 +8481,6 @@ oldschool.secure.com-ed.ru
 oldschool.secure.com-xr.ru
 olejack.ru
 olelukoje.ru
-olgabenoite.ru
 oliverdzhonatan.ru
 oliverkevin.ru
 olivermaykl.ru
@@ -8502,6 +8535,7 @@ online-vtb.ru
 online-x.ru
 online.director-iv.ru
 online.ktc45.ru
+online.team.supportvhost117507.lowhost.ru
 online01-capitalhelp24.da-ar.ru
 online2pharmacy.ru
 online4pharmacy.ru
@@ -8620,7 +8654,6 @@ otclick-adv.ru
 otdacham.ru
 otdbiaxaem-vmeste.ru
 otdyx-s-komfortom.ru
-otelkmv.ru
 otenemib.ru
 otkachka.novosibirsk.ru
 otlzdoro.ru
@@ -8803,19 +8836,15 @@ paypal-service.at-kundensicherheitscheck2016032016.ru
 paypal-services48844.at-kundensicherheitscheck2016032016.ru
 paypal.at-checkkundensicherheit.ru
 paypal.c3ul.ru
-paypal.co.uk.1m1s8.ru
 paypal.co.uk.274p.ru
 paypal.co.uk.2cqd.ru
 paypal.co.uk.2j0q.ru
 paypal.co.uk.c3ul.ru
 paypal.co.uk.d2zj.ru
-paypal.co.uk.k9o6t.ru
-paypal.co.uk.lwfvy.ru
 paypal.co.uk.m5il.ru
 paypal.co.uk.mikhailovaphoto.ru
 paypal.co.uk.o4kil.ru
 paypal.co.uk.p0h8.ru
-paypal.co.uk.qfu8q.ru
 paypal.com.signinv2.ru
 paypal.com.ttlart2012ttcysu.aylandirow.tmf.org.ru
 paypal.com.web.ih903514.myihor.ru
@@ -8864,7 +8893,6 @@ pedalcars.ru
 peem.ru
 peer.pickeklosarske.ru
 pefile.ru
-pegeendulcinea.ru
 pegyrgun.ru
 peine.ru
 pekarkmv.ru
@@ -9314,6 +9342,7 @@ program.zadc.ru
 programmpower.ru
 programs-1c.ru
 progress-upakovka.ru
+proitservice.ru
 projectforte.ru
 projetdeals.myjino.ru
 prok-fort.ru
@@ -9432,6 +9461,7 @@ qceiefce.myfastassist.ru
 qd323f23.ru
 qd34g34ewdfsf23.ru
 qd34gf23.ru
+qfu8q.ru
 qina.ru
 qip.magna.ru
 qip.ru
@@ -10143,12 +10173,14 @@ sauni-lipetsk.ru
 sauni-moskva.ru
 savinabendite.ru
 saw-ok-joberinion.ru
+say1.ru
 sayhello.popunder.ru
 saymonarnold.ru
 saymonkristofer.ru
 sayreophelia.ru
 sb-rik.ru
 sbelan.ru
+sberbankgiveds.ru
 sberfunk.ru
 sberleasing.ru
 sbersimka.ru
@@ -10353,6 +10385,7 @@ shaddyfiles.ru
 shade-vapedistro.ru
 shagtomsk.ru
 shah-gold.ru
+shaineroze.ru
 shakeelchoudhry.myjino.ru
 shakhtar-doneck.ru
 shakti-shop.ru
@@ -10442,6 +10475,7 @@ showdopoln.ru
 showroomlike.ru
 shraybervelimir.ru
 shrinkurl.ru
+shroud-open.ru
 shrug-increase304.ru
 sht15.ru
 shtaketniki.ru
@@ -10510,7 +10544,6 @@ sinhronperevod.ru
 sinyagin.pp.ru
 sipstroysochi.ru
 sireni.ru
-siropmarket.ru
 sirsneaker.ru
 sisiynas.ru
 siss1.ramona.pserver.ru
@@ -10628,6 +10661,7 @@ smt4.ru
 smtp-host.smtp.ru
 smtp.mail.ru
 smtp.user-gto.ru
+smtsdezinwnet.ru
 smweb.ru
 sneakermall.ru
 snegozaderzhatel.ru
@@ -10897,6 +10931,9 @@ srv89521.ht-test.ru
 srv89547.ht-test.ru
 srv89610.ht-test.ru
 srv89621.ht-test.ru
+srv89744.ht-test.ru
+srv89749.ht-test.ru
+srv89760.ht-test.ru
 sseal.ru
 ssl.secure-login-upgard-services.lr-c.ru
 ssl30.ru
@@ -10997,6 +11034,7 @@ steam-analyst.ru
 steam-calculator.ru
 steam-keys.ezar.ru
 steam.communyty.worldhosts.ru
+steamanalyst.ru
 steamcammuniete.ru
 steamccmmunity.net.ru
 steamccommunnitty.net.ru
@@ -11016,6 +11054,7 @@ steamcommunitly.org.ru
 steamcommunitty.org.ru
 steamcommunitu.ru
 steamcommunity.vov.ru
+steamcommunityprofiles76561198205968516.net.ru
 steamcommunityy.ru
 steamcommunltiy.net.ru
 steamcommunltiy.pp.ru
@@ -11024,6 +11063,7 @@ steamcommunniiity.ru
 steamcommunnity.pp.ru
 steamcommuntiy.net.ru
 steamcommuntiy.pp.ru
+steamcommuntliy.ru
 steamcommuntly.net.ru
 steamcommuntly.org.ru
 steamcommurity.ru
@@ -11054,6 +11094,7 @@ steampowwered.hop.ru
 steamskins.ru
 stearncommunity.ru
 stecdon.ru
+steeamcomuniti.ru
 steelmemory.ru
 steffani.ru
 steklosouz.ru
@@ -11320,6 +11361,7 @@ sync.rambler.ru
 sync2.adsniper.ru
 synchronous.ru
 syncsw.pool.datamind.ru
+synergyevswcz.ru
 sys56.ru
 sys68.ru
 sys79.ru
@@ -11545,6 +11587,7 @@ teytdonald.ru
 teytpol.ru
 teytross.ru
 tf2skins.ru
+tfoms-rzn.ru
 tfor.pp.ru
 tg-h.ru
 tg.mybb.ru
@@ -11854,7 +11897,6 @@ trybestsale.ru
 trybestshop.ru
 trymastersale.ru
 trynewshop.ru
-tryservicelife.ru
 trythitsale.ru
 trythitstore.ru
 tsc-koleso.ru
@@ -11955,6 +11997,7 @@ u1123964.isp.regruhosting.ru
 u1139845.cp.regruhosting.ru
 u1145522.cp.regruhosting.ru
 u1145708.cp.regruhosting.ru
+u1162807.cp.regruhosting.ru
 u19.ru
 u1j.ru
 u1w.ru
@@ -12059,6 +12102,7 @@ uk.c3ul.ru
 uk.d2zj.ru
 uk.gc75.ru
 uk.igr2.ru
+uk.lwfvy.ru
 uk.o8r3.ru
 uk.qizx.ru
 ukonlinejfk.ru
@@ -12208,6 +12252,7 @@ v205588.hosted-by-vdsina.ru
 v207213.hosted-by-vdsina.ru
 v207249.hosted-by-vdsina.ru
 v318059.hosted-by-vdsina.ru
+v320560.hosted-by-vdsina.ru
 v39t67xz.ru
 v5000.ru
 v720hd.ru
@@ -12460,10 +12505,10 @@ vk-group-9840.ru
 vk-mus.ru
 vk-public-48062.ru
 vk-seller.ru
+vk-topgeerls.ru
 vk-u.ru
 vk-walle.ru
 vk.18sexporn.ru
-vk.com.all-droids.ru
 vk.com.club52534765.45678754.5435.8454343.11010164345678763256487634434876524.34567876546789876.tw1.ru
 vk.com.clubs.5tv5.ru
 vk.com.giftsfree.ru
@@ -12747,6 +12792,7 @@ whitecada.ru
 whiteonline.ru
 whl.clona.ru
 whliu.myjino.ru
+whm.proremontapple.ru
 who-health-covid-19.ru
 whyinterestingly.ru
 widget.onlinetv.ru
@@ -12765,6 +12811,7 @@ wildysex.ru
 willaminamarabel.ru
 willesandwas.ru
 willettauta.ru
+willowallsun.ru
 willygussie.ru
 wilnakinhar.ru
 wilowbilljosy.ru
