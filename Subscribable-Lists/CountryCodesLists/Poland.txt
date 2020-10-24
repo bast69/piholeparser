@@ -365,6 +365,7 @@ apartmorze.pl
 apbwm6.xorg.pl
 api.mobeacon.mobisky.pl
 api.myeforsa.pl
+api.systempartnerski.pl
 aplikacja-podgladacz.wirtualnie.pl
 aplusrubydream.pl
 apokryfy.pl

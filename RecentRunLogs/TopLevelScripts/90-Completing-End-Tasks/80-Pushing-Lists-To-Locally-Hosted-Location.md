@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 80-Pushing-Lists-To-Locally-Hosted-Location
-* Localhost Web Directory Not Set. Please Fix. Fri Oct 23 04:40:07 CEST 2020
+* Localhost Web Directory Not Set. Please Fix. Sat Oct 24 04:58:28 CEST 2020

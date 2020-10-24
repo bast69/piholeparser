@@ -329,6 +329,7 @@ api.comining.io
 api.connecto.io
 api.dable.io
 api.extole.io
+api.gameads.io
 api.grft.ultimatepool.io
 api.intercom.io
 api.keen.io
@@ -445,6 +446,7 @@ baidut.github.io
 balance.epool.io
 balunowalamanigit.cfapps.io
 banana-republic.extole.io
+banner.gameads.io
 baqo49cx-android.mobile-sdk-api.intercom.io
 bbr.luckypool.io
 bbr2.luckypool.io
@@ -562,6 +564,7 @@ cdn.concert.io
 cdn.dimml.io
 cdn.districtm.io
 cdn.firstimpression.io
+cdn.gameads.io
 cdn.grft.ultimatepool.io
 cdn.hashflare.io
 cdn.ipbc.io
@@ -1377,6 +1380,7 @@ my.offerbox.io
 myetherwaliet.io
 myheritage.extole.io
 mytikas.servers.lair.io
+n.gameads.io
 n3exvq9z-android.mobile-sdk-api.intercom.io
 n7v3c.codesandbox.io
 n90sjv2r-android.mobile-sdk-api.intercom.io
@@ -1414,6 +1418,7 @@ nikitsyringedrivelg.pen.io
 ninja.onap.io
 nj.thor.rtk.io
 nl1.ghash.io
+node.gameads.io
 nondatuta.github.io
 note.uax.io
 nr8fkefl-android.mobile-sdk-api.intercom.io
@@ -1511,6 +1516,7 @@ packages.instana.io
 pad-v3.presage.io
 pad-v3.prod.cloud.ogury.io
 pandapool.io
+panel.gameads.io
 panera-bread.extole.io
 pathmatics.eu-west-1.stinger-ad.bidr.io
 paymentmethodbygroup.colouredmonkeys.io
@@ -1748,6 +1754,7 @@ setup.instana.io
 sfo.thor.rtk.io
 sg8tsj6r-ios.mobile-sdk-api.intercom.io
 sged6gdg-ios.mobile-sdk-api.intercom.io
+shapez.gameads.io
 sharebutton.io
 shark-clean.extole.io
 she.said.districtm.io
