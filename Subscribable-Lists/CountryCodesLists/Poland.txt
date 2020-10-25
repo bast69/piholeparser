@@ -585,6 +585,7 @@ boksy.onet.pl
 bon-do-marketu.pl
 bonares.pl
 bonjo.bmbsklep.pl
+bonusowekody.pl
 bony-zakupowe.pl
 bony.uyp.pl
 bonypodarunkowe.com.pl
@@ -683,6 +684,7 @@ chomikui.pl
 chomikuj.pl
 chris-jasnowidz.pl
 christishake.freehost.pl
+chrobrymiedzyzdroje.pl
 chura.pl
 chustyfuroshiki.pl
 chustynka.pl
@@ -820,6 +822,7 @@ datasmierci.pl
 datempus.pl
 davidcandy.website.pl
 daw-net.pl
+day.dimaq.pl
 dbl.coinmine.pl
 dc.sabela.com.pl
 dcr-as.coinmine.pl
@@ -1619,7 +1622,6 @@ gemius.pl
 generalmediaadhu.hit.gemius.pl
 generatorkodow.hpu.pl
 genericsrxpharmaceutical.pl
-genial.com.pl
 geo.interia.pl
 geoportal-info.powiat.lukow.pl
 gerkar.pl
@@ -1681,6 +1683,7 @@ google.plle.pl
 googlecm.hit.gemius.pl
 googlenews.xorg.pl
 goooogle.osa.pl
+gopay24.pl
 goroteka.pl
 gorskaperla.pl
 gosciniec-paproc.pl
@@ -2536,7 +2539,6 @@ loguj-praca.co.pl
 lokalniwywiadowcy.pl
 lokum1985.republika.pl
 loles.neostrada.pl
-lombardzista.pl
 longhill.pl
 looool.pl
 loprus.pl
@@ -2587,6 +2589,7 @@ magiccasheurodice.pl
 magicstudio.pl
 magictopeudice.pl
 magma.info.pl
+mail.oyj.pl
 mainclick.pl
 mainnetrubypalace.pl
 maiske.vot.pl
@@ -3298,6 +3301,7 @@ piekartnik.pl
 pieknamatematyka.pl
 piekoszow.pl
 pieniadzedowziecia.pl
+pieszczek-racing.pl
 pila-dziedzictwo-2017-online.5v.pl
 pilates.com.pl
 pillscareit.pl
@@ -3321,6 +3325,7 @@ piwo.pl
 pixel.homebook.pl
 pixel.wp.pl
 pixel6.wp.pl
+pixelmax.pl
 pjm.guidesign.pl
 pkryczywol.pl
 pl-pl-fb.pl
@@ -3920,7 +3925,6 @@ seks-laski.pl
 senatoranders.pl
 seniority.pl
 seniorzydecyduja.pl
-sens-pracownia.pl
 senseiwolf.pl
 serce.info.pl
 seriale.org.pl
@@ -4105,6 +4109,7 @@ sklep.agrochlopecki.pl
 sklep.bactotech.pl
 sklep.mzuri.pl
 sklep.phumaria.pl
+sklep.stomil-bydgoszcz.pl
 skleplara.pl
 skleptanie.pl
 skleptiande.pl
@@ -4287,6 +4292,7 @@ stua.hit.gemius.pl
 studio5m.pl
 studioefekt.suwalki.pl
 studiourodyharmonny.pl
+stupski.pl
 stylek.pl
 stylowepodroze.pl
 subskrypcja.tvhr.pl
@@ -4600,6 +4606,7 @@ usbuycialisonline.fe.pl
 usc.coinmine.pl
 uslugi-bhp.net.pl
 uslugielektrycznesiedlce.pl
+uslugigazowe-margaz.pl
 usluginowysacz.pl
 uslugitransportowe-warszawa.pl
 ustarextrasfestival.pl
@@ -4612,6 +4619,7 @@ uultrawestbetday.pl
 uvivaclubluxurysp.pl
 uvy3.pl
 uwaga-poszukiwania-fakty.you2.pl
+uwaga.dfirma.pl
 uwaga24-policja.pl
 uwaga24tv.pl
 uwaga72.you2.pl
@@ -5033,6 +5041,7 @@ wykop.hit.gemius.pl
 wykop.net.pl
 wyleczpc.pl
 wypadki24.e-kei.pl
+wypoczywalniaumyslu.pl
 wypozyczalnia-gorakalwaria.pl
 wypozyczgo.com.pl
 wypromuj.nazwa.pl

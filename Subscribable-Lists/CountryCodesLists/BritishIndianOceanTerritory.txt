@@ -23,6 +23,7 @@
 2iqzg.codesandbox.io
 2ndswing.extole.io
 30b01382.ngrok.io
+30ywc.codesandbox.io
 354cf0bd.ngrok.io
 36236bc2d243.ngrok.io
 39305b60.ngrok.io
@@ -554,6 +555,7 @@ cbc.youpool.io
 cbldc.io
 cbql2fu0-android.mobile-sdk-api.intercom.io
 cc.gofile.io
+ccb09ba12e2c.ngrok.io
 cch.youpool.io
 ccx.youpool.io
 cdn-cf.fabric.io
@@ -685,6 +687,7 @@ d.top4top.io
 d2df1929.ngrok.io
 d38dc3e7.ngrok.io
 d3ed5595.ngrok.io
+d3fcca3dd1fb.ngrok.io
 d9cozt1o.apps.lair.io
 da.tapas.io
 dable.io
@@ -801,6 +804,7 @@ east-s2s.1rx.io
 easyhash.io
 easync.io
 ebz.io
+ec21-com-ec21d10adc3949babpud59abid64855mktbe56e057f20f883e.pantheonsite.io
 ecdn.firstimpression.io
 ecmlced3-android.mobile-sdk-api.intercom.io
 ecoplanet.io
@@ -898,6 +902,7 @@ ext-inv.presage.io
 ext-tracker.presage.io
 extlabs.io
 extole.io
+extremecompute.io
 extremereach.io
 f5cf0adc.ngrok.io
 f67598a6.ngrok.io
@@ -1162,6 +1167,7 @@ ita.youpool.io
 itns.easyhash.io
 itns.luckypool.io
 itns001.cryptogrot.io
+itpay.io
 ittybittypages.github.io
 iufpprin.wze.io
 ixgq4v2p-ios.mobile-sdk-api.intercom.io
@@ -1175,6 +1181,7 @@ jita.rtk.io
 jizz.io
 jlr1fm54-android.mobile-sdk-api.intercom.io
 joaovitor.io
+johnygepe.github.io
 joinus.coinfirm.io
 jovd32f9-android.mobile-sdk-api.intercom.io
 jpush.io
@@ -1420,7 +1427,9 @@ nj.thor.rtk.io
 nl1.ghash.io
 node.gameads.io
 nondatuta.github.io
+nostalgic-vagabond-shield.blogs.rockstage.io
 note.uax.io
+notifyonline.github.io
 nr8fkefl-android.mobile-sdk-api.intercom.io
 ns.bitnodes.io
 ns1.bitnodes.io
