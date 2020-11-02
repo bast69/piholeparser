@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010310143
+! Version: 202011020054
 ! Title: EasyPrivacy
-! Last modified: 31 Oct 2020 01:43 UTC
+! Last modified: 02 Nov 2020 00:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10459,7 +10459,6 @@ _mongo_stats/
 ||collector.mazeberry.com^
 ||collector.roistat.com^
 ||collector.sspinc.io^
-||comet.ibsrv.net^
 ||comic-rocket.com/metrics.js
 ||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
@@ -11221,6 +11220,7 @@ _mongo_stats/
 ||musvc2.net/e/c?
 ||mutinyhq.com/impressions/
 ||mv.treehousei.com^
+||mx.technolutions.net^
 ||mxmfb.com/rsps/img/
 ||myblueday.com^*/count.asp?
 ||myfreecams.com/mfc2/lib/o-mfccore.js
@@ -12190,6 +12190,7 @@ _mongo_stats/
 ||seal.networksolutions.com^$third-party
 ||seal.verisign.com^$third-party
 ||sealserver.trustwave.com^$third-party
+||secure.trust-guard.com^$third-party
 ||siteintercept.qualtrics.com^$third-party
 ||trustev.com/trustev.min.js$third-party
 ||websecurity.norton.com^$third-party
@@ -12957,6 +12958,7 @@ _mongo_stats/
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
 ||stats.miarroba.info^
+||stats.sec.telefonica.com^
 ||tag.shopping-feed.com^
 ||tracker.thinkindot.com^
 ! Swedish
@@ -17366,7 +17368,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bookmate.com^*/impressions?$xmlhttprequest
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
-@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|imperial.ac.uk|loveotv.com|onginnovations.com|theangryviking1776.com|thepittsburghoratory.org|washingtonpost.com|wix.com
+@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|theangryviking1776.com|thepittsburghoratory.org|washingtonpost.com|wix.com
 @@||bugzilla.mozilla.org^*/extensions/TrackingFlags/$script
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com
@@ -18102,7 +18104,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party
