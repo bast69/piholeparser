@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 15-Calculating-Average-Parsing-Lines
-* Average Parsing Lines was 41508.7.
+* Average Parsing Lines was 18031.
