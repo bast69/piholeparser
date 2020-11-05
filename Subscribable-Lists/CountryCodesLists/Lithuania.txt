@@ -109,7 +109,6 @@ ic24.lt
 ilive.lt
 instrumentum.lt
 internetinisdarbas.lt
-ipamokos.lt
 ipautorisatie.96.lt
 irenta.lt
 itpartner.lt
@@ -128,6 +127,7 @@ klpervezimas.lt
 kolibristattoo.lt
 konsultavimas.lt
 krakila.lt
+kramedas.lt
 krovikliai.lt
 kuliahpagi.96.lt
 kursiuklinika.lt
@@ -160,7 +160,9 @@ newfilter.lt
 newmatch663photos.96.lt
 nfs.visits.lt
 noriukaledu.lt
+olandijakasdiena.lt
 orakulas.lt
+ostemeda.lt
 ox.pigu.lt
 parkogalerija.lt
 pci.lt
