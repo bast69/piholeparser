@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PVfW0WW9hPjQiF/iCVXQfA
-! Version: 202011050211
+! Checksum: Xb6pK+4NM5cq22m8eRmxfA
+! Version: 202011060201
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Nov 2020 02:11 UTC
+! Last modified: 06 Nov 2020 02:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4541,6 +4541,7 @@ _youtube_social_
 /syncCookie/*
 /tarteaucitron.
 /terms_of_service.js
+/thcookie.
 /tm.cookie.js
 /tnzcookie-
 /tnzcookie/*
@@ -26051,6 +26052,7 @@ _site_cookie_
 ###imPolicycookiemessage
 ###im_cookie_message
 ###implicitCookieModal
+###imprint-cookie
 ###improove-cookies
 ###indication_cookie
 ###inf_privacy
@@ -31488,6 +31490,7 @@ _site_cookie_
 ##.mgxCookieConsent
 ##.mh5_CookieNotice
 ##.mi-gdpr
+##.mihoyo-cookie-tips
 ##.mikit_bandeau_cookies
 ##.milibooCookie
 ##.min-cookiebanner
@@ -32391,6 +32394,7 @@ _site_cookie_
 ##.texteAlerteCookie
 ##.texto_cookies
 ##.thb-cookie-bar
+##.thcookie-overlay
 ##.the-cookie-banner
 ##.the-cookiejar
 ##.theCookie
@@ -38186,6 +38190,7 @@ christianpost.com##.iframe-popup-full
 maxim.com##.img-responsive
 impactbnd.com##.impactBlogFeed--sidebar-background-color
 longreads.com##.in-story
+inews.co.uk##.inews__email-signup
 routesonline.com##.infoBlock
 citylab.com,theatlantic.com##.injector-promo
 sandiegouniontribune.com##.inline_embedded
@@ -39648,6 +39653,7 @@ designcurial.com##.image-tools
 imdb.com##.imdb-footer__social
 imdb.com##.imdb-footer__socials
 alarabiya.net##.img-caption-facebook-container
+inews.co.uk##.inews__post-byline__share
 ebay.co.uk,ebay.com.au##.info > .share
 pcgscoinfacts.com##.info-connect
 timeout.com##.information
@@ -41437,7 +41443,7 @@ stuttgarter-nachrichten.de##.js-to-top
 kicker.de##.kick__scroll-top-ic
 ifun.de,iphone-ticker.de##.mail
 weltwoche.ch##.navInner.fixed
-diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
 geo.de##.nlAnmeldg
 therese-moelk.at##.pageup
 matratzen.info##.postNavigation
@@ -44879,6 +44885,7 @@ megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 gcnlive.com,nasa.gov#@##backtotop
 patch.com#@##email-modal-wrapper
 hearthis.at#@##email-overlay
+rbxactive.com#@##email-sign-up
 arma3.com,dayz.com#@##go-top
 mercopress.com#@##goToTop
 encompass.tv#@##goTop
@@ -45353,7 +45360,7 @@ chess.com#@#.social-btns
 adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 twitch.tv#@#.social-column
-cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
+businessinsider.de,cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
 github.com#@#.social-count
 golem.de#@#.social-counter
 4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-facebook
