@@ -7,7 +7,7 @@ List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ABP-Bulgarian-List.md)
 
 ## ABP-Clickbait-Blocklist
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ABP-Clickbait-Blocklist.md)
 
 ## ABP-Indonesia
@@ -19,7 +19,7 @@ List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ABP-Japanese-3rd-Party-SNS-Filters.md)
 
 ## ABP-Japanese-Filters
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ABP-Japanese-Filters.md)
 
 ## ABP-Japanese-Paranoid-Filters
@@ -51,35 +51,35 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-Iran.md)
 
 ## Adblock-Korea
-List Took 18 Seconds.
+List Took 13 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-Korea.md)
 
 ## Adblock-Persian
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-Persian.md)
 
 ## Adblock-Polska
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-Polska.md)
 
 ## Adblock-YouTube-Ads
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-YouTube-Ads.md)
 
 ## Adblock-uBlock-Polish-Filters
-List Took 3 Minutes.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adblock-uBlock-Polish-Filters.md)
 
 ## Adguard-English-Filter
-List Took 11 Seconds.
+List Took 13 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adguard-English-Filter.md)
 
 ## Adware-Filters
-List Took 10 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Adware-Filters.md)
 
 ## AntiPubWeb
-List Took 14 Seconds.
+List Took 12 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/AntiPubWeb.md)
 
 ## Anudeep-Youtube
@@ -99,15 +99,15 @@ List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/BLOGRAM-Basic-Filter-List-for-Japan.md)
 
 ## Block-EU-Cookie-Shit-List
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Block-EU-Cookie-Shit-List.md)
 
 ## Blockzilla
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Blockzilla.md)
 
 ## BreakingTheNews
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/BreakingTheNews.md)
 
 ## BulgarianListEasyList
@@ -115,11 +115,11 @@ List Took 3 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/BulgarianListEasyList.md)
 
 ## CAMELEON-Hosts
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/CAMELEON-Hosts.md)
 
 ## Chad-Mayfield-Porn-Blocklist-Heavy
-List Took 35 Seconds.
+List Took 46 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Chad-Mayfield-Porn-Blocklist-Heavy.md)
 
 ## Chad-Mayfield-Porn-Blocklist-Light
@@ -131,11 +131,11 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/CryptoWall-Ransomware-C2-Domain-blocklist.md)
 
 ## DNS-BH-Free-Web-Hosts
-List Took 9 Seconds.
+List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/DNS-BH-Free-Web-Hosts.md)
 
 ## DNS-BH-Malware-Domains
-List Took 15 Seconds.
+List Took 14 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/DNS-BH-Malware-Domains.md)
 
 ## Dan-Pollocks-Hosts
@@ -143,11 +143,11 @@ List Took 14 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Dan-Pollocks-Hosts.md)
 
 ## Disconnect-Advertising-Filter
-List Took 10 Seconds.
+List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Disconnect-Advertising-Filter.md)
 
 ## Disconnect-Malvertising-Filter
-List Took 13 Seconds.
+List Took 12 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Disconnect-Malvertising-Filter.md)
 
 ## Disconnect-Malware-Filter
@@ -175,7 +175,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Dutch.md)
 
 ## EasyList-Germany
-List Took 10 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Germany.md)
 
 ## EasyList-Italy
@@ -183,19 +183,19 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Italy.md)
 
 ## EasyList-Latvian
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Latvian.md)
 
 ## EasyList-Liste-FR
-List Took 9 Seconds.
+List Took 3 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Liste-FR.md)
 
 ## EasyList-Thailand
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList-Thailand.md)
 
 ## EasyList
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/EasyList.md)
 
 ## FadeMind-addSpam
@@ -211,11 +211,11 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Filtros-Nauscopicos.md)
 
 ## Finnish-AntiSocial
-List Took 28 Seconds.
+List Took 29 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Finnish-AntiSocial.md)
 
 ## GandJ-Hosts
-List Took 11 Seconds.
+List Took 12 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/GandJ-Hosts.md)
 
 ## Greek-AdBlock-Filter
@@ -223,11 +223,11 @@ List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Greek-AdBlock-Filter.md)
 
 ## Hakame-kun-uBlock-Indonesia
-List Took 8 Seconds.
+List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Hakame-kun-uBlock-Indonesia.md)
 
 ## Hant05080-Filters
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Hant05080-Filters.md)
 
 ## Henning-VanRaumle-Youtube
@@ -239,7 +239,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Hufilter.md)
 
 ## Ilyakatzs-inpage-popups
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Ilyakatzs-inpage-popups.md)
 
 ## ImmortalMalwareDomains
@@ -259,7 +259,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/KowabitBOD.md)
 
 ## LatvianList
-List Took 8 Seconds.
+List Took 14 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/LatvianList.md)
 
 ## Lead-Generator
@@ -267,7 +267,7 @@ List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Lead-Generator.md)
 
 ## ListeAR
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ListeAR.md)
 
 ## Locky-Ransomware-C2-Domain-Blocklist
@@ -275,7 +275,7 @@ List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Locky-Ransomware-C2-Domain-Blocklist.md)
 
 ## Malware-Domains-Just-Domains
-List Took 15 Seconds.
+List Took 13 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Malware-Domains-Just-Domains.md)
 
 ## Malware-URLs-Domains
@@ -283,7 +283,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Malware-URLs-Domains.md)
 
 ## Mandiant-APT1-Report
-List Took 10 Seconds.
+List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Mandiant-APT1-Report.md)
 
 ## Mat1th-DNS-add-block
@@ -291,7 +291,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Mat1th-DNS-add-block.md)
 
 ## Mayvs-Private-Adblock-Filters
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Mayvs-Private-Adblock-Filters.md)
 
 ## Metaphoricgiraffe-Privacy-Filters
@@ -303,19 +303,19 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Michael-Trimms-Hosts.md)
 
 ## Mitchell-Krogs-Badd-Boyz-Hosts
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Mitchell-Krogs-Badd-Boyz-Hosts.md)
 
 ## Mother-of-All-ADBLOCKING
-List Took 10 Seconds.
+List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Mother-of-All-ADBLOCKING.md)
 
 ## NoTrack-Blocklist
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/NoTrack-Blocklist.md)
 
 ## Notracking-hostnames
-List Took 10 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Notracking-hostnames.md)
 
 ## PLgeneral
@@ -335,11 +335,11 @@ List Took 3 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/PopupBlocker.md)
 
 ## Prebake-Obtrusive
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Prebake-Obtrusive.md)
 
 ## Prigent-Malware
-List Took 11 Seconds.
+List Took 12 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Prigent-Malware.md)
 
 ## Prigent-Phishing
@@ -351,7 +351,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Quidsup-Malicious.md)
 
 ## ROad-Block
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ROad-Block.md)
 
 ## RUAdListBitBlock
@@ -359,7 +359,7 @@ List Took 3 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/RUAdListBitBlock.md)
 
 ## Ransomware-Domain-Blocklist
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Ransomware-Domain-Blocklist.md)
 
 ## SVN-Slovenian
@@ -367,7 +367,7 @@ List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/SVN-Slovenian.md)
 
 ## Samsung-SmartTV-Domains
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Samsung-SmartTV-Domains.md)
 
 ## SatterlysAdblockPlusFilters
@@ -387,11 +387,11 @@ List Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam-Assassin-Bill-Stearns.md)
 
 ## Spam404-Domain-Blacklist
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam404-Domain-Blacklist.md)
 
 ## Spam404
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam404.md)
 
 ## Steven-Blacks-Fakenews
@@ -407,7 +407,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Hosts.md)
 
 ## Steven-Blacks-Porn
-List Took 10 Seconds.
+List Took 13 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Porn.md)
 
 ## Steven-Blacks-Risky-Hosts
@@ -419,7 +419,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Trackers.md)
 
 ## Steven-Blacks-Unchecky-Ads
-List Took 10 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Unchecky-Ads.md)
 
 ## Steven-Blacks-Unified-Hosts
@@ -439,23 +439,23 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.md)
 
 ## The-Hosts-File-Project
-List Took 15 Seconds.
+List Took 13 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/The-Hosts-File-Project.md)
 
 ## Thoughtconverge-AdBlock-Filters
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Thoughtconverge-AdBlock-Filters.md)
 
 ## Tofu-Filter
-List Took 11 Seconds.
+List Took 12 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tofu-Filter.md)
 
 ## TorrentLocker-Ransomware-C2-Domain-Blocklist
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.md)
 
 ## TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.md)
 
 ## Turk-adlist
@@ -471,15 +471,15 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Wiltteri.md)
 
 ## WindowsSpyBlocker
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker.md)
 
 ## WindowsSpyBlocker7
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker7.md)
 
 ## WindowsSpyBlocker81
-List Took 8 Seconds.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker81.md)
 
 ## Yhonay-AntiPopAds
@@ -487,7 +487,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Yhonay-AntiPopAds.md)
 
 ## YousList
-List Took 3 Minutes.
+List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/YousList.md)
 
 ## Yoyoorg
@@ -499,11 +499,11 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/ZeuS-Domain-Blocklist-Bad-Domains.md)
 
 ## uAssetsFilters
-List Took 9 Seconds.
+List Took 10 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
 
 ## uAssetsPrivacy
-List Took 9 Seconds.
+List Took 8 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
 
 ## uAssetsUnbreak
@@ -515,7 +515,7 @@ List Took 9 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBOPersonalFilters.md)
 
 ## uBlockFiltersPlus
-List Took 35 Seconds.
+List Took 45 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBlockFiltersPlus.md)
 
 ## xorcan-Turkish-aio
