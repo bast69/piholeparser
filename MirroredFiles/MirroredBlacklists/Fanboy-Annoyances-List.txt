@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fxTaeF3rghxU1c20GIn8aw
-! Version: 202011280221
+! Checksum: oaa4qGvmZfGE8FITwqwqGg
+! Version: 202011290221
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Nov 2020 02:21 UTC
+! Last modified: 29 Nov 2020 02:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4453,6 +4453,7 @@ _youtube_social_
 /oil.*-RELEASE.min.js
 /oil/*-RELEASE.chunk.js
 /oiljs/*-RELEASE.min.js
+/oneTrust.
 /onetrust/consent/*
 /onetrustConsent.js
 /opendotcom-cookie/*
@@ -5933,6 +5934,7 @@ _site_cookie_
 ##.article-gutter-signup
 ##.article-news-letter
 ##.article-newsletter
+##.article-newsletter-container
 ##.article-newsletter-signup
 ##.article-newsletter-signup--container-alt
 ##.article-newsletter-wrapper
@@ -6279,6 +6281,7 @@ _site_cookie_
 ##.ha-js-newsletter-promo
 ##.hasNewsletter
 ##.header-newsletter-box
+##.headerNewsletterCtaOverlay
 ##.header__link--subscribe
 ##.header__newsletter
 ##.header__social--email
@@ -6642,6 +6645,7 @@ _site_cookie_
 ##.newsletterCont
 ##.newsletterContainer
 ##.newsletterContentModule
+##.newsletterCta
 ##.newsletterCtaContainer
 ##.newsletterFeed
 ##.newsletterFmt
@@ -46168,6 +46172,7 @@ vaganovaacademy.ru,wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 clientsfromhell.net#@#.socialbuttons
+joemonster.org#@#.socialcontainer
 gamepedia.com#@#.sociallink
 heise.de,megabus.com,thenextweb.com#@#.socialmedia
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
@@ -46453,6 +46458,8 @@ siemens-home.bsh-group.com#@#.cookielaw-setcookiepolicy-form
 mymuesli.com,zoom.earth#@#.cookies-consent
 amarujala.com#@#.cookies-container
 bankmillennium.pl#@#.cookies-info
+vtimes.io#@#.cookies-modal:not(body):not(html)
+vtimes.io#@#.cookies-modal__background
 alko.fi#@#.cookies-open
 diy.com#@#.cookies-policy
 tatilsepeti.com#@#.cookies.active
@@ -46707,7 +46714,7 @@ yoigo.com#@#thor-cookies
 @@||policy.app.cookieinformation.com^$script,domain=eniro.se
 @@||porno720.pl/core/js/cookieinfo.js
 @@||portal.aae.at/changeportal/js/lib/cookieconsent.js$script,~third-party
-@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|laptopmag.com|livescience.com|livingetc.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|laptopmag.com|livescience.com|livingetc.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
 @@||riwal.com/includes/js/components/cookiebar.js$script
 @@||sdk.privacy-center.org^$script,domain=gamestar.de|ivoox.com|lavanguardia.com|mundodeportivo.com
 @@||shop.dangerfield.com.au/min/$script,stylesheet
