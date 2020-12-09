@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012080201
+! Version: 202012090038
 ! Title: EasyPrivacy
-! Last modified: 08 Dec 2020 02:01 UTC
+! Last modified: 09 Dec 2020 00:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5276,6 +5276,7 @@ _247seotracking.
 _act/tracking.
 _adcenterconversion.
 _adobe_analytics.
+_adobe_analytics_
 _ajax/btrack.php?
 _analytics-tracking?
 _Analytics.js?
@@ -5416,6 +5417,8 @@ cgi-bin/counter
 ! Notifcation scripts
 /epsilon.v2.
 /PushexSDK.
+/pushly-sdk.
+/pushly-sw.
 ! propertyguru fingerprinting
 /pg*.js?PID=$xmlhttprequest
 ! Akamai fingerprinting
@@ -7393,6 +7396,7 @@ _mongo_stats/
 ||permutive.com^$third-party
 ||personalicanvas.com^$third-party
 ||personyze.com^$third-party
+||peruse.ai^$third-party
 ||petametrics.com^$third-party
 ||pgs.io^$third-party
 ||phonalytics.com^$third-party
@@ -14509,6 +14513,7 @@ _mongo_stats/
 ||ning.com^*/ga/ga.js
 ||nj.com/cgi-bin/stats/
 ||nj.com/dhtml/stats/
+||nj1r.valorbuff.com^
 ||nm.newegg.com^
 ||nmtracking.netflix.com^
 ||noip.com/images/em.php?$image
@@ -14522,6 +14527,7 @@ _mongo_stats/
 ||novell.com^*/metrics.js
 ||novinite.com/tz.php
 ||nst.com.my/statistic/
+||nvea.valorbuff.com^
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
 ||nyse.com^*/stats/
@@ -15726,6 +15732,9 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! first-party tracking
+||as01.overbuff.com^
+||uuqz.overbuff.com^
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
@@ -17754,7 +17763,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
 @@||nike.com^*/optimizely.browser.umd.min.js$script,~third-party
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
-@@||nyt.com/analytics/json-kidd.min.js$script,domain=nytimes.com
+@@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com^*/EventTracker.js
 @@||oakley.com^*/tealium.js
