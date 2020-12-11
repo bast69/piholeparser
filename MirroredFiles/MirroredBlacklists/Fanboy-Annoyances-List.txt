@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +yjPH4UOYQ71kumiSbDqpg
-! Version: 202012100213
+! Checksum: DVW6IkrSnDrTcwUVwZFiXQ
+! Version: 202012110221
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Dec 2020 02:13 UTC
+! Last modified: 11 Dec 2020 02:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -102,6 +102,7 @@
 /sailthru/*
 /script/snow.js
 /show-join-email.jsonp?
+/signalr.min.js
 /signup_widget.js
 /signup_widget.min.js
 /snow-fall.js
@@ -6624,6 +6625,7 @@ _site_cookie_
 ##.newsletter-signup-primary
 ##.newsletter-signup-sidebar
 ##.newsletter-signup-wrap
+##.newsletter-signup-wrapper
 ##.newsletter-signup2
 ##.newsletter-signup__popup-bg
 ##.newsletter-simple
@@ -6957,6 +6959,7 @@ _site_cookie_
 ##.simplenews_custom-newsletter
 ##.single-post-newsletter
 ##.single-post__content__subscribe
+##.single-sidebar--newsletter
 ##.site-foot__newsletter
 ##.site-footer-newsletter
 ##.site-footer-newsletter-form
@@ -7129,6 +7132,7 @@ _site_cookie_
 ##.widNewsletter
 ##.wide-newsletter
 ##.wideNewsletterWrap
+##.widget--subscribe-inline
 ##.widget-apply-newsletter-article
 ##.widget-had-subscribe
 ##.widget-newsletter
@@ -8640,6 +8644,7 @@ _site_cookie_
 ###block-pi_social-links
 ###block-rww_twitter-on_twitter
 ###block-scmedia-social-share-buttons-social-share-buttons
+###block-sharetext-custom-share-block
 ###block-sharethis-sharethis-block
 ###block-sharing-links
 ###block-simpleshare
@@ -10234,6 +10239,7 @@ _site_cookie_
 ###sharingcolumn
 ###sharingfooter
 ###show-sharing-buttons
+###shr-btns
 ###shrbar
 ###side-fb-likes
 ###side-follow-us
@@ -14098,6 +14104,7 @@ _site_cookie_
 ##.footerSocials
 ##.footerYouTube
 ##.footer_NewsletterSocialIcon
+##.footer__bottom-social
 ##.footer__content-social
 ##.footer__desktop__bottom__top__social
 ##.footer__follow
@@ -15817,6 +15824,7 @@ _site_cookie_
 ##.main-footer__socials
 ##.main-head__social-2
 ##.main-header__social
+##.main-nav--social
 ##.main-nav-social
 ##.main-nav__social-dropdown
 ##.main-social
@@ -16126,6 +16134,7 @@ _site_cookie_
 ##.nav--socials
 ##.nav--stay-connected
 ##.nav-bar-facebook
+##.nav-bar__social-links__link
 ##.nav-button-facebook
 ##.nav-button-pinterest
 ##.nav-button-twitter
@@ -16791,6 +16800,7 @@ _site_cookie_
 ##.rambler-share
 ##.rawhtml_twitter_widget
 ##.rc-fb-widget
+##.rcom-social-site-footer
 ##.rcshare
 ##.rd-sidebar-social-link
 ##.rd_mobile_social
@@ -28576,6 +28586,7 @@ _site_cookie_
 ##.apropo-widgets-toolbar-cookie-container
 ##.aroundCookie
 ##.arsorsCookie_wrapper
+##.as-oil-content-overlay
 ##.as-oil[data-qa="oil-Layer"]
 ##.asa-cookie-notification
 ##.ask-cookie
@@ -29569,6 +29580,7 @@ _site_cookie_
 ##.cookie-law-dialog
 ##.cookie-law-dialog-contentwrapper
 ##.cookie-law-info
+##.cookie-law-info-bar
 ##.cookie-law-message
 ##.cookie-law-overlay
 ##.cookie-law-policy
@@ -31159,6 +31171,7 @@ _site_cookie_
 ##.emm-cookie-info
 ##.emp-cookies-policy
 ##.encart_cookie
+##.ensNotifyBanner
 ##.ensureCookie
 ##.eocookie
 ##.ep-cookies-bar
@@ -34068,6 +34081,7 @@ _site_cookie_
 ||secretrune.com^$third-party
 ||sendsay.ru^$third-party
 ||senzari.com^$third-party
+||service.signalr.net^$third-party
 ||services.webklipper.com/geoip/$third-party
 ||sg-autorepondeur.com^$third-party
 ||sharenice.org^$third-party
@@ -34089,6 +34103,7 @@ _site_cookie_
 ||sodahead.com^$third-party
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
+||streamspread.com^$third-party
 ||styld-by.com^$third-party
 ||substack.com/embed$third-party
 ||superwidget-assets.gowatchit.com^$third-party
@@ -36953,6 +36968,7 @@ tweaktown.com##.content-adblock
 minds.com##.content-block-ratator
 wateronline.com##.content-bribe-with-image
 hothardware.com##.content-delimeter > .header
+rsf.org##.content-page__footer--bottom
 bbcgoodfood.com##.content-promo
 time.com##.content-tools
 dlife.com##.contitle_content_actions_div
@@ -38348,6 +38364,7 @@ alternet.org###kindest-container
 wired.com##.consumer-marketing-unit--article-mid-content
 vox.com##.contribute-banner
 alternet.org##.cp-info-bar-container
+peoplesworld.org##.donate_strip
 propublica.org##.fundraising-letter-inline
 propublica.org##.module-donate
 newsweek.com##.msub
@@ -38577,6 +38594,7 @@ newstatesman.com,radioandmusic.com###popup
 thegolfnewsnet.com###popup-box-gfcr-1
 space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 thrillist.com###popup-signup
+peoplesworld.org###popupModal
 worldreligionnews.com###post_footer_promo
 scientificamerican.com###promo-header
 sperry.com,striderite.com###promotionalPopup
@@ -38697,6 +38715,7 @@ naturalnews.com##.Action-Subscribe-Container
 newshub.co.nz##.ArticleAttribution
 sitepoint.com##.ArticleHead_supplemental
 talkingpointsmemo.com##.Daybreaker
+cbssports.com##.EventPromoInline
 walmart.com##.Footer-topSection
 sitepoint.com##.FooterSub_form
 gohacking.com##.GH_sidebar_optin_inr
@@ -38765,6 +38784,7 @@ hcanews.com##.bgClick1
 hcanews.com##.bgClick2
 nocamels.com##.bl-block-signuptextpage
 albawaba.com##.black-box
+reason.com##.blackout
 radio.com,theticketmiami.com##.block--second-street--ss-block-signup
 ibtimes.com##.block-ibtimes-newsletters
 americamagazine.org##.block-mailchimp-signup
@@ -38786,9 +38806,11 @@ legit.ng##.c-footer-subscribe
 gq-magazine.co.uk##.c-infobar-wrapper
 newstalkzb.co.nz,radiosport.co.nz##.c-promo
 nature.com##.c-site-messages
+politico.com##.california-playbook-sign-up-right-rail
 npr.org##.callout
 time.com##.cartoon-newsletter-container
 classicsdujour.com##.cdj-vip
+newrepublic.com##.center.popup
 wired.com##.cm-hero-wrapper
 medpagetoday.com##.cme-join
 mercurynews.com##.cmg-mg2bn-collapsed
@@ -38861,7 +38883,7 @@ thegatewaypundit.com##.email-list-subscribe
 howtogeek.com##.email-overlay
 forbes.com##.email-promo
 ocregister.com##.email-sign-up
-chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
+chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,msmagazine.com,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 bhcourier.com##.email-signup-container
 newrepublic.com##.email-signup__slim
 maritimeprofessional.com##.email-subscription
@@ -38894,6 +38916,7 @@ corrosionpedia.com##.featured-form
 aljazeera.com##.feedback-signForm
 boardingarea.com##.feedblitz
 guidingtech.com##.fill-bb-light
+politico.com##.first-party-data-form
 fivethirtyeight.com##.fivethirtyeight-newsletter
 theblockcrypto.com##.fixed-bottom
 mercopress.com##.fixed-footer
@@ -39050,6 +39073,7 @@ thenewdaily.com.au##.mfp-bg
 motherjones.com##.mj-text-cta
 heartfm.co.za##.mk-subscribe-link
 fiercecable.com##.mktoForm
+fosspost.org##.ml-subscribe-form
 cambridge.org##.mod--style1
 businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 abc15.com##.modal--content
@@ -39066,7 +39090,9 @@ biznews.com##.module-cta
 ibtimes.com##.morning-insights
 rare.us##.move-social__inner
 cybersecurityventures.com##.mpc-callout
+msmagazine.com##.ms-actions
 motorsport.com##.ms-footer_top
+msnbc.com##.msnbcDaily__footer
 ft.com##.n-sliding-popup
 nature.com##.nature-briefing
 njtvonline.org##.nav-signup
@@ -39259,6 +39285,7 @@ patheos.com,politico.com##.simple-signup
 thebaffler.com##.single-email
 foreignaffairs.com##.site-footer-cta-menu
 good.is##.sitewide-alert
+si.com##.sk3lycs2
 salemreporter.com##.skybox-trial
 genuine-people.com,shopstyle.com##.slide-up-banner
 revntv.com##.slideOutTab
@@ -39386,6 +39413,7 @@ i24news.tv##.wrapper_footer_5_suscribe
 i24news.tv##.wrapper_footer_5_suscribe_form
 wwd.com##.wwd-subscribe-now-banner-ad-container
 concisenews.global,palmerreport.com##.yikes-mailchimp-container
+nypost.com,pagesix.com##.zephr-component
 minds.com##M-MODAL
 chicksonright.com##[data-name="Subscribe"]
 rollingstone.com##[href="/subscribe-more/"]
@@ -40391,6 +40419,7 @@ inquisitr.com##.frSlider
 goibibo.com##.fr_folus > .hd_fllus
 ageofwushu.com##.friendlink
 moneycontrol.com##.fsoci
+chicagotribune.com##.ft--btnbar
 scan.co.uk##.ft-SocialMedia
 digitalcontentnext.org##.ft-soc
 haymarketbooks.org##.ftr-follow
@@ -40431,6 +40460,7 @@ healthyplace.com##.healthyplace-on-facebook
 healthyplace.com##.healthyplace-on-twitter
 heavy.com##.heavy-facebook-like-us-widget
 slate.com##.highlighter-container
+si.com##.horiz
 imgism.com##.hoverlinks
 nature.com##.hp-tool-facebook
 nature.com##.hp-tool-twitter
@@ -40706,10 +40736,12 @@ filmofilia.com##.sidebar_top
 hotklix.com##.signinStrip
 patheos.com##.simple-follow
 japantimes.co.jp##.single-sns-area
+247sports.com##.site-header
 eveningecho.ie##.site-nav-facebook
 airliners.net##.site_sliver
 mainichi.jp##.sitemap-list2
 affiliatefix.com##.sitemaps_links_horizontal
+si.com##.sk4357jp
 news.sky.com##.sky-component-footer__list
 trust.org##.slide-out-div
 cafe.com##.slide-promo
@@ -46200,7 +46232,7 @@ radiolodz.pl#@#.share_icons
 gomiso.com#@#.share_panel
 wsj.com#@#.share_tools
 infoworld.com#@#.share_wrapper
-mozillamessaging.com,thebrowser.com#@#.sharebox
+mozillamessaging.com,thebrowser.com,wired.it#@#.sharebox
 join.me#@#.sharebutton
 boingboing.net,quizfreak.com#@#.sharebuttons
 mobiili.fi#@#.sharecontainer
