@@ -578,6 +578,7 @@ collector.ksax.com
 collector.kstptv5.com
 collector.mazeberry.com
 collector.prod.expedia.com
+collector.rn.de
 collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
@@ -2394,7 +2395,6 @@ te.mytoys.de
 te.supportfreecontent.com
 ted.dailymail.co.uk
 ted.metro.co.uk
-telegraph.api.hbo.com
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
