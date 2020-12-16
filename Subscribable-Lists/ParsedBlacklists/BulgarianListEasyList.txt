@@ -1110,6 +1110,7 @@ g4952108375.co
 g4p.redtram.com
 g5150192710.co
 g5348277045.co
+g5546361380.co
 ga-beacon.appspot.com
 ga.canoe.ca
 ga.kvideo.io
@@ -1693,6 +1694,7 @@ pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.safe-installation.com
+pixel.smartmedia.tj
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
