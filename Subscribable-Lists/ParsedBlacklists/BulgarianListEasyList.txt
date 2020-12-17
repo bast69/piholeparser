@@ -344,6 +344,7 @@ beacon.aimtell.com
 beacon.ehow.com
 beacon.errorception.com
 beacon.examiner.com
+beacon.flow.io
 beacon.gcion.com
 beacon.gu-web.net
 beacon.gutefrage.net
@@ -1264,6 +1265,7 @@ insights.cdt.ch
 insights.sitesearch360.com
 insitez.blob.core.windows.net
 instore.pagomeno.it
+intake-analytics.wikimedia.org
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
