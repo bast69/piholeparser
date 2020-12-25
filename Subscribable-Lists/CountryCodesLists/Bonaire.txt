@@ -1335,7 +1335,6 @@ icscards.nl.gervnl.nl
 icscards.nl.tsza.nl
 icstats.nl
 ict-112.nl
-id.google.nl
 idahoccu.nl
 idahoiccu.nl
 idgnet.nl
