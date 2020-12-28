@@ -226,6 +226,7 @@ an.mainichi.jp
 analysis.shinobi.jp
 analytics.app-adforce.jp
 analytics.liveact.cri-mw.jp
+analytics.mbga.jp
 analyze.unfinished.jp
 analyzer1.digidigi.jp
 anbe.jp
