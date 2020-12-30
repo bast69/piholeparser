@@ -336,6 +336,8 @@ certifi00catedpages12120145411120200000000000000000000000000.advanced-enable-cer
 certifi777777777777777777777777777777catedpages1392014541112020.advance-enable-certificate-of-pages-notify-000300120124.my.id
 certifi77777777777777777catedpagesinvitationteam162034541112020.advanced-enable-certificated-pages-0636346436624655020.my.id
 cesarhumairacoid.masterweb.id
+cfs.uzone.id
+cfs2.uzone.id
 cgi.ebay.de.annas.id
 chakayblue.my.id
 charisministries.id
@@ -399,6 +401,7 @@ cpanel.grupxx18.guied7.my.id
 cpanel.kiosgamer.guied7.my.id
 cpanel.unipinfreefire.guied7.my.id
 crm.safetymember.co.id
+csf.uzone.id
 css.pasangkacafilm.co.id
 ctsl.untirta.ac.id
 cuddl.id
