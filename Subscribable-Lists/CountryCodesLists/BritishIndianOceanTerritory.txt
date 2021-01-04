@@ -1936,6 +1936,7 @@ task.uax.io
 tatsuo.io
 taxact.extole.io
 techhome-js.github.io
+telemetry.api.wmcdp.io
 teletype.internal.intercom.io
 terraform-modules-test.intercom.io
 test-vokate.qa.extole.io
