@@ -11,6 +11,7 @@
 6pal.consobaby.com
 7lbd4.armandthiery.fr
 7mx.eider.com
+7q1z79gxsi.global.ssl.fastly.net
 913nd.dieti-natura.es
 a.20minutes.fr
 a.mobify.com
@@ -782,6 +783,7 @@ d3a2okcloueqyx.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
+d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
@@ -822,6 +824,7 @@ dc.letv.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dccss.banggood.com
+dcf.espn.com
 dd.nytimes.com
 dd6zx4ibq538k.cloudfront.net
 de-mi-nis-ner.info
@@ -1015,6 +1018,7 @@ event.api.drift.com
 event.dkb.de
 event.getblue.io
 event.syndigo.cloud
+event.webcollage.net
 eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
@@ -1286,6 +1290,7 @@ informers.sinoptik.ua
 ingest.sentry.io
 inquiries.redhat.com
 insight.fonecta.fi
+insights.algolia.io
 insights.cdt.ch
 insights.sitesearch360.com
 insitez.blob.core.windows.net

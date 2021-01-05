@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: qp3DpoW+P35smb2dG8lb5w
-! Version: 202101040211
+! Checksum: PipJHAVehOBbFBXTm2/q8g
+! Version: 202101050211
 ! Title: EasyList Italy
-! Last modified: 04 Jan 2021 02:11 UTC
+! Last modified: 05 Jan 2021 02:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -823,6 +823,7 @@ brocardi.it#@#.with-background-ads
 ||agipronews.it/image/banner/
 ||agraria.org/immagini/banner/
 ||agrigentonotizie.it/images/skin/
+||agrigentooggi.it^*/unnamed-2.png
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
 ||albinoleffe.com/images/banners/
