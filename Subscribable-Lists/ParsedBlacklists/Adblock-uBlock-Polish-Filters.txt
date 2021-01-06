@@ -3,6 +3,7 @@
 achcdn.com
 ad.docer.pl
 ad.facetpo40.pl
+ad.ipolska.pl
 ad.myapple.pl
 ad.vider.pl
 ad.webshark.pl

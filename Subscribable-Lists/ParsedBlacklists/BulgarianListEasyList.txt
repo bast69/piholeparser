@@ -757,6 +757,7 @@ d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
+d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -2446,6 +2447,7 @@ te.mytoys.de
 te.supportfreecontent.com
 ted.dailymail.co.uk
 ted.metro.co.uk
+telemetrics.klaviyo.com
 telemetry.api.wmcdp.io
 telemetry.art19.com
 telemetry.jivosite.com
