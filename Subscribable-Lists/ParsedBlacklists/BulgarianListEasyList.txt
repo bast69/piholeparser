@@ -17,7 +17,6 @@ a.20minutes.fr
 a.mobify.com
 a.o2u.jp
 a.tovarro.com
-a3xo-eng.spankbang.com
 a8ht.hipp.fr
 aa.avvo.com
 aax-eu-dub.amazon.com
@@ -434,6 +433,8 @@ buf.lemonde.fr
 bulb.76.my
 burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 burytimes-gb.burytimes.co.uk
+bvr.ast.snva.jp
+bvr.snva.jp
 bzclk.baidu.com
 c.bigmir.net
 c.gazetevatan.com
@@ -456,6 +457,7 @@ cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
+capi.connatix.com
 capture.condenastdigital.com
 capture.crutchfield.com
 carl.pubsvs.com
@@ -559,6 +561,7 @@ cmstrendslog.timesnow.tv
 cnstats.cdev.eu
 cnt.3dmy.net
 cnt.iceporn.com
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nicemix.com
@@ -614,6 +617,7 @@ contadores.miarroba.es
 contents-tracking.beop.io
 conversions.genieventures.co.uk
 convsgmp.taboola.com
+cookie.sync.usonar.jp
 cookies.livepartners.com
 cookies.reedbusiness.nl
 cookietracker.cloudapp.net
@@ -963,7 +967,6 @@ emarketing.rmauctions.com
 emng.libero.it
 encoderfarmstatsnew.servicebus.windows.net
 encoding.ovh
-endurablecrayon.com
 enfieldindependent-gb.enfieldindependent.co.uk
 engage-cdn.schibsted.media
 engagefront.meteomedia.com
@@ -1810,13 +1813,13 @@ pxc.otto.de
 pxlgnpgecom-a.akamaihd.net
 qubitanalytics.appspot.com
 r.bbci.co.uk
-r.mail.ru
 r.msn.com
 r.my.com
 r.sax.sina.com.cn
 radar.imgsmail.ru
 ramp.purch.com
 rand.com.ru
+ranking.apis.sankei-digital.co.jp
 rat.rakuten.co.jp
 rbc.magna.ru
 rc.rlcdn.com
@@ -1827,6 +1830,7 @@ rcsmetrics.it
 rd.alice.it
 rdtdlv.laredoute.fr
 reachandrich.antevenio.com
+realm.hearst3pcc.com
 reauthenticator.com
 rec-pl.quartic.pl
 rec.udn.com
@@ -1881,6 +1885,7 @@ rt.prnewswire.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtb.connatix.com
+rtg-endpoint.global.ssl.fastly.net
 rtn.thestar.com
 rtt.campanja.com
 rum.azion.com
@@ -2397,6 +2402,7 @@ tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
+tag.cribnotes.jp
 tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com
@@ -2512,6 +2518,7 @@ tr.interlake.net
 tr.marsflag.com
 tr.n2.hk
 tr.price.com.hk
+tr.reco.combz.jp
 tr.snapchat.com
 tr.webantenna.info
 tr.werkenntwen.de
@@ -2793,6 +2800,7 @@ trk.vindicosuite.com
 trowel.twitch.tv
 tru.webelapp.com
 trueffect.underarmour.com
+trusted-web-seal.cybertrust.ne.jp
 trx.smdatalabs.com
 trx3.famousfix.com
 ts.faz.net

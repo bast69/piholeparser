@@ -2862,6 +2862,7 @@ cnl.snprobbx.pbz.r.de.a2ip.ru
 cnld.ru
 cnopr.ru
 cnprealtime.ru
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.nov.ru
 cnt.one.ru

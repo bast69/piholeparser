@@ -405,6 +405,8 @@ business-solution.jp
 butter-delimmo.jp
 buyitnow.jp
 buzzurl.jp
+bvr.ast.snva.jp
+bvr.snva.jp
 bwb101.goo.ne.jp
 bxl.jp
 bypass.jp
@@ -468,6 +470,7 @@ contel.jp
 conti-tochitochi.jp
 continyup.jp
 control.smbeat.jp
+cookie.sync.usonar.jp
 cookpad-diet.jp
 core-trading.jp
 coreserver.jp
@@ -1402,6 +1405,7 @@ rakutenecard.jp
 rakutenhtadmin.jp
 rams-marks.jp
 rangsjapan.co.jp
+ranking.apis.sankei-digital.co.jp
 rarara.co.jp
 raraya.co.jp
 rat.rakuten.co.jp
@@ -1607,6 +1611,7 @@ t5ap8x0n.jp
 t9dm8z.jp
 tabitha.jp
 tadreares.jp
+tag.cribnotes.jp
 taggyad.jp
 tai-ga.co.jp
 taitannotatakai-kamisama.jp
@@ -1652,6 +1657,7 @@ topsystem.jp
 tora3.co.jp
 toshiotogorou.blogspot.jp
 touchlab.jp
+tr.reco.combz.jp
 tracer.jp
 track.47news.jp
 track.hatena.ne.jp
@@ -1664,6 +1670,7 @@ trepied.jp
 tres-star.jp
 truecombat.jp
 trustclick.ne.jp
+trusted-web-seal.cybertrust.ne.jp
 tsuuhan-labo.jp
 tumago.jp
 twpro.jp
