@@ -457,7 +457,6 @@ cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
-capi.connatix.com
 capture.condenastdigital.com
 capture.crutchfield.com
 carl.pubsvs.com
@@ -841,6 +840,7 @@ deepknow.egoid.me
 dejavu.mercadolivre.com.br
 deliver.oztam.com.au
 deliver.ptgncdn.com
+delivery.satr.jp
 desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
@@ -1317,6 +1317,7 @@ iwa.iplsc.com
 jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
+jen.jiji.com
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
 k.kolplay.com
@@ -1977,6 +1978,7 @@ soodatmish.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
+sourcepoint.dexerto.com
 sourcepoint.vice.com
 southendstandard-gb.southendstandard.co.uk
 southwalesargus-gb.southwalesargus.co.uk
@@ -2497,6 +2499,7 @@ tms.eharmony.ca
 tms.eharmony.co.uk
 tnla.thenewslens.com
 tns.simba.taobao.com
+to.getnitropack.com
 tongji.mafengwo.cn
 tongji.meizu.com
 tools.ranker.com
