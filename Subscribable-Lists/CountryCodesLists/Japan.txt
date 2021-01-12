@@ -336,6 +336,7 @@ bc.geocities.yahoo.co.jp
 bc.nhk.jp
 bcard.co.jp
 beacon.toyota.co.jp
+beacon.watch.impress.co.jp
 beanscattering.jp
 beauty-co.jp
 beep-shop.jp
@@ -1351,6 +1352,7 @@ portal6.jp
 ppf.rakuten.co.jp
 ppupdate.main.jp
 pr-youhin.co.jp
+pr.ameba.jp
 pr.wikiwiki.jp
 practice.seiko-wired.designtest.jp
 premiermember.jp

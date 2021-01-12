@@ -372,6 +372,7 @@ beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
 beacon.walmart.com
+beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beacon2.indieclick.com
@@ -1767,6 +1768,7 @@ pos.baidu.com
 postpixel.vindicosuite.com
 powercount.jswelt.de
 powersearch.us.com
+pr.ameba.jp
 pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
