@@ -1340,6 +1340,7 @@ meeting-23900123090123.bitbucket.io
 messenger-apps.intercom.io
 metric.cliphub.io
 metrics.backtrace.io
+metrics.getvitals.io
 metrics.readme.io
 metrics01.linode-ca1.backtrace.io
 metrics01.linode-de1.backtrace.io
@@ -1930,6 +1931,7 @@ tag-ams.1rx.io
 tag-nj.1rx.io
 tag-sjo.1rx.io
 tag.1rx.io
+tag.elevaate.io
 tapi.onthe.io
 taqywu51.soup.io
 task.uax.io
