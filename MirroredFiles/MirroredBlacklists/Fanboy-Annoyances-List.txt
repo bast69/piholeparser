@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +4b/182Li3hkrGriXiolig
-! Version: 202101170211
+! Checksum: +rUR/UouWwPOk2ULqY5rKA
+! Version: 202101180211
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Jan 2021 02:11 UTC
+! Last modified: 18 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -27188,7 +27188,6 @@ _vpcookieconsent/
 ###okno_rcookie
 ###okookie-box
 ###onetag_cookie_law
-###onetrust-consent-sdk
 ###onlyCookie
 ###onyx_cookiesinfo_bar
 ###onyx_cookiesinfo_spacer
@@ -27825,6 +27824,7 @@ _vpcookieconsent/
 ###sp-cc[action*="cookiepref"]
 ###sp-cookie-consent
 ###spartooCookies
+###spc-popup-cookie
 ###spcookiegdpr
 ###spfcookiebanner
 ###spletko-cookies
@@ -29339,6 +29339,7 @@ _vpcookieconsent/
 ##.cnilinfo
 ##.cnl-cookies
 ##.cnt-ckcnsntmngr
+##.cnt-cookies
 ##.cntx-cookie-info
 ##.cntx-cookie-modal-handler
 ##.cnwrap
@@ -31984,6 +31985,7 @@ _vpcookieconsent/
 ##.i-cookie-policy-notice
 ##.i-layout__cookie-notification
 ##.iCookieBar
+##.ia-m-cookie-flyout
 ##.ib-cookie-info-container
 ##.ib-global-cookie-notice
 ##.ib-m-cookie-banner
@@ -32824,7 +32826,6 @@ _vpcookieconsent/
 ##.ort-cookie-banner
 ##.osano-cm-window
 ##.osw-privacy
-##.ot-sdk-show-settings
 ##.ot_cookie_settings_btn
 ##.ou-cookies-bar
 ##.outer-privacy-top-navigationBar
@@ -33289,6 +33290,7 @@ _vpcookieconsent/
 ##.sf-cookiedisclaimer
 ##.sf_widget_permission
 ##.sfs-cookie-container
+##.sg-cookie-policy
 ##.sg-cookie-policy-popup
 ##.sg-cw-cookie
 ##.sgs-cookies-consent
@@ -42483,7 +42485,7 @@ truecaller.com##span > .max-w-md.shadow-lg
 web.dev##web-snackbar
 ! mobile.twitter.com
 mobile.twitter.com###react-root > div > div > .rn-gvpnoh
-twitter.com##.r-13qz1uu.r-1w50u8q
+twitter.com##.r-13qz1uu.r-tvv088.css-1dbjc4n
 mobile.twitter.com##.rn-gvpnoh.rn-eps6nq.rn-13qz1uu
 ! Custom Filters
 play.google.com##.gb_g:has-text(cookie)
@@ -44717,6 +44719,7 @@ efinancialcareers.de##.dismissable-notifications
 doctolib.de##.dl-drawer-bottom
 rtl-living.de,rtl.de,vox.de##.dnt__container
 i-dex.de,i-love-tec.de,moebel-und-garten.de##.dsgvo
+leica-enthusiast.de##.elementor-popup-modal
 waff.at##.en-notification
 audi.de##.ensNotifyBannerWrapper
 fgh-info.de##.fade.alert-warning.alert
@@ -44853,7 +44856,7 @@ keskeces.com###cook
 paconsulting.com###cookPop
 romedic.ro###cookbox
 cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,materiel.net,societe.com###cookie
-4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
+4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 mediametrie.fr###cooks
 listesdemots.com###cp
 makita.fr###disclaimer
@@ -45398,6 +45401,8 @@ supernordicskipass.it##.infPr
 vienormali.it##.info
 altroconsumo.it##.info-banner
 orgoglionerd.it##.irpclw
+estendo.it##.jconfirm
+estendo.it##.jconfirm-cell
 blogfree.net,forumfree.it##.jnote
 hertz247.it##.lbContainer
 hertzrent2buy.it##.lb_overlay
@@ -45560,6 +45565,7 @@ bilka.com.pl###mod99
 redbullmobile.pl###more1
 ttv.pl###msgLayer
 abt-s.pl###myModal
+polskicaravaning.pl###myModalpol
 fiatklubpolska.pl###navbar_notice_1
 diyaudio.pl###navbar_notice_11
 mondeoklubpolska.pl###navbar_notice_12
@@ -46834,7 +46840,6 @@ bosch-mobility-solutions.com#@##m-cookie-overlay
 faberkabel.de#@##modalCookie
 microsoft.com#@##ms-cookie-banner
 thesocialmedwork.com#@##notice-cookie-block
-crfashionbook.com,giochi.it,gmx.com,mail.com#@##onetrust-consent-sdk
 api.newsguardtech.com,rockpapershotgun.com#@##optanon
 theverge.com#@##privacy-consent
 readthedocs.io,sportdiver.com#@##privacy-policy

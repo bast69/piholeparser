@@ -445,6 +445,7 @@ kirdugunu.com.tr
 kirsalcevre.org.tr
 kitapindir.gen.tr
 kitapindir.web.tr
+kitaplar.gen.tr
 kitaplik.bilimvegelecek.com.tr
 klimahavalandirma.com.tr
 kocasoy.com.tr
@@ -893,7 +894,6 @@ www.cinarlastik.com.tr
 www.cinerreklam.com.tr
 www.citycollection.com.tr
 www.civciv.com.tr
-www.clck.yandex.com.tr
 www.clicks.hurriyet.com.tr
 www.ctteknik.com.tr
 www.cuneytugur.com.tr
@@ -1022,6 +1022,7 @@ www.kelebek.gen.tr
 www.kilicotomotiv.com.tr
 www.kitapindir.gen.tr
 www.kitapindir.web.tr
+www.kitaplar.gen.tr
 www.klimahavalandirma.com.tr
 www.konlas.com.tr
 www.kosel.com.tr
@@ -1049,9 +1050,7 @@ www.mesamed.com.tr
 www.mesanasansor.com.tr
 www.mesmobil.com.tr
 www.metkor.com.tr
-www.metrica.yandex.com.tr
 www.metrics.vodafone.com.tr
-www.metrika.yandex.com.tr
 www.mettek.com.tr
 www.mevzuat.com.tr
 www.mikronet.com.tr
@@ -1232,7 +1231,6 @@ www.yildiriminsaat.com.tr
 www.yonsoft.com.tr
 www.yos.inonu.edu.tr
 www.yuntper.com.tr
-www.zen.yandex.com.tr
 xn--altnoran-vkb.com.tr
 xn--yapikiredi-w2f.com.tr
 xn--yapikiredi-w2f.gov.com.tr
@@ -1283,4 +1281,3 @@ yos.inonu.edu.tr
 yukselenyapi.com.tr
 yuntper.com.tr
 yyplatformu.com.tr
-zen.yandex.com.tr
