@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +rUR/UouWwPOk2ULqY5rKA
-! Version: 202101180211
+! Checksum: RmWqn7SQ4+JIc3Nyf86/4A
+! Version: 202101190211
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Jan 2021 02:11 UTC
+! Last modified: 19 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -163,7 +163,6 @@
 /outbrainAd.
 ! Newsletter/Subscribe
 -160x120-newsletter.
--email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
 -iscrizione-newsletter-
@@ -40643,7 +40642,7 @@ watchfree.to##.backdrop
 moviesdbz.com##.backgroundPopup
 thedirectory.co.zw##.badge-lists
 dezeen.com,huffpost.com##.badges
-invenglobal.com##.banner
+dxomark.com,invenglobal.com##.banner
 southerntimesafrica.com##.be-sc-area
 peruthisweek.com##.bg2
 businessinsider.com##.bi-icons
@@ -40939,6 +40938,7 @@ nj.com##.inline-sidebar
 mapometer.com##.inright
 bossip.com,foreigndesknews.com##.insta
 bulova.com,cadenaazul.com,comicrelief.com,cwseed.com,dailystar.co.uk,filmfare.com,lapoderosa.com,peoplesweather.com,sassymamahk.com,triangleoffense.com##.instagram
+dxomark.com##.instagram-banner
 winnipegfreepress.com##.interactive
 yahoo.com##.interest-bar
 bestgamingmouse.online##.iqs
@@ -47528,6 +47528,7 @@ yoigo.com#@#thor-cookies
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
+@@||gen.jut.su/jcdn/minify?charset=*/videojs-share.$script,stylesheet,domain=jut.su
 @@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
 @@||getmyapp.link/content/images/share/$image,~third-party
 @@||gfycat.com^*/sharepage-*.js$script
@@ -47615,7 +47616,6 @@ yoigo.com#@#thor-cookies
 @@||ix.de/imgs/*/linkedin-$image,domain=heise.de
 @@||ix.de/scale/geometry/*/linkedin-$image,domain=heise.de
 @@||jailbreakqa.com/m/default/media/images/openid/
-@@||jjut.su/jcdn/minify?*/share/videojs-share.$script,stylesheet,domain=jut.su
 @@||jobs.kroger.com/platform/images/shared/social/$~third-party
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||joyreactor.cc/images/icon_social.png

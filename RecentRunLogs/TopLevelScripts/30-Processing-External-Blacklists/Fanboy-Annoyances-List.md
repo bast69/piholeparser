@@ -28,9 +28,9 @@ ____________________________________
 ### Removing Empty Space
 15148 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
-235 Lines After Removing Invalid FQDN Characters
+234 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case
-235 Lines After Converting All Text To Lower Case
+234 Lines After Converting All Text To Lower Case
 ### Checking For Fully Qualified Domain Name Requirements
 78 Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
