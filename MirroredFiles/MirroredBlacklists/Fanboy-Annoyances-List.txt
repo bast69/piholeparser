@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RmWqn7SQ4+JIc3Nyf86/4A
-! Version: 202101190211
+! Checksum: MT0zHS2mZfsVDFnV1IN2NA
+! Version: 202101200211
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Jan 2021 02:11 UTC
+! Last modified: 20 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3921,7 +3921,6 @@ _youtube_social_
 /consent/manager/*$script
 /consent/message.js
 /consent_non-eu.
-/consentcontroller.fallback/epaas.
 /consentcookie.js
 /consentcookie.min.js
 /ConsentTracking-
@@ -4289,6 +4288,7 @@ _youtube_social_
 /ElxtrConsent/*
 /emea-cookie-
 /ena_cookies_
+/epaas.consentdrawer.
 /eprivacy-cookie.
 /ercookiebar.
 /et_gdpr_
@@ -38763,6 +38763,7 @@ dealnews.com##.engagement-container
 propublica.org##.fundraising-letter-inline
 artnews.com##.get-the-magazine__outer
 npr.org##.global-modal
+miaminewtimes.com##.ia-support
 propublica.org##.module-donate
 newsweek.com##.msub
 propublica.org##.promo-bar__link-wrapper
@@ -46499,7 +46500,7 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
 cnet.com,kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sailweb.co.uk,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sailweb.co.uk,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,webpronews.com,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
