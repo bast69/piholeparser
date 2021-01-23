@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VA5N29gESHRNYbXThqQcbQ
-! Version: 202101220221
+! Checksum: uUuTfJ4qeQGNXjaKEzjarw
+! Version: 202101230211
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Jan 2021 02:21 UTC
+! Last modified: 23 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6448,6 +6448,7 @@ _vpcookieconsent/
 ##.js-sidebar-signup
 ##.js-subscription-combo-box
 ##.js_newsletter-btn--subscribe
+##.js_newsletter-form-inline
 ##.keystone-newsletter-class
 ##.klaviyo_flyout
 ##.l-footer__newsletter
@@ -10051,6 +10052,7 @@ _vpcookieconsent/
 ###share-this-article
 ###share-this-hover
 ###share-this-topams
+###share-to-any
 ###share-toggle
 ###share-tools
 ###share-tools-fixed
@@ -14646,8 +14648,10 @@ _vpcookieconsent/
 ##.headsocialicons
 ##.headsocialitem
 ##.heateorSssSharingRound
+##.heateorSsspSharing
 ##.heateor_sss_sharing_container
 ##.heateor_sss_sharing_ul
+##.heateor_sssp_sharing_container
 ##.heder-socail
 ##.hentry-share
 ##.hentry__share
@@ -20926,6 +20930,7 @@ _vpcookieconsent/
 ##.widget_g1_socials
 ##.widget_getconnected
 ##.widget_googleplus
+##.widget_heateor_sssp_follow
 ##.widget_ione-facebook-activity
 ##.widget_ione-facebook-like
 ##.widget_ione-social_conversion
@@ -27999,6 +28004,7 @@ _vpcookieconsent/
 ###truste-consent-track
 ###ts_cookie_info
 ###tscookiebar
+###tso-cookie-bar
 ###tt-cookie-badge
 ###tt-cookie-check
 ###tt-cookie-overlay
@@ -39733,6 +39739,7 @@ phonearena.com##.spot_disclaimer
 theprepared.org##.sqs-slide-layer-content
 timesofoman.com##.stayUpdated
 ncaa.com##.sticky-button-section
+protocol.com##.sticky-target
 politico.com##.story-related
 bulletproof.com##.su
 reclaimthenet.org##.su-box
@@ -42373,7 +42380,7 @@ spiceworks.com##.sui-site-message-container
 outage.report##.swal2-container
 haier.com##.swiper-slide-img-txt
 games2gether.com##.system-notification-container
-socioinform.com##.t886
+ralabs.org,socioinform.com##.t886
 tudorwatch.com##.tdr-ribbon
 yahoo.com##.tdv2-applet-nagbar
 abcnews.go.com##.terms-alert-fixed
@@ -42393,6 +42400,7 @@ untappd.com##.tos-banner
 thomsonreuters.com##.tr-DismissibleBanner
 troax.com##.troax-messages
 nfumutual.co.uk##.u-bg-padd
+head-fi.org##.u-bottomFixer
 asendiausa.com##.ui-alert
 gloucestershire.gov.uk,portwell.com.tw##.ui-dialog
 chregister.ch##.ui-notificationbar

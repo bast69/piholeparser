@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zaDywewIQRlM9vE4MRB67w
-! Version: 202101220240
+! Checksum: BVjGFM19XbG6j4+lDr+pBA
+! Version: 202101230220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 22 Jan 2021 02:40 UTC
+! Last modified: 23 Jan 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -446,6 +446,7 @@ acc.cv.ua#?#.FooterItem:-abp-has(.footermenusocial)
 auto.ru##.IndexSocialLinks
 meduza.io##.MaterialPanel-share
 iviche.com##.MuiToolbar-root > div ~ div > a[href][rel="noopener noreferrer"]
+hromadske.ua##.SocialShareBlock
 meduza.io##.Toolbar-list > .Toolbar-item:not(:last-child)
 lenta.ru##._social-network
 nur.kz##.a__share--image
@@ -758,6 +759,7 @@ rueconomics.ru##.l-footer-socials
 tverigrad.ru##.l-pad.row > .hidden-xs
 zik.ua##.l-soc-wrap
 news.ru##.larger-social-links
+anime-bit.ru#?#.layer_box_center_blocks_right:-abp-has(> #vk_groups)
 chasdiy.org##.left-side__socials__facebook
 asienda.ru##.left-socials
 chernomorets.odessa.ua##.left-widget
@@ -1005,6 +1007,8 @@ torm-egan.ru#?#.sidebox:-abp-has(> .sidebox-soc)
 kinovego.ru#?#.sidebox:-abp-has(span:-abp-contains(Группа Vk))
 grodno24.com##.similar-social
 rg.ru##.single-banner
+rubryka.com##.single-page__info-inner a[href*="facebook.com"]
+rubryka.com##.single-page__social
 nabat.news##.single-sharing
 debaty.sumy.ua##.single_pluso_title
 game2day.org,game2day.ru##.single_socials
@@ -2763,6 +2767,7 @@ meduza.io##.MaterialPanel-ad
 cnews.ru##.NewsBody > .video.img-block
 rubukkit.org##.Notices.PanelScroller
 userstyles.org##.NotificationLine
+hromadske.ua##.Questionnaire
 meduza.io##.Section-isBrief_subscription
 meduza.io#?#.Section-root > .Section-block:-abp-has(.Tag-root:-abp-contains(партнерский материал))
 softportal.com##.TblBorderCLR > tbody > tr > td[style="padding:15px 0;"][align="center"]
@@ -3118,6 +3123,7 @@ rbc.ru##.l-sticky-right-parent
 drive2.com,drive2.ru##.l-top
 teleprogramma.pro##.large-aside
 kinoafisha.info##.layer-notificationPopup
+anime-bit.ru#?#.layer_box_center_blocks_right:-abp-has(> a[href*="://vk.com/donate"])
 habr.com##.layout__row_promo-blocks
 lib.rus.ec##.lb-pay__overlay
 no-steamserv.ru##.lc_area
@@ -9268,6 +9274,7 @@ _youtube_social_
 ###share-this-article
 ###share-this-hover
 ###share-this-topams
+###share-to-any
 ###share-toggle
 ###share-tools
 ###share-tools-fixed
@@ -13863,8 +13870,10 @@ _youtube_social_
 ##.headsocialicons
 ##.headsocialitem
 ##.heateorSssSharingRound
+##.heateorSsspSharing
 ##.heateor_sss_sharing_container
 ##.heateor_sss_sharing_ul
+##.heateor_sssp_sharing_container
 ##.heder-socail
 ##.hentry-share
 ##.hentry__share
@@ -20143,6 +20152,7 @@ _youtube_social_
 ##.widget_g1_socials
 ##.widget_getconnected
 ##.widget_googleplus
+##.widget_heateor_sssp_follow
 ##.widget_ione-facebook-activity
 ##.widget_ione-facebook-like
 ##.widget_ione-social_conversion
@@ -24972,6 +24982,7 @@ _backToTop.
 ##.js-sidebar-signup
 ##.js-subscription-combo-box
 ##.js_newsletter-btn--subscribe
+##.js_newsletter-form-inline
 ##.keystone-newsletter-class
 ##.klaviyo_flyout
 ##.l-footer__newsletter
