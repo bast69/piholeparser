@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uUuTfJ4qeQGNXjaKEzjarw
-! Version: 202101230211
+! Checksum: hsQyJezn3cJG/vpAwLwkhg
+! Version: 202101240211
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Jan 2021 02:11 UTC
+! Last modified: 24 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4895,6 +4895,7 @@ _vpcookieconsent/
 ##.ampz_email
 ##.android-smart-banner
 ##.anews-web-widget
+##.app-download-interstitial
 ##.aptureTMMBar
 ##.article-next-sticky
 ##.articles-recirculation
@@ -4973,6 +4974,7 @@ _vpcookieconsent/
 ##.jnews_popup_post_container
 ##.jobs-information-call-to-action
 ##.journey-inline-newsletter
+##.js-app-download-interstitial
 ##.lf_comment_notifier
 ##.liSocialMail
 ##.loggedout-follow-typekit
@@ -6941,6 +6943,7 @@ _vpcookieconsent/
 ##.promo-subscribe
 ##.promo-telegram-newsletter-desktop
 ##.promos-newsletter
+##.ps-widget--email-optin
 ##.psmag_subscribe_box_wrapper
 ##.psp_newsletter_subscribe
 ##.radium-builder-widget-newsletter-form
@@ -11016,6 +11019,7 @@ _vpcookieconsent/
 ###t-sns
 ###tab-share
 ###tabcontent_facebook
+###table_shareus
 ###tb-facebook
 ###tb-gplus
 ###tb-pinit
@@ -11633,6 +11637,7 @@ _vpcookieconsent/
 ##.aboutShareLinks
 ##.aboutSocialLinks
 ##.above-content-share-tools
+##.above-content-sharebar
 ##.above-nav-social
 ##.abp-social-div
 ##.absurdsharediv
@@ -14501,6 +14506,7 @@ _vpcookieconsent/
 ##.gui-btn-sm-twitter
 ##.gui-btn-sm-youtube
 ##.guides16-social-top
+##.h-button-social
 ##.h-c-social
 ##.h-do-share
 ##.h-share
@@ -20170,6 +20176,7 @@ _vpcookieconsent/
 ##.td-sp-ico-social
 ##.td-tags-and-social-wrapper-box
 ##.td_block_social_counter
+##.td_shareus
 ##.td_social_counter
 ##.td_social_type
 ##.tdm-social-item-wrap
@@ -20807,6 +20814,7 @@ _vpcookieconsent/
 ##.vsac-social-email
 ##.vshare
 ##.vxp-share__channel-link
+##.w-button-social
 ##.w-content-details-article-extra-sharing
 ##.w-content-details-sharing
 ##.w-icon-share-facebook
@@ -32108,6 +32116,7 @@ _vpcookieconsent/
 ##.js-bottom-notif-msg-privacy
 ##.js-cc-announcement
 ##.js-cmp-cookiesBar
+##.js-consent-banner
 ##.js-consent-bar
 ##.js-consent-form
 ##.js-consent-notice
@@ -34252,6 +34261,7 @@ _vpcookieconsent/
 ||d15r06k2ko210l.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
 ||d9etzk30b05yg.cloudfront.net^
+||data.tm-awx.com^$third-party
 ||desipearl.com^$third-party
 ||devscroll.com^$third-party
 ||dhpikd1t89arn.cloudfront.net^
@@ -37701,6 +37711,7 @@ theblaze.com##.instory-firewire-container
 outsideonline.com##.interjector
 cnn.com##.internal-nav-menu
 fashionista.com##.interruptor
+imdb.com##.interstitial
 health.harvard.edu##.interstitial_dialog
 ee.co.uk##.intro-banner-iparsys
 gentside.com,maxisciences.com##.invite-popin
@@ -39736,6 +39747,8 @@ spiegel.de##.spezialbalken
 phonearena.com##.spot_disclaimer
 500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 500px.com,androidsage.com##.spu-box
+superdataresearch.com##.sqs-slide
+superdataresearch.com##.sqs-slide-layer
 theprepared.org##.sqs-slide-layer-content
 timesofoman.com##.stayUpdated
 ncaa.com##.sticky-button-section
@@ -42116,6 +42129,7 @@ avid.com,editus.lu##.fancybox-overlay
 editus.lu##.fancybox-wrap
 microsoft.com##.feedback-visible
 thebodyshop.com##.first-time-visitor
+privacysavvy.com##.fixed
 jsonquerytool.com##.fixed-bottom
 wallpaperdirect.com##.fixed-bottom.container
 mobileshop.eu##.fixed-warning
@@ -42409,6 +42423,7 @@ portwell.com.tw##.ui-widget-overlay
 superiorwallpapers.com,wallpapermania.eu##.uk-alert
 etletstalk.com##.ulp-overlay
 etletstalk.com##.ulp-window-top-center
+tcm.com##.universal-footer__ribbon
 anisearch.com##.urgent-msg
 cnn.com,liveuamap.com##.user-msg
 fxsolver.com##.userMessage
@@ -46920,7 +46935,7 @@ proglib.io#@#.cookie-visible
 ben.nl,bynco.com#@#.cookie-wall-container
 mediapart.fr#@#.cookie-warn
 samsung.com,verisign.com#@#.cookie-warning
-correosexpress.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,travelchannel.co.uk#@#.cookie-wrapper
+correosexpress.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,statestreet.com,travelchannel.co.uk#@#.cookie-wrapper
 thesocialmedwork.com#@#.cookie.message
 lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie.row
 bezeq.co.il#@#.cookieAlert
