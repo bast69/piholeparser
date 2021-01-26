@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: g6sIlCj/cIYYx3UUCRf5QA
-! Version: 202101230211
+! Checksum: cyLvjyVwol5xK9+GRub+Ng
+! Version: 202101260211
 ! Title: EasyList Italy
-! Last modified: 23 Jan 2021 02:11 UTC
+! Last modified: 26 Jan 2021 02:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -4766,6 +4766,7 @@ empolifc.com##.o-section--promo
 tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
+prezzisalute.com##.offerte
 lamilano.it##.olvu
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text

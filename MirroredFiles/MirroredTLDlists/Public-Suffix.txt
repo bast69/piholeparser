@@ -6805,6 +6805,9 @@ yt
 // xn--90ae ("bg", Bulgarian) : BG
 бг
 
+// xn--mgbcpq6gpa1a ("albahrain", Arabic) : BH
+البحرين
+
 // xn--90ais ("bel", Belarusian/Russian Cyrillic) : BY
 // Operated by .by registry
 бел
@@ -6936,6 +6939,9 @@ yt
 
 // xn--80ao21a ("Kaz", Kazakh) : KZ
 қаз
+
+// xn--q7ce6a ("Lao", Lao) : LA
+ລາວ
 
 // xn--fzc2c9e2c ("Lanka", Sinhalese-Sinhala) : LK
 // https://nic.lk
@@ -10996,6 +11002,10 @@ cleverapps.io
 // Submitted by Mathilde Blanchemanche <mathilde@clic2000.fr>
 clic2000.net
 
+// ClickRising : https://clickrising.com/
+// Submitted by Umut Gumeli <infrastructure-publicsuffixlist@clickrising.com>
+clickrising.net
+
 // Cloud66 : https://www.cloud66.com/
 // Submitted by Khash Sajadi <khash@cloud66.com>
 c66.me
@@ -12821,6 +12831,11 @@ skygearapp.com
 // OutSystems
 // Submitted by Duarte Santos <domain-admin@outsystemscloud.com>
 outsystemscloud.com
+
+// OVHcloud: https://ovhcloud.com
+// Submitted by Vincent Cassé <vincent.casse@ovhcloud.com>
+*.webpaas.ovh.net
+*.hosting.ovh.net
 
 // OwnProvider GmbH: http://www.ownprovider.com
 // Submitted by Jan Moennich <jan.moennich@ownprovider.com>
