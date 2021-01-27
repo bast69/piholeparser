@@ -17,6 +17,7 @@ adv.wp.pl
 advertising.com
 affiliates-solutions.com
 almuradtiles.zohosites.com
+angeldonationblog.com
 angelo.fernandonguyen.online
 api.systempartnerski.pl
 app.shopeneo.network
@@ -26,9 +27,11 @@ bodelen.com
 brand.ad
 burdaffi.burdadigital.pl
 clkpl.tradedoubler.com
+codevexillium.org
 coin-have.com
 coin-hive.com
 coinhive.com
+colasprint.com
 contextweb.com
 corto.www.wp.pl
 d1f5rbi95y1icu.cloudfront.net
@@ -38,8 +41,11 @@ dexessee.com
 disqusads.com
 doubleclick.net
 drda5yf9kgz5p.cloudfront.net
+dronerc.it
+edujikim.com
 embed.powercontent.pl
 exyzz.pl
+fabioluciani.com
 fads.online
 faidoud.com
 fireads.network
@@ -50,8 +56,10 @@ groorgex.net
 hyphenion.com
 img.lzrikate.com
 indexww.com
+investbooking.de
 keechavy.com
 kinoseans.pl
+krakenfolio.com
 lcx.pl
 leadexpert.pl
 lib.ads4g.pl
@@ -61,6 +69,7 @@ marketplace.ofeminin.pl
 media.stsaff.pl
 mg.steepto.com
 online-mexos.efortuna.pl
+opsonew3org.sg
 ovh.webshark.pl
 peachlandeu.com
 pl.tradenewsinvesting.com
@@ -82,6 +91,9 @@ syndication.exdynsrv.com
 thiksikr.com
 track.aftermarket.pl
 track.cux.io
+transferwiser.io
+transplugin.io
+trophylab.com
 uod2quk646.com
 vaks.pl
 video.vid4u.org

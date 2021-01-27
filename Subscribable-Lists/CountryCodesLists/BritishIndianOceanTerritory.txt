@@ -1991,6 +1991,8 @@ tracking.adsrv.io
 tracking.customerly.io
 tracking.graphly.io
 tracking.i2w.io
+transferwiser.io
+transplugin.io
 travelzoo-uk.extole.io
 travelzoo.extole.io
 trello.intercom.io

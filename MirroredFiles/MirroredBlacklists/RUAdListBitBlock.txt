@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G6+vSsatLS/5uSB1FzOV+g
-! Version: 202101260230
+! Checksum: BKAcc553uhCPb0OiZYb8Ng
+! Version: 202101270230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 26 Jan 2021 02:30 UTC
+! Last modified: 27 Jan 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1097,6 +1097,7 @@ mybrazz.club,prokazan.ru##.social-lines
 mybrazz.club##.social-links-left
 ctnews.ru##.social-links_title
 kopilkasovetov.com##.social-media-area
+zetflix.to##.social-mediablock
 drinks.ua##.social-network
 mc.today##.social-share-yellow
 xsport.ua##.social-sharer-holder
@@ -3219,6 +3220,7 @@ motorpage.ru##.news-subscr
 finance.ua##.news-subscribe
 newsdozor.ru##.news.normaltext .bbc_img
 ozon.ru##.news_block
+ranobe-novels.ru##.no-ads-link
 seeyoupage.ru##.no_ampr
 gameru.net##.noad
 warhead.su##.notice--wide
@@ -3347,7 +3349,7 @@ sportanalytic.com#?#.rightModules > .block:-abp-has(> .bt > .bct:-abp-contains(/
 ruskline.ru##.right_banner_inner_1
 video.sibnet.ru##.right_column > #menu_profile ~ .block1[style]
 liveinternet.ru##.rightcolumn > .news
-showjet.ru##.rmp-waring-content
+showjet.net##.rmp-waring-content
 4pda.ru##.rnd-slider
 vesti.ua##.rowFullSecond
 www.rambler.ru##.rui-ToplineAd-adPlace
@@ -3395,7 +3397,7 @@ kfund-media.com##.site__policy-banner
 minfin.com.ua##.skySanta
 parlament.ua##.slide-in-wrap
 gorodrabot.ru##.snippet_advertising
-gamelendi.ru##.snow
+gamelendi.ru,mult-porno.cam,sex-studentki.cam,sex-studentki.me##.snow
 porodakoshki.ru##.socialer-popup-overlay
 europaplustv.com##.spec-box[onclick*="europaplustv.com"]
 3dnews.ru##.spec-proj-btn
@@ -3596,6 +3598,7 @@ sports.ru##a[href^="http://www.sports.ru/fantasy/promo/"]
 secretmag.ru##a[href^="https://forms.gle/"]
 nashvancouver.com##a[href^="https://nashvancouver.com/linkout/"] > img
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to##a[onclick="return toggle_new_year();"]
+skillbox.ru##app-cookies
 thebell.io##app-subscription-sticky-dialog
 thebell.io##app-widget-subscription
 sports.ru#?#article > .news-item__content > p:-abp-has(a[href^="https://specials.sports.ru/"])
@@ -21919,7 +21922,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apple.com^*/retail-static-landing/icon-social-distancing_large.png$image
@@ -22456,6 +22459,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||tipranks.com/social-auth/images/buttons/$image
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter-$domain=thenextweb.com
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter.$domain=thenextweb.com
+@@||toneden.io/production/javascripts/social.js$script,~third-party
 @@||torrentfreak.com/images/google-$~third-party
 @@||torrentfreak.com/images/reddit$image
 @@||tosdr.org/logo/$image
@@ -24850,6 +24854,7 @@ _backToTop.
 ##.et_bloom_flyin
 ##.et_bloom_optin
 ##.et_newsletter_widget
+##.evergreen-newsletter-module
 ##.exacttarget-newsletter-signup
 ##.expert-newslater
 ##.ezn-newsletter_inarticle_banner
