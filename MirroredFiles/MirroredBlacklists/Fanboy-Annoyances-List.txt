@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kGwLYGRhoZIRXxBuOt1/Tw
-! Version: 202101270221
+! Checksum: ZSE9YAPqJQ0MnmeS0qukMg
+! Version: 202101280211
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Jan 2021 02:21 UTC
+! Last modified: 28 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -791,6 +791,7 @@ _backToTop.
 /site-notification-desk.
 /sna-pushwoosh.
 /t2push.
+/web-push-
 /web-push-worker.
 /web-push.
 /webalert-notification
@@ -6179,6 +6180,7 @@ _vpcookieconsent/
 ##.content-subscribe-block
 ##.content-toaster--newsletter
 ##.content-well-newsletter
+##.content_newsletter
 ##.cookie-notice-wrapper-newsletter
 ##.cro-common-newsletter-ecomail-entityform-edit-form
 ##.css-live-widget_subscribeEmails
@@ -6340,6 +6342,7 @@ _vpcookieconsent/
 ##.form__newsletter-subscribe--block
 ##.form_newsletter_signup
 ##.free-enewsletters-widget
+##.ft_newsletter
 ##.ftop-scrolltop
 ##.ftr-nwsltr
 ##.fxs_suscribe
@@ -8879,6 +8882,7 @@ _vpcookieconsent/
 ###connect_share
 ###consol-share
 ###container-like-button
+###container-reseaux-sociaux
 ###content-article-share
 ###content-share-top
 ###content-sharer-article
@@ -9531,6 +9535,10 @@ _vpcookieconsent/
 ###icon-twitter
 ###icon-twitterbird
 ###icon-youtube
+###iconSocialFacebook
+###iconSocialInstagram
+###iconSocialTwitter
+###iconSocialYoutube
 ###icon_facebook
 ###icon_facebook_small
 ###icon_fb
@@ -9635,6 +9643,7 @@ _vpcookieconsent/
 ###like_wrap
 ###likebox
 ###likebox-frame
+###likebox_content
 ###likeboxreceiver
 ###likeboxwrap
 ###likebtn
@@ -15139,6 +15148,7 @@ _vpcookieconsent/
 ##.iconGPlus
 ##.iconGoogle
 ##.iconPinterest
+##.iconSocial
 ##.iconTumblr
 ##.iconTw
 ##.iconTwitter
@@ -15686,6 +15696,7 @@ _vpcookieconsent/
 ##.list-footer-socials
 ##.list-item-facebook
 ##.list-item-twitter
+##.list-reseaux-sociaux
 ##.list-share
 ##.list-share__item
 ##.list-social
@@ -27208,6 +27219,7 @@ _vpcookieconsent/
 ###okno_rcookie
 ###okookie-box
 ###onetag_cookie_law
+###onetrust-consent-sdk
 ###onlyCookie
 ###onyx_cookiesinfo_bar
 ###onyx_cookiesinfo_spacer
@@ -34676,6 +34688,7 @@ _vpcookieconsent/
 ||sendyourpush.com^$third-party
 ||signaly.co^$third-party
 ||snrcdn.net^$third-party
+||spacepush.ru^$third-party
 ||subscribers.com^$third-party
 ||topswp.com^$third-party
 ||ucfeed.ru^$third-party
@@ -35045,7 +35058,6 @@ _vpcookieconsent/
 ||ccpa-script.psg.nexstardigital.net^
 ||civiccomputing.com^*=cookie$third-party
 ||clickio.mgr.consensu.org^$third-party
-||clickiocdn.com^$third-party
 ||cmp.network-n.com^
 ||cmp.nextday.media^
 ||consensu.org/gdpr/$third-party
@@ -38785,6 +38797,7 @@ finestdaily.com##table[width="642"]
 ! Self-promo Ads
 alternet.org###kindest-container
 theweek.com###us77-test
+out.com##.bean-house-promo
 wired.com##.cm-footer-container
 foxnews.com##.commenting-nation-promo
 wired.com##.consumer-marketing-unit--article-mid-content
@@ -43967,6 +43980,7 @@ europe1.fr,lemonde.fr##.partage
 jeuxvideo.fr,jeuxvideopc.com##.pictos
 leparisien.fr##.plusRecommande
 terresinovia.fr##.reseaux-list
+pulsaroptics.fr##.reseaux_sociaux
 madagascar-tribune.com##.rezo_sociaux
 bledina.com##.rs-icon
 la-croix.com##.send-article-icon
