@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZSE9YAPqJQ0MnmeS0qukMg
-! Version: 202101280211
+! Checksum: a9SZtJMVcBGw1cPxnU6xlQ
+! Version: 202101290221
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Jan 2021 02:11 UTC
+! Last modified: 29 Jan 2021 02:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6197,6 +6197,7 @@ _vpcookieconsent/
 ##.d-newsletter
 ##.d1-article-sidebar-subscribe-msg
 ##.d1-article-subscribe
+##.daily-news-letter
 ##.daily-newsletter
 ##.daily-newsletter-anmeldung_r
 ##.daily_email_signup
@@ -7946,6 +7947,7 @@ _vpcookieconsent/
 ##.footer__backtotop-btn
 ##.footer__go-to-top
 ##.footer__nav-to-top
+##.footernavigation__scrollUp
 ##.fwscrolltotop
 ##.g1-back-to-top
 ##.g1-back-to-top-on
@@ -25997,6 +25999,7 @@ _vpcookieconsent/
 ###euCookiesZone
 ###euLaw-alert
 ###euNotice
+###euPopup
 ###eu_compliance
 ###eu_cookie
 ###eu_cookie_alert
@@ -39643,6 +39646,7 @@ pedestrian.tv##.panel-signup-footer
 livescience.com,space.com##.partner-banner
 patheos.com##.patheos-newsletter-mod-rail
 vanityfair.com,wired.com##.paywall-bar--visible
+nautil.us##.paywall-popup
 dbknews.com##.pb-f-global-mailchimp-signup
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 washingtonpost.com##.pb-f-page-follow-instream
@@ -42558,6 +42562,7 @@ smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
+msn.com###onetrust-consent-sdk
 shirtsofcotton.com###udtDark
 bild.de,welt.de##.as-oil
 icq.com##.ca_wrap
@@ -44273,6 +44278,7 @@ fanpage.it##.ft-icon
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.fumetti
 ilmeteo.it##.giornale-contatti
 advicegroup.it##.google
+cellulare-magazine.it##.google-news
 montecarlonews.it##.google_news
 webnews.it##.gplus
 ilbianconero.com##.header-banner-menu

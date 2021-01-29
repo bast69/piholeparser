@@ -1835,6 +1835,7 @@ ssltest.branch.io
 ssltest2.branch.io
 sss.cdn.onthe.io
 st.extole.io
+st.hbrd.io
 stackit.io
 stage.adjust.io
 stage.branch.io
