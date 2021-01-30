@@ -2278,7 +2278,6 @@ generateurdecodepsn.fr
 generateurdecreditsfifa15.fr
 generateurs-du-web.fr
 generations-vins.fr
-geo.6play.fr
 geophom.fr
 gerronnimo.free.fr
 gesticentre.fr

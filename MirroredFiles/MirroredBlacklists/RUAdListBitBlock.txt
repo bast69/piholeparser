@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mMTJiqcSC+wxD3GzzKkw5w
-! Version: 202101290230
+! Checksum: J2PcL1HTeeqtDqogTVUrAQ
+! Version: 202101300230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 29 Jan 2021 02:30 UTC
+! Last modified: 30 Jan 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -57,7 +57,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~1gai.ru|~animalreader.ru|~animego.org|~brgi1.ru|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomoco.xyz|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinovideo.cc|~kinovideo.tv|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~v-variant.com.ua|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~1gai.ru|~1prime.ru|~animalreader.ru|~animego.org|~brgi1.ru|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomoco.xyz|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinovideo.cc|~kinovideo.tv|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~v-variant.com.ua|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -346,6 +346,7 @@ vk.com###pv_hh
 sfw.org.ua###qipbtn
 116.ru,14.ru,161.ru,164.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,62.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,e1.ru,mgorsk.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,proizhevsk.ru,provoronezh.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru###record-header > section + div[class] > div + div
 online.ua###referendum_soc468
+guland.com.ua#?##reply-title:-abp-has(> span:-abp-contains(поділіться:))
 rg.ru###rgb_ads_vk
 rg.ru###rgb_telegram
 yap.ru,yaplakal.com###right-column > div > noindex
@@ -720,6 +721,7 @@ teleprogramma.pro##.header-progress_socials
 livemaster.ru##.header-soc-icons
 golos.ua,mediaryazan.ru,segodnya.ua,tlt.ru,vladnews.ru##.header-social
 avtoblog.ua##.headerSoc
+1prime.ru##.header__buttons
 islam-today.ru##.header__other-buttons
 agrarii-razom.com.ua##.header__secondary-menu__we-in-network
 medialeaks.ru##.header__section_social
@@ -944,6 +946,7 @@ safetygate.ru##.round-bs[class*="icon-"]
 radiokp.ru##.rr-follow-wr
 kulturologia.ru##.rss
 get-tune.cc,mp3cc.biz,mp3iq.com##.rt_share
+tsn.ua##.s-social-bar-static
 darada.co,sensatsiya.com##.s_stk
 edinstvennaya.ua##.sb-instagram__button
 kp.ua##.sb-subscribe
@@ -999,10 +1002,12 @@ foto.ua##.side-banner-social
 coldfilm.su#?#.side-box:-abp-has(#vk_groups)
 kinohype.me#?#.side-box:-abp-has(> .side-bc > .vk)
 daily.afisha.ru##.side-popular__social
+guland.com.ua##.sidebar
 podrobnosti.ua##.sidebar .active > [href="javascript:;"]
 freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(/Наш RSS|Наша Группа ВК/)
 freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(/Наш RSS|Наша Группа ВК/) + div
 ukrmir.info##.sidebar > .module-social > .module-inner > .module-title
+turkcinema.org##.sidebar > .widget-wrap > .widget_text
 cikavosti.com,vstx.org#?#.sidebar > .widget:-abp-has([href*="//t.me/"])
 1jazz.ru#?#.sidebar aside:-abp-has(> .textwidget > .ya-share2)
 cikavosti.com##.sidebar noindex > [href^="https://cikavosti.com/goto/"]
@@ -1053,7 +1058,7 @@ dnepr.info##.soc-tabs-js
 gts.tv,orsk.ru##.soc-widgets
 gismeteo.by,gismeteo.kz##.soc2
 mybryansk.ru##.socBlocks
-intvua.com##.soc_block
+bigpicture.ru,intvua.com##.soc_block
 buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru##.soc_but
 zbroya.info##.soc_buttons
 ogorod.ru##.soc_header
@@ -1167,6 +1172,7 @@ itechua.com##.ss-inline-share-wrapper
 maximum.ru##.ss_block
 ru.msn.com##.stbp-tbl
 fakty.com.ua##.subscribe-telegram
+1prime.ru##.subscription-block-social
 warhead.su##.subscription_block
 ekabu.ru##.t-social-container_top
 profidom.com.ua##.t3-sidebar-right > .t3-module:nth-child(-n+2)
@@ -1290,7 +1296,6 @@ telegraf.com.ua##.wrapper-header__logo_nav_social
 comments.ua##.wrapper-social
 ojin.tv##.ya-share2_inited
 kinoafisha.info##.yaShareWrapper
-turkcinema.me##.yandex-soc
 ykt.ru##.yui-panel--social
 2kino-2018.club,mnogohd.com##.yx-share
 livecars.ru,livesport.ru##.z_tag_telegram
@@ -2530,7 +2535,7 @@ moya-planeta.ru###content > .white_header_text
 auto.kufar.by###content > div[class^="ft-"] + div[class^="kfa-"]:not([id]):not([style])
 3dnews.ru###content-column > .white.margin-bottom.margin-top
 7ya.ru###content_container > div[class*="specprojects"]
-proglib.io###cookie
+genesis-mining.ru,proglib.io###cookie
 cian.ru,eva.ru###cookie-agreement
 1000sovetov.ru,svpressa.ru###cookie-bar
 besplatka.ua###cookie-bottom
@@ -2850,6 +2855,7 @@ etc-com.ru##.arendalink
 narutoplanet.ru##.art-header-jpeg
 vm.ru##.article--subscribes
 strana.ua##.article-afterbody
+1prime.ru##.article-aggr
 androidinsider.ru##.article-body > p > code.large-text
 vedomosti.ru##.article-recommendation
 sntch.com##.article-subscribe
@@ -3408,6 +3414,7 @@ minfin.com.ua##.skySanta
 parlament.ua##.slide-in-wrap
 gorodrabot.ru##.snippet_advertising
 gamelendi.ru,mult-porno.cam,sex-studentki.cam,sex-studentki.me##.snow
+tass.ru##.social-news-buttons
 porodakoshki.ru##.socialer-popup-overlay
 europaplustv.com##.spec-box[onclick*="europaplustv.com"]
 3dnews.ru##.spec-proj-btn
@@ -3746,6 +3753,7 @@ youla.ru#?#div[width="0.25"]:-abp-has(> div > a[href*=".com/"][href*="/app"][tit
 nashaplaneta.net##footer > a ~ p
 distribution.pladform.ru##footer ~ div[class^="_"]:last-child
 libertycity.ru##header > div[class^="fon"]
+elitesnooker.com##header > span[id]
 bbc.com##header[role="banner"] div[dir="ltr"][class*="-Wrapper "]:not([class*="-Banner "])
 www.kinopoisk.ru##header[style^="--header-height:"] > div[class]:first-child > div[class]:not([class*=" "]):first-child:not(:empty)
 azbooki.ru,engisys.ru,zip1000.ru##html > div[style^="color: rgb"]
@@ -14874,6 +14882,7 @@ _youtube_social_
 ##.like-button-facebook
 ##.like-button-google
 ##.like-button-twitter
+##.like-cta-container
 ##.like-fb
 ##.like-holder
 ##.like-layer
@@ -21357,6 +21366,7 @@ digg.com#@##module_digg
 cdc.gov#@##share-bar
 linkedin.com#@##share-box
 code2flow.com#@##share-button
+ring.com#@##share-container
 competitor.com#@##share-links
 voicethread.com#@##share-menu
 app.sococo.com#@##share-more
@@ -21705,7 +21715,7 @@ lifetimetv.pl#@#.social-feed
 ally.com#@#.social-footer
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 attn.com,wonderhowto.com#@#.social-header
-counterpunch.org#@#.social-hide
+counterpunch.org,staysafeonline.org#@#.social-hide
 deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 deathandtaxesmag.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
@@ -27250,6 +27260,7 @@ _backToTop.
 ||tweetup.com^$third-party
 ||uatu.newsquestdigital.co.uk^$third-party
 ||upscri.be^$third-party
+||usablenet.com^$third-party
 ||usefomo.com^$third-party
 ||userdatatrust.com^$third-party
 ||vhmengine.com^$third-party
