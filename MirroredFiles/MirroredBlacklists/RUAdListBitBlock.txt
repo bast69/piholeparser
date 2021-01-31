@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: J2PcL1HTeeqtDqogTVUrAQ
-! Version: 202101300230
+! Checksum: xdaJ9NolmOpPyaZ8NhieTA
+! Version: 202101310230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 30 Jan 2021 02:30 UTC
+! Last modified: 31 Jan 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -592,6 +592,7 @@ qiq.ws##.buttonbox
 nvworld.ru##.buttons
 allboxing.ru##.c-box-comment-menu > li:nth-child(2)
 glav.su##.c-c-m-t5[style="height: 24px;"]
+crypto-fox.ru##.c-mobile-social
 tsn.ua##.c-share-extra
 smotret-anime.online#?#.card > .card-content:-abp-has(> .m-translation-view__share)
 softportal.com#?#.cardPageLinks > .Menu2ETd:-abp-has(> a[onclick^="showShare"])
@@ -1062,6 +1063,7 @@ bigpicture.ru,intvua.com##.soc_block
 buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru##.soc_but
 zbroya.info##.soc_buttons
 ogorod.ru##.soc_header
+dostfilms.org##.soc_knopki_pod_pleerom
 newsomsk.ru##.soc_link_in_head
 finobzor.ru,politobzor.net,telegraf.com.ua,telegraf.in.ua,warfiles.ru##.soc_links
 volynnews.com##.soc_merezha
@@ -1421,6 +1423,7 @@ iz.ru##div[class^="share_bottom"]
 hightech.plus##div[class^="social-buttons"]
 nn.ru##div[class^="social-widget"]
 zarplata.ru##div[class^="socialbuttons"]
+dostfilms.org##div[class^="socnet"]
 kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__MenuSocialsBlockContainer-"]
 kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__PopupInner-"] > [data-gtm-social]:not([data-gtm-social="copy"])
 kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__SocialLinks-"]
@@ -2664,7 +2667,7 @@ forumodua.com###notices
 sport-express.ru###notification-center
 afisha.ru###notifier-fixed
 forum-windows.net###ntf
-friday.ru,russian.rt.com###offers
+friday.ru###offers
 kinodema.com###okno[href]
 vk.com###old_browser_wrap
 flashscore.com.ua,flashscore.kz,flashscore.ru###onetrust-consent-sdk
@@ -3253,6 +3256,7 @@ olx.ua##.observe-search-banner
 okino.ua##.on-story-tags_subscribe
 riafan.ru##.online-video-block > div[class*="video"]
 nag.ru##.openxtop
+dostfilms.org##.opovesh-gosty
 lenta.ru##.oscar-link
 fishki.net##.other-post-list
 bibliofond.ru##.outro
@@ -4008,6 +4012,9 @@ mail.yandex.by,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua,mail.yandex.uz##.mai
 market.yandex.ru##.main > noindex
 market.yandex.ru##.n-entrypoint-carousel
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.page-root > .overhead
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.page-root > .overlay_shown
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.page-root > .overlay_shown ~ .payment-plus-popup
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.plus-points
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.progress__bar div[class*="slider"]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,news.yandex.uz##.quiz-tizer-dialog
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.recommended-ott
@@ -5681,7 +5688,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /google_plus_one.
 /google_share_
 /google_social.
-/googleicon.
 /googlepin.
 /googleplus-
 /googleplus40.
@@ -5712,7 +5718,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /gplus-badge-
 /gplus-badge.
 /gplus-button.
-/gplus-icon.
 /gplus-logo.
 /gplus-share-
 /gplus-share.
@@ -24749,6 +24754,7 @@ _backToTop.
 ##.c25__newsletter
 ##.c37__newsletter
 ##.cS-newsletter
+##.callout--subscribe
 ##.calls-to-action__newsletter
 ##.cambeywest-subscribe
 ##.captation-email-bottom

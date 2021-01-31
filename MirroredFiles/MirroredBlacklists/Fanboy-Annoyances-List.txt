@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /Tj7wR0bEXo7C7dLYj6RPg
-! Version: 202101300211
+! Checksum: RrgfSoVHqswgR+lBxjmDdA
+! Version: 202101310211
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Jan 2021 02:11 UTC
+! Last modified: 31 Jan 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1683,7 +1683,6 @@ _revotas_push.
 /google_plus_one.
 /google_share_
 /google_social.
-/googleicon.
 /googlepin.
 /googleplus-
 /googleplus40.
@@ -1714,7 +1713,6 @@ _revotas_push.
 /gplus-badge-
 /gplus-badge.
 /gplus-button.
-/gplus-icon.
 /gplus-logo.
 /gplus-share-
 /gplus-share.
@@ -15617,6 +15615,7 @@ _vpcookieconsent/
 ##.like-button-facebook
 ##.like-button-google
 ##.like-button-twitter
+##.like-cta-container
 ##.like-fb
 ##.like-holder
 ##.like-layer
@@ -34550,6 +34549,7 @@ _vpcookieconsent/
 ||tweetup.com^$third-party
 ||uatu.newsquestdigital.co.uk^$third-party
 ||upscri.be^$third-party
+||usablenet.com^$third-party
 ||usefomo.com^$third-party
 ||userdatatrust.com^$third-party
 ||vhmengine.com^$third-party
@@ -35119,6 +35119,7 @@ _vpcookieconsent/
 ||sddan.mgr.consensu.org^$third-party
 ||secureprivacy.ai^$third-party
 ||sharethis.mgr.consensu.org^$third-party
+||sibboventures.mgr.consensu.org^$third-party
 ||signatu.com^$third-party
 ||smartadserver.mgr.consensu.org^$third-party
 ||smartcookies.it^$third-party
@@ -41952,6 +41953,7 @@ elanco.com###ribbon
 ricochet.com###ricochet-cookie-bar
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
+honeygain.com###root > footer ~ div
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
 sanitas.com###sanitasCookieAlert
@@ -43211,6 +43213,7 @@ puntosicuro.it##.alert
 autoscout24.it##.app-banner
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
+adnkronos.com##.art-cta
 zoomsud.it##.article-navigation
 edilportale.com##.article-right
 multiplayer.it##.article_nav
@@ -47230,6 +47233,7 @@ yoigo.com#@#thor-cookies
 @@||easygreenenergy.at/js/lib/cookieconsent.js$script,~third-party
 @@||ecestaticos.com/build/js/common/components/messageapi/cookiemessage.$script,domain=www.elconfidencial.com
 @@||eucookiedirective.com^$~third-party
+@@||eurosportplayer.com/cms/articles/cookie-banner?$xmlhttprequest
 @@||evbstatic.com^*/cookie_header.js
 @@||evidon.com/sitenotice/$domain=etonline.com|popsugar.co.uk|telegraph.co.uk
 @@||flowbox.io/wp-content/plugins/uk-cookie-consent/

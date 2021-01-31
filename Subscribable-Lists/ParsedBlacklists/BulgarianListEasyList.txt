@@ -1053,6 +1053,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.shareably.net
 events.sk.ht
 events.tubecup.org
 events.turbosquid.com
@@ -2201,6 +2202,7 @@ stats.avg.com
 stats.bbc.co.uk
 stats.big-boards.com
 stats.binki.es
+stats.bitban.com
 stats.bitgravity.com
 stats.blogg.se
 stats.blogoscoop.net
