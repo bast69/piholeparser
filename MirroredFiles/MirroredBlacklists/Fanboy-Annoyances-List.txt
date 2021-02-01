@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RrgfSoVHqswgR+lBxjmDdA
-! Version: 202101310211
+! Checksum: 1O6b8I8+yUZuNiHGjM3cBg
+! Version: 202102010211
 ! Title: Fanboy's Annoyance List
-! Last modified: 31 Jan 2021 02:11 UTC
+! Last modified: 01 Feb 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6142,6 +6142,7 @@ _vpcookieconsent/
 ##.c25__newsletter
 ##.c37__newsletter
 ##.cS-newsletter
+##.callout--subscribe
 ##.calls-to-action__newsletter
 ##.cambeywest-subscribe
 ##.captation-email-bottom
@@ -28392,6 +28393,7 @@ _vpcookieconsent/
 ##.CookieConsent-firstinfo
 ##.CookieConsent-wrapper
 ##.CookieConsentArea
+##.CookieConsentBanner
 ##.CookieConsentContainer
 ##.CookieConsentMemo
 ##.CookieConsentOverlay
@@ -34341,7 +34343,6 @@ _vpcookieconsent/
 ||getsmily.com^$third-party
 ||githubbadge.appspot.com^$third-party
 ||givealittle.co.nz/widget/$subdocument,third-party
-||go.pardot.com^$subdocument,third-party
 ||go.xhamsterlive.com/api/$third-party,domain=xhamster.com
 ||goemotify.com^$third-party
 ||google.com/uds/?file=orkut&
@@ -41951,6 +41952,7 @@ rocketleague.com###privmessage
 scalemates.com###prv
 elanco.com###ribbon
 ricochet.com###ricochet-cookie-bar
+honeygain.com###root > div + div + div:last-child
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 honeygain.com###root > footer ~ div
@@ -42153,6 +42155,7 @@ designmodo.com##.dialogContainer
 countwordsfree.com,earthcp.com,foxsports.com.au,lexus.com.cy,lexus.ie,news.com.au##.disclaimer
 taste.com.au##.disclaimer-note
 news.com.au##.disclaimer-text
+virustotal.com##.disclaimers-container
 refinitiv.com##.dismissible-banner
 bbc.com##.domestic-header-wrapper
 mla.org##.donate-banner
