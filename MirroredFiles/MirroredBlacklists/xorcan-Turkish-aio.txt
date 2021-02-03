@@ -2,8 +2,8 @@
 # Format: Hosts
 # Expires: 1 days
 # Homepage: https://github.com/xorcan/hosts
-# Released: 17.01.2021
-# Entries: 8724
+# Released: 02.02.2021
+# Entries: 9196
 # Details: https://github.com/xorcan/hosts
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1874,7 +1874,6 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 googleadservices.com
 127.0.0.1 googlesyndication.com
-127.0.0.1 googletagmanager.com
 127.0.0.1 googletagmenager.com
 127.0.0.1 goooogle.download
 127.0.0.1 goplay4.com
@@ -2019,6 +2018,7 @@
 127.0.0.1 hookup33.com
 127.0.0.1 horny-honey.online
 127.0.0.1 horny-pussies.com
+127.0.0.1 hostmedown.com
 127.0.0.1 hot-blogs.info
 127.0.0.1 hot-blogs.xyz
 127.0.0.1 hoteldedemin.com.tr
@@ -2134,6 +2134,7 @@
 127.0.0.1 inwo.pw
 127.0.0.1 io.narrative.io
 127.0.0.1 ioiuyul.tk
+127.0.0.1 ionhax.com
 127.0.0.1 iosexy.com
 127.0.0.1 iovation.com
 127.0.0.1 ipcheck.tmgrup.com.tr
@@ -2217,6 +2218,7 @@
 127.0.0.1 japonjumbo.live
 127.0.0.1 jaslynnepenzel.files.wordpress.com
 127.0.0.1 jaslynnepenzel.wordpress.com
+127.0.0.1 jbolt3-host.xyz
 127.0.0.1 jdhhehwkvl.com
 127.0.0.1 jeeurte.cf
 127.0.0.1 jeeurte.ga
@@ -2663,6 +2665,7 @@
 127.0.0.1 mesmobil.com.tr
 127.0.0.1 messanger.win
 127.0.0.1 metaffiliation.com
+127.0.0.1 metalasopa137.weebly.com
 127.0.0.1 metkor.com.tr
 127.0.0.1 metrics.vodafone.com.tr
 127.0.0.1 metrics34.com
@@ -2996,6 +2999,7 @@
 127.0.0.1 oneagleswingsnorth.com
 127.0.0.1 onedatedem2.com
 127.0.0.1 onedmp.com
+127.0.0.1 onhaxme.com
 127.0.0.1 onieruco.com
 127.0.0.1 onkologiabg.com
 127.0.0.1 onks2018.ch
@@ -3688,6 +3692,7 @@
 127.0.0.1 smart.tinyhoneybee.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smartcare.com.tr
+127.0.0.1 smartcdn.site
 127.0.0.1 smartfiles.uploadbox.world
 127.0.0.1 smartoil.com.tr
 127.0.0.1 smartpos.com.tr
@@ -4063,6 +4068,7 @@
 127.0.0.1 ucuztercume.com
 127.0.0.1 udm.scorecardresearch.col
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 ueikno.com
 127.0.0.1 ufuksigorta.org
 127.0.0.1 uhpsekh.cf
 127.0.0.1 uhpsekh.ga
@@ -6134,7 +6140,6 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googlesyndication.com
-127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagmenager.com
 127.0.0.1 www.goooogle.download
 127.0.0.1 www.goplay4.com
@@ -6278,6 +6283,7 @@
 127.0.0.1 www.hookup33.com
 127.0.0.1 www.horny-honey.online
 127.0.0.1 www.horny-pussies.com
+127.0.0.1 www.hostmedown.com
 127.0.0.1 www.hot-blogs.info
 127.0.0.1 www.hot-blogs.xyz
 127.0.0.1 www.hoteldedemin.com.tr
@@ -6393,6 +6399,7 @@
 127.0.0.1 www.inwo.pw
 127.0.0.1 www.io.narrative.io
 127.0.0.1 www.ioiuyul.tk
+127.0.0.1 www.ionhax.com
 127.0.0.1 www.iosexy.com
 127.0.0.1 www.iovation.com
 127.0.0.1 www.ipcheck.tmgrup.com.tr
@@ -6476,6 +6483,7 @@
 127.0.0.1 www.japonjumbo.live
 127.0.0.1 www.jaslynnepenzel.files.wordpress.com
 127.0.0.1 www.jaslynnepenzel.wordpress.com
+127.0.0.1 www.jbolt3-host.xyz
 127.0.0.1 www.jdhhehwkvl.com
 127.0.0.1 www.jeeurte.cf
 127.0.0.1 www.jeeurte.ga
@@ -6922,6 +6930,7 @@
 127.0.0.1 www.mesmobil.com.tr
 127.0.0.1 www.messanger.win
 127.0.0.1 www.metaffiliation.com
+127.0.0.1 www.metalasopa137.weebly.com
 127.0.0.1 www.metkor.com.tr
 127.0.0.1 www.metrics.vodafone.com.tr
 127.0.0.1 www.metrics34.com
@@ -7253,6 +7262,7 @@
 127.0.0.1 www.oneagleswingsnorth.com
 127.0.0.1 www.onedatedem2.com
 127.0.0.1 www.onedmp.com
+127.0.0.1 www.onhaxme.com
 127.0.0.1 www.onieruco.com
 127.0.0.1 www.onkologiabg.com
 127.0.0.1 www.onks2018.ch
@@ -7943,6 +7953,7 @@
 127.0.0.1 www.smart.tinyhoneybee.com
 127.0.0.1 www.smartadserver.com
 127.0.0.1 www.smartcare.com.tr
+127.0.0.1 www.smartcdn.site
 127.0.0.1 www.smartfiles.uploadbox.world
 127.0.0.1 www.smartoil.com.tr
 127.0.0.1 www.smartpos.com.tr
@@ -8314,6 +8325,7 @@
 127.0.0.1 www.ucuztercume.com
 127.0.0.1 www.udm.scorecardresearch.col
 127.0.0.1 www.udm.scorecardresearch.com
+127.0.0.1 www.ueikno.com
 127.0.0.1 www.ufuksigorta.org
 127.0.0.1 www.uhpsekh.cf
 127.0.0.1 www.uhpsekh.ga
