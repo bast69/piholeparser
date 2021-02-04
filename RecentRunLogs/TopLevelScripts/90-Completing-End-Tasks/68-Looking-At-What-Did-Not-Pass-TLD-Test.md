@@ -3,9 +3,12 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 68-Looking-At-What-Did-Not-Pass-TLD-Test
-* 4 Lines After Deduping. 
+* 7 Lines After Deduping. 
 ____________________________________________________
-* settings.crashlytics.col
-* udm.scorecardresearch.col
-* www.settings.crashlytics.col
-* www.udm.scorecardresearch.col
+* _8831.gif
+* _christmaslights.js
+* _liveinternet.gif
+* _livejournal.gif
+* _snowstorm-min.js
+* _twitter.png
+* _vkontakte.png
