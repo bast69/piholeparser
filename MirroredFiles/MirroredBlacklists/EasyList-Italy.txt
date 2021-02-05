@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 811RCR0McUHu7WN2JML3lA
-! Version: 202102040201
+! Checksum: UL07S6vt46rts2WhjAoV5w
+! Version: 202102050211
 ! Title: EasyList Italy
-! Last modified: 04 Feb 2021 02:01 UTC
+! Last modified: 05 Feb 2021 02:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -3925,6 +3925,7 @@ amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
 acquariofilia.biz###collapseobj_sidebar_google
 matrimoniosolidale.it###confetti-bomb
+autoscout24.it###conmon-header-stage
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette

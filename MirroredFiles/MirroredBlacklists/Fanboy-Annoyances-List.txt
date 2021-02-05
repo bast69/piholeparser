@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OIn10YsqPY++6Wsp2dH68A
-! Version: 202102040211
+! Checksum: 0GSK8Caez/2Uf2dNYfVgBA
+! Version: 202102050211
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Feb 2021 02:11 UTC
+! Last modified: 05 Feb 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43908,6 +43908,7 @@ gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
 ||werkenntwen.de/images/buttons/$third-party
 ||widgets.getsitecontrol.com^*/script.js$domain=winfuture.de
 ! Specific hiding filters necessary for sites allowlisted with $generichide filter option
+pcwelt.de##.social_media_buttons
 ! Spiegel.de
 spiegel.de##.social-bar
 ! Focus.de
@@ -44835,6 +44836,7 @@ piqd.de##.js-flash_message-container
 kleiderkreisel.de,mamikreisel.de##.js-notification
 muenchen-heilpraktiker-psychotherapie.de##.jtci
 hey.car##.kigihv-0
+go-windows.de##.kit-sticky-privacy
 assura.ch##.kmVGim.sc-1ulmn3o-0
 fairmondo.de##.l-news-header
 urbia.de##.layer-confirm-bottom
@@ -46463,7 +46465,7 @@ academia.edu,twitter.com#@#.fb-btn
 airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
 marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container
 flugzeugbilder.de,kizlarsoruyor.com#@#.fb-content
-firebase.google.com#@#.fb-dialog
+google.com#@#.fb-dialog
 flugzeugbilder.de#@#.fb-footer
 allegro.pl,itweb.co.za#@#.fb-icon
 e-biznes.pl,facebook.com,fb.com#@#.fb-like
@@ -47219,6 +47221,7 @@ yoigo.com#@#thor-cookies
 @@||bbci.co.uk^*/cookie-library.min.js
 @@||betterworldbooks.com/app/components/cookienotice.js$script,~third-party
 @@||bolha.com/js/obj.cookiesPolicy.js
+@@||brandexperience-group.com/assets/js/cookie.notice.min.js$script,~third-party
 @@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu
 @@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|crfashionbook.com|doctoroz.com|eurogamer.net|gmx.com|mail.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl
