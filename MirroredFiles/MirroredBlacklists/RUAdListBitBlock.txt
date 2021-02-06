@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /U4Au++X7ZopJAmSH8XbiQ
-! Version: 202102050230
+! Checksum: dze8aaPIt2JoacW7R7wfUA
+! Version: 202102060220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 05 Feb 2021 02:30 UTC
+! Last modified: 06 Feb 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1364,6 +1364,7 @@ kino.video,tasix.me##[onclick^="OpenShareWindow"]
 gazeta.ua##[onclick^="Share"]
 www.eg.ru##[onclick^="sh1"]
 kinovod.net,kinovod77.cc##[onclick^="sharer."]
+eneyida.tv##[onclick^="window.open('https://t.me/"]
 planetanovosti.com##[title="Vkontakte"]
 ukrs.com.ua##a[class^="finewp-social-icon-"][target="_blank"]
 www.rambler.ru##a[data-cerber-head^="main::footer::smm:"]
@@ -3268,7 +3269,7 @@ cubiq.ru##.notification
 translate.google.by,translate.google.com,translate.google.com.ua,translate.google.ru,translate.google.se##.notification-area
 speedtest.net##.notification-container
 paypal.com##.notification-cookie
-landrover.ru,landrover.ua##.notificationBars
+jaguar.ru,landrover.ru,landrover.ua##.notificationBars
 premier.one##.notifications-container
 piluli.ru##.notiny
 obozrevatel.com##.oboz-instagram
@@ -4194,6 +4195,7 @@ ekabu.ru#@#.icon-twitter
 app2top.ru,tut.by#@#.icon-vk
 comunicart.ru,ekabu.ru#@#.icon-vkontakte
 bloknot-kamyshin.ru,bloknot-krasnodar.ru,bloknot-krasnoyarsk.ru,bloknot-lipetsk.ru,bloknot-moldova.md,bloknot-morozovsk.ru,bloknot-novocherkassk.ru,bloknot-rostov.ru,bloknot-shakhty.ru,bloknot-stavropol.ru,bloknot-taganrog.ru,bloknot-urupinsk.ru,bloknot-volgodonsk.ru,bloknot-volgograd.ru,bloknot-volzhsky.ru,bloknot-voronezh.ru,bloknot-yakutsk.ru,bloknot.ru,fotki.yandex.ru,music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz#@#.icon_share
+m.vk.com#@#.item_share
 comss.ru#@#.j-facebook
 fotki.yandex.ru#@#.js-share
 sports.ru#@#.link-fb
