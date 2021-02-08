@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20210127
+! Version: 20210207
 
 ! General element hiding rules
 ##a[href*="//010bts.com"]
@@ -1068,7 +1068,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ads2.contentabc.com/ads^
 ||ads3.adinc.co.kr^
 ||ads3.tenping.kr/adbox/showadbox^
-||adscdn.orbi.kr/www/images/$domain=orbi.kr
 ||adsearch.adkontekst.pl/_/ads2/
 ||adsearch.adkontekst.pl/_/intext_static/
 ||adsearch.adkontekst.pl/quad/intext_spliter/
@@ -6223,6 +6222,7 @@ quasarzone.com##aside.logo-area
 quasarzone.com##div.banner-area
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
+raider.io##div.rio-zone
 rapidcityjournal.com##div.ad-col
 rapidcityjournal.com##div.dfp-ad
 rapidcityjournal.com##div.tnt-ads-container
@@ -7002,6 +7002,9 @@ vulture.com##div.latest-ad
 vulture.com##section.ad-splash
 w3schools.com##div#mainLeaderboard
 w3schools.com##div#skyscraper
+wago.io##div.wago-ad-container
+warcraftlogs.com##div#bottom-banner
+warcraftlogs.com##div#top-banner
 washingtonpost.com##div.has-subscribe-promo
 washingtonpost.com##div[class*="-ad-"]
 watch.impress.co.jp##aside.ad.billboard

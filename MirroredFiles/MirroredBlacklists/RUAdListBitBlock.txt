@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nhmiB322B2c+rC08oodwDQ
-! Version: 202102070220
+! Checksum: Xc84CNMSQQE5Hbyk6DIMwA
+! Version: 202102080210
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 07 Feb 2021 02:20 UTC
+! Last modified: 08 Feb 2021 02:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -309,6 +309,7 @@ fit4brain.com###dgd_scrollbox-7840
 penzainform.ru###divInfo .logos16x16
 trashbox.ru###div_social_bottom
 kinosha.se###dle-content > .player-block ~ div[style^="font-size"]
+texdizain.net#?##dle-content > .post:-abp-has(.ya-share2)
 homenet.beeline.ru###ed-0_toolbar_3
 ria.ru###facebook-userbar
 newsinfo.ru###facebox
@@ -334,6 +335,7 @@ beholder.pro###likeSocialNetworks
 morediva.ru###likebottom
 ko.com.ua###logosearch > .read_tools
 memesmix.net#?##main-area .module-body:-abp-has(> div > #vk_comments)
+orelgrad.ru###main-content > article ~ [role="navigation"] ~ *
 pogoda.com###mapa-loc-shared
 cameralabs.org###menulogin
 seti-ceti.ru###nVKgroupArt
@@ -728,13 +730,14 @@ moika78.ru,nevasport.ru##.header-box__social
 teleprogramma.pro##.header-progress_socials
 livemaster.ru##.header-soc-icons
 golos.ua,mediaryazan.ru,segodnya.ua,tlt.ru,vladnews.ru##.header-social
+dymka.com.ua##.header-social-network
 avtoblog.ua##.headerSoc
 1prime.ru##.header__buttons
 islam-today.ru##.header__other-buttons
 agrarii-razom.com.ua##.header__secondary-menu__we-in-network
 medialeaks.ru##.header__section_social
 live24.ru##.header__share
-interfax.ru,kp.ua##.header__soc
+interfax.ru,kp.ua,tricolortvmag.ru##.header__soc
 russian.rt.com##.header__social
 1tv.ru##.header__social-block
 islam-today.ru##.header__social-buttons
@@ -829,6 +832,7 @@ mega-track.org##.messageList > .tabs
 chasdiy.org##.meta-bar__share__title
 apparat.cc##.metaTable-inner
 minfin.com.ua##.mfz-social-footer-btns
+orelgrad.ru#?#.mh-sidebar > .widget_text:-abp-has(> .textwidget > #vk_groups)
 enovosty.com##.mo-openid-app-icons
 politexpert.net##.more_in_telegramm
 kinoferma.top##.movie-cols > font[color="crimson"]
@@ -1094,6 +1098,7 @@ akniga.org##.social--link
 nachasi.com##.social-big
 fireman.club##.social-block-bottom
 gtavicecity.ru##.social-block-groups
+radioromantika.ru##.social-block__container
 ukrlib.com.ua##.social-box-item
 freehat.cc##.social-buttons > * > *
 1tv.ru##.social-buttons-compact
@@ -1206,6 +1211,7 @@ sakh.com##.telegram-widget
 delo.ua,dontimes.news##.telegram__block_container
 depo.ua##.telegram_button
 tverigrad.ru##.telegram_info
+changeua.com##.telegram_subscrib
 ilenta.com,pln-pskov.ru,real-vin.com,ukrnews24.net,vo-dela.su##.telegramim_button
 sobesednik.ru#?#.text-right:-abp-contains(поделиться:)
 spacegid.com##.text_share
@@ -1380,6 +1386,7 @@ radiorecord.ru##a[href^="http"][target="_blank"] > span[class^="icon-"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
 66.ru,a7d.com.ua,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,book-audio.com,daxshat.site,depo.ua,enovosty.com,fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,itech.co.ua,kino.video,kinomaniac.ru,livesport.ws,lostfilmstv.com,lrepacks.net,maanimo.com,mk.ru,myslo.ru,newsru.co.il,okna.ua,overclockers.ua,pickfilm.ru,poiskvps.ru,pravda.com.ua,privatfinance.com,proagro.com.ua,profidom.com.ua,rbc.ua,remontka.pro,rsload.net,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,techtoday.in.ua,veleto.ru,zver.uz##a[href^="https://t.me/"]
+orelgrad.ru##a[href^="https://tele.click/"]
 govoritmoskva.ru##a[href^="https://tele.gs/"]
 gazeta.uz##a[href^="https://telegram.me/gazetauz"] > img
 lux.fm##a[href^="https://vb.me/"]
@@ -3721,6 +3728,7 @@ www.rambler.ru#?#div:-abp-has(> [data-cerber-head*=":search::hint::"])
 fontanka.ru#?#div:-abp-has(> p > a[href="/subscription/"])
 google.by,google.com,google.com.ua,google.kz,google.ru##div[class$="__middle-slot-promo"]
 obozrevatel.com##div[class$="__right"] .player-box__content
+ren.tv##div[class*=" Subscribe_"]
 gamer-info.com##div[class*="ads"][class*="overlay"]
 gazeta.ru##div[class*="header"][class*="body-banner"]
 1plus1.ua##div[class*="popup"][class*="subscribe"]
@@ -4704,6 +4712,7 @@ _revotas_push.
 ||push.rent^$third-party
 ||push.rollout.io^$third-party
 ||push.world^$third-party
+||pushaddict.com^$third-party
 ||pushango.com^$third-party
 ||pushassist.com^$third-party
 ||pushaya.com^$third-party
@@ -6152,6 +6161,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /img/gplus_
 /img/instagram-
 /img/instragram.
+/img/linkedin.
 /img/plusgoogle.
 /img/share-
 /img/share/*
@@ -6896,6 +6906,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /social-url-generator.
 /social-ux/*$~script
 /social-warfare/*
+/social-widgets-
 /social-youtube-
 /social-youtube.
 /social-yt.
@@ -12367,6 +12378,7 @@ _youtube_social_
 ##.divFacebookShareButton
 ##.divFooterSocial
 ##.divGooglePlus
+##.divLiensSociaux
 ##.divShareBottom
 ##.divSocial
 ##.div_article_share
@@ -12399,6 +12411,7 @@ _youtube_social_
 ##.dpsp-networks-btns-share
 ##.dpsp-networks-btns-sidebar
 ##.dpsp-pinterest
+##.dpsp-share-text
 ##.dpsp-total-share-wrapper
 ##.drag-social-button-best
 ##.drop_facebook
@@ -14180,6 +14193,7 @@ _youtube_social_
 ##.icomoon-twitter2
 ##.icomoon-youtube
 ##.icon--app-store
+##.icon--dailymotion
 ##.icon--facebook
 ##.icon--facebook-simple
 ##.icon--facebook__white
@@ -20553,6 +20567,7 @@ _youtube_social_
 ##[data-type="pinterest-bottom-share"]
 ##[data-type="shareCardAction"]
 ##[data-type="twitter-bottom-share"]
+##[data-xtclick^="social::"]
 ##[eapps-link="share"]
 ##[href="http://www.addthis.com/bookmark.php"]
 ##[href="https://www.addthis.com/bookmark.php"]
@@ -22224,6 +22239,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||iconfinder.com/data/icons/$~third-party
 @@||iconizer.net/files/*_social_$image
 @@||iconpedia.net/uploads/$image,third-party
+@@||icons.iconarchive.com/icons/$image,~third-party
 @@||icons8.com/iconizer/files/$image,~third-party
 @@||iconspedia.com/icon/$image,~third-party
 @@||ifttt.com^$generichide
@@ -22278,6 +22294,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||livescience.com/images/site/social/footer_*.gif
 @@||login.kataweb.it^*/sprite-social.png
 @@||login.mos.ru^$image
+@@||logo.wine/a/logo/$image,~third-party
 @@||lublin112.pl/wp-content/uploads/$image
 @@||lurkmo.re/images/*/Twitter-$~third-party
 @@||lurkmo.re/images/*YouTube.png$~third-party
@@ -22925,6 +22942,7 @@ digg.com#@#div[id^="digg-widget-"]
 /newsletter-signup.
 /newsletter-subscribe-
 /newsletter-subscription-
+/newsletter-uk/*
 /Newsletter.asp
 /newsletter/ct-
 /newsletter/icon-
@@ -23212,6 +23230,7 @@ _subscribers_newsletters/
 /rss_icon_
 /rss_logo.
 /rss_mini.
+/rss_orig.
 /rss_r.
 /rss_small.
 /RSS_social.
@@ -27012,6 +27031,7 @@ _backToTop.
 ||buzz-stats.com^$third-party
 ||buzzzoo.net^$third-party
 ||care2.com/petitions/$third-party,domain=~thepetitionsite.com
+||cdn-1.tstatic.net/js/copy.js
 ||celebjihad.com^$third-party
 ||chameleon.ad^$third-party
 ||civicscience.com/widget/jspoll/$third-party
@@ -27290,6 +27310,7 @@ _backToTop.
 ||top100.ru^$third-party
 ||topsy.com^$third-party
 ||traffim.com^$third-party
+||tstatic.net/js/copy.js
 ||tuenti.com^$third-party
 ||turnsocial.com^$third-party
 ||twackle.com^$third-party
