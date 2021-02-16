@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9gbKklUcmiyGQ52W+J9y/g
-! Version: 202102150210
+! Checksum: E4haxx7KCVUdslaupogD3A
+! Version: 202102160230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 15 Feb 2021 02:10 UTC
+! Last modified: 16 Feb 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -506,6 +506,7 @@ androeed.ru##.atelegram
 ntv.ru##.auth
 site-of-thrones.com##.auth-description
 247auto.ru,caredge.ru##.auth_vkontakte
+proidei.com##.author-bio-social
 ng.ru,tut.by##.b-article-share
 gmbox.ru,vc.ru##.b-article__shares
 siliconrus.com##.b-article__social
@@ -623,6 +624,7 @@ tvzvezda.ru##.comment_and_social
 radiosvoboda.org##.comments--fb
 gorodkiev.com.ua##.commentsfacebook
 price.ua##.community
+alcomarket.ru##.consultant-widget > .messengers
 gamebomb.ru#?#.container > .container-content:-abp-has(> #comments )
 gamebomb.ru##.container-light
 gre4ka.info##.content > .morelinks
@@ -1049,6 +1051,7 @@ ryfma.com#?#.sidebar-card:-abp-has(> .content > .header:-abp-contains(Мы в с
 masterok.livejournal.com##.sidebar-custom > dd > a[href]
 4eva.ru,darada.co##.sidebar-social__header
 moika78.ru,nevasport.ru##.sidebar-widget
+proidei.com##.sidebar-widgets-1
 bouw.ru##.sidebar__social
 cherkassy-sport.com#?#.sidebar_block:-abp-has(> div > #fb-root)
 btu.org.ua#?#.sideblock > .hblock:-abp-has(.twitter-timeline)
@@ -2297,6 +2300,7 @@ _userbar_$image
 ||afisha.yandex.*/*/stripe.html
 ||aimp.ru^*counter.
 ||alcogolizm.com/konsul/
+||alcomarket.ru/local/pages/popup/legal_age.php
 ||alexzsoft.ru/wp-content/cache/wpfc-minified/8aeiprfw/
 ||alexzsoft.ru/wp-content/cache/wpfc-minified/qyczhn/
 ||androidphone.su/wp-content/themes/ribbon/game$object
@@ -3112,6 +3116,7 @@ gnatkovsky.com.ua##.donts
 translate.ru##.download-mobile
 dni24.com##.dtop
 car.ru##.dzen
+politros.com##.email-dispatch
 ubr.ua##.email-form
 appleinsider.ru##.entry-content > p > code.large-text
 eagleplatform.com##.eplayer-backgroung-suggest-lenta
@@ -11555,6 +11560,8 @@ _youtube_social_
 ##.bg-facebook
 ##.bg-facebook-blue
 ##.bg-googleplus
+##.bg-icon-linkedin
+##.bg-icon-twitter
 ##.bg-linkedin
 ##.bg-pinterest
 ##.bg-tumblr-blue
@@ -17035,6 +17042,7 @@ _youtube_social_
 ##.share_bottom
 ##.share_bottons
 ##.share_box
+##.share_box_content_wrapper
 ##.share_box_text
 ##.share_box_to_scrool
 ##.share_boxes_box_block_b_wraper
@@ -23024,6 +23032,7 @@ digg.com#@#div[id^="digg-widget-"]
 /newsletter_widget.
 /newsletterbanner3.
 /newsletterbg4.
+/newsletterBundle.
 /newsletterbutton.
 /newslettericon2.
 /newsletteroverlay/*
@@ -24502,6 +24511,7 @@ _backToTop.
 ###rightNavNewsletter
 ###rightNewsLetterAsset
 ###rr-newsletter-signup
+###rss-newsletter
 ###sailthru-basic-newsletter-form
 ###sailthru-email-form-wrapper
 ###sailthru-newsletters-email-form-wrapper
@@ -25637,6 +25647,7 @@ _backToTop.
 ##.plugin-newsletter__inner
 ##.pmc-newsletter
 ##.pop-subscribe
+##.popin-newsletter
 ##.popinNewsletter-content
 ##.popinNewsletter-overlay
 ##.popup-newsletter
@@ -26990,6 +27001,7 @@ _backToTop.
 ##div[class^="backToTop_"]
 ##div[ng-click^="animateToTop"]
 ##div[onclick^="scrollToTop"]
+##div[title="Go to top"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]
 ##div[title="Scroll to Top"]
