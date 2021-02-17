@@ -310,6 +310,10 @@ jquery-migrate
 ||mouseflow.com^
 ||onesignal.com^
 
+!---------------- BLOCK : Cookie Consent
+##*[class*="cc-window"]
+##*[class*="cc-banner"]
+
 !---------------- BLOCK : etc.
 ||com.com^
 ||guppycmp.com^
@@ -368,8 +372,7 @@ impress.co.jp##aside[class="ad billboard"]
 impress.co.jp##div[id^="gpt-"]
 
 !---------------- CUSTOM : Mainichi
-mainichi.jp##div[class*="ad"]
-mainichi.jp##nav[class*="header-box"]
+mainichi.jp##div[class*="ad-header"]
 
 !---------------- CUSTOM : NHK
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=www3.nhk.or.jp
