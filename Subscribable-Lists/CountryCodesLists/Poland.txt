@@ -102,6 +102,7 @@ ad.sterta.pl
 ad.stopklatka.pl
 ad.vider.pl
 ad.webshark.pl
+ad.winiso.pl
 ad.yoyo.pl
 ad2.pl
 adactiongapl.hit.gemius.pl

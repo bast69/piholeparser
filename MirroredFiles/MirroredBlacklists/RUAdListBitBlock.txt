@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: E4haxx7KCVUdslaupogD3A
-! Version: 202102160230
+! Checksum: cIZ0LNgEdTvxuHRopdGmGg
+! Version: 202102180230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 16 Feb 2021 02:30 UTC
+! Last modified: 18 Feb 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -108,6 +108,12 @@ _vkontakte.png
 ##.icon_vkontakte
 ##.likeandpay-bubble
 ##.likely
+##.link-social-fb
+##.link-social-instagram
+##.link-social-ok
+##.link-social-telegram
+##.link-social-twitter
+##.link-social-vk
 ##.menu-telegram
 ##.mrc__share
 ~ok.ru##.od-share
@@ -645,6 +651,8 @@ trashbox.ru##.div_anim_rec_block
 meddaily.ru##.doctor_block ~ table[width]
 newformat.info##.dpsp-share-text
 crowdrepublic.ru##.e-nets
+vgr.by##.edgtf-blog-share
+vgr.by##.edgtf-share-label
 google.com##.entry-actions > .broadcast
 google.com##.entry-actions > .broadcast-with-note
 google.com##.entry-actions > .email
@@ -994,7 +1002,7 @@ www.gismeteo.ru#?#.section-item:-abp-has(> .section-title ~ .social-buttons)
 securitylab.ru##.section-subscribe-social
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
-1743.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,goha.ru,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,kurs.com.ua,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,parlament.ua,pkzsk.info,primamedia.ru,rbc.ua,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sinkovskoe.ru,studopedia.su,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vellisa.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
+1743.ru,4pda.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,goha.ru,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,kurs.com.ua,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,parlament.ua,pkzsk.info,primamedia.ru,rbc.ua,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sinkovskoe.ru,studopedia.su,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vellisa.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
 cross.expert##.share-auth
@@ -1067,6 +1075,7 @@ nabat.news##.single-sharing
 debaty.sumy.ua##.single_pluso_title
 game2day.org,game2day.ru##.single_socials
 segodnya.ua##.site-header__social > a
+gazetaby.com,gazetaby.info,gazetaby.media##.site-social a
 tsn.ua##.sl_bottom_holder
 friday.ru##.slide-share
 vesti.ru##.slide_anons
@@ -1082,6 +1091,7 @@ piter.tv##.snet-links
 1tulatv.ru,anistar.org,anistar.pro,anistar.world,online-star.org,online-stars.org,vokrugsveta.ru##.soc
 telegraf.com.ua##.soc-app
 slovo.ws##.soc-butt
+veganstvo.info##.soc-button
 rutr.life,rutracker.lib,rutracker.net,rutracker.nl,rutracker.org##.soc-buttons
 webkarapuz.ru,xn--m1ah5a.net##.soc-group-wrap
 brovary.net.ua##.soc-ico
@@ -1333,6 +1343,7 @@ bookzvuk.ru,just-for-fun.ru,kakpishem.ru,mod-land.ru#?#.widget_text:-abp-has(#vk
 novynarnia.com#?#.widget_text:-abp-has(> .textwidget > .twitter-timeline)
 progolovne.ck.ua#?#.widget_text:-abp-has(> .widget-title > span:-abp-contains(Facebook))
 actual.today##.widget_thechampfollow
+vgr.by##.widget_true_social_icon_link_widget
 spacegid.com##.widget_uaf_sc_widget
 jpgazeta.ru##.widget_vk
 mkset.ru##.widgets
@@ -1345,6 +1356,7 @@ telegraf.com.ua##.wrapper-header__logo_nav_social
 comments.ua##.wrapper-social
 ojin.tv##.ya-share2_inited
 kinoafisha.info##.yaShareWrapper
+kinooko.net##.yashare-about
 ykt.ru##.yui-panel--social
 2kino-2018.club,mnogohd.com##.yx-share
 livecars.ru,livesport.ru##.z_tag_telegram
@@ -1450,12 +1462,17 @@ slovoidilo.ua##body > a[href*="://telegram.me/"]
 tsn.ua##button[data-share]
 dachnye-sovety.ru#?#center:-abp-has(> .uptolike-buttons)
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai#?#center:-abp-has(> .ya-share2)
+glavpahar.ru##div > a[href="//www.facebook.com/GlavPahar"]
+glavpahar.ru##div > a[href="//www.facebook.com/GlavPahar"] ~ a
+glavagronom.ru##div > a[href="https://www.facebook.com/GlavAgronom/"]
+glavagronom.ru##div > a[href="https://www.facebook.com/GlavAgronom/"] ~ a
 gorod24.online,kinovidos.com,print-post.com#?#div:-abp-has(> #vk_groups)
 inter.ua#?#div:-abp-has(> .footer-social)
 4book.org#?#div:-abp-has(> .uSocial-Share)
 gageno.ru#?#div:-abp-has(> .ya-share2)
 youla.ru#?#div:-abp-has(> [data-test-component="SocialShare"])
 fontanka.ru#?#div:-abp-has(> ul > [data-rg-name="lj"])
+traktorist.ua#?#div:not([id]):not([class]):-abp-has(> a[href="https://t.me/traktoristua"])
 stalker-mods.clan.su,stalker-mods.su#?#div[align="center"]:-abp-contains(Поделиться в социальных сетях)
 paparazzi.ru#?#div[align="center"]:-abp-has(> .ya-share2)
 teenslang.su#?#div[align="center"]:-abp-has(> a[href*="://t.me/"])
@@ -1538,12 +1555,17 @@ euro-football.ru#?#noindex:-abp-has(> center > a[href*="://vk.com/"])
 itech.co.ua,ukrnews24.net#?#p > em:-abp-has(> a[href^="https://t.me/"])
 bykvu.com,hvylya.net#?#p > strong:-abp-has(> a[href^="https://t.me/"])
 dp73.spb.ru#?#p:-abp-has(> [alt^="Поделиться новостью"])
+varta1.com.ua#?#p:-abp-has(> em > span > a[href*="//t.me/"])
 mobile-review.com#?#p:-abp-has(> strong:-abp-contains(/Мы в социальных сетях|Поделиться/))
 anime-best.com#?#pjsdiv:-abp-has(> pjsdiv > center:-abp-contains(Наш телеграмм))
 amur.info##section > div > div[style="float: left; padding-top: 15px;"]
 1plus1tv.tv,latino-serialo.tv,latinochka.ru,loveserial.net,mundo-latino.ru#?#span:-abp-contains(Поделитесь фильмом с друзьями в соцсетях)
 1plus1tv.tv,latino-serialo.tv,latinochka.ru,loveserial.net,mundo-latino.ru#?#span:-abp-contains(Понравилось видео?)
 gazeta.ua#?#span:-abp-contains(литись:)
+glavagronom.ru,glavpahar.ru,traktorist.ua##svg > path[fill][d^="M248"]
+glavagronom.ru,glavpahar.ru,traktorist.ua##svg > path[fill][d^="M444"]
+glavagronom.ru,glavpahar.ru,traktorist.ua##svg > path[fill][d^="M504"]
+glavagronom.ru,glavpahar.ru,traktorist.ua##svg > path[fill][d^="M545"]
 liveresult.ru#?#td:-abp-contains(/поделитесь:/i)
 glav.su##td[style="vertical-align: middle;"] ~ td > table[style="float: right;"]
 bwtorrents.ru#?#td[valign="top"] > table.tborder[width]:-abp-has(#vk_groups)
@@ -1776,6 +1798,7 @@ _userbar_$image
 ###cookieconsent
 ###cookiefooter
 ###cookies-msg
+###cookies-policy-popup
 ###cookies-using-message
 ###cookies-wrap
 ###cookies.cookies
@@ -2586,6 +2609,7 @@ rutube.ru###button-subscribe-block
 cat-a-cat.net###cat
 blackwot.ru###catapult-cookie-bar
 ok-pressa.ru###cerezsorgula
+radiobells.com###chrome_badge
 infosmi.net###close-weather
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai###cntr > .l-outer ~ style + table
 glianec.com#?##col-right > .bl-middle2:-abp-has(> .orakul-azure-block)
@@ -2884,6 +2908,8 @@ novayagazeta.ru##._1npEp
 ngnovoros.ru##._2AzODJM
 novayagazeta.ru##._3I62d.QECK7
 reddit.com##._3q-XSJ2vokDQrvdG6mR__k
+1plus1.video##._opo_-playlist-player-left
+1plus1.video##._opo_-playlist-player-right
 kinoteatr.ru##.ad_bg
 kinoteatr.ru##.ad_bg_footer
 rosbalt.ru##.ad_tele
@@ -3066,6 +3092,7 @@ vtimes.io##.contribute-bar
 2x2tv.ru##.cook
 dw.com,eg.ru,hashrating.com,nspk.ru,wifire.tv##.cookie
 xhamster.com##.cookie-announce
+sviaz-expo.ru##.cookie-attention
 1tv.ru##.cookie-banner
 pravda.ru##.cookie-container
 video.khl.ru##.cookie-notice
@@ -3313,6 +3340,7 @@ seeyoupage.ru##.no_ampr
 gameru.net##.noad
 warhead.su##.notice--wide
 stopgame.ru##.notice-wrapper
+qna.habr.com##.notices-container
 cubiq.ru##.notification
 translate.google.by,translate.google.com,translate.google.com.ua,translate.google.ru,translate.google.se##.notification-area
 speedtest.net##.notification-container
@@ -3844,6 +3872,7 @@ kanobu.ru##iframe[src*="vk.com/video_ext.php?"][src*="&autoplay=1"]
 depo.ua,igromania.ru,kanobu.ru##iframe[src^="https://www.youtube.com/embed/"][src*="modestbranding"]
 grippua.com.ua##img[alt="Google-news"]
 anilibria.tv##img[alt="Patreon Anilibria"]
+enovosty.com##img[alt="Экономические новости youtube"]
 chastnik-m.ru##img[alt="баннер"]
 demsdems.ru,kinoferma.top,kinosezon.tv##img[src$="like.gif"]
 narutoplanet.ru##img[src*="narutoplanet.ru/player_Uppod/logo"]
@@ -3891,7 +3920,7 @@ shiza-project.com##ul[class*="transparent-btns"]
 ! пустые и рекламные блоки в материалах
 4pda.ru#?#html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):-abp-has(> [class] > a[href][target="_blank"])
 4pda.ru#?#html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):-abp-has(> [class]:empty)
-4pda.ru##html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):nth-child(3)
+4pda.ru##html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):nth-child(-n+3)
 ! различные рекламные ссылки, в основном в брендированных материалах
 4pda.ru##html[style] > body .menu-main > li.menu-main-item > a[href][style*="important"]
 4pda.ru##html[style] > body .second-menu
@@ -4299,6 +4328,7 @@ the-zomb.com#@#.sig
 vam.in.ua#@#.sig img
 4pda.ru,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 ecigtalk.ru#@#.signature img
+gazetaby.com,gazetaby.info,gazetaby.media#@#.site-social
 comunicart.ru#@#.soc-fb
 gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces-blogs.com,spaces.im,strip2.in,strip2.xxx#@#.soc-link
 gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces-blogs.com,spaces.im,strip2.in,strip2.xxx#@#.soc-links
@@ -16563,7 +16593,6 @@ _youtube_social_
 ##.share-column
 ##.share-component
 ##.share-contain
-##.share-container
 ##.share-content
 ##.share-control
 ##.share-controls
@@ -19654,6 +19683,7 @@ _youtube_social_
 ##.top-nav-facebook
 ##.top-nav-social
 ##.top-nav-twitter
+##.top-nav__social
 ##.top-share
 ##.top-share-post
 ##.top-sharing
@@ -21716,7 +21746,6 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
 cnet.com,kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,dubox.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sailweb.co.uk,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,webpronews.com,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
@@ -27541,7 +27570,7 @@ techopedia.com#@#.subscriptionForm
 ctpost.com#@#.taboola-frame
 theonion.com#@#.taboola-inbetweener
 ctpost.com#@#.taboolaloader
-hoff.ru#@#.to-top
+hoff.ru,round1.com.ua#@#.to-top
 dj-extensions.com,thadenschool.org#@#.top-of-page
 floristics.info#@#.totop
 99bitcoins.com,healthyhandyman.com#@#.tve-leads-lightbox
@@ -27591,7 +27620,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||gravityrd-services.com^$domain=hotstar.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
-@@||intuitcdn.net^*/ScrollToPlugin.min.js$script,turbotaxonline.intuit.com
+@@||intuitcdn.net^*/ScrollToPlugin.min.js$script,domain=turbotaxonline.intuit.com
 @@||jamendo.com/images/libs/social/
 @@||klout.com/static/images/*icon
 @@||l.yimg.com/zz/combo?*social

@@ -6,6 +6,7 @@ ad.ipolska.pl
 ad.myapple.pl
 ad.vider.pl
 ad.webshark.pl
+ad.winiso.pl
 adform.net
 adk.docer.pl
 adocean.pl
