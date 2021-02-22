@@ -35,6 +35,7 @@
 123plays.com
 123specialgifts.com
 15.basebanner.com
+15.taboola.com
 17003124.xyz
 17updatechwe150218.ru
 192.168.112.2o7.net
@@ -2871,6 +2872,7 @@ apdigitalorg.112.2o7.net
 apdigitalorgovn.112.2o7.net
 apex-ad.com
 api-public.addthis.com
+api-s2s.taboola.com
 api.adcalls.nl
 api.addthis.com
 api.adlure.net
@@ -3759,6 +3761,7 @@ c17.statcounter.com
 c2.gostats.com
 c2.l.qq.com
 c2.popads.net
+c2.taboola.com
 c2.thecounter.de
 c2.xxxcounter.com
 c2.zedo.com
@@ -4410,6 +4413,7 @@ conv.adengage.com
 conversantmedia.com
 conversion-pixel.invitemedia.com
 convertro.com
+convlatbmp.taboola.com
 convnjmp.basebanner.com
 cookie.pebblemedia.be
 cookiecontainer.blox.pl
@@ -5379,6 +5383,7 @@ errx049.icu
 es.adserver.yahoo.com
 es.optimost.com
 escape.insites.eu
+esd-secure.taboola.com.edgekey.net
 esg.hitbox.com
 esgic.1.p2l.info
 espn.footprint.net
@@ -6583,6 +6588,7 @@ img.alibaba.com
 img.awr.im
 img.blogads.com
 img.directtrack.com
+img.img-taboola.com
 img.layer-ads.de
 img.liczniki.org
 img.marketgid.com
@@ -6635,6 +6641,7 @@ impressionaffiliate.com
 impressionaffiliate.mobi
 impressionlead.com
 impressionperformance.biz
+imprlatbmp.taboola.com
 impse.tradedoubler.com
 impsnare.iesnare.com
 imrk.net
@@ -10435,6 +10442,7 @@ sexzavod.com
 seznam.hit.gemius.pl
 sfads.osdn.com
 sg.adserver.yahoo.com
+sg.lansweeps.click
 sg.yimg.com
 sg3.beap.gemini.yahoo.com
 sgqcvfjvr.onet.pl
@@ -11116,6 +11124,9 @@ t4.liverail.com
 t8t7frium3.s.ad6media.fr
 ta.at.ic5mp.net
 ta.at.user-mode-linux.net
+taboola.com
+taboola.com.edgekey.net
+taboolasyndication.com
 tag-dyn.omnitagjs.com
 tag.admeld.com
 tag.contextweb.com
@@ -11981,6 +11992,7 @@ uproar.com
 uproar.fortunecity.com
 uqz.com
 urban.adspirit.de
+urc.taboolasyndication.com
 urchin.lstat.youku.com
 urlcut.net
 urshort.net
@@ -12591,6 +12603,7 @@ westjet.112.2o7.net
 wetransf.online
 wewillrocknow.com
 wf.basebanner.com
+wf.taboola.com
 wfussb.oewabox.at
 whatishotnow.net
 whentheyopened.com
@@ -12816,6 +12829,7 @@ www.adscience.nl
 www.adsensecustomsearchads.com
 www.adsentnetwork.com
 www.adserver-espnet.sportszone.net
+www.adserver.adtechus.com
 www.adserver.co.il
 www.adserver.com
 www.adserver.com.my
@@ -12886,6 +12900,7 @@ www.amazing-opportunities.info
 www.anatol.com
 www.annuaire-autosurf.com
 www.anrdoezrs.net
+www.api.taboola.com
 www.appafile.com
 www.apparel-offer.com
 www.apparelncs.com
@@ -13024,6 +13039,7 @@ www.buzzonclick.com
 www.bvfsc.info
 www.c.thecounter.de
 www.c1.thecounter.de
+www.c2.taboola.com
 www.c2.thecounter.de
 www.cablyshaw.com
 www.cadaver.org
@@ -13043,6 +13059,8 @@ www.cashcapitalsystem.com
 www.cashcount.com
 www.casino770.com
 www.catalinkcashback.com
+www.cdn.taboola.com
+www.cdn.taboolasyndication.com
 www.celestia.es
 www.celestia.fr
 www.cell-phone-giveaways.com
@@ -13228,6 +13246,7 @@ www.entercasino.com
 www.entertainment-rewardpath.com
 www.entertainment-specials.com
 www.eroyear.ru
+www.esd-secure.taboola.com.edgekey.net
 www.eshopads2.com
 www.estats4all.com
 www.euros4click.de
@@ -13474,6 +13493,7 @@ www.iicdn.com
 www.ijacko.net
 www.ilovecheating.com
 www.ilovemobi.com
+www.images.taboola.com
 www.imcounting.com
 www.impressionaffiliate.com
 www.impressionaffiliate.mobi
@@ -13807,6 +13827,7 @@ www.poker4spain.com
 www.politicalopinionsurvey.com
 www.polskasupermarkecie.website
 www.poponclick.com
+www.popup.taboola.com
 www.popupad.net
 www.popupdomination.com
 www.popuptraffic.com
@@ -14004,6 +14025,9 @@ www.syncaccess.net
 www.system-live-media.cz
 www.systempartition.com
 www.taba.site
+www.taboola.com
+www.taboola.com.edgekey.net
+www.taboolasyndication.com
 www.talentbroker.net
 www.tanger.com.br
 www.tao123.com
@@ -14079,6 +14103,7 @@ www.traveladvertising.com
 www.traveller-offer.com
 www.traveller-offer.net
 www.travelncs.com
+www.trc.taboola.com
 www.treeloot.com
 www.trendcounter.com
 www.trendnews.com
@@ -14117,10 +14142,12 @@ www.upgradebasic.com
 www.upgradeexplorer.com
 www.uproar.com
 www.uqz.com
+www.urc.taboolasyndication.com
 www.urdoot.win
 www.urldelivery.com
 www.us-choicevalue.com
 www.us-topsites.com
+www.us-u.openx.net
 www.usatravel-specials.com
 www.usatravel-specials.net
 www.usemax.de

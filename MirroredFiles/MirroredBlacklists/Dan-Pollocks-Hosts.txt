@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 16 Feb 2021 at 08:48:15 GMT
+# Last updated: Mon, 22 Feb 2021 at 01:29:57 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4477,6 +4477,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 123plays.com
 0.0.0.0 123specialgifts.com
 0.0.0.0 15.basebanner.com
+0.0.0.0 15.taboola.com
 0.0.0.0 17003124.xyz
 0.0.0.0 17updatechwe150218.ru
 0.0.0.0 1kdailyprofit.biz
@@ -7029,6 +7030,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apex-ad.com
 0.0.0.0 api-public.addthis.com
+0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adlure.net
@@ -7590,6 +7592,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 c11370896.c.youradexchange.com
 0.0.0.0 c2.l.qq.com
 0.0.0.0 c2.popads.net
+0.0.0.0 c2.taboola.com
 0.0.0.0 c2.zedo.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c3.zedo.com
@@ -7998,6 +8001,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 conv.adengage.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversion-pixel.invitemedia.com
+0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 cookie.pebblemedia.be
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 cookingtiprewards.com
@@ -8376,6 +8380,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 errorfixing.tech
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 escape.insites.eu
+0.0.0.0 esd-secure.taboola.com.edgekey.net
 0.0.0.0 espn.footprint.net
 0.0.0.0 etad.telegraph.co.uk
 0.0.0.0 etahub.com
@@ -9056,6 +9061,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 img.awr.im
 0.0.0.0 img.blogads.com
 0.0.0.0 img.directtrack.com
+0.0.0.0 img.img-taboola.com
 0.0.0.0 img.layer-ads.de
 0.0.0.0 img.liczniki.org
 0.0.0.0 img.marketgid.com
@@ -9088,6 +9094,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 impressionaffiliate.mobi
 0.0.0.0 impressionlead.com
 0.0.0.0 impressionperformance.biz
+0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imrk.net
 0.0.0.0 imrkcrv.net
 0.0.0.0 imserv001.adtech.de
@@ -10982,6 +10989,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sexzavod.com
 0.0.0.0 sfads.osdn.com
 0.0.0.0 sg.adserver.yahoo.com
+0.0.0.0 sg.lansweeps.click
 0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 sgs001.adtech.de
@@ -11331,6 +11339,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t4.liverail.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
+0.0.0.0 taboola.com
+0.0.0.0 taboola.com.edgekey.net
+0.0.0.0 taboolasyndication.com
 0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 tag.admeld.com
 0.0.0.0 tag.contextweb.com
@@ -11652,6 +11663,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 uproar.com
 0.0.0.0 uproar.fortunecity.com
 0.0.0.0 urban.adspirit.de
+0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 urchin.lstat.youku.com
 0.0.0.0 us-ads.openx.net
 0.0.0.0 us-choicevalue.com
@@ -11964,6 +11976,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 welcome.faptitans.com
 0.0.0.0 welcome.pussysaga.com
 0.0.0.0 wf.basebanner.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 whatishotnow.net
 0.0.0.0 whoroaza.com
 0.0.0.0 whos.amung.us
@@ -12083,6 +12096,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 www.adsentnetwork.com
 0.0.0.0 www.adserver-espnet.sportszone.net
+0.0.0.0 www.adserver.adtechus.com
 0.0.0.0 www.adserver.co.il
 0.0.0.0 www.adserver.com
 0.0.0.0 www.adserver.com.my
@@ -12138,6 +12152,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.amazing-opportunities.info
 0.0.0.0 www.annuaire-autosurf.com
 0.0.0.0 www.anrdoezrs.net
+0.0.0.0 www.api.taboola.com
 0.0.0.0 www.appafile.com
 0.0.0.0 www.apparel-offer.com
 0.0.0.0 www.apparelncs.com
@@ -12238,6 +12253,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.bvfsc.info
+0.0.0.0 www.c2.taboola.com
 0.0.0.0 www.cafecoquin.com
 0.0.0.0 www.cam4.fr
 0.0.0.0 www.canuckmethods.com
@@ -12251,6 +12267,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cashcount.com
 0.0.0.0 www.casino770.com
 0.0.0.0 www.catalinkcashback.com
+0.0.0.0 www.cdn.taboola.com
+0.0.0.0 www.cdn.taboolasyndication.com
 0.0.0.0 www.cell-phone-giveaways.com
 0.0.0.0 www.cellphoneincentives.com
 0.0.0.0 www.chainsawoffer.com
@@ -12364,6 +12382,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.emarketmakers.com
 0.0.0.0 www.entertainment-rewardpath.com
 0.0.0.0 www.entertainment-specials.com
+0.0.0.0 www.esd-secure.taboola.com.edgekey.net
 0.0.0.0 www.eshopads2.com
 0.0.0.0 www.euros4click.de
 0.0.0.0 www.everifymatch.com
@@ -12530,6 +12549,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ijacko.net
 0.0.0.0 www.ilovecheating.com
 0.0.0.0 www.ilovemobi.com
+0.0.0.0 www.images.taboola.com
 0.0.0.0 www.imcounting.com
 0.0.0.0 www.impressionaffiliate.com
 0.0.0.0 www.impressionaffiliate.mobi
@@ -12731,6 +12751,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.politicalopinionsurvey.com
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.poponclick.com
+0.0.0.0 www.popup.taboola.com
 0.0.0.0 www.popupad.net
 0.0.0.0 www.popupdomination.com
 0.0.0.0 www.popuptraffic.com
@@ -12851,6 +12872,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sweetsforfree.com
 0.0.0.0 www.syncaccess.net
 0.0.0.0 www.system-live-media.cz
+0.0.0.0 www.taboola.com
+0.0.0.0 www.taboola.com.edgekey.net
+0.0.0.0 www.taboolasyndication.com
 0.0.0.0 www.tao123.com
 0.0.0.0 www.tbitcoin.me
 0.0.0.0 www.tcimg.com
@@ -12904,6 +12928,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.traveller-offer.com
 0.0.0.0 www.traveller-offer.net
 0.0.0.0 www.travelncs.com
+0.0.0.0 www.trc.taboola.com
 0.0.0.0 www.treeloot.com
 0.0.0.0 www.trendnews.com
 0.0.0.0 www.trendsonline.biz
@@ -12925,9 +12950,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ultimatefashiongifts.com
 0.0.0.0 www.uniqebrokeroffers.com
 0.0.0.0 www.uproar.com
+0.0.0.0 www.urc.taboolasyndication.com
 0.0.0.0 www.urdoot.win
 0.0.0.0 www.us-choicevalue.com
 0.0.0.0 www.us-topsites.com
+0.0.0.0 www.us-u.openx.net
 0.0.0.0 www.usatravel-specials.com
 0.0.0.0 www.usatravel-specials.net
 0.0.0.0 www.usemax.de
