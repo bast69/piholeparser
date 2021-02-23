@@ -150,6 +150,7 @@ qualityprint.in.th
 r2r.npru.ac.th
 resam.or.th
 resveratrol.co.th
+richtech.co.th
 rightman.co.th
 rmutcon2018.rmutsv.ac.th
 rockgarden.co.th
@@ -188,6 +189,7 @@ thaiyonei.co.th
 thalang.phuket.doae.go.th
 thapthan.ac.th
 thungchang.go.th
+toyotacollege.ac.th
 tracker.stats.in.th
 tracker.truehits.in.th
 triamudomsouth.ac.th
@@ -213,6 +215,7 @@ ws-adv.ais.co.th
 www.art.cmru.ac.th
 www.n2plus.co.th
 www.playboy.co.th
+www.richtech.co.th
 www.scglobal.co.th
 www.signal49.dev.dusit.ac.th
 www.stats.in.th

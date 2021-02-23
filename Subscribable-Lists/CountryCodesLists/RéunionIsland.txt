@@ -1,6 +1,7 @@
 adelis.re
 adsco.re
 aeroport-travaux.re
+analytics.fkz.re
 anti-coronavirus.re
 anticoronavirus.re
 apple.com-fmi.re
@@ -18,6 +19,9 @@ ophtalmologie.re
 origine.re
 possible.re
 push.notifica.re
+rehabilitant.rzeszow.re
 www.adsco.re
 www.c.adsco.re
+www.rehabilitant.rzeszow.re
+www.yande.re
 yande.re

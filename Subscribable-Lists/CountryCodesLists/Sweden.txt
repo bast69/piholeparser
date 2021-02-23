@@ -16,6 +16,7 @@
 500utflykter.se
 82d914.se
 85dcf732d593.se
+a.smutba.se
 aabe3b.se
 aad73c550c.se
 aayanservices.se
@@ -97,6 +98,7 @@ badults.se
 badvaruhus.se
 balla-boo.se
 ballongdekor.se
+bangextreme.se
 banner.adswap.se
 banner.linux.se
 banners.bol.se
@@ -242,6 +244,7 @@ figlio.se
 file-paypal.se
 flaggstangsspec.se
 flexdon.se
+fls-eu.amazon.se
 flygfilmer.se
 fonemo.se
 for-life.se
@@ -257,6 +260,7 @@ frejahouse.se
 friskvardskupongen.se
 frojdafsverige.se
 fusion.bonniertidskrifter.se
+garagelivet.se
 gasolspecialisten.se
 generalgauffin.se
 genrepet.se
@@ -417,6 +421,7 @@ metrics.svd.se
 mgid-win-us-east.bksn.se
 micoel.se
 mile7.smileproduktionsbyra.se
+milf-area.se
 millennial-win-us-east.bksn.se
 minilab.se
 misandesign.se
@@ -486,6 +491,7 @@ passionforbusiness.se
 passionofsweden.se
 pasta.se
 pasvenska.se
+pawn.se
 paypal.com.0.security-confirmation.3408b8d8a758db7c66b435a2c13352e4.as2.2u.se
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 pcboa.se
@@ -509,6 +515,7 @@ pornshop.se
 porrcity.se
 poste.ch.invoicepay.cattleyaperfumes.se
 praximoto.se
+prebid.bksn.se
 prettyandgreen.se
 privatebay.se
 prsmaleri.se
@@ -577,6 +584,7 @@ slagforhjaltar.se
 slimcase247.se
 smile4.smileproduktionsbyra.se
 smorjtekniklund.se
+smutba.se
 snaffo.se
 snibi.se
 snickarelinkoping.se
@@ -599,6 +607,7 @@ start.badults.se
 stat.cliche.se
 stat.nyheter24.se
 stat.swedbank.se
+static.share-videos.se
 statoilhemavan.se
 stats.blogg.se
 stats.grok.se
@@ -725,6 +734,7 @@ www.airsonett.se
 www.alicefans.se
 www.angel.se
 www.atg.se
+www.bangextreme.se
 www.bksn.se
 www.c.bksn.se
 www.casinotown.se
@@ -737,6 +747,7 @@ www.jackpotcitycasino.se
 www.kardborren.se
 www.klumpesnusk.se
 www.knullkontakt.se
+www.milf-area.se
 www.mobsterljud.se
 www.nosilia.se
 www.nudevista.se
@@ -748,6 +759,7 @@ www.redangels.se
 www.sandra-model.se
 www.sexiganoveller.se
 www.sexnovell.se
+www.smutba.se
 www.sveacasino.se
 www.svenskaspel.se
 www.swedencasino.se
@@ -755,6 +767,7 @@ www.tidattleva.se
 www.vuxen.se
 www.webstat.se
 www.webtraffic.se
+www.zalukaj.se
 x.se
 xn--avgng-ora.se
 xn--bergfstet-z2a.se
@@ -767,5 +780,6 @@ xn--stockholmbostder-7nb.se
 xxxfiles.se
 xxxmovie.se
 yrkes-klader.se
+zalukaj.se
 zek.se
 zenzuell.se

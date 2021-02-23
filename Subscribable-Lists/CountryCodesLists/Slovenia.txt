@@ -1,6 +1,8 @@
 8000plus.si
 active.si
 ad.partis.si
+ad.xmovies8.si
+ads.citymagazine.si
 ads.rtvslo.si
 ads.wave.si
 adserver.vsn.si
@@ -12,6 +14,7 @@ apartmaji-ptuj.si
 arma-tisk.si
 as.dialog.si
 aures.si
+avtomotodeli-ugodno.si
 avtoogris.si
 b.uscom.si
 bebetter.si
@@ -98,6 +101,7 @@ pro-meritve.si
 qp.si
 qwx.si
 racunovodstvo.1on.si
+razor.arnes.si
 regica.si
 ron.si
 rot.ron.si
@@ -131,6 +135,7 @@ www.qp.si
 www.ron.si
 www.templates.qp.si
 www.v2.dev.qp.si
+www2.arnes.si
 zapeljivka.si
 zdravje.mopas.si
 zkp-lendava.si

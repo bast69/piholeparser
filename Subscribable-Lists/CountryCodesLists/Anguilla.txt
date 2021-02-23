@@ -9,6 +9,7 @@ apkpure.ai
 app.ascend.ai
 ascend.ai
 birlasoft.threatcop.ai
+cdn.native.ai
 chatchat.ai
 cognitiv.ai
 decons.ai
@@ -19,9 +20,13 @@ editor.ascend.ai
 end.ai
 engage.ascend.ai
 etihadtravel.id.ai
+exy.ai
+fixel.ai
 gandariacityhotel.id.ai
+hbe198.hybrid.ai
 hyfix.ai
 hypercube.ai
+m2.ai
 m2d.m2.ai
 marketscan.ai
 media.ascend.ai
@@ -29,8 +34,12 @@ participant.ascend.ai
 porno.ai
 powerad.ai
 proxy.ascend.ai
+qubittech.ai
+readhent.ai
 rt.ascend.ai
 sdk.markable.ai
+service.bidlab.ai
+service.e-volution.ai
 sheratonjakartagandaria.id.ai
 shopx.ai
 stat.glaze.ai
@@ -42,6 +51,9 @@ trgt.ai
 waa.ai
 www.5r.ai
 www.ascend.ai
+www.exy.ai
+www.qubittech.ai
+www.readhent.ai
 www.waa.ai
 xpresso.ai
 y.ai

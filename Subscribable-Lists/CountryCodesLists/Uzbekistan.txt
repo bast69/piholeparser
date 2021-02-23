@@ -1,5 +1,6 @@
 34maktab.uz
 4seasons.uz
+a.muloqot.uz
 agrover.uz
 airma.uz
 anora71.uz
@@ -25,6 +26,7 @@ highparrot12.uz
 imssolar.uz
 indep.uz
 integris.uz
+jizzakhcraft.uz
 kosmetshop.uz
 kriomed.uz
 kuhnya.novo.uz

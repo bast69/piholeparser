@@ -19,14 +19,17 @@ com-money.pm
 com-social.pm
 com-topnews.pm
 doge.pool.pm
+livesex.pm
 nst.broadcast.pm
 pool.pm
 roblox.pm
 rwecklx.uni.pm
+szkolenie.m.poznan.pm
 utc.pool.pm
 vm1148613.hl.had.pm
 vtc.pool.pm
 www.doge.pool.pm
 www.pool.pm
+www.szkolenie.m.poznan.pm
 www.utc.pool.pm
 www.vtc.pool.pm

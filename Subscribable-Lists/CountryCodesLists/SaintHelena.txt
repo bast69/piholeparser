@@ -192,6 +192,7 @@
 ad.proxy.sh
 aolverificatior-mgbqiuhkj.now.sh
 apu.sh
+bank-project.surge.sh
 cc2.vsl.sh
 clever-bed.surge.sh
 cloud-console.now.sh
@@ -214,8 +215,11 @@ instagram-mirror.now.sh
 instagram-scratchcardcontest.now.sh
 instagramaagsjsjsjtest.now.sh
 is.sh
+jav.sh
+javfinder.sh
 maestr.sh
 mainid.sh
+megapu.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -230,6 +234,7 @@ onedrivedocs-tent.surge.sh
 party-nngvitbizn.now.sh
 party-vqgdyvoycc.now.sh
 paypal-webnative.surge.sh
+pl-bankinvest.surge.sh
 pornvideo.wap.sh
 propu.sh
 proxy-ddsjfhkmnk.now.sh
@@ -260,6 +265,7 @@ vclmemos.surge.sh
 web-facebook-com.now.sh
 well-made-iron.surge.sh
 windows-defender.con.sh
+www.bank-project.surge.sh
 www.coin-hive-proxy-ybydcnjgkl.now.sh
 www.coin-hive-stratum-bqywuwxwij.now.sh
 www.coin-hive-stratum-cilswgfvet.now.sh
@@ -274,6 +280,7 @@ www.npcdn1.now.sh
 www.nunu-001.now.sh
 www.party-nngvitbizn.now.sh
 www.party-vqgdyvoycc.now.sh
+www.pl-bankinvest.surge.sh
 www.proxy-ddsjfhkmnk.now.sh
 www.proxy-khlizawelj.now.sh
 www.sxcdn02.now.sh

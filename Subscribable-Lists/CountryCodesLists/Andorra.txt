@@ -11,6 +11,7 @@ miner.ad
 nugg.ad
 partners.content.ad
 publi.forum.ad
+roq.ad
 rtb-px.content.ad
 spider.ad
 token.ad

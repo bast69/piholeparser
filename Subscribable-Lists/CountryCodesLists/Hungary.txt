@@ -31,6 +31,7 @@ ad.telnet.hu
 ad.wavu.hu
 ad.zodera.hu
 ad2.insitemedia.hu
+ad2.netriota.hu
 ad2.parom.hu
 ad4mat.hu
 adbox.hu
@@ -39,6 +40,7 @@ adobefilesignin.pe.hu
 ads.carsandgirls.hu
 ads.comediagroup.hu
 ads.deltha.hu
+ads.gaypoint.hu
 ads.geeks.hu
 ads.gweb.hu
 ads.kepfeltoltes.hu
@@ -49,6 +51,7 @@ adserver.borsonline.hu
 adserver.gweb.hu
 adserver.mconet.hu
 adserver.mommo.hu
+adserver.otthonom.hu
 adserver.samsungbeat.hu
 adserver.saxonsoft.hu
 adserver.x3.hu
@@ -87,6 +90,7 @@ ap-transz.hu
 apprecovery.pe.hu
 arboretum.hu
 arcfestoheni.hu
+archifaktura.hu
 arivar.hu
 aru.index.hu
 aszpress.hu
@@ -98,6 +102,7 @@ audit.median.hu
 audit.webinform.hu
 autizmus.n1.hu
 autoscout24ch7.pe.hu
+bacskateszov.hu
 bado.hu
 bakhtar.hu
 balajthy.hu
@@ -121,6 +126,7 @@ best-top.hu
 bestcook.hu
 bfarbarafassi.pe.hu
 bgyarmatplebania.hu
+bigboobs.hu
 bitupont.hu
 bizsu24.hu
 bkgroup.hu
@@ -317,6 +323,7 @@ inextenso.hu
 infosboitevocaleorangecompte.pe.hu
 infoshopbcs.hu
 ingatlanszovetkezet.hu
+ingyen-szex-video.hu
 interdean.hu
 interoptika.hu
 interstat.hu
@@ -341,6 +348,7 @@ k264.hu
 kanizsahir.hu
 kapikft.hu
 kaposfose.hu
+karat.hu
 kecsfila.hu
 kedvesek.hu
 kehovaszer.hu
@@ -360,6 +368,7 @@ kovacsvagas.hu
 kovesszucs.atw.hu
 kralikmarti.hu
 kristalydental.hu
+laborex.hu
 lafiduciastudio.hu
 lampalazszelidito.hu
 lap.reklam.hu
@@ -369,6 +378,7 @@ ledobbensz.blogspot.hu
 lelkizona.hu
 lemuria.hu
 lesbian.hu
+leszbiporno.hu
 lib.hu
 limitedpaypalservicesaccount.pe.hu
 linkpps.pe.hu
@@ -388,6 +398,7 @@ marc.pe.hu
 marketingprogram.hu
 maskepp.hu
 matfussli.pe.hu
+mature.szex.hu
 maxibutor.hu
 mbiasi93.pe.hu
 medi-fitt.hu
@@ -424,6 +435,7 @@ munkaugyek.hu
 murobau.hu
 musichub.pe.hu
 myrokegytargy.hu
+naked.hu
 namecard.hu
 napi-humor.hu
 napitrend.blogspot.hu
@@ -487,6 +499,7 @@ pont24.hu
 pontofiscal.pe.hu
 porkoltfozofesztival.robi2.hu
 porn.hu
+pornovideo.szex.hu
 pornstar.hu
 presidium.hu
 privaate-paggee.pe.hu
@@ -512,6 +525,7 @@ reklamcsere.hu
 reprocopy.hu
 reroute.c3.hu
 resgateseusfundos2017.pe.hu
+revive.netriota.hu
 rigotech.hu
 robinireland.pe.hu
 robogo3k.hu
@@ -580,10 +594,12 @@ szex-filmek.hu
 szex-szex.hu
 szexbutik.hu
 szexcsata.hu
+szexfilmek-ingyen.hu
 szexneked.hu
 szexplaza.hu
 szexrandi.hu
 szexshop.hu
+szexvideok-ingyen.hu
 szfe.hu
 szin-jatekos.hu
 szinek.hu
@@ -616,6 +632,7 @@ toplista.mw.hu
 tormasport.hu
 tothcsirke.hu
 totszentmarton.hu
+tpc.hu
 tr.affiliate.hu
 tracking.tchibo.hu
 traffic.index.hu
@@ -671,6 +688,7 @@ vkfreegolosa.pe.hu
 vkk-supported-help.pe.hu
 vkvk.pe.hu
 volkswagen-alkatresz-bonto.hu
+vpm.hu
 vwmaster.hu
 w4youplusz.hu
 waterbay.hu
@@ -681,6 +699,7 @@ wellsfargosystem-support.journella.hu
 welsfarg0t.wp3.aranyoldalak.hu
 weltwo.wp3.aranyoldalak.hu
 wevik.hu
+www.0-24bpautomentes.hu
 www.3xnight.hu
 www.adbox.hu
 www.angela.uw.hu
@@ -693,6 +712,7 @@ www.best-top.hu
 www.bigboobs.hu
 www.cakav.hu
 www.callgirlservice.hu
+www.csalikft.hu
 www.dmdamedia.hu
 www.eropolis.hu
 www.erotikashow.hu
@@ -703,6 +723,7 @@ www.freeones.hu
 www.freeporn.hu
 www.freesexpics.hu
 www.funpic.hu
+www.galatransmisja.pe.hu
 www.goldengate.hu
 www.gportal.hu
 www.gpr.hu
@@ -711,6 +732,8 @@ www.hunszex.hu
 www.ize.hu
 www.kedvesek.hu
 www.lesbian.hu
+www.miqsoft.hu
+www.naked.hu
 www.nlcafe.hu
 www.nude.hu
 www.nyugat.hu
@@ -729,7 +752,9 @@ www.szexneked.hu
 www.szexplaza.hu
 www.szexrandi.hu
 www.szexshop.hu
+www.teltech.hu
 www.totszentmarton.hu
+www.tpc.hu
 www.vacesvideke.hu
 www.videa.hu
 www.videkilany.hu

@@ -15,6 +15,7 @@ duranbello.com.do
 fcd.org.do
 feed.snap.do
 fundecoluz.org.do
+gid.do
 gizmo.do
 inposdom.gob.do
 itgins.do
@@ -36,4 +37,5 @@ toner.com.do
 voce.com.do
 webmail.lmv.com.do
 welcome.do
+www.gid.do
 zsi7.destinia.do

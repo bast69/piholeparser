@@ -60,6 +60,7 @@ khalij.ma
 labocentral.ma
 led-maroc.ma
 licorne.ma
+location-voitures.ma
 loterie.ma
 m.facebook-marketplace-item-6342233.directsales.ma
 machine.cu.ma
@@ -75,6 +76,7 @@ nodets-ykqtmtqjkd.cikaperformance.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma
+perso.menara.ma
 pisciniste.ma
 pneumorek.ma
 poly-tech.ma

@@ -17,6 +17,7 @@ ads.apollo.lv
 ads.delfi.lv
 ads.diena.lv
 ads.inbox.lv
+ads.radio1.lv
 ads.sys.lv
 adv.novo.lv
 adv.tvnet.lv
@@ -202,6 +203,7 @@ q.tvnet.lv
 r.inbox.lv
 rembi.lv
 research.tsi.lv
+rigaescortgirls.lv
 rilathome.lv
 runvtkk.tel.lv
 schwangere-frauen.de.lv

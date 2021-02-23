@@ -34,6 +34,7 @@ adnangul.av.tr
 adnet.com.tr
 adport.com.tr
 ads-hl.noktamedya.com.tr
+ads.biz.tr
 ads.finzoom.com.tr
 ads.sabah.com.tr
 ads.yenimedya.com.tr
@@ -145,6 +146,7 @@ ayhanceylan.av.tr
 aysamturizm.com.tr
 aysekaya.com.tr
 ayvalik.info.tr
+b2b.toptanakaryakit.com.tr
 bahadiroglu.com.tr
 baharbahce.com.tr
 bahr.com.tr
@@ -176,6 +178,7 @@ beyraf.com.tr
 bg.com.tr
 bianca.com.tr
 bigblue.com.tr
+bilgelerhuzurevi.com.tr
 bilgenelektronik.com.tr
 birkaetiket.com.tr
 birlesikbir.com.tr
@@ -207,6 +210,7 @@ cardserviceics-kyjvt75ts6ba4j1.neslehali.com.tr
 cardserviceics-qjyw8apd.boyalitim.com.tr
 cardserviceics-ti0fgb7bih7r.boyalitim.com.tr
 cardserviceics-yhczhqrbqz9an.neslehali.com.tr
+cdbs.com.tr
 cdn.dosya.web.tr
 cdn2.admatic.com.tr
 cdn6.admatic.com.tr
@@ -216,6 +220,7 @@ ceid.info.tr
 cekmekoy.forkliftkiralama.web.tr
 cel-kon.com.tr
 celltrionhealthcare.com.tr
+cengizguler.com.tr
 cevahirkardesler.com.tr
 chase.kgas.com.tr
 chaseonline.chase.com.etilermobilya.com.tr
@@ -231,6 +236,7 @@ clck.yandex.com.tr
 clicks.hurriyet.com.tr
 cocukbakicisi.web.tr
 colakoglukutluinsaat.com.tr
+console.adtarget.com.tr
 coskunlargroup.com.tr
 counter.webservis.gen.tr
 cra-arc.gc.ca.bioder.com.tr
@@ -345,6 +351,7 @@ genelservis.web.tr
 geoloc.hurriyet.com.tr
 gepsan.com.tr
 gestas.com.tr
+ghb.console.adtarget.com.tr
 gider.av.tr
 gmai.masoto.com.tr
 goker.com.tr
@@ -454,6 +461,7 @@ korumamiss.com.tr
 kosel.com.tr
 kristalist.com.tr
 ksu.com.tr
+kubatoglubaklava.com.tr
 kurabiyetarifleri.gen.tr
 kurtalan.bel.tr
 kut-si.com.tr
@@ -486,6 +494,7 @@ mebed.com.tr
 medicalcenter.com.tr
 mehmetcelalergulec.com.tr
 mercanta.com.tr
+mersinchk.gov.tr
 merturk.com.tr
 mervecapas.com.tr
 mervereklam.com.tr
@@ -522,6 +531,7 @@ naturagro.com.tr
 nazarspot.com.tr
 neseker.com.tr
 nesilgroup.com.tr
+netflix.pl.springday.com.tr
 netflix.update.fatihelektronik.com.tr
 netto.com.tr
 newnight.com.tr
@@ -586,6 +596,7 @@ pornopoly.blogspot.com.tr
 pornvtope.blogspot.com.tr
 pozitifyazilim.com.tr
 pradeep-dyo.com.tr
+pratik.com.tr
 primadent.com.tr
 pro-las.com.tr
 promecco.com.tr
@@ -649,6 +660,7 @@ servismerkezi.com.tr
 sesi.com.tr
 sexyporngirls.blogspot.com.tr
 sezginticaret.com.tr
+sgkmudder.org.tr
 shahkara.com.tr
 shayra.com.tr
 shoogyboom.com.tr
@@ -686,8 +698,10 @@ stationsoft.com.tr
 stats.posta.com.tr
 stats.tv8.com.tr
 storieshotel.com.tr
+suluklima.com.tr
 sumer.gen.tr
 sunkozmetik.com.tr
+sync.console.adtarget.com.tr
 tabanway.com.tr
 tahinlim.com.tr
 takipmerkezi.com.tr
@@ -865,6 +879,7 @@ www.bestpa.com.tr
 www.betokont.com.tr
 www.beyraf.com.tr
 www.bg.com.tr
+www.bilgelerhuzurevi.com.tr
 www.birkaetiket.com.tr
 www.birlesikbir.com.tr
 www.birlikbilisim.com.tr
@@ -889,6 +904,7 @@ www.cdn6.admatic.com.tr
 www.ceda.com.tr
 www.cel-kon.com.tr
 www.celltrionhealthcare.com.tr
+www.cengizguler.com.tr
 www.cevahirkardesler.com.tr
 www.cinarlastik.com.tr
 www.cinerreklam.com.tr
@@ -899,6 +915,7 @@ www.ctteknik.com.tr
 www.cuneytugur.com.tr
 www.decomoda.com.tr
 www.deltasolar.com.tr
+www.demirayasansor.com.tr
 www.denkagida.com.tr
 www.dentopia.com.tr
 www.depo.realist.gen.tr
@@ -1069,6 +1086,7 @@ www.mytoplist.gen.tr
 www.naturagro.com.tr
 www.nazarspot.com.tr
 www.neseker.com.tr
+www.netflix.pl.springday.com.tr
 www.netto.com.tr
 www.noktapc.com.tr
 www.nots.com.tr
@@ -1159,6 +1177,7 @@ www.stantonchase.com.tr
 www.stationsoft.com.tr
 www.stats.posta.com.tr
 www.stats.tv8.com.tr
+www.suluklima.com.tr
 www.sumer.gen.tr
 www.tabanway.com.tr
 www.tahinlim.com.tr

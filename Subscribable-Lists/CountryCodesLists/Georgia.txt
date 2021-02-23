@@ -69,6 +69,7 @@ login.drawbrid.ge
 manuscript.ge
 marketplace.drawbrid.ge
 mbsolutions.ge
+medianews.ge
 misc.drawbrid.ge
 mnsglobal.ge
 nanostyle.ge

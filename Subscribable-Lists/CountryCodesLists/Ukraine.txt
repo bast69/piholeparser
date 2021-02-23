@@ -27,6 +27,7 @@ a-link.net.ua
 a-runescape.com.ua
 a.0day.kiev.ua
 a3.net.ua
+a5.overclockers.ua
 aapartments.com.ua
 ab-instruments.com.ua
 ab.adpro.com.ua
@@ -58,7 +59,9 @@ adriana.net.ua
 adrock.com.ua
 adrock.ua
 ads.mp3-online.com.ua
+ads.pfl.ua
 adserver.sl.kharkov.ua
+adservice.google.com.ua
 adv2.expres.ua
 advertarium.com.ua
 advicedesk.pl.ua
@@ -2497,6 +2500,7 @@ skgroup.kiev.ua
 skidku.org.ua
 skip.bigweb.com.ua
 skladgranita.com.ua
+sky.od.ua
 slanovskiy.ua
 slavgorodka.inf.ua
 slivki.com.ua
@@ -2848,6 +2852,7 @@ www.lasertag.kiev.ua
 www.msc.org.ua
 www.msl.ua
 www.nord.adr.com.ua
+www.opel.km.ua
 www.sdspropro.co.ua
 www.slivki.com.ua
 www.stimul-m.com.ua

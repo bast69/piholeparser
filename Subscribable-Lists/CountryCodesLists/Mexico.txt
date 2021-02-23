@@ -26,6 +26,7 @@ ads.buscape.com.mx
 ads.eluniversal.com.mx
 ads.jornadavirtual.com.mx
 ads.seccionamarilla.com.mx
+adserver.info7.mx
 adserver.todomobile.com.mx
 adsimg.t1msn.com.mx
 aedme.org.mx
@@ -99,6 +100,7 @@ bidao.edu.mx
 billow.arturogilborja.com.mx
 binariomexico.com.mx
 bioq9c1.fmedic.unam.mx
+blackbass.mx
 blogdeizquierda.com.mx
 bloggers.com.mx
 bmswebsolutions.com.mx
@@ -196,6 +198,8 @@ compudabo.com.mx
 computerland.com.mx
 concord.com.mx
 conduceseguro.gob.mx
+conexionesymanguerashidrocalidas.com.mx
+congreso-hidalgo.gob.mx
 congresolenguas.uicui.edu.mx
 congresoodontologia.uicui.edu.mx
 congresopsicrim.uicui.edu.mx
@@ -249,6 +253,7 @@ dermadom.com.mx
 desdeelfondo.mx
 dgetasonora.gob.mx
 dhisa.com.mx
+dhl.express.faktura.tecsla.com.mx
 difasa.com.mx
 difiza.com.mx
 digitalcontent.mx
@@ -316,6 +321,7 @@ facebook.huast.com.mx
 facebookl.com.mx
 factonline.mx
 fakebook.com.mx
+faktura.tecsla.com.mx
 farmac.com.mx
 fashion7.com.mx
 fbcom-13190631.chekkos.mx
@@ -338,6 +344,7 @@ firmeza.mx
 fit.develab.mx
 fixen.mx
 floresconsultores.com.mx
+fls-na.amazon.com.mx
 follajesyflores.mx
 fonart.com.mx
 fordzapataseminuevos.com.mx
@@ -545,6 +552,7 @@ mixup.com.mx
 mjhl.com.mx
 mkt.ventanasyaluminios.com.mx
 mktf.mx
+mmogollon.com.mx
 mobileads.todomobile.com.mx
 moncompte-mobile.gzero.com.mx
 monicamarquez.com.mx
@@ -560,6 +568,7 @@ myrc.com.mx
 nem.edu.mx
 neoredes.com.mx
 netpub.com.mx
+neverseenshop.com.mx
 newservicegold.com.mx
 noeby.mx
 nominas.utrng.edu.mx
@@ -779,6 +788,7 @@ unialvaedison.edu.mx
 unilive.com.mx
 update-your-id-verification-customer-service.construpiso.com.mx
 upgto.edu.mx
+urbanos22.mx
 usaa.security.entlogon.davidquintalb.com.mx
 uvimex.com.mx
 vacanora-unorestaurante.grupojenrab.mx
@@ -821,8 +831,12 @@ woodpecker.com.mx
 wtx.mx
 www.007.mx
 www.angelsscort.com.mx
+www.congreso-hidalgo.gob.mx
 www.connet.net.mx
 www.coolingtowers.com.mx
+www.cwa.mx
+www.dhl.express.faktura.tecsla.com.mx
+www.faktura.tecsla.com.mx
 www.fiduciariobajio.com.mx
 www.laidclinique.com.mx
 www.lotenal.gob.mx

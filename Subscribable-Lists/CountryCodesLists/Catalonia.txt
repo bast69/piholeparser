@@ -1,5 +1,7 @@
+ads.acpc.cat
 ads.vilaweb.cat
 advocatsaterrassa.cat
+adworks.cat
 agrupaciocongres.cat
 almata.cat
 analisisreig.cat
@@ -24,6 +26,7 @@ femxarxa.cat
 files.cat
 galeriariera.cat
 gay.cat
+girlsbcn.cat
 humorencatala.cat
 imp.rtb.cat
 kavavak.cat
@@ -45,6 +48,7 @@ tintoreriesjuncosa.cat
 transenyera.cat
 void.cat
 webcams.cat
+www.adworks.cat
 www.aparcamentsveinals.cat
 www.casalparis.cat
 www.girlsbcn.cat

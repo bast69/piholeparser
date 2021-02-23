@@ -4,6 +4,7 @@ ak-events-collector.spot.im
 alimpses.im
 amityadav.im
 annig.im
+api-2-0.spot.im
 askfm.im
 avlto.im
 bix.im
@@ -42,6 +43,7 @@ jeu.im
 jeux.im
 khh.im
 macstimess.im
+metrics-logger.spot.im
 midnight.im
 ogonotro.im
 onlike.ro.im
@@ -49,6 +51,7 @@ oqnrkojahy.im
 outhoreah.im
 pananet.im
 pepol.im
+pix.spot.im
 private-myetherwallet.quanta.im
 proxysites.im
 psisgara.im
@@ -76,6 +79,7 @@ traffic.spot.im
 urls.im
 vledegook.im
 www.bix.im
+www.feed.engage.im
 www.gonzo.im
 www.im
 www.ity.im

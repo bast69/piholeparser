@@ -60,6 +60,7 @@ blockchains.pk
 bpe.edu.pk
 brands4you.pk
 brandsstudio.pk
+brandtrust.com.pk
 buildchem.pk
 bulaidi.pk
 business.medianet.org.pk
@@ -85,6 +86,7 @@ caseid-862851228.pale.pk
 caseid-956149615.pale.pk
 cer.salu.edu.pk
 championfoods.com.pk
+chandni.pk
 chaseinn.pk
 chateauroyal.com.pk
 checkcheck.pk
@@ -193,6 +195,7 @@ g.icab.pk
 gcwkotlakhpat.edu.pk
 globalrock.com.pk
 glorious.net.pk
+goadvert.pk
 gofresh.com.pk
 gotovacations.pk
 grace-international.pk
@@ -242,6 +245,7 @@ kamu.pk
 karandaaz.com.pk
 kba.org.pk
 kbctouch.kbc.be.chajjo.pk
+khanestate.com.pk
 kidsfit.pk
 kreation.pk
 lamarzocco.com.pk
@@ -259,7 +263,10 @@ mansab.pk
 martgloves.pk
 marwatassociates.com.pk
 marzsgroup.com.pk
+mavenconsulting.com.pk
+maxtox.com.pk
 mdltp.pk
+media-server.skyinternet.com.pk
 meezantrading.pk
 metron.com.pk
 mianbrothers.com.pk
@@ -354,6 +361,7 @@ profilefb-97047468.aicp.edu.pk
 propertyxchange.pk
 prowiders.com.pk
 ptoti.pk
+punjabdevelopersassociation.com.pk
 pureherbs.pk
 pushing.pk
 qims.edu.pk
@@ -468,6 +476,8 @@ wwd.com.pk
 www.apl.com.pk
 www.ausaf.pk
 www.bacr.com.pk
+www.goadvert.pk
+www.oserve.pk
 www.pakistanelevators.pk
 xpert.pk
 yahoo.anima.pk

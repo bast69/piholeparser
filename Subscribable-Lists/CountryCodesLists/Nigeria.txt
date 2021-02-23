@@ -17,6 +17,7 @@ aln-edu.ng
 alumnus.unical.edu.ng
 amenaacademy.com.ng
 ampos.com.ng
+ams.alvinasschools.org.ng
 apidemo.eazybiz.ng
 app.eazybiz.ng
 appdemo.eazybiz.ng
@@ -127,6 +128,7 @@ hrm.desevens.com.ng
 hucfafrica.org.ng
 icu-netq.net.ng
 idklearningcentre.com.ng
+ierdafrica.org.ng
 ildsabu.com.ng
 ileolaherbalcare.com.ng
 importantinformations.com.ng
@@ -290,8 +292,11 @@ www.app.eazybiz.ng
 www.appdemo.eazybiz.ng
 www.eazybiz.ng
 www.guzelkadin.ng
+www.ierdafrica.org.ng
 www.pixel.eazybiz.ng
 www.progitaltech.com.ng
+www.webmail93949840839.com.ng
+www.zw578376khsds.com.ng
 wwwfel.org.ng
 xtravels.com.ng
 yamoo.com.ng

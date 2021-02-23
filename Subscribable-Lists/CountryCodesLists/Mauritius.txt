@@ -10,6 +10,7 @@ jeux.mu
 joingrupbokep.69.mu
 mcia.mu
 sadervoyages.intnet.mu
+smarine.mu
 specoat.mu
 stephenbs.ac.mu
 themes.webiz.mu

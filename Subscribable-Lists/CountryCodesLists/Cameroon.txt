@@ -7,6 +7,7 @@ clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm
+doga.cm
 download.cm
 etranscom.cm
 facebook.bazar.cm
@@ -41,6 +42,7 @@ toussaint.cm
 twitter.cm
 ul.cm
 unicc-bazar.cm
+wikia.cm
 www.avis.cm
 www.cnn.cm
 www.facebook.cm
@@ -50,3 +52,4 @@ www.kingdomfestival.cm
 www.poker.cm
 www.target.cm
 www.ul.cm
+www.wikia.cm

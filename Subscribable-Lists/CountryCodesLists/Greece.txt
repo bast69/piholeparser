@@ -10,6 +10,7 @@
 639827382.linuxzone146.grserver.gr
 999paixnidia.gr
 a12b34.static.otenet.gr
+aboutads.gr
 abtgroup.gr
 acmondata.gr
 ad-media.xe.gr
@@ -30,6 +31,7 @@ ads.adman.gr
 ads.e-go.gr
 ads.in.gr
 ads.naftemporiki.gr
+ads.soweb.gr
 ads.stoiximan.gr
 ads3.adman.gr
 adserver.amna.gr
@@ -419,6 +421,7 @@ nyfikoxtenisma-thessaloniki.gr
 obj.adman.gr
 officenetworks.gr
 oikotexnia-a-o.gr
+oldftp.otenet.gr
 ole24.gr
 ondietclub.gr
 online-games.gr
@@ -560,6 +563,7 @@ synergeiokatharismou-thessaloniki.gr
 sypin.gr
 tagaras.gr
 talos.adman.gr
+taouxis.gr
 tasiosgrigoris.gr
 tasosrepair.gr
 tavari.gr
@@ -632,6 +636,7 @@ www.avrakougioumtzi.gr
 www.blackstate.gr
 www.fairsky.gr
 www.gaygreece.gr
+www.geoenergia.gr
 www.gnomihalkidikis.gr
 www.liganews.gr
 www.opap.gr

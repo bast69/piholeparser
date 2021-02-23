@@ -16,6 +16,7 @@ adsplius.lt
 afb-services.96.lt
 alfacrewing.lt
 allinone.lt
+apartmentsinklaipeda.lt
 appelsupport.96.lt
 arija.lt
 artdeko.lt
@@ -75,6 +76,7 @@ e-multiplus.96.lt
 ebaysecurity.vhost.lt
 eget.lt
 einhell.lt
+ej.progresas.lt
 ekipazastaksi.lt
 eklerine.lt
 elcalor.lt
@@ -105,6 +107,7 @@ helps1590052157815869.96.lt
 hey.lt
 hidroponika.lt
 hst-19-33.splius.lt
+i-i.lt
 ic24.lt
 ilive.lt
 instrumentum.lt
@@ -207,6 +210,7 @@ smartrank.lt
 smartshopas.lt
 smile.lt
 sollor.lt
+sortis.lt
 spalvotaslaikas.lt
 sportnutrition.lt
 stalofutbolas.lt
@@ -233,6 +237,7 @@ toviewallhe838jdspics.96.lt
 tradecharm.lt
 travelmaster.lt
 triusiai.lt
+ugira.lt
 upz1.destinia.lt
 v2.ads3.ipon.lt
 vaikoateitis.lt
@@ -247,6 +252,7 @@ vkproverka.96.lt
 vladneta.lt
 webradiobandatremdoforro.96.lt
 www.adsplius.lt
+www.apartmentsinklaipeda.lt
 www.bnc.lt
 www.hey.lt
 www.orakulas.lt

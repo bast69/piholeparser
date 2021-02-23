@@ -166,6 +166,7 @@
 34dyi8.cn
 34portal.cn
 35vp.cn
+360down7.miiyun.cn
 360share.cn
 360wifi.com.cn
 369678.cn
@@ -852,7 +853,9 @@ ad.foxitreader.cn
 ad.funshion.org.cn
 ad.gamebox.360.cn
 ad.gmw.cn
+ad.jiguang.cn
 ad.jxnews.com.cn
+ad.mobstazinc.cn
 ad.molitv.cn
 ad.rednet.cn
 ad.thepaper.cn
@@ -986,6 +989,7 @@ adqelqi.cn
 adqxyjn.cn
 adqziaeo.cn
 adreq.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn
 ads.casee.cn
 ads.ce.cn
 ads.clicksor.cn
@@ -1044,6 +1048,7 @@ advocatethedevil.cn
 adwim8812.cn
 adwordsgl.cn
 adx.88shu.cn
+adx.admaster.com.cn
 adx.dlads.cn
 adxlog.vivo.com.cn
 adxserver.ad.cmvideo.cn
@@ -15664,6 +15669,7 @@ emamiet.cn
 emanraa.cn
 emaoveaa.cn
 emareteg.cn
+emarketing.sina.com.cn
 emarketingcorp.cn
 emarxwa.cn
 emavore.cn
@@ -24941,6 +24947,7 @@ gtiesa.cn
 gtikoka.cn
 gtiojv.cn
 gtire.cn
+gtm-cn-6ja1vd93704.voiceads.cn
 gtmoviesnow.cn
 gtn2z.cn
 gtnnubu.cn
@@ -28052,6 +28059,7 @@ icloudxr.cn
 icluod.ios098.cn
 icodoqiioch.cn
 icohio.cn
+icon.shatangmu.cn
 icondoontop.cn
 icourtyards.cn
 icowboys.cn
@@ -28638,7 +28646,9 @@ ilydlkr.cn
 ilyuiijf.cn
 ilzpjyb.cn
 im-meds.cn
+im.jiguang.cn
 im.lokoo.com.cn
+im64.jpush.cn
 image.37wan.cn
 image.casee.cn
 image.dolphin-browser.cn
@@ -33931,6 +33941,7 @@ kzvi4iiutr11e.cn
 kzxovfl.cn
 kzybnkm.cn
 kzzwvaio.cn
+l.inmobicdn.cn
 l.minisplat.cn
 l.mnjkw.cn
 l1.soarfi.cn
@@ -38251,6 +38262,7 @@ msucxd.cn
 msvbdct.cn
 mswarzahxv.cn
 mszriizcmok.cn
+mt.voiceads.cn
 mta0o4.xz.cn
 mta0o5.xz.cn
 mtabkz.cn
@@ -44684,6 +44696,8 @@ possiblewhile.cn
 possmc.cn
 post-a-job.cn
 post.netchina.com.cn
+post.voiceads.cn
+post1.voiceads.cn
 postbackepo.cn
 postegg.cn
 poster.weather.com.cn
@@ -47688,6 +47702,7 @@ rereqox.cn
 rerroiv.cn
 rertevep.cn
 rerusil.cn
+res-push.ad.jiguang.cn
 res.adcome.cn
 res.bid.ljrtb.cn
 res.ieceo.cn
@@ -49876,10 +49891,16 @@ sdk.appadhoc.com.bsclink.cn
 sdk.casee.cn
 sdk.dotui.cn
 sdk.g.uc.cn
+sdk.im.jiguang.cn
+sdk.inmobi.cn
+sdk.jiguang.cn
 sdk.look.360.cn
 sdk.stat.foreign.nearme.com.cn
+sdk.verification.jiguang.cn
+sdk.voiceads.cn
 sdkapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
+sdkconfig.voiceads.cn
 sdkiryaxhf.cn
 sdkm.w.inmobi.cn
 sdktm.w.inmobi.cn
@@ -54097,6 +54118,7 @@ thingforyoutoo.cn
 thingtail.cn
 thinkaboutgreenertimes.cn
 thinkaboutrealjoy.cn
+thinkbrief.cn
 thinkdecimal.cn
 thinkgenappea.cn
 thinkwomen.cn
@@ -55047,6 +55069,7 @@ track.uc.cn
 trackcard.cn
 trackcertain.cn
 trackchildren.cn
+tracker.inmobi.cn
 tracking.v.tf.360.cn
 traddh.cn
 trade-in-putian.cn
@@ -57430,6 +57453,7 @@ verfan.cn
 verfnogb.cn
 vergane.cn
 vergipon.cn
+verification.jiguang.cn
 verifyclickssystem.cn
 verihawox.cn
 verko.cn
@@ -59368,6 +59392,7 @@ webbaddebtla.cn
 webbaddebtll.cn
 webd.home.news.cn
 weberror.cn
+webfile.adview.cn
 webmagicdesigner.cn
 webmasterhome.cn
 weboginu.cn
@@ -62501,7 +62526,9 @@ www.360clg.cn
 www.56sese.cn
 www.57.com.cn
 www.6615338.cn
+www.7dot.cn
 www.8d.cn
+www.aa-club.com.cn
 www.accoona.cn
 www.adkmob.cn
 www.adpush.cn
@@ -62553,6 +62580,7 @@ www.hxstfxx.cn
 www.icloup-yuie.cn
 www.ijinshan.cn
 www.itpomq.cn
+www.jacketspolska.cn
 www.jamming.cn
 www.jj123.com.cn
 www.juzi.cn
@@ -62592,6 +62620,7 @@ www.siom.ac.cn
 www.softtube.cn
 www.sonystyle.com.cn
 www.stats.jpush.cn
+www.syds588.cn
 www.talk99.cn
 www.targetedmedia.com.cn
 www.termica.cn
@@ -62608,6 +62637,7 @@ www.wodlinux.cn
 www.wooboo.com.cn
 www.wooboo.comm.cn
 www.wowjs.1www.cn
+www.wuus.org.cn
 www.xb5wk.cn
 www.xmr.btgirl.com.cn
 www.xsedu.zj.cn
