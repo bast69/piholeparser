@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nvXDJVyUjxruFOxfiY5s9Q
-! Version: 202102230221
+! Checksum: HSyJoABiuYX0PUxfdGhaew
+! Version: 202102240211
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Feb 2021 02:21 UTC
+! Last modified: 24 Feb 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5172,6 +5172,7 @@ _vpcookieconsent/
 ##.outbrain-recommended
 ##.outbrain-relateds
 ##.outbrain-widget
+##.outbrain-wrap
 ##.outbrain-wrapper
 ##.outbrainWidget
 ##.outbrain__main
@@ -11887,6 +11888,7 @@ _vpcookieconsent/
 ##.article-bottom-share
 ##.article-bottom-sharing
 ##.article-bottom-social-share
+##.article-box-social
 ##.article-byline-shares
 ##.article-card__share
 ##.article-content-sharing
@@ -30707,6 +30709,7 @@ _vpcookieconsent/
 ##.cookiebar-message
 ##.cookiebar-panel
 ##.cookiebar-tpl
+##.cookiebar-wrapper
 ##.cookiebar:not(body):not(html)
 ##.cookiebar_container
 ##.cookiebarcontainer
@@ -34661,6 +34664,7 @@ _vpcookieconsent/
 ||js.intercomcdn.com/audio/
 ||livechatinc.com/widget/static/media/
 ||reamaze.com/audio/
+||static.widget.trengo.eu/assets/$media
 ||tidiochat.com^$media
 ||zdassets.com/web_widget/$media
 ! Taboola
@@ -35150,6 +35154,7 @@ _vpcookieconsent/
 ||cookiescript.info^$third-party
 ||dmgmediaprivacy.co.uk^$third-party
 ||donkeymob.com^$third-party
+||ecookie.nl^$third-party
 ||gdpr-service.herokuapp.com^$third-party
 ||gdpr.studybreakmedia.com^
 ||global.mgr.consensu.org^$third-party
@@ -42333,6 +42338,7 @@ forums.freebsd.org##.js-notices
 itv.com##.js-site-alert
 itv.com##.js-site-alert-content
 cgtn.com##.js-tools-dialog
+avontyres.com##.koekjesbalk
 archdaily.com##.kth-toast
 lexus.co.uk,lexus.eu##.l-disclaimer
 addgene.org##.l-dismissible-msg

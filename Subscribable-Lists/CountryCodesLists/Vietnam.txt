@@ -542,6 +542,7 @@ erp.mediaz.vn
 euro.klick.vn
 evaxinh.edu.vn
 event.adpia.vn
+f-emc.ngsp.gov.vn
 f.admicro.vn
 f.novanet.vn
 f.vietnamnetad.vn
@@ -1258,6 +1259,7 @@ statistics.vov2.vn
 stats.123c.vn
 stats.bizweb.vn
 stats.isacombank.com.vn
+stats.muasamcong.gov.vn
 stats.petrotimes.vn
 stats.sapo.vn
 stats.vietnammoi.vn

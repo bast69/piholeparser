@@ -1362,6 +1362,7 @@ cdn.tradelab.fr
 cdn1-analytics.ladmedia.fr
 cdn2-analytics.ladmedia.fr
 cdn3-analytics.ladmedia.fr
+cdn3.lacoquepersonnalisee.fr
 cdsanit.fr
 cebo.fr
 ceerce.fr
@@ -2514,6 +2515,7 @@ hordes.fr
 horlogemurale.fr
 horyzonix.sdv.fr
 horyzonix1.sdv.fr
+host10.hotelissima.fr
 hostile-gaming.fr
 hostpoint-paiement-ch-cf1a1dff.dpespaca.fr
 hostpoint-paiement-com-1b7b5e52.imprimerietrace.fr
