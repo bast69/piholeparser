@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jbh3+UtGQiOPc5GEEbEuBA
-! Version: 202102240230
+! Checksum: 6aeOBbYNAprkJfG/KEeZwQ
+! Version: 202102250240
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 24 Feb 2021 02:30 UTC
+! Last modified: 25 Feb 2021 02:40 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1117,6 +1117,7 @@ dostfilms.org##.soc_knopki_pod_pleerom
 newsomsk.ru##.soc_link_in_head
 finobzor.ru,politobzor.net,telegraf.com.ua,telegraf.in.ua,warfiles.ru##.soc_links
 volynnews.com##.soc_merezha
+regionews.ua##.soc_wrap
 politnavigator.net##.socaside > *
 shazoo.ru##.socb
 hdtochka.club##.socblok
@@ -1254,7 +1255,7 @@ ilenta.com,pln-pskov.ru,real-vin.com,ukrnews24.net,vo-dela.su##.telegramim_butto
 sobesednik.ru#?#.text-right:-abp-contains(поделиться:)
 spacegid.com##.text_share
 gazeta.spb.ru,liveball8.ml,repost.uz,yarnews.net##.tg
-08sportbar.online,777sportba.com,777sportba.org,channels247.net,goool7.ws,newinform.com,sport7.biz,sportbar.biz,sporting7.pw##.tg-button
+08sportbar.online,777sportba.com,777sportba.org,channels247.net,goool7.ws,newinform.com,sport7.biz,sportbar.biz,sporting7.pw,sporting77.com##.tg-button
 slovodel.com##.tg-main
 aspi.com.ua##.tg_subscribe
 profinance.ru##.tgcblock
@@ -3221,7 +3222,7 @@ superhimik.com##.headerbar
 tvzvezda.ru##.hendler_multivideoplayer_class.fixed
 igromania.ru##.hmenu_box > a[href="/stream/"]
 ikea.com##.hnf-banner
-shazoo.ru##.homeMid
+shazoo.ru##.homeFeature
 segodnya.ua##.homepage-content > .block:nth-child(-n+5) > .b-ads
 ctc.ru##.html-block_bottom.html-block
 3dnews.ru##.huawei-menu
@@ -24234,6 +24235,7 @@ _backToTop.
 ###hp-newsletters
 ###iframe-newsletter
 ###inContentEmail
+###inf-teaserbox-var-1__form_newsletter
 ###injected-newsletter
 ###injector-signup
 ###inline-newsletter
@@ -26007,6 +26009,7 @@ _backToTop.
 ##.widget_blog_subscription
 ##.widget_bs-newsletter-mailchimp
 ##.widget_cbs_newsletter_widget
+##.widget_dm_newsletter_widget
 ##.widget_email_subscribe
 ##.widget_enqtran_subscriber_widget
 ##.widget_home_newsletter
@@ -27483,6 +27486,7 @@ _backToTop.
 ||livechatinc.com/widget/static/media/
 ||reamaze.com/audio/
 ||static.widget.trengo.eu/assets/$media
+||tawk.to/*/audio/
 ||tidiochat.com^$media
 ||zdassets.com/web_widget/$media
 ! Taboola
