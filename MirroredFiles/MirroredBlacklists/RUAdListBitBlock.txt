@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6aeOBbYNAprkJfG/KEeZwQ
-! Version: 202102250240
+! Checksum: GWjwZnZGZ1E2Q+W5SzLofA
+! Version: 202102260230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 25 Feb 2021 02:40 UTC
+! Last modified: 26 Feb 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -650,6 +650,7 @@ habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #facebook_like_box
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #vk_groups)
 tsn24.ru##.detail__share
 trashbox.ru##.div_anim_rec_block
+trashbox.ru##.div_subcaption2_subs
 meddaily.ru##.doctor_block ~ table[width]
 newformat.info##.dpsp-share-text
 crowdrepublic.ru##.e-nets
@@ -1066,6 +1067,7 @@ masterok.livejournal.com##.sidebar-custom > dd > a[href]
 4eva.ru,darada.co##.sidebar-social__header
 moika78.ru,nevasport.ru##.sidebar-widget
 proidei.com##.sidebar-widgets-1
+gorodrabot.ru#?#.sidebar__block:-abp-has(> .block__content > .ya-share2)
 bouw.ru##.sidebar__social
 cherkassy-sport.com#?#.sidebar_block:-abp-has(> div > #fb-root)
 btu.org.ua#?#.sideblock > .hblock:-abp-has(.twitter-timeline)
@@ -1255,7 +1257,7 @@ ilenta.com,pln-pskov.ru,real-vin.com,ukrnews24.net,vo-dela.su##.telegramim_butto
 sobesednik.ru#?#.text-right:-abp-contains(поделиться:)
 spacegid.com##.text_share
 gazeta.spb.ru,liveball8.ml,repost.uz,yarnews.net##.tg
-08sportbar.online,777sportba.com,777sportba.org,channels247.net,goool7.ws,newinform.com,sport7.biz,sportbar.biz,sporting7.pw,sporting77.com##.tg-button
+08sportbar.online,777sportba.com,777sportba.org,barsportbar.com,channels247.net,goool7.ws,newinform.com,sport7.biz,sportbar.biz,sporting7.pw,sporting77.com##.tg-button
 slovodel.com##.tg-main
 aspi.com.ua##.tg_subscribe
 profinance.ru##.tgcblock

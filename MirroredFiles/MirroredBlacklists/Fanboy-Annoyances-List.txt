@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: O6jMjqOvWMXMlKIip8SM2g
-! Version: 202102250211
+! Checksum: b8/OjSXbqCxMrN9DGPOsWQ
+! Version: 202102260211
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Feb 2021 02:11 UTC
+! Last modified: 26 Feb 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -26678,6 +26678,7 @@ _vpcookieconsent/
 ###iubenda-cs-banner-new
 ###ivu_privacy
 ###iw-cookie-message
+###iws-accept-cookies-container
 ###j-cookie-notification
 ###jCookiePrivacy_div_testo
 ###jQAlertAcceptCookie
@@ -38322,7 +38323,6 @@ pressherald.com##.related-call
 food52.com##.related-content
 firstwefeast.com##.related-stories
 worldstarhiphop.com##.relatedList
-kickstarter.com##.relative.z2
 ink361.com##.removeAds
 ink361.com##.removeAdsBlock
 networkworld.com##.resalert
@@ -45538,6 +45538,7 @@ cataniaoggi.it###thepriv
 sia.eu###toast
 cippy.it###toast-container
 luxuryzone.it###top-notification-container
+isweb.it###trace-form
 scuolerimini.it###upper_div
 puglialive.net###visitor_info
 farmacieaperte.it###warning-popup
