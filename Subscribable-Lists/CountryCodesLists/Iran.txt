@@ -422,7 +422,6 @@ iran-bazaar.ir
 iran-ebay.ir
 irancrane.ir
 irandishwasher.ir
-iranfilme.ir
 iranmeat.ir
 iranparkco.ir
 iranrabits.ir
@@ -526,7 +525,6 @@ mehreganprint.ir
 mersrekdocuments.ir
 miadgah.ir
 miclouddemo.ir
-miniangel.ir
 mirancharm.ir
 mirangallery.ir
 mirasshahr.ir
@@ -567,6 +565,7 @@ navac.ir
 ncpll1392.ir
 nedaezohoor.ir
 nedayepak.ir
+negara-store.ir
 neginshomal-hotel.ir
 negintv.ir
 neku.ir
@@ -842,6 +841,7 @@ psarta.ir
 puppet.ir
 pyzprint.ir
 q4a.ir
+qadir.tickfa.ir
 qazvin.iastjd.ac.ir
 qpco.ir
 quicklearn.ir

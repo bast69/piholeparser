@@ -1718,7 +1718,6 @@ decitre.fr
 declic.fr
 decouvrirlesdeal.fr
 decoval.fr
-dedicace.radio-ifge.fr
 deesseangelina.free.fr
 defend-paris.fr
 degrif-auto.fr
@@ -4429,6 +4428,7 @@ sharks-lagoon.fr
 shinangel9.free.fr
 shinobi.fr
 shoe-lover.fr
+shop.sfcim.fr
 shopexclu.fr
 shopmania.fr
 shopoon.fr
@@ -5074,7 +5074,6 @@ www.npi95.fr
 www.nsoft.fr
 www.objetsdeplaisir.fr
 www.ojolink.fr
-www.orpb.fr
 www.oxiads.fr
 www.paintnet.fr
 www.passagedudesir.fr

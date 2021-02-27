@@ -204,6 +204,7 @@ guggis.com.pk
 hamdamfoundation.org.pk
 hamdani.com.pk
 hands.org.pk
+hashmiricemills.com.pk
 hatif.org.pk
 hayatabad.pk
 hdfpakistan.org.pk
@@ -245,7 +246,6 @@ kamu.pk
 karandaaz.com.pk
 kba.org.pk
 kbctouch.kbc.be.chajjo.pk
-khanestate.com.pk
 kidsfit.pk
 kreation.pk
 lamarzocco.com.pk
@@ -263,7 +263,6 @@ mansab.pk
 martgloves.pk
 marwatassociates.com.pk
 marzsgroup.com.pk
-mavenconsulting.com.pk
 maxtox.com.pk
 mdltp.pk
 media-server.skyinternet.com.pk
@@ -477,7 +476,6 @@ www.apl.com.pk
 www.ausaf.pk
 www.bacr.com.pk
 www.goadvert.pk
-www.oserve.pk
 www.pakistanelevators.pk
 xpert.pk
 yahoo.anima.pk

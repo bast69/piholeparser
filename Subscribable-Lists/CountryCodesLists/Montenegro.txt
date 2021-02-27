@@ -1852,6 +1852,7 @@ olx-oferta.me
 olx-paygate.me
 olx-pl.pay3d.me
 olx-zamowienie.me
+olx.delivery-z.me
 olx.dostawa.me
 olx.merchant-b.me
 olx.pl-mkonto.me
@@ -1860,8 +1861,10 @@ olx.pl-payment.me
 olx.pl-safe.oferta-payment.me
 olx.pl.safe.oferta-payment.me
 olx.pl.wysylka.me
+olxbank.me
 olxpl.delivery-n.me
 olxpl.delivery-o.me
+olxpl.delivery-z.me
 olxpl.me
 omnibox.me
 oncam.me
@@ -3382,6 +3385,7 @@ www.olx-oferta.me
 www.olx-paygate.me
 www.olx-pl.pay3d.me
 www.olx-zamowienie.me
+www.olx.delivery-z.me
 www.olx.dostawa.me
 www.olx.merchant-b.me
 www.olx.pl-mkonto.me
@@ -3390,8 +3394,10 @@ www.olx.pl-payment.me
 www.olx.pl-safe.oferta-payment.me
 www.olx.pl.safe.oferta-payment.me
 www.olx.pl.wysylka.me
+www.olxbank.me
 www.olxpl.delivery-n.me
 www.olxpl.delivery-o.me
+www.olxpl.delivery-z.me
 www.olxpl.me
 www.oo000oo.me
 www.paczkomaty.me

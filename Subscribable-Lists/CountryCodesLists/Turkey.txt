@@ -494,7 +494,6 @@ mebed.com.tr
 medicalcenter.com.tr
 mehmetcelalergulec.com.tr
 mercanta.com.tr
-mersinchk.gov.tr
 merturk.com.tr
 mervecapas.com.tr
 mervereklam.com.tr
@@ -1155,6 +1154,7 @@ www.sensellojistik.com.tr
 www.serdarozturk.com.tr
 www.serumx.com.tr
 www.servismerkezi.com.tr
+www.seyranikenger.com.tr
 www.shahkara.com.tr
 www.shootpower.com.tr
 www.sigaramakinesi.gen.tr

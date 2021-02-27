@@ -1472,6 +1472,7 @@ avito.pay24in.ru
 avito.re-paymentsms.ru
 avitocars.ru
 avitocome.ru
+avitodomains.ru
 avitofest.ru
 avitonice.ru
 avitopud.ru
@@ -4389,7 +4390,6 @@ f0478531.xsph.ru
 f0479624.xsph.ru
 f0482519.xsph.ru
 f0483441.xsph.ru
-f0514395.xsph.ru
 f4.cvpntr.eh.r.uk.a2ip.ru
 f66989b0.bget.ru
 f7p.ru
@@ -8717,6 +8717,7 @@ olx-pl-id-759147.ru
 olx-pl-id.ru
 olx-pl.id03948.ru
 olx-pl.iso-pay.net.ru
+olx-pl.oformlenie-uslug.ru
 olx-pl.pay-secure.com.ru
 olx.merch-pays.ru
 olx.pl-dostawa.ru
@@ -11128,6 +11129,7 @@ sqqs7783.ru
 sqqwer.ru
 squeegee.ru
 srcbcz.ru
+sromecorlduce.ru
 srv-archive.ru
 srv.wfsdragon.ru
 srv1-gstorage.ru
@@ -13207,6 +13209,7 @@ worldwide-logistics.ru
 wormix-cheats.ru
 wot-replays.net.ru
 wot-replays.org.ru
+wouatiareves.ru
 wow-play.ru
 wow-shablon.ru
 wowas31.ucoz.ru
@@ -13294,6 +13297,7 @@ www.atotum.ru
 www.avant-yug.ru
 www.avito-paysprocessing.ru
 www.avito.pay24in.ru
+www.avitodomains.ru
 www.avitopud.ru
 www.avitorul.ru
 www.aymcsx.ru
@@ -13507,6 +13511,7 @@ www.olx-pl-id-759147.ru
 www.olx-pl-id.ru
 www.olx-pl.id03948.ru
 www.olx-pl.iso-pay.net.ru
+www.olx-pl.oformlenie-uslug.ru
 www.olx-pl.pay-secure.com.ru
 www.olx.merch-pays.ru
 www.olx.pl-dostawa.ru
@@ -13612,6 +13617,7 @@ www.ucretsizsesli-kitaplar.ru
 www.udqgbokvzbnqkf.ru
 www.ulnawoyyzbljc.ru
 www.uoldid.ru
+www.update0019992.ru
 www.urod.ru
 www.uzelok4u.ru
 www.v.actionteaser.ru

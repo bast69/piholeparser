@@ -593,6 +593,7 @@ opcionesflex.mx
 opcioninmobiliaria.com.mx
 opticron.com.mx
 p.ato.mx
+pactoporlaexcelenciaeducativa.mx
 palaciohierro.com.mx
 pangealogistics.com.mx
 pastelesallegro.mx
@@ -788,7 +789,6 @@ unialvaedison.edu.mx
 unilive.com.mx
 update-your-id-verification-customer-service.construpiso.com.mx
 upgto.edu.mx
-urbanos22.mx
 usaa.security.entlogon.davidquintalb.com.mx
 uvimex.com.mx
 vacanora-unorestaurante.grupojenrab.mx
@@ -856,3 +856,4 @@ yaguarxoo.com.mx
 znq9.destinia.mx
 zonadehospitales.mx
 zonaoutlet.mx
+zuenajoyeria.com.mx
