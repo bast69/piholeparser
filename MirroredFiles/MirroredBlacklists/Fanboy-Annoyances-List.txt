@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SB4LDrIhtcZI7ue9G5kJrQ
-! Version: 202102270211
+! Checksum: S+BC3Rd30O6gPvoO5DCzTA
+! Version: 202102280211
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Feb 2021 02:11 UTC
+! Last modified: 28 Feb 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33301,6 +33301,7 @@ _vpcookieconsent/
 ##.rm-cookies-belt
 ##.rm-cookies-ol
 ##.rmgCookieAlert
+##.rnk-CookiesPolicy
 ##.rnt_cookie
 ##.rodo-accept
 ##.rodo-alert
@@ -38889,6 +38890,7 @@ dealnews.com##.engagement-container
 propublica.org##.fundraising-letter-inline
 artnews.com##.get-the-magazine__outer
 npr.org##.global-modal
+myanimelist.net##.header-mini-banner
 miaminewtimes.com##.ia-support
 metservice.com##.img-responsive-container
 wired.com##.journey-unit
@@ -39386,6 +39388,7 @@ thecourier.co.uk##.cta--bg
 rewire.news##.cta-a
 gazette-news.co.uk,worcesternews.co.uk,yourlocalguardian.co.uk##.cta-component-half-width
 digg.com##.cta-stories
+politico.eu##.cta__content--wrapper
 meta.com##.ctabox
 codeclimate.com##.ctas
 thebostonpilot.com##.ctct-embed-signup
@@ -42233,7 +42236,7 @@ antoineonline.com##.container-overlay
 deezer.com##.cookie-banner
 theatlantic.com##.cookie-disclaimer
 bitfeed.co##.cookiebanner
-amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,hse.ru,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 semanticscholar.org##.copyright-banner
 bandcamp.com##.corp-banners
@@ -44455,6 +44458,7 @@ citroenselect.it##.social-network
 davinotti.com##.social__variant
 investireoggi.it##.social_menu
 salepepe.it##.sp2015-footer-social
+terranostranews.it##.spu-bg
 gametimers.it,ilsicilia.it,kontrokultura.it,notizie.umbria.it,topicnews.it##.ss-ic
 tuttomercatoweb.com##.telegram
 agensir.it##.temporary-skin-adv
@@ -46042,6 +46046,7 @@ eltiempo.es##.curtain_lightbox
 ingemecanica.com##.encabez
 bandaancha.eu##.euCk
 bwin.es##.info-message
+elperiodicodeaqui.com##.info_priv
 ulabox.com##.js-alert
 plataformaarquitectura.cl##.kth-toast
 enaire.es,fiveguys.es##.modal-backdrop
@@ -46721,7 +46726,7 @@ autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share
 baidu.com,channelnewsasia.com,recite.com#@#.share-list
 app.sococo.com,disqus.com,disroot.org,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
 flickr.com,fxhome.com#@#.share-options
-dropbox.com,ge.tt,gfycat.com,recite.com#@#.share-page
+dropbox.com,ge.tt,gfycat.com,recite.com,redgifs.com#@#.share-page
 flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 mediafire.com#@#.share-popup
 inman.com,simpletax.ca#@#.share-section
@@ -47084,7 +47089,7 @@ lg.com#@#.cookie-check
 zwijsen.nl#@#.cookie-consent-container
 zwijsen.nl#@#.cookie-consent-content
 zwijsen.nl#@#.cookie-consent-wrapper
-airam.fi,codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body):not(html)
+airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
 bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 ikks.com#@#.cookie-footer
@@ -47204,7 +47209,7 @@ spotify.com#@#.privacy-modal
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 metallica.com#@#.privacy_policy_message_box
 online.no,telenor.no#@#.privacy_prompt
-referencerecordings.com,studio100.it,tko.pl#@#.pum[data-popmake*="cookies"]
+referencerecordings.com,studio100.it,taxelocale6.ro,tko.pl#@#.pum[data-popmake*="cookies"]
 jyllands-posten.dk#@#.qc-cmp-showing
 jyllands-posten.dk#@#.qc-cmp-ui-container
 motofaktor.pl#@#.rodo-accept
@@ -47445,6 +47450,7 @@ yoigo.com#@#thor-cookies
 @@||ameli.fr/sites/all/modules/custom/ameli_tarte_au_citron/js/*/tarteaucitron.$script
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
 @@||bccmilano.it/framework/js/cookies.dyn.js
+@@||bccroma.it/framework/js/cookies.dyn.js
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.privacy-mgmt.com^$domain=telegraph.co.uk
 @@||cdn.rp.pl/cmp/cmp.min.js
@@ -47499,6 +47505,9 @@ yoigo.com#@#thor-cookies
 @@||vesmir.cz/components/eu_cookie/$script
 @@||whos-perfect.de/min/*/cookieconsent.min.js
 @@||x-news.pl/bundles/edgexnews/jquery.cookiebar/jquery.cookiebar.js$script
+!
+@@||sdk.privacy-center.org/sdk.$script,domain=filmweb.pl
+@@||sdk.privacy-center.org^*/loader.js$domain=filmweb.pl
 !
 @@||cdn.privacy-mgmt.com^$subdocument,xmlhttprequest,domain=ekstrabladet.dk|giga.de|manager-magazin.de|spiegel.de|sport1.de|vtm.begmt.com|welt.de
 ! *** easylist:fanboy-addon/fanboy_social_allowlist.txt ***
@@ -48017,6 +48026,7 @@ yoigo.com#@#thor-cookies
 @@||s7.addthis.com/static/r07/$script,stylesheet,domain=majorgeeks.com
 @@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|politico.com|ticketmaster.nl|washingtonexaminer.com
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
+@@||shopify.com^*/instafeed.min.js$script,domain=waisttrainer.co.nz
 @@||staticwars.com/combo/_/wp-content/themes/$script
 !@@||s7.addthis.com^*/addthis_widget.js*pub=$script
 !@@||s7.addthis.com^*/addthis_widget.js*pubid=$script
