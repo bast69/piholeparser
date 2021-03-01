@@ -1469,6 +1469,7 @@ avito.delivery-orders.ru
 avito.forma-pay.ru
 avito.oplatapay24.ru
 avito.pay24in.ru
+avito.payment-transfer.ru
 avito.re-paymentsms.ru
 avitocars.ru
 avitocome.ru
@@ -4390,6 +4391,7 @@ f0478531.xsph.ru
 f0479624.xsph.ru
 f0482519.xsph.ru
 f0483441.xsph.ru
+f0517761.xsph.ru
 f4.cvpntr.eh.r.uk.a2ip.ru
 f66989b0.bget.ru
 f7p.ru
@@ -11129,7 +11131,6 @@ sqqs7783.ru
 sqqwer.ru
 squeegee.ru
 srcbcz.ru
-sromecorlduce.ru
 srv-archive.ru
 srv.wfsdragon.ru
 srv1-gstorage.ru
@@ -13209,7 +13210,6 @@ worldwide-logistics.ru
 wormix-cheats.ru
 wot-replays.net.ru
 wot-replays.org.ru
-wouatiareves.ru
 wow-play.ru
 wow-shablon.ru
 wowas31.ucoz.ru
@@ -13297,6 +13297,7 @@ www.atotum.ru
 www.avant-yug.ru
 www.avito-paysprocessing.ru
 www.avito.pay24in.ru
+www.avito.payment-transfer.ru
 www.avitodomains.ru
 www.avitopud.ru
 www.avitorul.ru

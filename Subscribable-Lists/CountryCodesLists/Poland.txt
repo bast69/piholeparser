@@ -268,6 +268,7 @@ advice.hit.gemius.pl
 advicead.hit.gemius.pl
 advicepl.adocean.pl
 adview.pl
+adwokaci-24.pl
 adwokaci-bz.pl
 adwokat-grimm.pl
 adwokatminskmazowiecki.pl
@@ -755,7 +756,6 @@ biseksualni.qii.pl
 bistro-apetyczna.pl
 bitcoin.fastlink.pl
 bittersweet.pl
-biurofs.pl
 biuromono.pl
 biurorachunkowevademecum.pl
 biurowfb.pl
@@ -867,6 +867,7 @@ busiak.pl
 busty.pl
 butikcreativo.pl
 butyasicsgellyte.pl
+butybrooks.pl
 butycamper.pl
 butyhunter.com.pl
 butyjordansklep.pl
@@ -1137,6 +1138,7 @@ czaniecmeble.pl
 czapiga-drohomirecka.pl
 czarna-lista.k99k.com.pl
 czarna-lista.k99k.pl
+czarna-lista.m44m.com.pl
 czarna-lista.m44m.pl
 czarne-chmury.k99k.com.pl
 czarnirudno.pl
@@ -1365,7 +1367,6 @@ dosman.pl
 dostava-olx.pl
 dostawa-bezpieczny.pl
 dostawa-dhl.pl
-dostawa-do-domu.pl
 dostawa-olx.pl
 dostawa-poland.pl
 dostawa-w.pl
@@ -1518,7 +1519,6 @@ e-kinoman.pl
 e-kinomaniak.pl
 e-koronawirusnews.pl
 e-kwiaciarz.pl
-e-mail-pomoc.pl
 e-newsgwalt24.pl
 e-osobyzagionione.pl
 e-pocztex.pl
@@ -1556,6 +1556,7 @@ ebook4all.com.pl
 ebookeo.pl
 ebuty.net.pl
 ecashmagiceurodice.pl
+eccooutletbuty.pl
 eccopolska.pl
 eccopromocje.pl
 ecda.pl
@@ -1865,7 +1866,6 @@ face-kolor.rdx.pl
 face-vip.ujm.pl
 facebo0k.5v.pl
 facebokk.ct8.pl
-facebook-ads.pl
 facebook-color.5v.pl
 facebook-com-pl-profil.7m.pl
 facebook-com-pl-profile.7m.pl
@@ -1875,7 +1875,6 @@ facebook-login.5v.pl
 facebook-photo-fbc.5v.pl
 facebook-photos.pl
 facebook-profile.5v.pl
-facebook-regulamin.pl
 facebook-uzaleznienie.wirtualnie.pl
 facebook.5v.pl
 facebook.biz.pl
@@ -2124,6 +2123,7 @@ fotkinapiec.com.pl
 fotkinapiec.net.pl
 fotkinapiec.pl
 fotkizneta.vot.pl
+foto-cloud.o99o.net.pl
 foto-office.pl
 fotobojahr.pl
 fotobudka-fotomat.pl
@@ -2193,7 +2193,6 @@ fundacjazycieodnowa.pl
 funnyday.pl
 funnyfotobox.pl
 funskan.pl
-funsklep.com.pl
 fz.coinmine.pl
 g-mailpoczta.pl
 g1.idg.pl
@@ -2292,6 +2291,7 @@ gayfakt.pl
 gayporno.pl
 gazdowkauzajaca.pl
 gazeta-polska24.99e.pl
+gazeta-polska24.vdl.pl
 gazeta-potwierdz.co.pl
 gazeta.hit.gemius.pl
 gazetagminna.cal24.pl
@@ -2407,6 +2407,7 @@ go2.hit.gemius.pl
 goandsmile.pl
 gojiberry500.pl
 gok.wladyslawow.pl
+gold-barber.pl
 goldbach.hit.gemius.pl
 goldenmagiceurodice.pl
 goldenrelations.pl
@@ -2742,7 +2743,6 @@ halopozyczka.pl
 hamulcenawarsztat.pl
 hannawolska1.co.pl
 happy-jump.pl
-happyfotobox.pl
 harasz.art.pl
 hardcore.sexraj.pl
 hart-profil.pl
@@ -2818,6 +2818,7 @@ hovibhpz.pl
 howrse.5v.pl
 hr.adocean.pl
 hr.hit.gemius.pl
+hrcoach.pl
 hrgde.adocean.pl
 http-olx.pl
 http4u.pl
@@ -3705,6 +3706,7 @@ malybrzuszek.pl
 mamadookolaswiata.pl
 mamawpodrozy.pl
 mamaziemia.pl
+mamopoczytaj.pl
 manaslu.pl
 mania-perfum.pl
 manufaktura.y0.pl
@@ -3744,6 +3746,7 @@ masere.pl
 maski-sklep.pl
 maslo24.pl
 massgravity.pl
+massners.pl
 masteronline.pl
 maszyny-frankopol.pl
 mateos.pl
@@ -3755,6 +3758,8 @@ mavio-kredyty.pl
 mavoj.pl
 max-host.pl
 maxfashion.pl
+maxgniezno.pl
+maxireno.pl
 maxmaximus.pl
 mayonez.pl
 mazex.com.pl
@@ -3900,7 +3905,6 @@ modernbox-meble.pl
 modimoda.pl
 modrzejewski-bhp.pl
 modwebpro.pl
-mogedalej.pl
 mojadietanamase.pl
 mojalala.com.pl
 moje-imiastotv.microhost.com.pl
@@ -4057,6 +4061,7 @@ naszainspiracja.pl
 naszasa.pl
 naszdom.you2.pl
 nasze-miasto.k99k.com.pl
+nasze-usg.pl
 naszemiasto.dkonto.pl
 naszesprawdziany.pl
 naszgrojec.net.pl
@@ -4267,6 +4272,7 @@ nonstopvideos.pl
 norbertwaszak.pl
 nordiki.pl
 nordrew.pl
+norisha.pl
 northfacepolska.pl
 norton.pl
 notariuszpetrus.pl
@@ -4421,7 +4427,6 @@ okpgrandtime.pl
 okpwebcash.pl
 okpwebtime.pl
 ola.pl
-old.hprgroup.pl
 oldent.ekadzidlo.pl
 olejkowyzawrotglowy.pl
 oleksy.net.pl
@@ -4439,6 +4444,7 @@ olx-bezpieczny.pl
 olx-c.pl
 olx-check.pl
 olx-d.pl
+olx-delivering.pl
 olx-dostava.pl
 olx-dostaw.pl
 olx-dostawa.pl
@@ -4472,6 +4478,7 @@ olx-payments.pl
 olx-pays.pl
 olx-pl.pl
 olx-poland.pl
+olx-polska.pl
 olx-pro.pl
 olx-protection.pl
 olx-przesylka.pl
@@ -4496,8 +4503,6 @@ olx-zaplata.pl
 olx.deliverys.pl
 olx.doreczanie.pl
 olx.hit.gemius.pl
-olx.pl-przelew.pl
-olx.pl-przesylka.pl
 olx.pl.paymont.pl
 olx.przewiezienie.pl
 olx.wysyllka.pl
@@ -4545,6 +4550,7 @@ online-payu2442311.pl
 online-ruletka.pl
 online-tv.pl
 online-tvn.pl
+onlinecda.pl
 onlinefilmy.pl
 onlinefilmy24.pl
 onlinehd.pl
@@ -4716,8 +4722,8 @@ partneralior.pl
 partylite.pl
 pasiekaczluchowska.pl
 paskibasenowe.pl
-passionford.pl
 paszesanniki.pl
+paterashop.pl
 patientsrxcare.pl
 patioprovence.pl
 pato.pl
@@ -4745,6 +4751,7 @@ payu-platnosc943412.pl
 payu-zamowienie103234.pl
 payu-zamowienie901941.pl
 pbiat.pl
+pbshop.pl
 pc-data.pl
 pccooler.com.pl
 pcmanie4.vot.pl
@@ -4764,6 +4771,7 @@ perfexim.nazwa.pl
 perfumeriaife.pl
 perfumio.pl
 perfumyitestery.pl
+perlaibracia.pl
 personalizowane-prezenty.pl
 perspektywa2012.za.pl
 petersbud.pl
@@ -4837,7 +4845,6 @@ pko-bp.pl
 pkryczywol.pl
 pl-olx.pl
 pl-pl-fb.pl
-pl-przesylka.pl
 pl.krainabajek.pl
 pl.lider.pl
 pl.spanel.gem.pl
@@ -4854,7 +4861,6 @@ platnosc-payu.pl
 platnosc-zowieszana.kisiel13.co.pl
 platnosciallegro.pl
 play-cda.pl
-play-google.pl
 play-tube.pl
 play-vod.pl
 play.xmr.101010.pl
@@ -4944,6 +4950,7 @@ poliflex.net.pl
 polish-books.pl
 polish-engineer.pl
 polishfashionshops.pl
+polisy4u.pl
 polityka-bez-cenzury.you2.pl
 polkolonieb4k.pl
 polluk.pl
@@ -4992,12 +4999,8 @@ pomagamy24.dkonto.pl
 pomaranczowapomoc.pl
 pomoc-drogowa.cba.pl
 pomoc-fakty24.pl
-pomoc-poczta-regulamin.com.pl
-pomoc-poczta-regulamin.pl
 pomoc-poczta.org.pl
-pomoc-poczta.waw.pl
 pomoc-windykacja.pl
-pomoc-wp.waw.pl
 pomoc48.you2.pl
 pomocdlacery.pl
 pomocdlafranka.pl
@@ -5252,6 +5255,7 @@ promocjeadidas.pl
 promoclub.pl
 proobuwie.pl
 propertytenerifecenter.pl
+propicture.pl
 prostesposoby.pl
 prostozkraju.dkonto.pl
 protesttaxi.pl
@@ -5318,6 +5322,7 @@ pubmax.com.pl
 pukaczu.pl
 pumaoutletpl.pl
 pumaprzeceny.pl
+pumashoppl.pl
 pumawyprzedaz.pl
 pumeksy.pl
 puna.pl
@@ -5474,7 +5479,6 @@ regionalne24-wydarzenia.pl
 regionalne24wydarzenia.pl
 regme.pl
 regmissin.7m.pl
-regulamin-facebook.pl
 reha-vis.pl
 rehateam.pl
 rehyejereeeefh.bij.pl
@@ -5949,7 +5953,6 @@ sklep-bobas.pl
 sklep-colway.pl
 sklep-gercio.pl
 sklep-jula.pl
-sklep-play.net.pl
 sklep.agrochlopecki.pl
 sklep.bactotech.pl
 sklep.dagma.pl
@@ -5957,7 +5960,6 @@ sklep.mzuri.pl
 sklep.phumaria.pl
 sklep.stomil-bydgoszcz.pl
 sklep466452.shoparena.pl
-sklepgp.pl
 skleplara.pl
 sklepsilvermagic.pl
 sklepszkolen.pl
@@ -6105,6 +6107,7 @@ sportowebutyas.pl
 sportowebutypl.pl
 sportowy-stream.pl
 sportwr1.pl
+spotted-gdynia-photo2711.pl
 spotted-katowice-1021.pl
 spotted-wroclaw-471.pl
 spplodz.pl
@@ -6253,7 +6256,6 @@ strony-tychy.pl
 strstudio.pl
 strukturynatury.pl
 stua.hit.gemius.pl
-studentbpp.pl
 studio5m.pl
 studioartandcafe.pl
 studiocleo.pl
@@ -7146,6 +7148,7 @@ www.adserver.com.pl
 www.adserver.home.pl
 www.adsivo.pl
 www.adtaily.pl
+www.adwokaci-24.pl
 www.aerosneakers.pl
 www.affiliater.pl
 www.africanmango.pl
@@ -7344,7 +7347,6 @@ www.bifrost.pl
 www.bioperfect.pl
 www.birdwatcher.pl
 www.bistro-apetyczna.pl
-www.biurofs.pl
 www.biurorachunkowevademecum.pl
 www.biznesinpro.pl
 www.biznesoweinfo.media.pl
@@ -7398,6 +7400,7 @@ www.bunclok.pl
 www.busty.pl
 www.butikcreativo.pl
 www.butyasicsgellyte.pl
+www.butybrooks.pl
 www.butycamper.pl
 www.butyhunter.com.pl
 www.butyjordansklep.pl
@@ -7535,6 +7538,7 @@ www.czachopismo.pl
 www.czajkowski.cba.pl
 www.czarna-lista.k99k.com.pl
 www.czarna-lista.k99k.pl
+www.czarna-lista.m44m.com.pl
 www.czarna-lista.m44m.pl
 www.czarne-chmury.k99k.com.pl
 www.czarnirudno.pl
@@ -7630,7 +7634,6 @@ www.dopestore.pl
 www.dorszfishandchips.pl
 www.dostava-olx.pl
 www.dostawa-bezpieczny.pl
-www.dostawa-do-domu.pl
 www.dostawa-olx.pl
 www.dostawa-poland.pl
 www.dostawa-w.pl
@@ -7689,7 +7692,6 @@ www.e-filmy24.pl
 www.e-info.co.pl
 www.e-kinomaniak.pl
 www.e-koronawirusnews.pl
-www.e-mail-pomoc.pl
 www.e-osobyzagionione.pl
 www.e-pocztex.pl
 www.e-poszukiwanie.pl
@@ -7706,6 +7708,7 @@ www.ebok-poczta.pl
 www.ebook4all.com.pl
 www.ebookeo.pl
 www.ebuty.net.pl
+www.eccooutletbuty.pl
 www.eccopolska.pl
 www.eccopromocje.pl
 www.ecoflow.pl
@@ -7796,12 +7799,10 @@ www.ezalukaj.pl
 www.f-ads.pl
 www.f4u.pl
 www.face-vip.ujm.pl
-www.facebook-ads.pl
 www.facebook-color.5v.pl
 www.facebook-com-pl-profile.7m.pl
 www.facebook-login.5v.pl
 www.facebook-profile.5v.pl
-www.facebook-regulamin.pl
 www.facebook.5v.pl
 www.facebook.biz.pl
 www.facebookszpieg.glt.pl
@@ -7945,6 +7946,7 @@ www.forumwns.home.amu.edu.pl
 www.forumzarabiamy.pl
 www.fotki-z-neta.vot.pl
 www.fotkizneta.vot.pl
+www.foto-cloud.o99o.net.pl
 www.foto-office.pl
 www.fotobudkahihotka.pl
 www.fotocard.pl
@@ -7978,7 +7980,6 @@ www.fundacjaazyl.pl
 www.fundacjazycieodnowa.pl
 www.funnyfotobox.pl
 www.funskan.pl
-www.funsklep.com.pl
 www.g-mailpoczta.pl
 www.gabinetnewline.pl
 www.gaczynski.pl
@@ -8004,6 +8005,7 @@ www.gastrohurt.neostrada.pl
 www.gatr.hit.gemius.pl
 www.gayfakt.pl
 www.gazeta-polska24.99e.pl
+www.gazeta-polska24.vdl.pl
 www.gazeta-potwierdz.co.pl
 www.gazetalublin.pl
 www.gazetalubuski.pl
@@ -8053,6 +8055,7 @@ www.glosowanie.ujm.pl
 www.gmagazyn.pl
 www.gminalezajsk.pl
 www.gojiberry500.pl
+www.gold-barber.pl
 www.goldenrelations.pl
 www.goodlife7.pl
 www.goodmovie.pl
@@ -8094,7 +8097,6 @@ www.halex.waw.pl
 www.halodzwonek.pl
 www.halopozyczka.pl
 www.hannawolska1.co.pl
-www.happyfotobox.pl
 www.hart-profil.pl
 www.havio.pl
 www.hawanczykaura.com.pl
@@ -8130,6 +8132,7 @@ www.hostelduszniki.pl
 www.hostplik.pl
 www.hostujmy.pl
 www.hotelikbej.pl
+www.hrcoach.pl
 www.http-olx.pl
 www.http4u.pl
 www.https-olx.pl
@@ -8499,6 +8502,7 @@ www.maksymrzeminski.pl
 www.malgorzatakwapisz.pl
 www.malybrzuszek.pl
 www.mamawpodrozy.pl
+www.mamopoczytaj.pl
 www.manaslu.pl
 www.mania-perfum.pl
 www.manufakturazmyslow.pl
@@ -8520,6 +8524,7 @@ www.masazstarogard.com.pl
 www.maseczkiantywirusowe.com.pl
 www.masere.pl
 www.maski-sklep.pl
+www.massners.pl
 www.matfi.pl
 www.matisport.strefa.pl
 www.matkotymoja.pl
@@ -8527,6 +8532,8 @@ www.mavericktradegroup.pl
 www.mavio-kredyty.pl
 www.mavoj.pl
 www.max-host.pl
+www.maxgniezno.pl
+www.maxireno.pl
 www.mayonez.pl
 www.mazowieckie-fakt24.pl
 www.mazowieckie-fakty24.pl
@@ -8594,7 +8601,6 @@ www.mobiwin.pl
 www.moda2020.pl
 www.modamart.pl
 www.modwebpro.pl
-www.mogedalej.pl
 www.mojadedra.pl
 www.mojadietanamase.pl
 www.mojalala.com.pl
@@ -8665,6 +8671,7 @@ www.nassy.pl
 www.naszasa.pl
 www.naszdom.you2.pl
 www.nasze-miasto.k99k.com.pl
+www.nasze-usg.pl
 www.naszemiasto.dkonto.pl
 www.naszgrojec.net.pl
 www.naszregion24.pl
@@ -8717,6 +8724,7 @@ www.noclegi-kozienice.pl
 www.noclegnadmorzemgdansk.pl
 www.noebank.pl
 www.nonstopvideos.pl
+www.norisha.pl
 www.northfacepolska.pl
 www.norton.pl
 www.notariuszpetrus.pl
@@ -8783,6 +8791,7 @@ www.olx-bezpieczny.pl
 www.olx-c.pl
 www.olx-check.pl
 www.olx-d.pl
+www.olx-delivering.pl
 www.olx-dostava.pl
 www.olx-dostaw.pl
 www.olx-dostawa.pl
@@ -8815,6 +8824,7 @@ www.olx-payments.pl
 www.olx-pays.pl
 www.olx-pl.pl
 www.olx-poland.pl
+www.olx-polska.pl
 www.olx-pro.pl
 www.olx-protection.pl
 www.olx-przesylka.pl
@@ -8838,8 +8848,6 @@ www.olx-z.pl
 www.olx-zaplata.pl
 www.olx.deliverys.pl
 www.olx.doreczanie.pl
-www.olx.pl-przelew.pl
-www.olx.pl-przesylka.pl
 www.olx.pl.paymont.pl
 www.olx.przewiezienie.pl
 www.olx.wysyllka.pl
@@ -8873,6 +8881,7 @@ www.online-payu2442311.pl
 www.online-ruletka.pl
 www.online-tv.pl
 www.online-tvn.pl
+www.onlinecda.pl
 www.onlinefilmy.pl
 www.onlinefilmy24.pl
 www.onlinehd.pl
@@ -8947,7 +8956,7 @@ www.parkodkrywcow.pl
 www.parletta.pl
 www.partneralior.pl
 www.partylite.pl
-www.passionford.pl
+www.paterashop.pl
 www.patioprovence.pl
 www.pato.pl
 www.patrolprzygody.pl
@@ -8964,6 +8973,7 @@ www.payu-24.pl
 www.payu-platnosc943412.pl
 www.payu-zamowienie103234.pl
 www.payu-zamowienie901941.pl
+www.pbshop.pl
 www.pccooler.com.pl
 www.pdsecurity.pl
 www.pebx.pl
@@ -8977,6 +8987,7 @@ www.perfecturist.pl
 www.perfumeriaife.pl
 www.perfumio.pl
 www.perfumyitestery.pl
+www.perlaibracia.pl
 www.perspektywa2012.za.pl
 www.pewnyzabieg.pl
 www.pge-bok.pl
@@ -9006,13 +9017,11 @@ www.pizzarewal.pl
 www.pkaudi.pl
 www.pko-bp.pl
 www.pl-olx.pl
-www.pl-przesylka.pl
 www.plast-chem.com.pl
 www.plastikon-kratki.pl
 www.platinumprestige.pl
 www.platnosc-zowieszana.kisiel13.co.pl
 www.play-cda.pl
-www.play-google.pl
 www.play-vod.pl
 www.player-cda.pl
 www.playery.pl
@@ -9063,6 +9072,7 @@ www.polic.you2.pl
 www.polichrom.pl
 www.polish-engineer.pl
 www.polishfashionshops.pl
+www.polisy4u.pl
 www.polityka-bez-cenzury.you2.pl
 www.polluk.pl
 www.polmathome.pl
@@ -9096,12 +9106,8 @@ www.pomagamy-fakty24.pl
 www.pomagamy.xip.pl
 www.pomagamy24.dkonto.pl
 www.pomoc-fakty24.pl
-www.pomoc-poczta-regulamin.com.pl
-www.pomoc-poczta-regulamin.pl
 www.pomoc-poczta.org.pl
-www.pomoc-poczta.waw.pl
 www.pomoc-windykacja.pl
-www.pomoc-wp.waw.pl
 www.pomoc48.you2.pl
 www.pomocdlacery.pl
 www.pomocdlafranka.pl
@@ -9195,6 +9201,7 @@ www.promocjabuty.pl
 www.promocjaeuro.pl
 www.promocjeadidas.pl
 www.proobuwie.pl
+www.propicture.pl
 www.prostozkraju.dkonto.pl
 www.protesttaxi.pl
 www.proventus.com.pl
@@ -9231,6 +9238,7 @@ www.pubmax.com.pl
 www.pukaczu.pl
 www.pumaoutletpl.pl
 www.pumaprzeceny.pl
+www.pumashoppl.pl
 www.pumeksy.pl
 www.puna.pl
 www.purchase-olx.pl
@@ -9276,7 +9284,6 @@ www.region-24wydarzenia.pl
 www.regionalne-wydarzenia.co.pl
 www.regionalne24-wydarzenia.pl
 www.regionalne24wydarzenia.pl
-www.regulamin-facebook.pl
 www.rejestr.5p.pl
 www.rejestr24.5p.pl
 www.reklamanazuku.pl
@@ -9437,10 +9444,8 @@ www.sklep-bio.pl
 www.sklep-bobas.pl
 www.sklep-colway.pl
 www.sklep-jula.pl
-www.sklep-play.net.pl
 www.sklep.dagma.pl
 www.sklep466452.shoparena.pl
-www.sklepgp.pl
 www.sklepsilvermagic.pl
 www.sklepszkolen.pl
 www.skleptaniebuty.pl
@@ -9516,6 +9521,7 @@ www.sportowebutypl.pl
 www.sportowy-stream.pl
 www.sportwr1.pl
 www.sportygorskie.pl
+www.spotted-gdynia-photo2711.pl
 www.spotted-wroclaw-471.pl
 www.spplodz.pl
 www.spraszyn.home.pl
@@ -9581,7 +9587,6 @@ www.strona-zpk.dkonto.pl
 www.strona2020.dkonto.pl
 www.stronamiasta.dkonto.pl
 www.strstudio.pl
-www.studentbpp.pl
 www.studioartandcafe.pl
 www.studiocleo.pl
 www.studiodermetica.pl
@@ -9969,6 +9974,7 @@ www.wybierz-nagrode.pl
 www.wybierzgdansk.pl
 www.wycenamaszyn-wgn.pl
 www.wyciag-gwarek.pl
+www.wycieczkihurghada.pl
 www.wyciekizdjec24.pl
 www.wydarzenia-24.dfirma.pl
 www.wydarzenia-polska24.you2.pl
@@ -10101,6 +10107,7 @@ www.znany-lekarz.pl
 www.znieslawienie.pl
 www.zobacz-film.pl
 www.zobacz24.pl
+www.zognia.pl
 www.zolnierzsklep.pl
 www.zorajka.pl
 www.zostanfitjakja.pl
@@ -10130,6 +10137,7 @@ wycenamaszyn-wgn.pl
 wychowanieprzedszkolne.pl
 wyciag-gwarek.pl
 wycieczki-kociewie.com.pl
+wycieczkihurghada.pl
 wyciekizdjec24.pl
 wydarzenia-24.dfirma.pl
 wydarzenia-polska24.you2.pl
@@ -10458,6 +10466,7 @@ znieslawienie.pl
 zobacz-film.pl
 zobacz24.pl
 zobaczto.pisz.pl
+zognia.pl
 zolnierzsklep.pl
 zopowermultirubypalace.pl
 zorajka.pl

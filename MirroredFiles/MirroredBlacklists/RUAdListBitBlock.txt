@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v3mN83WAWi1UR7TAlY82IA
-! Version: 202102280220
+! Checksum: qpvk/sKUUw+r3VLPMwxNhg
+! Version: 202103010220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 28 Feb 2021 02:20 UTC
+! Last modified: 01 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1251,6 +1251,7 @@ dyvys.info##.td-banner-bg
 gzt-sv.ru##.td-header__social
 amedia.online##.telegr
 business-gazeta.ru,fakty.ua,gorodkiev.com.ua,kinogo.biz,kinoukr.com,mi100.info,novostivmire.com,seralityt.online,serialstuts.online,sfera.fm,uaserials.pro,usionline.com,zikua.tv,zn.ua##.telegram
+htmlweb.ru##.telegram-groupe
 uaspectr.com##.telegram-notification
 sakh.com##.telegram-widget
 delo.ua,dontimes.news##.telegram__block_container
@@ -10899,6 +10900,7 @@ _youtube_social_
 ##.Social-link
 ##.SocialAccordion
 ##.SocialArticleHeader
+##.SocialArticleIcons
 ##.SocialBar
 ##.SocialBar__component
 ##.SocialBookmark
@@ -13972,6 +13974,7 @@ _youtube_social_
 ##.header-icon-instagram
 ##.header-interna-share
 ##.header-item-social
+##.header-item__social
 ##.header-main-socs
 ##.header-menu__social
 ##.header-nav-social
@@ -17490,6 +17493,7 @@ _youtube_social_
 ##.sharingtools-anon
 ##.sharingwrap
 ##.sharkskin-footer-social
+##.sharre-container
 ##.sharrre
 ##.sharrre-container
 ##.sharrre_widget
@@ -17499,6 +17503,7 @@ _youtube_social_
 ##.show_facebook_widget
 ##.show_social
 ##.showing-shares
+##.showme-share-buttons
 ##.showsocial
 ##.showthread-social
 ##.shr-bookmarks
@@ -17815,6 +17820,7 @@ _youtube_social_
 ##.socWidget
 ##.soc_box2
 ##.soc_btn
+##.soc_hello_ials
 ##.soc_icon
 ##.soc_icon-facebook
 ##.soc_icon-instagram
@@ -20492,6 +20498,7 @@ _youtube_social_
 ##.wpdev-top-share
 ##.wpdev-twitter
 ##.wpex-social-share-wrap
+##.wplogout-social-wrapper
 ##.wps-seo-booster-social-buttons
 ##.wpsc-share
 ##.wpsocial-shareBox
@@ -21849,7 +21856,7 @@ funnyordie.com#@#.social-bar-container
 adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 chess.com#@#.social-btns
-4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+4shared.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 ironstudios.com,pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 readyrefresh.com#@#.social-col
@@ -25836,6 +25843,7 @@ _backToTop.
 ##.slideup-newsletter-optin
 ##.sm_newsletter
 ##.small-newsletter
+##.smart-ajax-subscribe-form
 ##.sml_subscribe_widget
 ##.sna-newsletter
 ##.social-link-mail

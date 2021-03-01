@@ -470,7 +470,6 @@ kjshop.ir
 kleeknet.ir
 kodak-khas.ir
 kohnaninews.ir
-komakapp.ir
 komakmohajerat.ir
 koodaktv.ir
 koohchenarnews.ir
@@ -565,7 +564,6 @@ navac.ir
 ncpll1392.ir
 nedaezohoor.ir
 nedayepak.ir
-negara-store.ir
 neginshomal-hotel.ir
 negintv.ir
 neku.ir
@@ -890,7 +888,6 @@ safecity.ir
 sahandazadi.ir
 sahandsign.ir
 sahandvh.ir
-sahandwheelchair.ir
 salamatiancar.ir
 salehat.ir
 salmassi.ir

@@ -86,7 +86,6 @@ caseid-862851228.pale.pk
 caseid-956149615.pale.pk
 cer.salu.edu.pk
 championfoods.com.pk
-chandni.pk
 chaseinn.pk
 chateauroyal.com.pk
 checkcheck.pk
@@ -204,7 +203,6 @@ guggis.com.pk
 hamdamfoundation.org.pk
 hamdani.com.pk
 hands.org.pk
-hashmiricemills.com.pk
 hatif.org.pk
 hayatabad.pk
 hdfpakistan.org.pk
@@ -476,6 +474,7 @@ www.apl.com.pk
 www.ausaf.pk
 www.bacr.com.pk
 www.goadvert.pk
+www.oserve.pk
 www.pakistanelevators.pk
 xpert.pk
 yahoo.anima.pk

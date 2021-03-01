@@ -4,7 +4,6 @@ almahsiri.ps
 alqistas.ps
 alqudsi-home.ps
 awtar.ps
-bissanco.ps
 bubbles.ps
 charm.ps
 cst-kh.edu.ps

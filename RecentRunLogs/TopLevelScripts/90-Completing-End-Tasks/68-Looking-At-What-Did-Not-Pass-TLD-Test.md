@@ -5,10 +5,10 @@ ____________________________________
 # 68-Looking-At-What-Did-Not-Pass-TLD-Test
 * 7 Lines After Deduping. 
 ____________________________________________________
-* _8831.gif
-* _christmaslights.js
-* _liveinternet.gif
-* _livejournal.gif
-* _snowstorm-min.js
-* _twitter.png
-* _vkontakte.png
+* castoola.tv.lan
+* chat.chaturbate.lusecurity
+* fevian.orgdojin
+* localhost.localdomain
+* pgl.example
+* pornsites.xx
+* unk.vver.kiae.rr
