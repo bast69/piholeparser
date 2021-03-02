@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qpvk/sKUUw+r3VLPMwxNhg
-! Version: 202103010220
+! Checksum: r+GDvuq0JyQV2k9y5k+FSw
+! Version: 202103020220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 01 Mar 2021 02:20 UTC
+! Last modified: 02 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -126,6 +126,9 @@ _vkontakte.png
 ##.soc_fb_share
 ##.soc_share
 ##.social
+##.social-ok
+##.social-telegram
+##.social-zen
 ##.social_fixed
 ##.socials-button_webnavoz
 ~telegram.me,~telegram.org##.subscribe__telegram
@@ -344,6 +347,7 @@ orelgrad.ru###main-content > article ~ [role="navigation"] ~ *
 pogoda.com###mapa-loc-shared
 cameralabs.org###menulogin
 seti-ceti.ru###nVKgroupArt
+peoples.ru###navbarTogglerDemo > .navbar-nav.text-center
 24boxing.com.ua###navi > table
 kinosezon.net###news_content > center > b > span[style="color: rgb(255, 0, 0);"]
 newsmsk.com###newsljbut
@@ -396,6 +400,7 @@ planet-today.ru#?##sidright > .custom_:-abp-has([id*="vkgroup"])
 rebenok.by###sn-block-right
 gidonline.eu###soc
 vchaspik.ua###soc-img-content-bottom
+materinstvo.ru###soc_icons_top
 amurmedia.ru,eaomedia.ru,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru###soc_invites_block
 ktonanovenkogo.ru###soci
 101.ru###social-groups
@@ -607,6 +612,7 @@ qiq.ws##.buttonbox
 nvworld.ru##.buttons
 allboxing.ru##.c-box-comment-menu > li:nth-child(2)
 glav.su##.c-c-m-t5[style="height: 24px;"]
+suspilne.media##.c-header-social
 crypto-fox.ru##.c-mobile-social
 tsn.ua##.c-share-extra
 smotret-anime.online#?#.card > .card-content:-abp-has(> .m-translation-view__share)
@@ -753,6 +759,7 @@ dymka.com.ua##.header-social-network
 avtoblog.ua##.headerSoc
 ridus.ru##.headerSocials
 1prime.ru##.header__buttons
+afisha.ru##.header__left > div > [class*="social"] ~ div
 islam-today.ru##.header__other-buttons
 agrarii-razom.com.ua##.header__secondary-menu__we-in-network
 medialeaks.ru##.header__section_social
@@ -1100,6 +1107,7 @@ itc.ua##.sn-widget
 piter.tv##.snet-links
 1tulatv.ru,anistar.org,anistar.pro,anistar.world,online-star.org,online-stars.org,vokrugsveta.ru##.soc
 telegraf.com.ua##.soc-app
+arpal.ua##.soc-aside
 slovo.ws##.soc-butt
 veganstvo.info##.soc-button
 rutr.life,rutracker.lib,rutracker.net,rutracker.nl,rutracker.org##.soc-buttons
@@ -1233,6 +1241,7 @@ itechua.com##.ss-inline-share-wrapper
 maximum.ru##.ss_block
 vp.donetsk.ua#?#.ssptab:-abp-has(> .tabs_buttons #facebook)
 ru.msn.com##.stbp-tbl
+peoples.ru##.sticky > .widget:first-child
 radiosvoboda.org##.sticky-share-container
 crimea-news.com##.subscribe-email
 fakty.com.ua##.subscribe-telegram
@@ -1409,6 +1418,7 @@ adme.ru##[data-test-id*="sharing"]
 adme.ru##[data-test-id="join-us"]
 adme.ru##[data-test-id^="share-button-"]
 maanimo.com##[data-text-after="Мы в социальных сетях"]
+afisha.ru##[data-title-anchor] .rambler-share ~ div
 1fnl.ru##[data-tizer-id="vk"]
 alau.kz##[data-widget_type="image.default"] ~ [data-widget_type="vinazine-block-title.default"]
 alau.kz##[data-widget_type="image.default"] ~ [data-widget_type="vinazine-block-title.default"] + [data-widget_type="html.default"]
@@ -1519,6 +1529,7 @@ kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__SocialLinks-"]
 prochepetsk.ru##div[class^="styles_social"]
 yandex.ru##div[class^="ya-share"]
 afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yandex.uz##div[data-component="Footer_Socials"]
+adme.ru##div[data-test-id="bottom-action-bar"] + div
 anticollector.biz.ua##div[data-widget-key="xfi_sidebar_social_block_widget"]
 rebenok.by##div[id$="FacebookBlock"]
 aniplay.tv##div[id*="vk-comments"]
@@ -1977,6 +1988,7 @@ _userbar_$image
 ||callbaska.ru^$third-party
 ||callkeeper.ru^$third-party
 ||callme.voip.com.ua^$third-party
+||callmenow.com.ua^$third-party
 ||calltouch.ru^$third-party
 ||carrotquest.io^$third-party
 ||cashmyvisit.com^$third-party
@@ -3392,7 +3404,7 @@ dw.com#?#.pictureTeaser:-abp-has([title*="Quiz"])
 football.sport-express.ru##.place_ratingAnnounce
 oane.ws##.plaintext > h3:first-of-type
 animevost.club##.player-section > .player-box ~ center
-720hd.club,animebest.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinosky.pro,kinoslitok.net,kinospot.me,lostfilm-720.ru,wikimovie.ucoz.ru,zyx.watch##.player-warning
+720hd.club,animebest.club,animevost.club,avitube.ru,dubflix.ru,hdkinorip.net,hdnora.ru,kinosky.pro,kinoslitok.net,kinospot.me,lostfilm-720.ru,timemovie.ru,wikimovie.ucoz.ru,zyx.watch##.player-warning
 filmaniaz.net##.player-warning-br
 sports.ru,tribuna.com##.plistaList > a[data-campaign]
 sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
@@ -21856,7 +21868,7 @@ funnyordie.com#@#.social-bar-container
 adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 chess.com#@#.social-btns
-4shared.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+4shared.com,bestbuy.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 ironstudios.com,pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 readyrefresh.com#@#.social-col
