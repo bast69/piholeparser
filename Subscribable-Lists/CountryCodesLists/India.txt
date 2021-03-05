@@ -3868,6 +3868,7 @@ hir27.in
 hirexpress.in
 hirtop.in
 histartup.in
+hiuplq.livescore.in
 hjfds.in
 hjvts.in
 hl87em61ww14lh.in

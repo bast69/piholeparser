@@ -582,6 +582,8 @@ freepubggfestival.eventt.my.id
 frontalgrup.v-26.my.id
 ft.bem.unram.ac.id
 ftik.iainkediri.ac.id
+fudezz.grid.id
+fudezz.kontan.co.id
 gabung.join-grupnew.my.id
 gabung2.my.id
 gabungrupwhatsapp.whatsapp543.my.id
@@ -1760,6 +1762,7 @@ vitslices01.my.id
 vokasi.undip.ac.id
 vpe01rvry01srvcepge01.my.id
 vvipxz52.my.id
+vzeyba.shopee.co.id
 wajoingroup.my.id
 wallacea.or.id
 warkopbundu.id
