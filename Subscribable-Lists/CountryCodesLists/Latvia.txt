@@ -214,6 +214,7 @@ shop24.lv
 show.adclick.lv
 show.textads.lv
 show2.textads.lv
+smetrics.seb.lv
 smurl.lv
 sov.lv
 spermaschlampen.de.lv

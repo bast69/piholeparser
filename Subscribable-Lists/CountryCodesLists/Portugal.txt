@@ -119,6 +119,7 @@ colortown.pt
 cometlda.pt
 conci.pt
 confirm-your.update.action.cy.cgi-bin.webscr.cmd-submit.dispatch.html.hosted.emarketing.partner.director.sodiap.com.pt
+contornosdesign.pt
 conviviocm.pt
 crosspro.pt
 cspalmaceda.pt
@@ -130,6 +131,7 @@ descansoserrano.pt
 dialog.pt
 digibarre.pt
 digitalrepair.pt
+dii2.zooplus.pt
 dipets.pt
 driveless.pt
 ducks.pt
@@ -309,6 +311,7 @@ revive.workmedia.pt
 rijomotor.pt
 rs-consultores.pt
 ruasepicas.pt
+saa.dyson.pt
 safetrans.pt
 sapo.pt
 sasenergia.pt
@@ -336,6 +339,7 @@ stbb.pt
 sucessenvolve.pt
 suncoastcreditunion.ebanking-services.com.dabacori.pt
 suncoastcreditunion.ebanking-services.com.us.dabacori.pt
+swa.vodafone.pt
 switch.pt
 tascadojoel.pt
 tcmedia.pt
@@ -369,6 +373,7 @@ vgo.vegaoo.pt
 villa-mare.pt
 vissanti.pt
 vividus.pt
+wa.vodafone.pt
 we.wecanimal.pt
 webexperts.pt
 webstats.sapo.pt
@@ -385,6 +390,7 @@ www.anunciosintimos.pt
 www.bitcoin.co.pt
 www.cal365.pt
 www.conci.pt
+www.contornosdesign.pt
 www.conviviocm.pt
 www.girlsbcn.pt
 www.harem.pt

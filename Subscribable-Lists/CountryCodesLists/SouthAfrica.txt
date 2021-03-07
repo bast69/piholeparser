@@ -10,6 +10,7 @@
 911beautystudios.co.za
 a2zcarsales.co.za
 aande.s2designsolutions.co.za
+aatreefelling.co.za
 abacus4maths.co.za
 abantumarket.co.za
 ablegates.co.za
@@ -147,6 +148,7 @@ bettingworld.co.za
 betxchange.co.za
 bi-rite.co.za
 biggloria.co.za
+bigmikesupplies.co.za
 bigskylights.co.za
 bilhen.co.za
 billboards-signs.co.za
@@ -239,7 +241,6 @@ chemspunge.co.za
 cherryco.co.za
 chescos.co.za
 chezalice.co.za
-childofthesouth.co.za
 childrenshouse.co.za
 chillazz.co.za
 chinashield.co.za
@@ -582,6 +583,7 @@ internal.adu.org.za
 internationalexpress.co.za
 intranet.isoflow.co.za
 iqf-sa.co.za
+isiphephelocon.co.za
 islamtoday.co.za
 itandall.co.za
 ithubainternships.co.za
@@ -717,6 +719,7 @@ medleymaids.co.za
 meget.co.za
 melanieroux.co.za
 mercuryas.co.za
+metric.vodacom.co.za
 mfj222.co.za
 mhwaterproofing.co.za
 michelproduction.co.za
@@ -768,6 +771,7 @@ msrhs.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
+mumgee.co.za
 musgraveracing.co.za
 mvulabnb.co.za
 myadsl.co.za
@@ -796,6 +800,7 @@ networkwheels.co.za
 neuschelectrical.co.za
 newstardiamonds.co.za
 nfusedigital.co.za
+ngdaycare.co.za
 nichuizen.co.za
 nicoladrabble.co.za
 nocalnoodle.elin.co.za
@@ -826,6 +831,7 @@ openx.aosis.co.za
 openx.co.za
 opinions-count.co.za
 optimumwellnesstestbuild.co.za
+optitechsa.co.za
 optmeout4.co.za
 optmeout9.co.za
 orthotex.co.za
@@ -876,7 +882,6 @@ politeexecutiveshuttle.leseditextiles.co.za
 polokwaneservices.co.za
 poppy.co.za
 pottershousedurban.co.za
-poultryplace.co.za
 pp-issues.co.za
 premiumhospital.co.za
 president-ceo.riverbendchalets.co.za
@@ -961,6 +966,7 @@ sagenerators.co.za
 sainform.co.za
 sainsleads.co.za
 saintignatiouscollege.co.za
+sainzim.co.za
 sakaza.co.za
 salocalserv.co.za
 saluremakers.co.za
@@ -1123,6 +1129,7 @@ smetechnologies.co.za
 softworkvalid.co.za
 southcoastprop.co.za
 southwestdistillers.co.za
+spaceframe.mobi.space-frame.co.za
 spanflattop.co.za
 speakerrepairs.co.za
 spells4you24-7.co.za
@@ -1176,6 +1183,7 @@ tasteofindiarestaurant.co.za
 tctsautobody.co.za
 teachingmathsforunderstanding.co.za
 tecserv.co.za
+teneth.co.za
 thatchpro.co.za
 the-zones.co.za
 thecodeshop.co.za
@@ -1194,6 +1202,7 @@ thubagutsa.co.za
 thulilekhanyile.co.za
 thuthukanisports.co.za
 tiffany-functions.co.za
+timamollo.co.za
 timbalok.co.za
 tinacowleyeversdal.co.za
 titaniumcorporate.co.za
@@ -1204,6 +1213,7 @@ toette_durbanhighschool.co.za
 top-ultimateintl.co.za
 topdottourism.co.za
 topengineers.co.za
+topmask.co.za
 totalcover-sa.co.za
 tourismkwadukuza.co.za
 tpg-gauteng.co.za
@@ -1224,7 +1234,6 @@ truemeaniing.co.za
 truspace.co.za
 tryton.co.za
 tshepochoma.co.za
-tshirtworld.co.za
 tshwanehomeassist.co.za
 tshwaneshacks.co.za
 tulinavogroup.co.za
@@ -1273,6 +1282,7 @@ vitamincreative.co.za
 vkwelaarts.co.za
 vnmattorneys.co.za
 voobzfreight.co.za
+vpts.co.za
 vulasafety.co.za
 waaris.co.za
 wadsoncables.co.za
@@ -1330,7 +1340,6 @@ www.bettingworld.co.za
 www.betxchange.co.za
 www.capturecreative.co.za
 www.cctvalberton.co.za
-www.childofthesouth.co.za
 www.coronavirustestkit.co.za
 www.cumtree.co.za
 www.document.pdf.kfunk.co.za
@@ -1355,7 +1364,6 @@ www.sportsbet.co.za
 www.tabgold.co.za
 www.theagentsagent.co.za
 www.theearthchild.co.za
-www.tshirtworld.co.za
 www.usbetting.co.za
 www.worldofsport.co.za
 www.worldsportsbetting.co.za

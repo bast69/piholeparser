@@ -194,6 +194,7 @@ aolverificatior-mgbqiuhkj.now.sh
 apu.sh
 bank-project.surge.sh
 cc2.vsl.sh
+cdn.jav.sh
 clever-bed.surge.sh
 cloud-console.now.sh
 coin-hive-proxy-ybydcnjgkl.now.sh
@@ -205,6 +206,7 @@ comptesenlignelabanquepostale-fr.surge.sh
 discover-pearl.now.sh
 economic-donkey.surge.sh
 exodus.sh
+filetr.jav.sh
 freelanxer-ddn-net.now.sh
 harvest.surge.sh
 hp-or.surge.sh
@@ -235,6 +237,7 @@ party-nngvitbizn.now.sh
 party-vqgdyvoycc.now.sh
 paypal-webnative.surge.sh
 pl-bankinvest.surge.sh
+player.jav.sh
 pornvideo.wap.sh
 propu.sh
 proxy-ddsjfhkmnk.now.sh
@@ -258,6 +261,7 @@ sxcdn4.now.sh
 sxcdn6.now.sh
 turnsocial.now.sh
 updata.sh
+upload.jav.sh
 urht.sh
 vani.sh
 vanshlol.now.sh
@@ -271,6 +275,7 @@ www.coin-hive-stratum-bqywuwxwij.now.sh
 www.coin-hive-stratum-cilswgfvet.now.sh
 www.coin-hive-stratum-fcwcduvpjs.now.sh
 www.coin-hive-stratum-yvvbqoavck.now.sh
+www.jav.sh
 www.minero-proxy-01.now.sh
 www.minero-proxy-02.now.sh
 www.minero-proxy-03.now.sh

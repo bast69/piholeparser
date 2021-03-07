@@ -74,6 +74,7 @@ ad.tijdbeursmedia.nl
 ad4mat.nl
 adamauto.nl
 adamvloeren.nl
+adb-secured.kijk.nl
 adclick.nl
 adclient.detelefoongids.nl
 adcount.hollywood.nl
@@ -528,6 +529,7 @@ celebrities4free.nl
 celebrity-thumbs.nl
 celebritybabes.nl
 cellarrichretail.nl
+census.misterspex.nl
 ceyda-beautysalon.nl
 cflpjajm.nl
 cgi.ebay.de.gelotech.nl
@@ -623,6 +625,7 @@ cz5.clickzzs.nl
 cz7.clickzzs.nl
 cz8.clickzzs.nl
 d-e-a.nl
+da.hornbach.nl
 daanveilingen.nl
 daarstajeop.nl
 dagelijkseverhalen.nl
@@ -639,6 +642,7 @@ dassenonline.nl
 datingtop50.nl
 dauwmedia.nl
 dca.nl
+dcs.esprit.nl
 de-stempelwinkel.nl
 dealer.my-beads.nl
 debabykraam.nl
@@ -723,6 +727,8 @@ digid-validaties.nl
 digisex.nl
 digit4u.nl
 digitalstreet.nl
+dii2.bitiba.nl
+dii2.zooplus.nl
 dikkevrouwensexdating.nl
 dildodelers.nl
 dildoteens.nl
@@ -814,6 +820,7 @@ ecocredowoning.nl
 ecofloraholland.nl
 ecosect.nl
 ed-tv.nl
+ed.large.nl
 edcentre.nl
 eddee-kenteq.nl
 edmedicalcare.nl
@@ -1847,6 +1854,7 @@ metaldamage.nl
 meteonoordwest.nl
 metrics.nti.nl
 metrics.toysrus.nl
+metricss.bibliotheek.nl
 meubelstoffeerderijbriljant.nl
 mewolters.nl
 mhcsoestsweater.nl
@@ -1896,6 +1904,7 @@ mokkels.nl
 molen-desire.nl
 momos-ambachtelijkeijs.nl
 mon-remboursement-impots-gouv.oostnederlandskamerkoor.nl
+mon.ingservices.nl
 monarchy.nl
 moncompte-paypal.nl
 moneropool.nl
@@ -1907,6 +1916,7 @@ mooithailand.nl
 mooymedia.nl
 more-fun.nl
 motorgoedkoop.nl
+mouwz.nl
 movall.nl
 moviezz.nl
 mp3spelers.nl
@@ -2429,6 +2439,7 @@ rxped.nl
 rxsalemysmartrend.nl
 rysyjkrx.nl
 s-factory.nl
+saa.dyson.nl
 sabinemerz.nl
 safe.dashabi.nl
 safeshop.nl
@@ -2742,6 +2753,9 @@ smartinit.webads.nl
 smarttopchain.nl
 smbc.co.nl
 smeltacademy.nl
+smetrics.jeugdbibliotheek.nl
+smetrics.pfizer.nl
+smetrics.rtl.nl
 smikkelhoekje.nl
 smitt.nl
 smooze.nl
@@ -2753,6 +2767,7 @@ soal.nl
 soaptrip.nl
 soekah.nl
 solid-consulting.nl
+somni.binck.nl
 sorxyx.vi.nl
 southeastint.nl
 sp-kenteq.nl
@@ -2792,6 +2807,8 @@ srvkcnncdnikj.nl
 srvmaindswnrjpbn.nl
 srvnrjservpbnkcn.nl
 ss-macu.nl
+sstats.bever.nl
+sstats.liander.nl
 sstats.nuon.nl
 stalenmeubels.nl
 stam-aardappelen.nl
@@ -2864,6 +2881,15 @@ susie.nl
 suxes.nl
 sv-sportscars.nl
 svenahrens.nl
+sw88.disney.nl
+swa.asnbank.nl
+swa.consumentenbond.nl
+swa.devolksbank.nl
+swa.energiedirect.nl
+swa.essent.nl
+swa.postnl.nl
+swa.regiobank.nl
+swa.snsbank.nl
 sweinsteiger.nl
 swingexpert.nl
 switchpoint.nl
@@ -3097,6 +3123,7 @@ vorminfunctie.nl
 vuurwerkhallen.nl
 vve86.nl
 vysix.nl
+w3.flatex.nl
 wa.essent.nl
 wa.snsbank.nl
 wagnersystemen.nl
@@ -3106,10 +3133,12 @@ wamelinkmontage.nl
 wandingerwelness.nl
 wandstylisten.nl
 wapenvanijlst.nl
+was.vodafone.nl
 wattmooi.nl
 way2match.nl
 wayfinder.nl
 wayward.nl
+wbtrkk.teufelaudio.nl
 wcare.nl
 we.ijssalonlekker.nl
 web-cam-sex.links.nl
@@ -3182,6 +3211,7 @@ wpxzifqe.nl
 wrek.nl
 wsstransvaal.nl
 wsvbiesbosch.nl
+wttd.douglas.nl
 wv-meat.nl
 wvapjimc.nl
 www-bancoestado.cl.wickedg.nl
@@ -3306,6 +3336,7 @@ www.mining-dutch.nl
 www.mjonkers.nl
 www.mokkels.nl
 www.moneropool.nl
+www.mouwz.nl
 www.mp-mail.nl
 www.mtrack.nl
 www.mysecurewallet.nl
@@ -3357,7 +3388,6 @@ www.statsloterij.nederlandseloterij.nl
 www.sumo.pandapool.nl
 www.swingexpert.nl
 www.system4.nl
-www.tandenblekenhoofddorp.nl
 www.terk.nl
 www.texelvakantiehuisje.nl
 www.thetalkingcunt.nl

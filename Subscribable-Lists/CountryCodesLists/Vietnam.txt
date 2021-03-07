@@ -48,13 +48,9 @@ admedia.com.vn
 admicro.vn
 admicro1.vcmedia.vn
 admicro2.vcmedia.vn
-admicro3.vcmedia.vn
 admicro4.vcmedia.vn
 admicro5.vcmedia.vn
 admicro6.vcmedia.vn
-admicro7.vcmedia.vn
-admicro8.vcmedia.vn
-admicro9.vcmedia.vn
 admin.billing.adtima.vn
 admin.iad.eclick.vn
 admin.novanet.vn
@@ -619,6 +615,7 @@ gvc.vn
 h5s.vn
 hada.com.vn
 hadongtoyota.vn
+haidangviet.vn
 hanedu.vn
 hanhtrinhthanhnienkhoinghiep.vn
 hanoihub.vn
@@ -687,6 +684,7 @@ imp.m.ambientplatform.vn
 in.admicro.vn
 inbus.com.vn
 indochina.mangoads.vn
+industrial-land.vn
 inmed.vn
 innt.vn
 inomoto.vn
@@ -832,6 +830,7 @@ log.zingtv.vn
 logapi.misa.com.vn
 logen.vietnamplus.vn
 logg4u.cnnd.vn
+logger.vsmarty.vn
 logging.admicro.vn
 logging.galaxypub.vn
 logging.phunuonline.com.vn
@@ -1108,6 +1107,7 @@ rabaco.vn
 radsafe.vn
 rd.ambientplatform.vn
 realclick.vn
+recommend-29.logger.vsmarty.vn
 redmine.admicro.vn
 reliantland.vn
 remarketing.admicro.vn
@@ -1171,6 +1171,7 @@ senvangvn.vn
 seo.mangoads.vn
 seo.mediaz.vn
 server02.hostngon.vn
+service-api.accesstrade.vn
 services.adnet.vn
 serving-ad.tv24.vn
 serving.ad.org.vn
@@ -1335,6 +1336,7 @@ thoitranganhdiep.vn
 thoitrangtrungnienkim.vn
 thongke.24h.com.vn
 thongke.baotintuc.vn
+thongke.opencps.vn
 thongke99.baogiaothong.vn
 thongtaccongtaihanoi.vn
 thongtindonganh.vn
@@ -1368,6 +1370,7 @@ track.icheck.com.vn
 track.kyna.vn
 track.sendo.vn
 track.srv.vietnamnet.vn
+tracker-29.logger.vsmarty.vn
 tracker.fado.vn
 tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
@@ -1535,7 +1538,9 @@ www.eclick.vn
 www.gafin.vn
 www.gostats.vn
 www.gvc.vn
+www.haidangviet.vn
 www.hitekshop.vn
+www.industrial-land.vn
 www.klick.vn
 www.ladipage.vn
 www.landingpagelagi.vn

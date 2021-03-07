@@ -41,7 +41,6 @@ cup.or.ke
 dandelionmedia.co.ke
 darajanimedicalclinic.co.ke
 dashboard.kanku.co.ke
-dieselpower.sysnavtechnologies.mobi.ke
 digitalcampaign.co.ke
 dousisenterprises.co.ke
 dschool.co.ke
@@ -72,7 +71,6 @@ fittingmoments.co.ke
 fixed-matches.co.ke
 flamencoengineers.co.ke
 flaveds.co.ke
-frontlearn.co.ke
 ga.co.ke
 gadeassociates.co.ke
 galen.co.ke
@@ -80,6 +78,7 @@ gardenfresh.co.ke
 gatimu.co.ke
 gbckenya.co.ke
 geomaxrenewables.co.ke
+glowinmedia.co.ke
 glsengineering.co.ke
 gmwlegal.co.ke
 godpore2.0pe.ke
@@ -142,6 +141,7 @@ muthaigapediatrics.co.ke
 mutka.co.ke
 nairobisigns.co.ke
 nakuruwater.co.ke
+namnyak.co.ke
 nedamservices.co.ke
 newfoxproperties.co.ke
 ngomavibe.co.ke
@@ -202,6 +202,7 @@ selectfreshproduce.co.ke
 sepu.co.ke
 serenitykenya.co.ke
 site.neoalchemy.co.ke
+site.sjc.co.ke
 skyboxtraders.co.ke
 skyhotel.co.ke
 skypremier.co.ke

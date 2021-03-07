@@ -860,6 +860,7 @@ journal.noesa.co.id
 journal.p-adri.or.id
 jpmchaseonlinesecurity.sdn2perumnaswayhalim.sch.id
 jrr.web.id
+jsw.co.id
 jualbajaringan.co.id
 jualtasbandungmurah.co.id
 julierumahmode.co.id
@@ -1167,7 +1168,6 @@ pa-arso.go.id
 pa-barru.go.id
 pa-jakartapusat.go.id
 pabrik-tenda.id
-padangbulan.co.id
 padco.id
 padi-sumberrejeki.id
 page-cj0kcqjwk.my.id
@@ -1597,6 +1597,7 @@ sofiashouse.web.id
 sokarajatengah.or.id
 solidfashion.co.id
 solusiholistic.id
+somtrdc.jobstreet.co.id
 soulfy.id
 speaker.id
 spectracentre.co.id
@@ -1681,6 +1682,7 @@ teknikjaya.co.id
 teknosmart.co.id
 telematika.id
 temaniomhlprcvrysrvce01.my.id
+test1.milenial.id
 teumpeun.id
 tglsrcvrpgehlp01srvcpge01.my.id
 thamarbengkel.co.id
@@ -1809,13 +1811,11 @@ wwbali.co.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
 www.charisministries.id
-www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id
 www.interbanx.co.id
 www.jabra.id
-www.padangbulan.co.id
 www.props.id
 www.sewamobilbengkulu.web.id
 www.veljko.id

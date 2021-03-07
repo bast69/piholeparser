@@ -69,6 +69,7 @@ amerikansktgodis.se
 amigospizzeria.se
 amphion.se
 analytics.codigo.se
+analytics.nordea.se
 angel.se
 ankama.com.se
 ap.bksn.se
@@ -157,6 +158,7 @@ casinotown.se
 cat-walker.se
 cdn.adrotator.se
 cementaresearch.se
+census.misterspex.se
 chaseonline.com.secured.kafgroup.se
 cherek-ringar.se
 citypaketet.se
@@ -178,10 +180,12 @@ currycorner.se
 cypernhuset.se
 d1110e4.se
 d9ae99824.se
+da.hornbach.se
 daisybok.se
 datorhjalp-stockholm.se
 davisa.se
 dbqgzi.deklareraspanien.se
+dcs.esprit.se
 demostores.openmind.se
 dentalalliance.se
 deromebil.se
@@ -190,6 +194,8 @@ dev40.dioniqlabb.se
 dev78.dioniqlabb.se
 dfgretgg.blogspot.se
 dignitasdata.se
+dii2.bitiba.se
+dii2.zooplus.se
 dildosex.se
 dinslips.se
 directoffers.se
@@ -209,6 +215,7 @@ eap-tracker.egenerator.se
 eas.hitta.se
 eas3.emediate.se
 easyresearch.se
+ed.emp-shop.se
 ekn-art.se
 ekobygghandel.se
 elentreprenoren.se
@@ -483,6 +490,7 @@ otsn.se
 ottob.se
 outgoing.ottob.se
 ovkstockholm.se
+p2.danskebank.se
 paintinggirl.se
 panel.research-int.se
 panel.vargakragard.se
@@ -553,6 +561,7 @@ rorserviceiskane.se
 route666.se
 rubicon-win-us-east.bksn.se
 s3sit.se
+saa.dyson.se
 safe-account-update.johninvest.se
 safflepastorat.se
 sallysdottrar.se
@@ -588,6 +597,10 @@ skredsviksfiber.se
 slagforhjaltar.se
 slewvr.gp.se
 slimcase247.se
+smetrics.sj.se
+smetrics.spela.svenskaspel.se
+smetrics.svd.se
+smetricstur.www.svenskaspel.se
 smile4.smileproduktionsbyra.se
 smorjtekniklund.se
 smutba.se
@@ -606,6 +619,8 @@ spfonster.se
 spisforum.se
 sportpanelen.se
 sportsresor.se
+sstats.fishersci.se
+sstats.telenor.se
 staket-pvc.se
 stallbyggen.se
 stampelstugan.se
@@ -634,6 +649,7 @@ svenskaspel.se
 svensktnarinsliv.se
 sverigesstatsministrar.se
 svnuppsalaorebro.se
+sw88.disney.se
 swborebro.se
 swebanalytics.eniro.se
 swedencasino.se
@@ -668,6 +684,7 @@ torptillsalu.se
 totalinstallatoren.se
 touchmidipedal.se
 trace.bksn.se
+tracking.omniture.nt.se
 trafficgateway.research-int.se
 transport-trading.se
 tranzabadan.se.preview.binero.se

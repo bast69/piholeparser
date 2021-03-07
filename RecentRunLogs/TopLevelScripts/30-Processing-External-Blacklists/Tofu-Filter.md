@@ -13,4 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* Tofu-Filter List Marked As Dead. Sat Mar  6 03:38:45 CET 2021
+* Tofu-Filter List Already Marked As Dead. Sun Mar  7 03:01:51 CET 2021
+## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+* Tofu-Filter List Was An Empty File After Download. Sun Mar  7 03:01:54 CET 2021
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* Tofu-Filter List Was Killed By The Parsing Process. It will be skipped in the future. Sun Mar  7 03:01:56 CET 2021

@@ -10,5 +10,6 @@ netflix-account-membership-activate-login.etinsultan.qa
 pia.com.qa
 primeshop.qa
 qatarriders.qa
+smetrics.vodafone.qa
 swattradingco.name.qa
 transcontinental.com.qa

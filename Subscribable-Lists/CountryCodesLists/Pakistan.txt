@@ -141,6 +141,7 @@ edgeview.com.pk
 eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
+emaz.pk
 ems.ecom.pk
 enqlab.pk
 envatomarket.pk
@@ -412,6 +413,7 @@ solmedia.pk
 solutionpoint.pk
 solutionstech.com.pk
 souqalburj.pk
+spave.com.pk
 speedy.com.pk
 ssalliance.com.pk
 staging.securenetworks.pk
@@ -458,6 +460,7 @@ upmyacc-pp.nassc.edu.pk
 usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp-home.roofwaterproofing-roofheatproofing.pk
 usaa.logon.cec.com.pk
 usaaa.com.paymernt.account.accep.sabdekho.pk
+v-tech.com.pk
 valueserve.com.pk
 verificatucuentalbcp.mobilemoods.pk
 verify.almamaterschool.pk
@@ -476,6 +479,7 @@ www.bacr.com.pk
 www.goadvert.pk
 www.oserve.pk
 www.pakistanelevators.pk
+www.spave.com.pk
 xpert.pk
 yahoo.anima.pk
 yaza.com.pk

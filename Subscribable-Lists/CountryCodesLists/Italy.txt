@@ -17,6 +17,7 @@
 93-62-44-36.ip20.fastwebnet.it
 9nl.it
 a.cotonpasha.it
+a.gedidigital.it
 a.impressionigrafiche.it
 a.larcolaio.it
 a.musiclegs.it
@@ -812,11 +813,13 @@ darfocervera.it
 dartstore.it
 dashbard-us-chase.64-b.it
 dasproduction.it
+data.inbank.it
 data.kataweb.it
 dataidea.it
 dati-secure.it
 daugustagioielli.it
 davidegallo.it
+dcs.espritshop.it
 deboralavoro.it
 decoradolce.it
 delfinosl.it
@@ -844,6 +847,8 @@ digilander.libero.it
 digitaladv.despar.it
 digitalelettronica.it
 digitalmovies.digs.it
+dii2.bitiba.it
+dii2.zooplus.it
 dikesalerno.it
 diningroomvenezia.it
 dinocucinelli.it
@@ -900,6 +905,7 @@ ecomm-pagamentodec4ab2c1sella1it17d002fc.fotoparitani.it
 ecomm-sella-128e02a5.lacommediadellapentola.it
 ecommb4f22103.sella.it0d3e0235.commercialelem.it
 ecozac.it
+ed.emp-online.it
 ediacademy.edisoftware.it
 edicolanazionale.it
 edilperle.it
@@ -1552,7 +1558,10 @@ metan2.villapeppe.it
 meteo.macerata.it
 meteoerba.it
 metodosilverfoxx.it
+metrics.ionos.it
 metrics.rcsmetrics.it
+metrics.sky.it
+metrics.tim.it
 mgt7.madeindesign.it
 mhaupz.carpisa.it
 micam-sas.it
@@ -1757,6 +1766,7 @@ osservatoriodisabilita.it
 ostemeraviglioso.it
 osteopatia-veterinaria.it
 ostiavolleyclub.it
+ot.obi-italia.it
 ottante.it
 otticageremia.it
 otticagold.it
@@ -2020,6 +2030,7 @@ s3.shinystat.it
 s4.shinystat.it
 s702530809.sito-web-online.it
 sa.sky.it
+saa.dyson.it
 saem.it
 safado22cmloverboy.blogspot.it
 sagradipieve.it
@@ -2157,6 +2168,17 @@ smartformpotenza.it
 smartoria.it
 smartphoneservice.it
 smarturl.it
+smecom.it
+smetrics.eprice.it
+smetrics.michaelkors.it
+smetrics.nowtv.it
+smetrics.payback.it
+smetrics.ralphlauren.it
+smetrics.rcsmetrics.it
+smetrics.seat-italia.it
+smetrics.sisal.it
+smetrics.sky.it
+smetrics.unipolsai.it
 snaimilano.it
 snor.it
 snowcorner.it
@@ -2187,6 +2209,7 @@ spotmix.libero.it
 srnk.it
 srvcla-ub10.claimadv.it
 ss.tiscali.it
+ssl-metrics.tim.it
 ssl.admin.itybuy.it
 ssmall.it
 ssouranceservicemangar.it
@@ -2236,6 +2259,7 @@ studiosoft.it
 studiotoscanosrl.it
 studiotosi.claimadv.it
 subito.it
+sucmetrics.unicredit.it
 sunforever.it
 superall2000.it
 supermercatiditella.it
@@ -2246,6 +2270,8 @@ surveyabincol.it
 sushigarden.it
 suwa.it
 sv1.eyeonmusica.it
+sw88.disney.it
+sw88.shopdisney.it
 sweettravel.it
 switchclub.it
 switech.it
@@ -2282,6 +2308,7 @@ teseisrl.it
 tesia.it
 test.multisalaking.it
 tettonemaniaco.erosblog.it
+text.convenzioniaziendali.it
 tgsfabbro.it
 theseuslibri.it
 thevideogames.it
@@ -2443,6 +2470,9 @@ wachvre.it
 walo1.simply-winspace.it
 web-assistenza.it
 web-revolution.it
+web.mapp.ilgiardinodeilibri.it
+web.news.eprice.it
+web.x.ilpost.it
 web02.zero11.it
 webh24.it
 webmail.effebit.it
@@ -2462,6 +2492,7 @@ wptest.demo-whiterabbit.it
 wrona.it
 wsgddl.deporvillage.it
 wtpn.twenga.it
+wttd.douglas.it
 wwrupv.tannico.it
 www-bancoestado.cl.vipaelettronica.it
 www-casa.it
@@ -2602,6 +2633,7 @@ www.sieltre.it
 www.sisal.it
 www.sitivisibili.it
 www.smarturl.it
+www.smecom.it
 www.stage.edilnord.it
 www.stageportieri.it
 www.statistiche.it
@@ -2621,6 +2653,7 @@ www.workzip.it
 www.xxxvideoporno.it
 www.yespornplease.it
 www.zalukaj.it
+www91.intel.it
 xenec.stol.it
 xn--80aa0cb0jqb.emozionipiscine.it
 xoom.virgilio.it

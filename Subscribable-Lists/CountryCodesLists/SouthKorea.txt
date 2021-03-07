@@ -767,6 +767,8 @@ sky.kies.co.kr
 sky80ss.kro.kr
 smac.or.kr
 smalloy.co.kr
+smetrics.lululemon.co.kr
+smetrics.tiffany.kr
 smf.co.kr
 smms.0pe.kr
 sndkorea.nowcdn.co.kr
@@ -789,6 +791,7 @@ standrew.co.kr
 stat.kbs.co.kr
 store.sony.co.kr
 stormfrosting.co.kr
+stracking.kyobo.co.kr
 strungbed.co.kr
 studioai.kr
 sublog.co.kr
@@ -822,6 +825,7 @@ track.maillink.co.kr
 tracker.cauly.co.kr
 tracker.digitalcamp.co.kr
 tracking.adsdot.co.kr
+tracking.kyobo.co.kr
 trade.youbit.co.kr
 traffic1.co.kr
 trang09.0pe.kr
@@ -909,6 +913,7 @@ www.whitesports.co.kr
 www.wkmg.co.kr
 www.x-road.co.kr
 www.youbit.co.kr
+www91.intel.co.kr
 x-road.co.kr
 xconf.cauly.co.kr
 xoftdomain.kro.kr

@@ -1437,7 +1437,6 @@ rjxzpjr.cf
 rjzcfoc.cf
 rnicrosofteam.cf
 robinshood.cf
-rogatech.cf
 rollingxmeadows.cf
 ronep.cf
 roseshopping.cf
@@ -1538,6 +1537,7 @@ soipsychpersconca.cf
 somaplast.cf
 sonicradius.cf
 sosichlenblyad.cf
+special-key.cf
 specializeds.cf
 speedwayqatar.cf
 spices-70.cf

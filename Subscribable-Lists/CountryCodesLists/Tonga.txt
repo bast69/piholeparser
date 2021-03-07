@@ -9,6 +9,7 @@ ad.dlbooks.to
 ad.land.to
 ad.smv.to
 ad.top50.to
+ad.vidver.to
 ad.wo.to
 ads.iwannawatch.to
 adultcity.to

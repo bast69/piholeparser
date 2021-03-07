@@ -17,7 +17,6 @@ afb-services.96.lt
 ajbeqy.delfi.lt
 alfacrewing.lt
 allinone.lt
-apartmentsinklaipeda.lt
 appelsupport.96.lt
 arija.lt
 artdeko.lt
@@ -209,6 +208,7 @@ skelbiu.lt
 smagiau.lt
 smartrank.lt
 smartshopas.lt
+smetrics.seb.lt
 smile.lt
 sollor.lt
 sortis.lt
@@ -238,7 +238,6 @@ toviewallhe838jdspics.96.lt
 tradecharm.lt
 travelmaster.lt
 triusiai.lt
-ugira.lt
 upz1.destinia.lt
 v2.ads3.ipon.lt
 vaikoateitis.lt
@@ -253,7 +252,6 @@ vkproverka.96.lt
 vladneta.lt
 webradiobandatremdoforro.96.lt
 www.adsplius.lt
-www.apartmentsinklaipeda.lt
 www.bnc.lt
 www.hey.lt
 www.orakulas.lt

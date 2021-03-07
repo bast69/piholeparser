@@ -178,7 +178,6 @@ beyraf.com.tr
 bg.com.tr
 bianca.com.tr
 bigblue.com.tr
-bilgelerhuzurevi.com.tr
 bilgenelektronik.com.tr
 birkaetiket.com.tr
 birlesikbir.com.tr
@@ -687,6 +686,7 @@ smartcare.com.tr
 smartoil.com.tr
 smartpos.com.tr
 smartsavunma.com.tr
+smetrics.vodafone.com.tr
 sonsistemsogutma.com.tr
 source.com.tr
 soyyigit.com.tr
@@ -704,6 +704,7 @@ storieshotel.com.tr
 suluklima.com.tr
 sumer.gen.tr
 sunkozmetik.com.tr
+sw88.disneyturkiye.com.tr
 swwcyk.ahaber.com.tr
 swwcyk.sabah.com.tr
 swwcyk.takvim.com.tr
@@ -739,6 +740,7 @@ topragitaniyoruz.pau.edu.tr
 toramanlar.com.tr
 totemguvenlik.com.tr
 tr.alzaminilac.com.tr
+tracking.tchibo.com.tr
 truva2007.com.tr
 ttnet.yandex.com.tr
 tunamim.com.tr
@@ -772,6 +774,7 @@ waterchem.com.tr
 watergreen.com.tr
 wbswtr.decathlon.com.tr
 webservis.gen.tr
+webstats.garanti.com.tr
 wellsfargo.userverifyaccountsecure.mesmobil.com.tr
 wildcard.fullsports.com.tr
 www-bancoestado.cl.pedora.com.tr
@@ -888,7 +891,6 @@ www.bestpa.com.tr
 www.betokont.com.tr
 www.beyraf.com.tr
 www.bg.com.tr
-www.bilgelerhuzurevi.com.tr
 www.birkaetiket.com.tr
 www.birlesikbir.com.tr
 www.birlikbilisim.com.tr
@@ -924,7 +926,6 @@ www.ctteknik.com.tr
 www.cuneytugur.com.tr
 www.decomoda.com.tr
 www.deltasolar.com.tr
-www.demirayasansor.com.tr
 www.denkagida.com.tr
 www.dentopia.com.tr
 www.depo.realist.gen.tr
@@ -1260,6 +1261,7 @@ www.yildiriminsaat.com.tr
 www.yonsoft.com.tr
 www.yos.inonu.edu.tr
 www.yuntper.com.tr
+www91.intel.com.tr
 xenaly.sozcu.com.tr
 xn--altnoran-vkb.com.tr
 xn--yapikiredi-w2f.com.tr

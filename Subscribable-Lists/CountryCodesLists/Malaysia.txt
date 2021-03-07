@@ -283,6 +283,7 @@ pakar.com.my
 panaxis.com.my
 paradiso.com.my
 parasol.com.my
+parisgallery.com.my
 paypal-confirmation.aoic.org.my
 paypal-security-wmid7110f4-110ll-pp16.yit.gov.my
 penkor.com.my
@@ -339,8 +340,11 @@ sku-auto.com.my
 slsb.com.my
 slymochoco.my
 smart-i.my
+smetrics.abbottnutrition.com.my
+smetrics.pediasure.com.my
 smksultanahasma.edu.my
 smlex.com.my
+somtrdc.jobstreet.com.my
 sooiseng.com.my
 soulkhat.my
 spikemotorsports.com.my

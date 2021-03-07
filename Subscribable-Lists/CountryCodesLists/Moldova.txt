@@ -63,6 +63,7 @@ sex.md
 slot.md
 sntrst.md
 sthesat.md
+swasc.kaufland.md
 table-soccer.md
 totalgravura.md
 treime.md

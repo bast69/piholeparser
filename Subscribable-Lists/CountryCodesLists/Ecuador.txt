@@ -55,6 +55,7 @@ intersa.ec
 itserv.ec
 juntadebeneficencia.org.ec
 labzumba.ec
+landing.yetiapp.ec
 lgs.ec
 loteria.com.ec
 lstdata.net.ec

@@ -42,6 +42,7 @@ fondation-aboubakrelkadiri.ma
 fondationabdelhadiboutaleb.ma
 foods.ma
 fr.ma
+gettransfer.ma
 giac-tertiaire.ma
 gold-shipping.ma
 greentic.univcasa.ma

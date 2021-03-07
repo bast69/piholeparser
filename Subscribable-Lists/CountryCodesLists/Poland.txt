@@ -21,6 +21,7 @@
 24-fakty.pl
 24-sklep.pl
 24.dbstrony.pl
+24forum.pl
 24gwaltfakt.com.pl
 24gwaltfakt.pl
 24pakszybko.net.pl
@@ -250,6 +251,7 @@ adsrv2.swidnica24.pl
 adstat.4u.pl
 adsv.interia.pl
 adtaily.pl
+adtd.douglas.pl
 adtext.pl
 adtotal.pl
 adtrack1.waw.pl
@@ -498,6 +500,7 @@ append.pl
 applecanada.cba.pl
 apps.co.pl
 aptbrylant.pl
+aptecznypunkt.pl
 apteka2000.com.pl
 apteka2000.pl
 apteka24.strefa.pl
@@ -682,6 +685,7 @@ bdsmanonse.com.pl
 bdt.com.pl
 be-wild.pl
 beamrzezba.pl
+beauty-direct.pl
 bebooks.pl
 beciki.pl
 bednarscy.pl
@@ -1219,11 +1223,13 @@ dcr-lp.coinmine.pl
 dcr-us.coinmine.pl
 dcr.coinmine.pl
 dcrpool04.coinmine.pl
+dcs.espritshop.pl
 ddruk.pl
 deanteshop.pl
 debie.pl
 debki-klara.pl
 debtablet.pl
+decodom.com.pl
 decodorebasic.pl
 decoidea.pl
 decorfront.pl
@@ -1284,6 +1290,8 @@ digital4adro.hit.gemius.pl
 digital4ro.adocean.pl
 digitalmind.pl
 digitero.pl
+dii2.bitiba.pl
+dii2.zooplus.pl
 dimmi.pl
 dinamoon.pl
 dioryt-kamieniarstwo.pl
@@ -1305,7 +1313,6 @@ dlarodzinyprzemysl.pl
 dlaturystow.com.pl
 dlf.pl
 dlugosz-it.pl
-dlx.com.pl
 dngecfo.wirt16.bhlink.pl
 dnirownosci.pl
 dnizbiotrue.pl
@@ -1547,6 +1554,7 @@ e-zdrowieuroda.com.pl
 e24gwaltfakt.pl
 eamory.pl
 easy-hc24.pl
+easycrm.pl
 easydownload.pl
 easypoele.pl
 eatandeasy.pl
@@ -1582,6 +1590,7 @@ ecoviptoptime.pl
 ecowaycleaning.pl
 ecpp.pl
 ecstasypilldrugstore.pl
+ed.emp-shop.pl
 edipresse.adocean.pl
 edipresse.hit.gemius.pl
 edivision.pl
@@ -1892,6 +1901,7 @@ facepodgladacz.glt.pl
 faceportal.pl
 facevook.5v.pl
 facezbook.y0.pl
+facom.com.pl
 faithfull.kdm.pl
 fajnarzecz.pl
 fajne-filmy.pl
@@ -2103,6 +2113,7 @@ focus24.gpe.pl
 foliar.pl
 fon-gsm.pl
 food-safety.pl
+foodcon.pl
 forexyestrader.pl
 forkids.pl
 forlab.pl
@@ -2168,6 +2179,7 @@ frembud.pl
 fresh-finance.pl
 freshestate.com.pl
 freshfoam.pl
+frieman.pl
 frio.com.pl
 frogrock.pl
 froling.bee.pl
@@ -2746,6 +2758,7 @@ halex.waw.pl
 halodzwonek.pl
 halopozyczka.pl
 hamulcenawarsztat.pl
+handel24.cal24.pl
 hannawolska1.co.pl
 happy-jump.pl
 harasz.art.pl
@@ -2931,6 +2944,7 @@ imiue.polsl.pl
 immonieruchomosci.pl
 imonellipizzeria.pl
 imperiumobuwia.pl
+importdopolski.pl
 impress-studio.com.pl
 imprezowiczki.qii.pl
 imprima.pl
@@ -2939,7 +2953,6 @@ imultinetruby.pl
 inaczasie.pl
 inagrody.pl
 indexhu.adocean.pl
-industreal.pl
 inetcoviplive.pl
 inetcoviplux.pl
 inetcovipstar.pl
@@ -3319,6 +3332,7 @@ klubikbaczek.pl
 klubkk.nazwa.pl
 klubpasjonatow.pl
 klubpbc.pl
+klubpopstar.pl
 klubprzygody.pl
 klubradosc.waw.pl
 klubufo.pl
@@ -3373,6 +3387,7 @@ konsumenckiego.pl
 kontakt24.xn.pl
 konto1.cal24.pl
 koopon.pl
+koordynatorbhp.pl
 kopalnia-informacji.pl
 kopalniaskarbow.com.pl
 kopertada.eu.interiowo.pl
@@ -3531,6 +3546,7 @@ learn-to-observe.co.pl
 lebskiewycieczki.com.pl
 lechjanas.pl
 leczeniepadaczki.pl
+leczkregoslup.acelero.pl
 lecznicajaworzno.pl
 leenlife.com.pl
 leeu.pl
@@ -3709,6 +3725,7 @@ makobags.pl
 maks-gum.pl
 maksymrzeminski.pl
 malgorzatakwapisz.pl
+malgraf.pl
 malkow-pl.revres.pl
 malybrzuszek.pl
 mamadookolaswiata.pl
@@ -3839,6 +3856,7 @@ metaltechnics.pl
 metamorphosispoland.pl
 metodanst.pl
 metodatomatisa.pl
+metrics.maxizoo.pl
 meu.pl
 mezczyzna-trendy.pl
 mf-mojafirma.pl
@@ -3858,6 +3876,7 @@ miejscedlastudenta.pl
 miejskapolka.pl
 miejski.098.pl
 miejskie24.gpe.pl
+mielno-baltic.pl
 mieszkaj-na-swoim.pl
 mieszkania-pokoje-wynajem.pl
 mieszkaniaczernica.pl
@@ -4048,6 +4067,7 @@ namierz-telefon.pl
 namierzanie-telefonu.pl
 nanawardrobe.pl
 nanotech.tiberius.pl
+napierdzielanki.pl
 napodlogi.pl
 naporost.pl
 napraw-laptopa.waw.pl
@@ -4232,6 +4252,7 @@ newsgwalt24.waw.pl
 newsinteria.you2.pl
 newsleter.you2.pl
 newsy-krajowe.vdl.pl
+newsy.wroclaw.pl
 newsywiadomosci.5v.pl
 newuyuy2012.osa.pl
 newwave.orge.pl
@@ -4438,6 +4459,7 @@ okpwebtime.pl
 ola.pl
 oldent.ekadzidlo.pl
 olejkowyzawrotglowy.pl
+olejzus.pl
 oleksy.net.pl
 olifeextrafestival.pl
 olineextrafestival.pl
@@ -4519,7 +4541,9 @@ olxdostawa-pay.pl
 olxdostawa.pl
 olxoplata.pl
 olxpaypl.pl
+olxpaysafe.pl
 olxpotwierdzenie.pl
+olxsafepay.pl
 olxservice.pl
 olxwysylka.pl
 olxyorki.dfirma.pl
@@ -4590,6 +4614,7 @@ opieka.info.pl
 opiekanadogrodem.pl
 opiekapaliatywna2010.pl
 oplaca-sie.pl
+oplata-zamowienie78431.pl
 oplata360.pl
 oplataolx.pl
 oplaty-wp.pl
@@ -4653,6 +4678,7 @@ oszczedzanie-na-ekranie.pl
 oszczepionkach.you2.pl
 oszukacruletke.like.pl
 oszukacruletke.pl
+ot.obi.pl
 otc.coinmine.pl
 othala.pl
 otobajka.com.pl
@@ -4749,6 +4775,9 @@ pay-olxdostawa.pl
 pay.coinmine.pl
 pay.mobiltek.pl
 pay01-olx.pl
+pay04-olx.pl
+pay05-olx.pl
+pay06-olx.pl
 pay24.com.pl
 pay2me.pl
 payment-olx.pl
@@ -4762,6 +4791,7 @@ payu-zamowienie901941.pl
 pbiat.pl
 pbshop.pl
 pc-data.pl
+pc-soft.pl
 pccooler.com.pl
 pcmanie4.vot.pl
 pcol.pl
@@ -4828,6 +4858,7 @@ pinka.com.pl
 pinkbox.pl
 pinkies.pl
 pinkstar.pl
+piotrautoserwis.pl
 piotrdzieciolowski.pl
 piotrowskimusic.pl
 piotrprzewozy.pl
@@ -4867,6 +4898,7 @@ platelab.pl
 plater-emilii.naszebanki.pl
 platinumprestige.pl
 platnosc-payu.pl
+platnosc-zawieszana.myszka78.co.pl
 platnosc-zowieszana.kisiel13.co.pl
 platnosciallegro.pl
 play-cda.pl
@@ -4979,6 +5011,7 @@ polska24.serwerplus.pl
 polska24info.dkonto.pl
 polska24poszukiwani.dkonto.pl
 polskadziennik.pl
+polskagazeta.co.pl
 polskainfo.co.pl
 polskainfo.nbhost.pl
 polskapolicja.you2.pl
@@ -5451,6 +5484,7 @@ rakietowaliga.pl
 rakietynawode.pl
 ralphlaurenkolekta.pl
 ramzes-logistics.pl
+rankingimprez.pl
 rapid-host.pl
 rapidart.pl
 ratownictwo.strefa.pl
@@ -5504,6 +5538,7 @@ reklama.osemka.pl
 reklama.wp.pl
 reklamanamiare.pl
 reklamanazuku.pl
+reklamapoznan.com.pl
 reklamawinternecie.edu.pl
 reklamy.sfd.pl
 reklamybrzesko.pl
@@ -5752,6 +5787,7 @@ server028346.nazwa.pl
 server031290.nazwa.pl
 server033687.nazwa.pl
 server038725.nazwa.pl
+server041990.nazwa.pl
 server062295.nazwa.pl
 server082057.nazwa.pl
 server102661.nazwa.pl
@@ -5773,14 +5809,18 @@ server292369.nazwa.pl
 server293122.nazwa.pl
 server304082.nazwa.pl
 server314517.nazwa.pl
+server328095.nazwa.pl
 server328687.nazwa.pl
 server364714.nazwa.pl
 server375674.nazwa.pl
+server401169.nazwa.pl
+server410209.nazwa.pl
 server428873.nazwa.pl
 server432067.nazwa.pl
 server440086.nazwa.pl
 server455405.nazwa.pl
 server457302.nazwa.pl
+server517854.nazwa.pl
 server522523.nazwa.pl
 server529775.nazwa.pl
 server547102.nazwa.pl
@@ -5794,6 +5834,7 @@ server715152.nazwa.pl
 server720699.nazwa.pl
 server730889.nazwa.pl
 server740153.nazwa.pl
+server742538.nazwa.pl
 server753306.nazwa.pl
 server817111.nazwa.pl
 server836207.nazwa.pl
@@ -5805,6 +5846,8 @@ server944006.nazwa.pl
 server944747.nazwa.pl
 server945341.nazwa.pl
 server952250.nazwa.pl
+server954031.nazwa.pl
+server963613.nazwa.pl
 server968099.nazwa.pl
 server986408.nazwa.pl
 server991318.nazwa.pl
@@ -5996,6 +6039,7 @@ skupzabytkowych.pl
 skuteczna-dieta.co.pl
 skutecznyautokomis.pl
 skuter.c0.pl
+slaweklenart.pl
 slawianka.com.pl
 slimak-pozyczki.pl
 slimerix.pl
@@ -6017,6 +6061,9 @@ smartraport.pl
 smartusluga.xja.pl
 smbccoj.pl
 smectapop12.pl
+smetrics.multikino.pl
+smetrics.payback.pl
+smetrics.seat.pl
 smgorczewska.pl
 smhydro.com.pl
 smiercidata.5v.pl
@@ -6044,6 +6091,7 @@ sobotka24.com.pl
 socialviewapp.com.pl
 societyjezuufamtobie.pl
 sodmalwa.pl
+sofaprojekt.pl
 sofident.pl
 soforashop.pl
 softdesk.pl
@@ -6181,6 +6229,7 @@ starsmagiceurodice.pl
 start.coinmine.pl
 start.szczecin.pl
 starti.pl
+startrekk.flaconi.pl
 starynkiewicza.pl
 starypodrywacz.pl
 staryspichlerz-darlowo.pl
@@ -6306,10 +6355,12 @@ surf.org.pl
 suwalskieprzytulisko.pl
 svd-warszawa.pl
 sw-tour.com.pl
+sw88.disney.pl
 swagshoes.pl
 swam.com.pl
 swapgg.pl
 swarovskisklep.com.pl
+swasc.kaufland.pl
 sweetbuy.pl
 swiat-inaczej.you2.pl
 swiat-plytek.pl
@@ -6484,6 +6535,7 @@ tiandepolska.pl
 tiandewarszawa.pl
 tik.info.pl
 tik.stronnet.pl
+tikoro.pl
 timberlandpromocja.pl
 timberlandtanio.pl
 time4s.pl
@@ -6708,6 +6760,7 @@ umagiccasheurodice.pl
 umagictopeudice.pl
 umainnetrubypalace.pl
 umariki.pl
+umelong.pl
 umultinetruby.pl
 un.coinmine.pl
 unetcoviplive.pl
@@ -6921,6 +6974,7 @@ wawa-info.pl
 wazne-informacje.pl
 waznyfakt.idl.pl
 wbok.pl
+wbtrkk.teufelaudio.pl
 wcozainwestowacpieniadze.pl
 wcwipxbj.pl
 wczaso.pl
@@ -6932,6 +6986,7 @@ webgazeta.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
 webhosting-ads.home.pl
+weblancer.pl
 weblifevivasp.pl
 weblinevivaasp.pl
 webmagiceurodice.pl
@@ -7016,6 +7071,7 @@ winteroff.pl
 wirtualna-polska.you2.pl
 wirtualnapolska24.dkonto.pl
 wirtualnemeble.pl
+wirtualnetargi.com.pl
 wirtuozseksu.pl
 wirus-info24.5v.pl
 wiskiherbal.pl
@@ -7105,6 +7161,7 @@ www.1bitstudio.pl
 www.1loginpomoc.info.pl
 www.1slo.pl
 www.24-sklep.pl
+www.24forum.pl
 www.2easy.pl
 www.2i4.com.pl
 www.2i4.pl
@@ -7149,7 +7206,6 @@ www.adcarousel.pl
 www.addays.pl
 www.adeptia.pl
 www.adestudio.w8w.pl
-www.admwarszawa.pl
 www.adobe.5v.pl
 www.adocean.pl
 www.adopting.vot.pl
@@ -7252,6 +7308,7 @@ www.aparthema.org.pl
 www.api.myeforsa.pl
 www.append.pl
 www.apps.co.pl
+www.aptecznypunkt.pl
 www.apteka2000.pl
 www.aquacell.pl
 www.aquafit.sklep.pl
@@ -7330,6 +7387,7 @@ www.bbcnews.pl
 www.bbu-edukacja.com.pl
 www.bdsm.pl
 www.be-wild.pl
+www.beauty-direct.pl
 www.bebooks.pl
 www.beciki.pl
 www.beetlebits.pl
@@ -7587,6 +7645,7 @@ www.dbo2.pl
 www.deanteshop.pl
 www.debie.pl
 www.debki-klara.pl
+www.decodom.com.pl
 www.decodorebasic.pl
 www.deepshoes.pl
 www.defrost.pl
@@ -7615,7 +7674,6 @@ www.dkonto.dkonto.pl
 www.dlaczegoomega3.natural.pl
 www.dlarodzinyprzemysl.pl
 www.dlaturystow.com.pl
-www.dlx.com.pl
 www.dnirownosci.pl
 www.dobra-bramka-sms.pl
 www.dobraplota.pl
@@ -7711,6 +7769,7 @@ www.e-przysietnica.pl
 www.e-yourmovies.pl
 www.e-zaginieni.pl
 www.easy-hc24.pl
+www.easycrm.pl
 www.easydownload.pl
 www.easypoele.pl
 www.eatandeasy.pl
@@ -7820,6 +7879,7 @@ www.facebook.biz.pl
 www.facebookszpieg.glt.pl
 www.facedesign.pl
 www.facemode.pl
+www.facom.com.pl
 www.faithfull.kdm.pl
 www.fajne-filmy.pl
 www.fajnewierszyki.pl
@@ -7948,6 +8008,7 @@ www.flexgum.pl
 www.florabacter.pl
 www.fminzynieria.pl
 www.focus24.gpe.pl
+www.foodcon.pl
 www.footballmanager.com.pl
 www.forexyestrader.pl
 www.forlife-szkolenia.pl
@@ -7978,6 +8039,7 @@ www.freeones.pl
 www.frembud.pl
 www.fresh-finance.pl
 www.freshestate.com.pl
+www.frieman.pl
 www.frio.com.pl
 www.froling.bee.pl
 www.fromako.pl
@@ -8108,6 +8170,7 @@ www.hadesklub.pl
 www.halex.waw.pl
 www.halodzwonek.pl
 www.halopozyczka.pl
+www.handel24.cal24.pl
 www.hannawolska1.co.pl
 www.hart-profil.pl
 www.havio.pl
@@ -8175,6 +8238,7 @@ www.ilearnex.pl
 www.iluzja.pl
 www.imetinyang.za.pl
 www.imonellipizzeria.pl
+www.importdopolski.pl
 www.impulsband.pl
 www.inagrody.pl
 www.info-centrum.co.pl
@@ -8339,6 +8403,7 @@ www.klubfiatstilo.pl
 www.klubikbaczek.pl
 www.klubpasjonatow.pl
 www.klubpbc.pl
+www.klubpopstar.pl
 www.klubradosc.waw.pl
 www.klubufo.pl
 www.klubwinarzeczpospolitej.pl
@@ -8364,6 +8429,7 @@ www.konkursynagrody.pl
 www.konstancjanieruchomosci.com.pl
 www.kontakt24.xn.pl
 www.koopon.pl
+www.koordynatorbhp.pl
 www.kopalnia-informacji.pl
 www.kopalniaskarbow.com.pl
 www.koronawirusnews.com.pl
@@ -8512,6 +8578,7 @@ www.majus-centrum.pl
 www.makarenagaski.pl
 www.maksymrzeminski.pl
 www.malgorzatakwapisz.pl
+www.malgraf.pl
 www.malybrzuszek.pl
 www.mamawpodrozy.pl
 www.mamopoczytaj.pl
@@ -8585,6 +8652,7 @@ www.micromix.pl
 www.miejscedlastudenta.pl
 www.miejskapolka.pl
 www.miejskie24.gpe.pl
+www.mielno-baltic.pl
 www.mieszkania-pokoje-wynajem.pl
 www.miete.pl
 www.migawkastudio.pl
@@ -8633,7 +8701,6 @@ www.monkeyball.osa.pl
 www.montrans.com.pl
 www.mopik.pl
 www.morskikwiat.pl
-www.moto-agro.pl
 www.motoeast.pl
 www.movienet.pl
 www.moviestarplanet-hack.org.pl
@@ -8673,6 +8740,7 @@ www.namierz-telefon.com.pl
 www.namierz-telefon.pl
 www.namierzanie-telefonu.pl
 www.nanawardrobe.pl
+www.napierdzielanki.pl
 www.naporost.pl
 www.napraw-laptopa.waw.pl
 www.naprawadachu.com.pl
@@ -8714,6 +8782,7 @@ www.news48.dkonto.pl
 www.newsinteria.you2.pl
 www.newsleter.you2.pl
 www.newsy-krajowe.vdl.pl
+www.newsy.wroclaw.pl
 www.nicolosi.pl
 www.niechoruje.pl
 www.niedlich.pl
@@ -8795,6 +8864,7 @@ www.ogrodexmilicz.pl
 www.okazjeinternetowe.pl
 www.okna-lesnik.pl
 www.old.adtech.pl
+www.olejzus.pl
 www.oleksy.net.pl
 www.olszewski.ehost.pl
 www.olubin.pl
@@ -8867,7 +8937,9 @@ www.olxdostawa-pay.pl
 www.olxdostawa.pl
 www.olxoplata.pl
 www.olxpaypl.pl
+www.olxpaysafe.pl
 www.olxpotwierdzenie.pl
+www.olxsafepay.pl
 www.olxservice.pl
 www.olxwysylka.pl
 www.olxyorki.dfirma.pl
@@ -8916,6 +8988,7 @@ www.opieka.info.pl
 www.opiekanadogrodem.pl
 www.opiekapaliatywna2010.pl
 www.oplaca-sie.pl
+www.oplata-zamowienie78431.pl
 www.oplataolx.pl
 www.oponymagcarleszno.pl
 www.opowiadaniaerotyczne.com.pl
@@ -8977,6 +9050,9 @@ www.paweljuros.pl
 www.pawimex.com.pl
 www.pay-olxdostawa.pl
 www.pay01-olx.pl
+www.pay04-olx.pl
+www.pay05-olx.pl
+www.pay06-olx.pl
 www.pay24.com.pl
 www.pay2me.pl
 www.payment-olx.pl
@@ -8986,6 +9062,7 @@ www.payu-platnosc943412.pl
 www.payu-zamowienie103234.pl
 www.payu-zamowienie901941.pl
 www.pbshop.pl
+www.pc-soft.pl
 www.pccooler.com.pl
 www.pdsecurity.pl
 www.pebx.pl
@@ -9018,6 +9095,7 @@ www.pinapple.pl
 www.pinka.com.pl
 www.pinkies.pl
 www.pinkstar.pl
+www.piotrautoserwis.pl
 www.piotrdzieciolowski.pl
 www.piotrprzewozy.pl
 www.pitbull-video.ujm.pl
@@ -9032,6 +9110,7 @@ www.pl-olx.pl
 www.plast-chem.com.pl
 www.plastikon-kratki.pl
 www.platinumprestige.pl
+www.platnosc-zawieszana.myszka78.co.pl
 www.platnosc-zowieszana.kisiel13.co.pl
 www.play-cda.pl
 www.play-vod.pl
@@ -9100,6 +9179,7 @@ www.polska24.serwerplus.pl
 www.polska24info.dkonto.pl
 www.polska24poszukiwani.dkonto.pl
 www.polskadziennik.pl
+www.polskagazeta.co.pl
 www.polskainfo.co.pl
 www.polskainfo.nbhost.pl
 www.polskapolicja.you2.pl
@@ -9276,6 +9356,7 @@ www.rajdysamochodowe.pl
 www.rakietowaliga.pl
 www.rakietynawode.pl
 www.ralphlaurenkolekta.pl
+www.rankingimprez.pl
 www.raypath-international.com.pl
 www.razor-blade.pl
 www.rbreebokcrossfit.pl
@@ -9299,6 +9380,7 @@ www.regionalne24wydarzenia.pl
 www.rejestr.5p.pl
 www.rejestr24.5p.pl
 www.reklamanazuku.pl
+www.reklamapoznan.com.pl
 www.rekrutacja.zafriko.pl
 www.reksiowet.pl
 www.relaxdom.com.pl
@@ -9397,13 +9479,21 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.server031290.nazwa.pl
+www.server041990.nazwa.pl
 www.server167147.nazwa.pl
 www.server260792.nazwa.pl
 www.server292369.nazwa.pl
 www.server314517.nazwa.pl
+www.server328095.nazwa.pl
+www.server401169.nazwa.pl
+www.server410209.nazwa.pl
+www.server517854.nazwa.pl
 www.server522523.nazwa.pl
 www.server621416.nazwa.pl
 www.server634288.nazwa.pl
+www.server742538.nazwa.pl
+www.server954031.nazwa.pl
+www.server963613.nazwa.pl
 www.serwer2083668.home.pl
 www.serwis-ab.com.pl
 www.serwis-laptopow24.pl
@@ -9472,6 +9562,7 @@ www.skupjajek.pl
 www.skupzabytkowych.pl
 www.skutecznyautokomis.pl
 www.skuter.c0.pl
+www.slaweklenart.pl
 www.slawianka.com.pl
 www.slimak-pozyczki.pl
 www.slimerix.pl
@@ -9499,6 +9590,7 @@ www.sniadaniowaklasa.pl
 www.sobotka24.com.pl
 www.societyjezuufamtobie.pl
 www.sodn.suwalki.pl
+www.sofaprojekt.pl
 www.softmania.pl
 www.softyhouse.pl
 www.sojbud.com.pl
@@ -9697,6 +9789,7 @@ www.thermomix.vorwerk.pl
 www.thule-przyczepy.pl
 www.tiande.pl
 www.tiens.pl
+www.tikoro.pl
 www.timberlandpromocja.pl
 www.timberlandtanio.pl
 www.to-be-fit.pl
@@ -9795,6 +9888,7 @@ www.uksstrzalwodzislaw.pl
 www.ukssvida.pl
 www.ultra-cda.pl
 www.umariki.pl
+www.umelong.pl
 www.unhallowed.pl
 www.unipics.pl
 www.unitrafan.pl
@@ -9892,6 +9986,7 @@ www.wcozainwestowacpieniadze.pl
 www.wczaso.pl
 www.wczasywegry.pl
 www.web-online.pl
+www.weblancer.pl
 www.webrobi.pl
 www.webtoprostezarub.xaa.pl
 www.webwood.pl
@@ -9939,6 +10034,7 @@ www.winoteka-samiswoi.pl
 www.winteroff.pl
 www.wirtualna-polska.you2.pl
 www.wirtualnapolska24.dkonto.pl
+www.wirtualnetargi.com.pl
 www.wirtuozseksu.pl
 www.wiszniawksiazkach.pl
 www.witamina.c.pl
@@ -10011,6 +10107,7 @@ www.wyposazeniedomow.com.pl
 www.wypozycz-film.pl
 www.wyremontujklinike.pl
 www.wysyldhl.pl
+www.wysylkowogeisparc.pl
 www.wytfforniaglosu.pl
 www.wytypowany-zwyciezca.pl
 www.x-alp.pl
@@ -10121,6 +10218,7 @@ www.zobacz-film.pl
 www.zobacz24.pl
 www.zognia.pl
 www.zolnierzsklep.pl
+www.zooglobe.com.pl
 www.zorajka.pl
 www.zostanfitjakja.pl
 www.zpafiska.pl
@@ -10135,6 +10233,7 @@ www.zurtchojnice.pl
 www.zwiekszycsprzedaz.pl
 www.zwierzynieckrakowski.pl
 www2.coinmine.pl
+www91.intel.pl
 wwwallegro.pl
 wwwareshop.pl
 wwwbgz.pl
@@ -10184,6 +10283,7 @@ wypozyczgo.com.pl
 wypromuj.nazwa.pl
 wyremontujklinike.pl
 wysyldhl.pl
+wysylkowogeisparc.pl
 wytfforniaglosu.pl
 wytypowana-osoba-wygrywajaca.pl
 wytypowany-zwyciezca.pl
@@ -10480,6 +10580,7 @@ zobacz24.pl
 zobaczto.pisz.pl
 zognia.pl
 zolnierzsklep.pl
+zooglobe.com.pl
 zopowermultirubypalace.pl
 zorajka.pl
 zosia.moz-bud.pl
