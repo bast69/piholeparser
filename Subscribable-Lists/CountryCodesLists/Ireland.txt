@@ -55,6 +55,7 @@ confirm-account-online-managesignin-verify.crumlincollege.ie
 confirm-account-online.manage-sign.in.support-international-service.security.oreillyrecruitment.ie
 consent.inm.ie
 cork.communitygames.ie
+craftbeerspiritsexpo.ie
 crana.ie
 crji.ie
 culturework.ie
@@ -80,7 +81,6 @@ eielectronics.ie
 eli-limerick.ie
 embassygutteringandmaintenanceservices.ie
 emmasmith.ie
-employeradvice.ie
 ephesus.ie
 epress.ie
 erniesbar.ie
@@ -118,6 +118,7 @@ kilkennyjournal.ie
 kinglandscaping.ie
 kinsalecrystal.ie
 kiteshop.ie
+kms.ie
 lastonetherapy.ie
 lb-nab.bankingg.au.thefabriccounter.ie
 leevalley.ie
@@ -172,7 +173,10 @@ plc-14362095.hgps.ie
 plc-16183164.hgps.ie
 plc-16535014.hgps.ie
 plc-17247355.hgps.ie
+plc-21451090.hgps.ie
 plc-23573316.hgps.ie
+plc-24811396.hgps.ie
+plc-25220794.hgps.ie
 plc-25753120.hgps.ie
 plc-25989780.hgps.ie
 plc-26707211.hgps.ie
@@ -264,6 +268,7 @@ smetrics.three.ie
 snazzymedia.ie
 softsale.ie
 soundhire.ie
+specialchild.ie
 splonk.ie
 stairnaheireann.ie
 stats.independent.ie
@@ -277,6 +282,7 @@ tai.ie
 teachingnetwork.riam.ie
 techpeople.ie
 techworldgroup.ie
+tekcentral.ie
 test2.marrenconstruction.ie
 thehypnotherapystudio.ie
 thenaturehouse.ie
@@ -287,8 +293,6 @@ threadingbar.ie
 tiny.ie
 tkgenerators.ie
 tkladders.ie
-toorak.ie
-travelturkey.ie
 trutech.ie
 ucdwaves.ie
 updated.rbktechnology.ie

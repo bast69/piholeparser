@@ -2,6 +2,7 @@ essal.tg
 glidji-kpodji.tg
 glnt.tg
 haactogo.tg
+laposte.tg
 lesconcurrents.tg
 nunyalab.tg
 valeurscitoyennes.tg

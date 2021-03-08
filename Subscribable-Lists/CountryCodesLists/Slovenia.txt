@@ -14,10 +14,12 @@ apartmaji-ptuj.si
 arma-tisk.si
 as.dialog.si
 aures.si
+avtomotodeli-ugodno.si
 avtoogris.si
 b.uscom.si
 bebetter.si
 bedanc.si
+bestinvest.si
 biciklin.si
 blackline.si
 bpavto.si
@@ -35,6 +37,7 @@ dtours.si
 ecobirds.si
 elgas.si
 eloterija.si
+enduro.si
 eno.si
 euro-palete.si
 farm.usoffice.si
@@ -72,6 +75,7 @@ m-gast.si
 metrika.ron.si
 mikhimshaissayd.blogspot.si
 mnmi-zkmn.si
+mojamaja.si
 mojemajice.si
 monom.si
 ok.internetmedia.si

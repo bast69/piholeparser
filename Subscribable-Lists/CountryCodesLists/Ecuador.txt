@@ -43,7 +43,6 @@ fernandez.ec
 freeones.ec
 goe.gov.ec
 gotrade.com.ec
-gpjulioandrade.gob.ec
 gygabogados.ec
 gymconstructora.com.ec
 hgdc.gob.ec
@@ -80,6 +79,7 @@ sesoma.ec
 signin.einloggen-ebay.de.jupesa.com.ec
 sing.einloggen-ebay.de.jupesa.com.ec
 sistemas.ucacue.edu.ec
+smartlife.com.ec
 solinfor.ec
 solnaciente.com.ec
 tebusco.com.ec

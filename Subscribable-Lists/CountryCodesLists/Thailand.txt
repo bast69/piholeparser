@@ -43,10 +43,10 @@ dreamhouse.in.th
 edu-src.msu.ac.th
 edu.tsu.ac.th
 educationthai.co.th
-eduroam.stou.ac.th
 enagic.co.th
 eng.ubu.ac.th
 eresearch.pit.ac.th
+esmce.nrru.ac.th
 fdx.co.th
 framehouse.in.th
 gaushyang.co.th
@@ -69,7 +69,6 @@ ie.kbu.ac.th
 industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
-intranet.onep.go.th
 iooi.co.th
 ipphone.nstru.ac.th
 irbrta.pmk.ac.th
@@ -120,10 +119,10 @@ nhongteennok.go.th
 nirvana.co.th
 nkedu1.go.th
 nmp.ac.th
+noproblem.co.th
 nptedu.go.th
 nuffnang.co.th
 oaep.diw.go.th
-ocsb.go.th
 oetc.in.th
 openlink.co.th
 osh10.labour.go.th
@@ -132,7 +131,6 @@ osh2.labour.go.th
 paco.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
-patcharee.asclb.ac.th
 petkasem.ac.th
 ph.sci.lru.ac.th
 phatthalung.go.th
@@ -145,6 +143,7 @@ powerbee.co.th
 prmsd.msdbangkok.go.th
 province2.moi.go.th
 prowin.co.th
+publichealth.msu.ac.th
 qsds.go.th
 qualityprint.in.th
 r2r.npru.ac.th
@@ -173,7 +172,6 @@ srf.ais.co.th
 stat.matichon.co.th
 statmt.matichon.co.th
 stats.in.th
-stepline.co.th
 surintech.ac.th
 svk.co.th
 swpark.or.th
@@ -186,7 +184,6 @@ tepcian.utcc.ac.th
 thaisuperphone.atcreative.co.th
 thaivictory.co.th
 thaiyonei.co.th
-thalang.phuket.doae.go.th
 thapthan.ac.th
 thungchang.go.th
 toyotacollege.ac.th

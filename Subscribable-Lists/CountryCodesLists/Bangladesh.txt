@@ -1,7 +1,6 @@
 aclandshibganjbogra.gov.bd
 acmegroup.com.bd
 adyanmart.com.bd
-agromart.com.bd
 ajbhsh.dac.edu.bd
 ajbhsh.edu.bd
 akidmbn.edu.bd
@@ -20,6 +19,7 @@ baigachahs.edu.bd
 baliakandidm.edu.bd
 bangladeshhomeeconomicscollege1996.edu.bd
 bbchsctg.edu.bd
+bdtex.com.bd
 beuamadrasha.edu.bd
 bgb.gov.bd
 bhuiyansmm.edu.bd
@@ -32,6 +32,7 @@ bjkhs.edu.bd
 bkm.edu.bd
 bkmsfmadrasa.edu.bd
 bloodclub.com.bd
+bmscr.edu.bd
 boaliablhighschool.edu.bd
 boaliahighschool.edu.bd
 bogradistrictpolice.gov.bd
@@ -53,7 +54,6 @@ cpi.edu.bd
 cpl.com.bd
 dailyneeds.com.bd
 damnashcollege.edu.bd
-demo.advert.com.bd
 deoraadarshahighschool.edu.bd
 dilalpurhs.edu.bd
 dimc.edu.bd
@@ -78,9 +78,11 @@ facebook.shobi.com.bd
 fhsn.edu.bd
 fmmethod.com.bd
 fsb.com.bd
+fsp.buet.ac.bd
 futureexpress.net.bd
 gangjoarhs.edu.bd
 geudmadrasha.edu.bd
+globalcomputer.com.bd
 golabariss.edu.bd
 greaternoakhali.net.bd
 gsmdc.edu.bd
@@ -90,11 +92,10 @@ hilfulschool.edu.bd
 hwb.com.bd
 i-pag.com.bd
 ide.plandiv.gov.bd
-igs.edu.bd
 ijbhs.edu.bd
 imtmn.edu.bd
 ioe.com.bd
-itgallery.com.bd
+itsl.com.bd
 izumi.com.bd
 jaifornhs.edu.bd
 jf4pfgrk0spdhzztuyzf.ukhs.edu.bd
@@ -116,7 +117,6 @@ kundanblhspn.edu.bd
 learningearning.com.bd
 lhighschool.edu.bd
 lib.buet.ac.bd
-liveshopping.com.bd
 llwkucyy0oc6ahasjydp.ukhs.edu.bd
 machmoilmlhs.edu.bd
 madaripurpbs.org.bd
@@ -151,6 +151,7 @@ pmis.lged.gov.bd
 pnmgghschool.edu.bd
 policebloodbank.gov.bd
 porabaripfm.edu.bd
+quizbook.com.bd
 rampurhs66.edu.bd
 rbmsc.edu.bd
 rdmadrasah.edu.bd
@@ -171,6 +172,7 @@ slsahghs.edu.bd
 smsmbuhsfeni.edu.bd
 spgroup.com.bd
 sportscity.com.bd
+ssltd.com.bd
 support-account-verification.com.sbubac.edu.bd
 sutalarisafijuddindakhilmadrasha.edu.bd
 telos.com.bd

@@ -5,6 +5,7 @@ analytics.write.as
 app.astec.as
 bmi.as
 cort.as
+cpcalendars.drwax.as
 cpcontacts.drwax.as
 div.as
 escort.as

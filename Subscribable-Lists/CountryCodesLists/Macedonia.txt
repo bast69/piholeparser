@@ -32,6 +32,7 @@ info.proglasnik.mk
 inovarte.com.mk
 ireklama.mk
 jobs.marketing365.mk
+jpkiselavoda.mk
 kreativci.marketing365.mk
 kuvar.mk
 lekovi.com.mk
@@ -57,6 +58,7 @@ oprd.gov.mk
 produkcija-sidor.globalnet.mk
 rstelektrika.mk
 rule-695162694.naim.mk
+rule-780295132.naim.mk
 seougostivar.mk
 shimov.com.mk
 sorm.mk
@@ -87,3 +89,4 @@ www.newsletter.marketing365.mk
 www.sportlife.com.mk
 zimeks.com.mk
 zora.com.mk
+zs.mk

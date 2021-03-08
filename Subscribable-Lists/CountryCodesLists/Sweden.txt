@@ -116,6 +116,7 @@ beijerkidsday.se
 bema-elautomatik.se
 bestorpstra.se
 bfd69dd9.se
+bikemyday.se
 bitslot.se
 bkgr.se
 bksn.se
@@ -320,6 +321,7 @@ hoverboard360.se
 hoymix.se
 humanistiskhalsoforskning.se
 hundpolen.se
+hunterdouglas.se
 husariabygg.se
 huvudstakiropraktik.se
 hwfsweden.se
@@ -673,7 +675,6 @@ theraftingteam.se
 therawstore.se
 tnkraft.se
 tns-sifo.se
-tollsbacken.se
 tommyalfredsson.se
 tommyroos.se
 topblogarea.se
@@ -717,6 +718,7 @@ us.bksn.se
 v.landingzone.se
 valmetrundan.se
 varbergsvind.se
+vasterviksstenhuggeri.se
 vasttarafik.se
 veganmakeup.se
 verbateam.se
@@ -740,7 +742,6 @@ wargmane.se
 web.easyresearch.se
 web2.easyresearch.se
 web3.easyresearch.se
-webb247.se
 webbkusten.se
 webstat.se
 webtraffic.se

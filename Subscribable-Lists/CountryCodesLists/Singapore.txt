@@ -206,6 +206,7 @@ fls-fe.amazon.sg
 formations.com.sg
 fortuneresourcecentre.com.sg
 funmedicaldoctor.sg
+gcc-microsoftonline.sg
 geosoft.com.sg
 getcapsule.sg
 getracomarketing.com.sg
@@ -229,7 +230,6 @@ hellosingapore.sg
 herchinfitout.com.sg
 highbrow.com.sg
 hmipsc.com.sg
-homedesignbase.com.sg
 homemakers-electrical.com.sg
 hopemedclinic.sg
 horny.sg
@@ -311,6 +311,7 @@ nirvana.com.sg
 nuffnang.com.sg
 onecall.com.sg
 onsales.sg
+onstone.sg
 opsonew3org.sg
 optimus.com.sg
 origin.com.sg
@@ -343,6 +344,7 @@ saltech.sg
 scalestudio.sg
 selfawareness.com.sg
 shophealthonline.sg
+shuanglin.sg
 singaporenewproperty.com.sg
 singaporeprinting.com.sg
 smeindustries.com.sg

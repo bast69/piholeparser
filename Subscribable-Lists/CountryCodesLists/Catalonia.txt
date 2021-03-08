@@ -3,12 +3,12 @@ ads.vilaweb.cat
 advocatsaterrassa.cat
 adworks.cat
 agrupaciocongres.cat
-almata.cat
 analisisreig.cat
 associacioesportivapolitg.cat
 atdarquitectura.cat
 audiencies.ccma.cat
 autoserveisesrovires.cat
+bizworking.cat
 casalparis.cat
 ccpc.cat
 client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
@@ -24,6 +24,7 @@ eof.cat
 femsonarlesmusiquetes.cat
 femxarxa.cat
 files.cat
+g6apps1920.sdslab.cat
 galeriariera.cat
 gay.cat
 girlsbcn.cat
@@ -39,6 +40,7 @@ old.alcarras.cat
 paypal.us.g-c.cat
 progreslaseu.cat
 revisionsmediques.cat
+rocaprevera.cat
 saloboda.cat
 small.cat
 somcorbera.cat

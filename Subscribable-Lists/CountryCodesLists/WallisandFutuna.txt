@@ -3,4 +3,5 @@ bin.wf
 edu.wf
 io1.wf
 vm1195891.kvm.had.wf
+vm1662026.3ssd.had.wf
 vm948040.had.wf

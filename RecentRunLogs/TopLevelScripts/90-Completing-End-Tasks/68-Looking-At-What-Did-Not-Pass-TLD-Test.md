@@ -3,12 +3,5 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 68-Looking-At-What-Did-Not-Pass-TLD-Test
-* 7 Lines After Deduping. 
+* 0 Lines After Deduping. 
 ____________________________________________________
-* castoola.tv.lan
-* chat.chaturbate.lusecurity
-* fevian.orgdojin
-* localhost.localdomain
-* pgl.example
-* pornsites.xx
-* unk.vver.kiae.rr

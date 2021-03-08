@@ -18,8 +18,10 @@ cvyangu.co.tz
 daima.co.tz
 dumatoursafaris.co.tz
 edgars.co.tz
+elctdme.or.tz
 endurotanzania.co.tz
 firstchoice.co.tz
+fupi.co.tz
 gagnerltd.co.tz
 globallogistics.co.tz
 gramolsafarisandadventures.co.tz
@@ -27,13 +29,13 @@ homeafrica.co.tz
 ieds.ac.tz
 imalaseko.win.co.tz
 imperialmedia.co.tz
-ingenuityworks.co.tz
 jobplan.co.tz
 journal.tgeeks.co.tz
 kiitec.ac.tz
 kwetukumenogatz.co.tz
 laiagency.co.tz
 lakefm.co.tz
+landafrica.co.tz
 lrct.go.tz
 mail.tgeeks.co.tz
 mainlinecarriers.co.tz
@@ -65,6 +67,7 @@ tancropsltd.co.tz
 tanroadsarusha.go.tz
 tct-lmisurvey.or.tz
 telemedics.co.tz
+tgsfoundation.or.tz
 tiesco.co.tz
 tracker.co.tz
 unityinsurance.co.tz

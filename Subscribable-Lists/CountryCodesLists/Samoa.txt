@@ -193,7 +193,6 @@ my633251.ws
 myjob.ws
 news.soptv.ws
 nolineipstore.ws
-novo.accorheppa.institucional.ws
 ns324.hospedagemdesites.ws
 nudepics.ws
 oceanic.ws
@@ -224,7 +223,6 @@ recovery-facebook.ws
 redirect.ws
 redirect2719.ws
 redirecting.ws
-reefrentalssamoa.ws
 rennsteig.ws
 resmelljm.ws
 rid31.ws
@@ -236,7 +234,6 @@ royalvipcasino.ws
 s420.ws
 sac-bb.siteseguro.ws
 samlab.ws
-samoa.ws
 savonlinna.ws
 schalen.ws
 secure.runescape.com-applet.ws
@@ -289,6 +286,7 @@ vvps.ws
 warezdownload.ws
 warnet.ws
 webcom-software.ws
+webrank.ws
 wee4wee.ws
 weiber.ws
 wereyboy.objectives.ws

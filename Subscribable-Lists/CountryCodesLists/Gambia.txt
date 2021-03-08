@@ -1,7 +1,9 @@
 advanceelectric.gm
+artistikstudio.gm
 gamtel.gm
 gamtelfc.gm
 gamworks.gm
+gppa.gm
 hansacademy.gm
 insight.gm
 laico-atlantic.gm

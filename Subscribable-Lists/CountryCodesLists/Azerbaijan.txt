@@ -3,6 +3,7 @@ aeroflot.az
 app.facebookphone-onvew.dreamart.az
 arhun.az
 atib.az
+autodiscover.rcom.az
 azfilmizle1.azermedia.az
 azkids.az
 azps.az
@@ -26,6 +27,7 @@ horizont.az
 ipoteka.az
 kazaki.az
 kijabeastara.az
+mail.rcom.az
 mkontakt.az
 mybrand.az
 omega.az
@@ -37,6 +39,7 @@ rem.fbookcom-11124407.laylamebel.az
 rem.fbookcom-66611026.laylamebel.az
 rem.fbookcom-84381713.laylamebel.az
 seckiler.az
+sharepoint.com.secure-folder.new.office365.doc.evler.az
 url.az
 veyseloglu.az
 wildcard.laylamebel.az

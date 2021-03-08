@@ -1,7 +1,6 @@
 1ship.vn
 240.zaloapp.ads.zdn.vn
 480.zaloapp.ads.zdn.vn
-4pmedia.vn
 5734a40f2d.vws.vegacdn.vn
 5day.vn
 703531862.vws.vegacdn.vn
@@ -15,7 +14,6 @@ ac.adpia.vn
 accesstrade.com.vn
 accesstrade.vn
 acd.com.vn
-acefic8.vn
 activar-tu-cuenta.logan.vn
 ad-admin.vnay.vn
 ad-deliver.yomedia.vn
@@ -243,6 +241,7 @@ atrack-a.anthill.vn
 au-insight.ants.vn
 au.ants.vn
 auto.vinaweb.vn
+axalize.vn
 b.logging.admicro.vn
 babe.ants.vn
 babyg-vietnam.vn
@@ -275,6 +274,7 @@ beautrition.vn
 beautyhairvietnam.com.vn
 beautyzone.vn
 behomedecor.com.vn
+benhtri.tamduocglophar.vn
 benk.logging.admicro.vn
 benxethainguyen.vn
 bepankhang.com.vn
@@ -287,9 +287,7 @@ bkns.vn
 bld.vn
 blendtec.vn
 blog.kapy.vn
-blog.pito.vn
 blog.saigon247.vn
-blog.xuan-nguyen.vn
 blogstatistics.sapoapps.vn
 blxuue.phukienonline.com.vn
 booking.mediaz.vn
@@ -298,7 +296,6 @@ boxpr.admicro.vn
 boxpr.aiservice.vn
 brand.admicro.vn
 brand.zing.vn
-brand360.vn
 brief.mediaz.vn
 brightstarcorp.com.vn
 brothercafehoian.com.vn
@@ -347,7 +344,6 @@ celebitech.vn
 centrehotel.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
-cfo.vn
 chabongviet.vn
 chaddie.vn
 chamcong.admicro.vn
@@ -483,6 +479,7 @@ dnsbak.mediaz.vn
 dobadongthap.vn
 dochoiphuchung.com.vn
 dogooccho.com.vn
+dohoatrang.vn
 doitac.ladipage.vn
 dongthanhcompany.vn
 donhang.loza.vn
@@ -492,7 +489,6 @@ dothivietgroup.vn
 dothothinhvuong.vn
 download.htsoft.vn
 doyota.vn
-dpicenter.edu.vn
 dpihatinh.gov.vn
 drive.admicro.vn
 dsp-d.ants.vn
@@ -525,11 +521,9 @@ ecotourhoian.com.vn
 ecpmedia.vn
 eie.edu.vn
 elasticsearch.mangoads.vn
-elecsun.vn
 emailadvertising.vn
 emarketing.eclick.vn
 emitech.jones.vn
-emojiplay.vn
 endoc.vn
 englishtown.edu.vn
 entechco.com.vn
@@ -547,6 +541,7 @@ f.vietnamnetad.vn
 f2.novanet.vn
 f6.com.vn
 facebook-ads.mediaz.vn
+facebook-login.tbit.vn
 facebookads.gafin.vn
 faceboook.com.vn
 fast.accesstrade.com.vn
@@ -558,7 +553,6 @@ fifaonline.vn
 file.admicro.vn
 file.novanet.vn
 file.pinetech.vn
-files.mirai-2viv.vn
 filmspace.vn
 fingerprint.admicro.vn
 focus.mangoads.vn
@@ -634,7 +628,6 @@ hiepcuong.kovo.vn
 hiepphat.com.vn
 hifoto.vn
 hikarishop.com.vn
-hikichi.vn
 hit.123c.vn
 hitekshop.vn
 hitoday.vn
@@ -697,13 +690,12 @@ interlogistics.com.vn
 ipc-renewable.vn
 ir.admicro.vn
 irisgarden.com.vn
+it4work.com.vn
 itim.vn
 iyes.vn
 j.eclick.vn
 jashop.vn
 jira.tools.adtima.vn
-jtech.com.vn
-jwskincare.vn
 k8s2.testcentre.vn
 kazuled.com.vn
 kebepxinh.vn
@@ -716,7 +708,6 @@ khaothi.edu.vn
 khoahoc.bluebird.vn
 khojaly.vn
 khomaynhomnhua.vn
-khudanculongdien.vn
 khuongninh.com.vn
 khuyenmaitet.ad360.vn
 kiemdinhvector.vn
@@ -728,12 +719,10 @@ kingbay.vn
 kingship.vn
 kinhhailong.com.vn
 kitchen-aid.vn
-kitebook.vn
 kizworld.vn
 klick.vn
 kmqm.com.vn
 koithe.vn
-kokono.vn
 konoikevina.com.vn
 kpi.admicro.vn
 kv-analytics.kiotviet.vn
@@ -764,10 +753,10 @@ lg.nanda.vn
 lg1.logging.admicro.vn
 licogi18.com.vn
 liendoan8.com.vn
+lienthong.vn
 lieugiaivinhomes.com.vn
 lifetechgroup.vn
 littleparisresort.com.vn
-livestreams.vn
 lochy.vn
 log-collector.shopee.vn
 log.adflex.vn
@@ -854,6 +843,8 @@ m.mobilead.vn
 ma.admicro.vn
 ma.ants.vn
 mahena.vn
+mail.daunhotmiendong.vn
+mail.fsoft.com.vn
 mail.prakit.vn
 mail.vnsolar.com.vn
 mailvas.mangoads.vn
@@ -863,9 +854,9 @@ mamnonwonderland.edu.vn
 manage.adtima.vn
 mangoads.vn
 mangosteen.mangoads.vn
-mansa.com.vn
 mapping-platform.admicro.vn
 marinacity.com.vn
+marketing.frv.edu.vn
 marketingai.admicro.vn
 marketingauto.e-learning.admicro.vn
 maryland.kovo.vn
@@ -922,6 +913,7 @@ mediagift.vn
 medialed.vn
 mediation.adflex.vn
 mediaz.vn
+medicvanphuc.vn
 meeyid.vn
 megawine.com.vn
 member.ad.org.vn
@@ -940,17 +932,14 @@ mingroups.vn
 minhkiet.com.vn
 minhman.vn
 minhmanh.vn
-mirats.vn
 miyabibar.vn
 mlc.vn
 mne.edu.vn
-mobi-game.vn
 mobile.novanet.vn
 mobilead.vn
 mocdong.com.vn
 modularhouse.vn
 moitruongnhietdoi.vn
-mommababy.vn
 momoss.vn
 mon.adx.vn
 monitor.admicro.vn
@@ -1068,7 +1057,6 @@ product.adtima.vn
 profirst.com.vn
 promotionpopup.sapoapps.vn
 proof.mediaz.vn
-prostock.vn
 protour.vn
 protrek-vietnam.vn
 provider.ad360.vn
@@ -1103,8 +1091,6 @@ quangcaovnstar.vn
 quatcongnghiepdongnai.vn
 r.eclick.vn
 r.tinmoi24.vn
-rabaco.vn
-radsafe.vn
 rd.ambientplatform.vn
 realclick.vn
 recommend-29.logger.vsmarty.vn
@@ -1116,7 +1102,6 @@ report.mediaz.vn
 report.vnay.vn
 reporting.gafin.vn
 retg.adnetwork.vn
-revol.vn
 rfvn.vn
 riminvest.vn
 rnd.novanet.vn
@@ -1149,11 +1134,11 @@ saledev.admicro.vn
 sangokythuat.com.vn
 sanphaminox.vn
 santretunhien.vn
-satech.vn
 satmythuatdongduong.vn
 satthachkhe.vn
 scbhcm.vn
 scdn.eclick.vn
+sceniabay.vn
 schemas.adflex.vn
 schemas.ants.vn
 script.novanet.vn
@@ -1193,7 +1178,6 @@ skyclinic.com.vn
 skylink.vn
 slider.mangoads.vn
 slimads.vn
-slimx3.vn
 smallnet.com.vn
 smarthome.quangcaosangtao.vn
 smartlifevietnam.vn
@@ -1208,6 +1192,7 @@ sohasdk.sohacorp.vn
 solart.vn
 songnam.vn
 sonvietmy.com.vn
+sophiahotel.vn
 sophiaskyhotel.vn
 soro.mangoads.vn
 spell.itim.vn
@@ -1282,10 +1267,10 @@ stspower.com.vn
 sucom.vn
 sueannbridal.vn
 sunbayhotel.vn
+sundoor.vn
 suntour.com.vn
 superlite.com.vn
 survey.vietnamnetad.vn
-suvin.vn
 svcshop.com.vn
 system.yeah1media.vn
 systracking.admicro.vn
@@ -1295,12 +1280,10 @@ t.d.adx.vn
 t.d.ants.vn
 t.d.eclick.vn
 t.eclick.vn
-tamanlac.vn
 tamco.vn
 tankhoi.vn
 tanthanhdanh.vn
 tantiengiang.vn
-taopro.vn
 tarch.com.vn
 tbde.com.vn
 tcttruongson.vn
@@ -1309,7 +1292,6 @@ tds.rungrinh.vn
 tech.admicro.vn
 techcoffee.edu.vn
 tekavietnam.com.vn
-terrapharm.vn
 testcentre.vn
 text1.klick.vn
 thammyductri.vn
@@ -1345,13 +1327,13 @@ thucchay.admicro.vn
 thucphamkho.vn
 thucphamnamviet.com.vn
 thuctreo.admicro.vn
-thuexethanhan.vn
 thuexevantaithanhhoa.vn
 thungracmoitruong.com.vn
 tienphatstore.vn
 tientrienseafood.com.vn
 tiki.ants.vn
 tinhbotxanh.vn
+tinnha.vn
 tka.tiki.vn
 tlk.mediaz.vn
 tls.net.vn
@@ -1411,13 +1393,11 @@ trivietpower.vn
 trk.123c.vn
 trk.staging.123c.vn
 truelovetattoo.vn
-trumsango.com.vn
 truongdaylaixeotob2.edu.vn
 truongdoanlytutrong.vn
 truonghai.kovo.vn
 truongtaynama.edu.vn
 truongthanglong.edu.vn
-truongthanhgroup.com.vn
 truyenhinhnhanai.vn
 truyxuat.smartcheck.vn
 ts.hust.edu.vn
@@ -1474,8 +1454,8 @@ vinaads.vn
 vinhaudio77.vn
 vintagekicks.vn
 viral.mediaz.vn
-visionmedia.vn
 vitinhtienphat.vn
+vivifood.minara.vn
 vjccons.com.vn
 vnd247.vn
 vnedu.kovo.vn
@@ -1513,7 +1493,7 @@ widget.kyna.vn
 widget.sbz.vn
 widget.vietnamnetad.vn
 wifiads.cleverads.vn
-wot.vn
+wordpress.paraline.com.vn
 wpn.codon.vn
 www.ad.org.vn
 www.ad360.vn

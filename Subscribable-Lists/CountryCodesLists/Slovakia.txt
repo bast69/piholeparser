@@ -61,6 +61,7 @@ espace-infos.webnode.sk
 etipos.sk
 eudurica.sk
 ezofest.sk
+ezstreet.sk
 facebook.com.fitgram.sk
 fair-tax.sk
 fitnessrelax.sk
@@ -100,7 +101,6 @@ kancelarieprenajom.sk
 keratin.sk
 kft.sk
 kinesiotape.sk
-kniznyfond.sk
 kolastav.sk
 konopna.sk
 kuchyne-bb.sk
@@ -253,9 +253,9 @@ verify-bowiestate-edu.wz.sk
 viven.host.sk
 vyroba-plotov-bran.sk
 web.tuke.sk
+werix.sk
 wgl.principio.sk
 wl.sk
-word.nakurze.sk
 wp030700.useron28.hostmaster.sk
 www.akoneplatit.sk
 www.cellas.sk

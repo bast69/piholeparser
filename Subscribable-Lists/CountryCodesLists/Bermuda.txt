@@ -4,10 +4,13 @@ attnc.site.bm
 attusersungdomain.site.bm
 cariattlogin.site.bm
 flashpoint.bm
+generaloutlookverification.site.bm
 iclean.bm
 laposte-support.site.bm
-lettre-prive.site.bm
+maisonjour.site.bm
 media-mine.bm
 orange-support.site.bm
 qualityair.bm
 sgcc.bm
+web-authentification.site.bm
+yahoologin.site.bm

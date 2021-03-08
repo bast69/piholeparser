@@ -10,6 +10,7 @@ assets.drawbrid.ge
 autism.org.ge
 automed.ge
 banners.aris.ge
+bss.edu.ge
 bursan.ge
 conferenceroom.ge
 counter.internet.ge
@@ -72,6 +73,7 @@ mbsolutions.ge
 medianews.ge
 misc.drawbrid.ge
 mnsglobal.ge
+mssolutions.ge
 nanostyle.ge
 newmetekhi.ge
 now.ge
@@ -102,6 +104,7 @@ stargroup.ge
 supergeorgia.ge
 swaps.ge
 swb.gol.ge
+tenders.palitra.ge
 tesli.ge
 test123.starcarrent.ge
 tkgroup.ge

@@ -14,6 +14,7 @@ casaitaliana.md
 casinos-online.md
 ceas.md
 ceda.md
+chirurgie-estetica.md
 cnam.md
 coleso.md
 craps.md
@@ -39,6 +40,7 @@ jopeqwest.md
 jtonibud.md
 keno.md
 ldlestb.md
+lider.md
 livrareflori.md
 lochef.md
 luisaspagnoli.md
@@ -54,6 +56,7 @@ onlines.md
 parapanta.md
 pascani.md
 portavita.md
+rddauto.md
 ref01.md
 rxshop.md
 salcutawine.md

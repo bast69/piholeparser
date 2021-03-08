@@ -32,6 +32,7 @@ ignacio.com.py
 incofrio.com.py
 iris.unca.edu.py
 jadema.com.py
+jbgroup.com.py
 kidco.com.py
 laboratorioriera.com.py
 laovetense.com.py

@@ -93,7 +93,6 @@ drops.ads.visionweb.no
 dvdhuset.no
 ed.emp-shop.no
 egeneration.no
-eidedesign.no
 eider.no
 ekstra.htg.no
 elitespill.no
@@ -111,6 +110,7 @@ finerplater.no
 fiskeguiden.no
 flash.vg.no
 form.no
+fotballpuls.no
 fotovideo.no
 freeporn4everyone.blogspot.no
 fujimae.no
@@ -145,6 +145,7 @@ hjertevennlig.no
 hoknes-eiendom.no
 homepage.no
 i1media.no
+idj.no
 imp.euroads.no
 instek.no
 interflora.no
@@ -255,7 +256,6 @@ sstatistikk.telenor.no
 stats.bonzaii.no
 stats.libresse.no
 stats.proff.no
-studiowellness.no
 stupbratt.no
 swebanalytics.gulesider.no
 syvertsen-da.no
@@ -272,7 +272,6 @@ varg.no
 velorbis-bikes.no
 veteranutleie.no
 vibb.no
-villanytt.no
 volvoselektshop.no
 webcount.finn.no
 webhit.aftenposten.no

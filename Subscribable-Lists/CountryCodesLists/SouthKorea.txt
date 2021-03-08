@@ -89,6 +89,7 @@ adn.adneo.co.kr
 adn.cauly.co.kr
 adn.inven.co.kr
 adnmore.co.kr
+adpick.co.kr
 adpingpong.co.kr
 adpingpong1.co.kr
 adpingpong2.co.kr
@@ -135,6 +136,7 @@ alrzl018.0pe.kr
 am4u.kr
 anasports.co.kr
 anelevat_dissem.co.kr
+anti.kro.kr
 antibody.co.kr
 any-loan.co.kr
 api.admixer.co.kr
@@ -264,6 +266,7 @@ d.adand.co.kr
 daebaek.co.kr
 daejeonbustm.co.kr
 darkhwang.0pe.kr
+datainsight.kr
 dawaphoto.co.kr
 dawit.0pe.kr
 dcmedia.co.kr
@@ -353,6 +356,7 @@ ex.mdtoday.co.kr
 extension.esellers.co.kr
 eyecuve.co.kr
 ezreward.co.kr
+facebook.kingsky32.co.kr
 fashionplus.co.kr
 fast-loan.co.kr
 fbdlsgk.co.kr
@@ -488,7 +492,6 @@ jeeyo.0pe.kr
 jerry.0pe.kr
 jewoosystem.co.kr
 jinsu.kr
-jinyangsheetmetal.co.kr
 jjh.0pe.kr
 jjh1345.kro.kr
 jojowinnipegxz.co.kr
@@ -924,6 +927,7 @@ yekuk.co.kr
 yh.kyha.or.kr
 yin.kro.kr
 yjmath.co.kr
+yohan002.kro.kr
 yondental.co.kr
 yonseil.co.kr
 youbit.co.kr

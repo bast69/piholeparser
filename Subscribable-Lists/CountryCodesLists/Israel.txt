@@ -57,6 +57,7 @@ asfanit.co.il
 ashop.co.il
 assaf-audio.co.il
 avshalom-inst.co.il
+avtaha.org.il
 babyshop.co.il
 balisex.co.il
 bancosantander.es-servicioenlinea.es.b-teacher.co.il
@@ -68,6 +69,7 @@ banners.e-dologic.co.il
 banners.news1.co.il
 bannerwebservice.zvz.co.il
 bans.adserver.co.il
+bariach-lock-service.co.il
 beauty-land.co.il
 becl23.b2.gns.co.il
 benezer.co.il
@@ -93,7 +95,6 @@ carasso-offices.co.il
 castingmusic.co.il
 cbaqa.co.il
 cellstats.mako.co.il
-chibuk.co.il
 chromecrx.blogspot.co.il
 click.inn.co.il
 clicks.walla.co.il
@@ -102,9 +103,9 @@ club-ramon.co.il
 cnaantours.co.il
 coffeeshop.co.il
 computershop.co.il
-coolaspa.co.il
 coral-tell.co.il
 corsage.co.il
+cr.lnet.org.il
 crazyshop.co.il
 cryobank-israel.co.il
 cyborg.co.il
@@ -122,6 +123,7 @@ dr-eliasabsawi.co.il
 drelman.co.il
 drsex.co.il
 ds.haaretz.co.il
+dsadv.co.il
 e-net.co.il
 e-shop.co.il
 ebase.co.il
@@ -222,7 +224,6 @@ kaspit.co.il
 katanvetov.co.il
 kazaa.adserver.co.il
 keep-in-touch.co.il
-keterhalacha.co.il
 keyhouse.co.il
 kidnet.co.il
 kishurit.co.il
@@ -238,7 +239,6 @@ kst.co.il
 ktl.co.il
 lac.w2go.co.il
 lamps.co.il
-landcheck.co.il
 laptopsale.co.il
 learnseo.co.il
 linicom.co.il
@@ -279,9 +279,7 @@ mitos.co.il
 moav.co.il
 modello.co.il
 momy.co.il
-moraniz.co.il
 mosesrest.co.il
-motialony.co.il
 mushi.co.il
 mybait.co.il
 mydigitalcard.co.il
@@ -316,7 +314,6 @@ oxyfresh.co.il
 p1000.co.il
 pais.co.il
 pal-gal.co.il
-panda-style.co.il
 paotot.co.il
 parker.co.il
 parsi.co.il
@@ -334,6 +331,7 @@ pics.yad2.co.il
 pizzafactory.co.il
 pongo.co.il
 pornmovies.co.il
+portal.fdx.co.il
 powerelectric.co.il
 presidentescort.co.il
 prolink.co.il
@@ -353,8 +351,8 @@ roome.co.il
 roshdeshe.co.il
 rri.co.il
 rsdesign.co.il
+saritmor.co.il
 sasson-cpa.co.il
-satin.co.il
 satlan.co.il
 savyonim-flowers.co.il
 sdc.mako.co.il

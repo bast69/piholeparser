@@ -17,12 +17,16 @@ feed.snap.do
 fundecoluz.org.do
 gid.do
 gizmo.do
+in.fbcom-151393615.cleanshoes.com.do
+in.fbcom-424628908.cleanshoes.com.do
+in.fbcom-988847108.cleanshoes.com.do
 inposdom.gob.do
 itgins.do
 jalao.do
 levapan.com.do
 link.do
 lmc.com.do
+looknfind.com.do
 maunaloa.com.do
 megasol.com.do
 panastore.com.do
@@ -37,5 +41,6 @@ toner.com.do
 voce.com.do
 webmail.lmv.com.do
 welcome.do
+wildcard.cleanshoes.com.do
 www.gid.do
 zsi7.destinia.do

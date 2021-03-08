@@ -10,6 +10,7 @@ api.ubiq.labaleine.gg
 bin.pinion.gg
 cdn.pinion.gg
 clean.gg
+cpu30691.mfs.gg
 crm.pinion.gg
 csgoup.gg
 docs.pinion.gg
@@ -18,6 +19,8 @@ eth.labaleine.gg
 exp.labaleine.gg
 filosvybfimpsv.ru.gg
 forumceza.tr.gg
+fpg93037.mfs.gg
+fzz.gg
 habnethotelbiz.tr.gg
 i.clean.gg
 igeek.org.gg

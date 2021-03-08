@@ -475,7 +475,6 @@ bynsot.hk
 byshort.hk
 byunit.hk
 c2bit.hk
-caacholidays.com.hk
 cafgroup.hk
 cakef.hk
 callfat.hk
@@ -3796,6 +3795,7 @@ ropeminute.hk
 ropeport.hk
 rosemap.hk
 rosesegment.hk
+rossbellfort.hk
 rotan.hk
 roudup.hk
 roundc8.hk
@@ -4149,7 +4149,6 @@ smallnear.hk
 smalloperate.hk
 smallunder.hk
 smallweather.hk
-smartkey.hk
 smetrics.lululemon.com.hk
 smiask.hk
 smigal.hk
@@ -5182,7 +5181,6 @@ wisetool.hk
 wishspread.hk
 withsign.hk
 withthere.hk
-wndz.hk
 wolfasia.com.hk
 womanhalf.hk
 womanrub.hk
@@ -5325,6 +5323,7 @@ yhoo.com.hk
 yhyf.hk
 yioe1r.hk
 yivisit.hk
+yomall.hk
 yopla.hk
 yoprs.hk
 you-soft-download.hk
