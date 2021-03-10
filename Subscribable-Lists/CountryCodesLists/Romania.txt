@@ -384,7 +384,6 @@ ecpi.ro
 editurapolitehnica.upt.ro
 edituraregis.ro
 edu-net.ro
-edy.clubwebdesign.ro
 eg0xge6j46dvg3qgdjfm.viomil.ro
 elbaionad.ro
 electricfence.levsantronic.ro
@@ -491,6 +490,7 @@ hitx.statistics.ro
 homie.ro
 hotel-mures.ro
 hotelimperium.go.ro
+hotelmarissa.ro
 hotelmm.ro
 hotnews.count.brat-online.ro
 howto.indecosoft.ro
@@ -1026,7 +1026,6 @@ transexclub.ro
 transilvaniatattoo.ro
 transporturi-agabaritic.ro
 transregio.ro
-treezor.io.foto-as.ro
 treidoiunu.ro
 tricouri-brand.ro
 trustsoft.ro

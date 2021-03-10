@@ -108,6 +108,7 @@ caseid-962170731.pale.pk
 caseid-977316716.pale.pk
 caseid-979660947.pale.pk
 cer.salu.edu.pk
+cgassociates.pk
 championfoods.com.pk
 chandni.pk
 chaseinn.pk
@@ -510,6 +511,7 @@ wwd.com.pk
 www.apl.com.pk
 www.ausaf.pk
 www.bacr.com.pk
+www.cgassociates.pk
 www.goadvert.pk
 www.oserve.pk
 www.pakistanelevators.pk

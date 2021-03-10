@@ -138,6 +138,7 @@ interactome.csie.ntu.edu.tw
 jasminne.tw
 jbbc.com.tw
 jcecl.com.tw
+jenergy.tw
 jhenho.com.tw
 jikao.com.tw
 jikua.com.tw
@@ -156,6 +157,7 @@ kisscomcom.tw
 kisstw.com.tw
 kitchen-euro.com.tw
 klimerigth.tw
+kmtks.org.tw
 ktsplastics.com.tw
 kunyung.com.tw
 kusco.tw
@@ -289,6 +291,7 @@ www.english.com.tw
 www.hung-guan.com.tw
 www.inyes.com.tw
 www.isistech.com.tw
+www.kmtks.org.tw
 www.ming-dun.com.tw
 www.playboy.com.tw
 www.skycity.com.tw

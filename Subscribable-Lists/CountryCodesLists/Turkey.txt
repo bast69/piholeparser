@@ -83,6 +83,7 @@ alicicek.com.tr
 alikoca.com.tr
 alioztas.com.tr
 almanhukuku.ozyegin.edu.tr
+alpaylar.com.tr
 alpena.com.tr
 altinbronz.com.tr
 altindagelektrikci.gen.tr
@@ -506,11 +507,13 @@ mesamed.com.tr
 mesanasansor.com.tr
 meslekigirisimciler.org.tr
 mesmobil.com.tr
+metecan.com.tr
 metkor.com.tr
 metrica.yandex.com.tr
 metrics.vodafone.com.tr
 metrika.yandex.com.tr
 mettek.com.tr
+mevlutacik.com.tr
 mevlutyigit.com.tr
 mevzuat.com.tr
 mgt.dia.com.tr
@@ -1088,6 +1091,7 @@ www.mesmobil.com.tr
 www.metkor.com.tr
 www.metrics.vodafone.com.tr
 www.mettek.com.tr
+www.mevlutacik.com.tr
 www.mevzuat.com.tr
 www.mikronet.com.tr
 www.miplus.com.tr

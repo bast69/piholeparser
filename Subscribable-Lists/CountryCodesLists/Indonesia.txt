@@ -1332,6 +1332,7 @@ pkk.depok.go.id
 pks-setiabudi.or.id
 plagading.edufa.id
 playtech.id
+pmb.akprind.ac.id
 pmbonline.unmuha.ac.id
 pn-majalengka.go.id
 pn-rantau.go.id
@@ -1361,6 +1362,7 @@ poshpgehlpbsnsrcvrysrvce01.my.id
 potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
 ppdb.smk-ciptaskill.sch.id
+ppdb.smp1sbw.sch.id
 ppg-daljab.ump.ac.id
 ppid.posokab.go.id
 ppl.ac.id
@@ -1544,6 +1546,7 @@ securityupgrade.sumitro.my.id
 segopecel24.id
 seimmanpd.id
 sekolah-kesatuan.sch.id
+sekolahalmunasemarang.sch.id
 sekolahbhkjakarta.sch.id
 sekretariat.undip.ac.id
 semarmas.co.id
@@ -1927,12 +1930,14 @@ www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
 www.charisministries.id
+www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id
 www.interbanx.co.id
 www.jabra.id
 www.props.id
+www.sekolahalmunasemarang.sch.id
 www.sewamobilbengkulu.web.id
 www.veljko.id
 www.web.pa-cirebon.go.id

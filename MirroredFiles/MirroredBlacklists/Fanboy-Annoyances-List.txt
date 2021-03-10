@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QCHNs4AgDgyJizdzOaWWZA
-! Version: 202103090221
+! Checksum: Z0xuK4znUwYuTR241o1HOw
+! Version: 202103100211
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Mar 2021 02:21 UTC
+! Last modified: 10 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -27056,6 +27056,7 @@ _vpcookieconsent/
 ###mw-cookie-policy
 ###my-cookie__consent
 ###my-cookies-alert
+###myCookieConsent
 ###myCustomCookieLayer
 ###myModalCookieConsent
 ###myModalCookies
@@ -27520,8 +27521,8 @@ _vpcookieconsent/
 ###privacy-popup
 ###privacy-popup-container
 ###privacy-shield
-###privacy-statement:not(.checkbox)
 ###privacy-statement-wrapper
+###privacy-statement:not(.checkbox)
 ###privacy-toast
 ###privacy-update
 ###privacyAndCookieNoticePanel
@@ -33919,6 +33920,7 @@ _vpcookieconsent/
 ##app-cookie-policy
 ##app-cookie-rules
 ##app-cookie-warning
+##app-cookies-banner
 ##app-cookies-consent
 ##app-cookies-policy-updated
 ##app-root app-cookie-acceptance
@@ -41677,6 +41679,8 @@ lifewire.com###button-pinterest-image
 pcmag.com###enhancedsharer
 dailymail.co.uk###floatingShare
 arstechnica.com###follow-us
+yandex.com###shareButton
+yandex.com###shareContent
 dailymail.co.uk###shareCountBottom
 reuters.com##.SocialTool_social-button
 pcgames-download.net##.addthis_toolbox
@@ -42146,6 +42150,7 @@ argaam.com##.argaam-policy
 linkedin.com##.artdeco-global-alert
 leo.org##.as-oil
 businessinsider.com##.as-oil-content-overlay
+activision.com##.atvi-privacy-policy-module
 which.co.uk##.b_g
 chess24.com##.background
 co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,pluralsight.com,securitylab.github.com,usatoday.com##.banner
@@ -43246,7 +43251,7 @@ eprice.it###moveUp
 gazzetta.it###multifunctionBar-container
 callipo.com###nav_up
 sacecomponents.com###neko-to-top
-gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.com,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 distribuzionemoderna.info###nsl
 lasicilia.it###overbox_ticker_newsstand
 it.hisamitsu###pageTop
@@ -44299,7 +44304,7 @@ dueruote.it###segui
 comune.cagliari.it###segui_hp
 termometropolitico.it###seguici
 wikihow.it###sf
-canavesenews.it,gazzetta.it,torinonews24.it###share
+canavesenews.it,gazzetta.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it,torinonews24.it###share
 goodmorningnews.it###short-url
 deejay.it###slider
 autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
@@ -47139,7 +47144,7 @@ vtimes.io#@#.cookies-modal__background
 alko.fi#@#.cookies-open
 diy.com#@#.cookies-policy
 tatilsepeti.com#@#.cookies.active
-milliman.com#@#.cookiesModal
+delhaize.be,milliman.com#@#.cookiesModal
 m.oe24.at#@#.cookiesOverlay2
 m.oe24.at#@#.cookiesOverlay2Box
 hublot.com#@#.cookies_consent-show
@@ -47212,10 +47217,11 @@ litebit.eu#@#div[class*="CookieConsent"]
 telenor.se#@#div[class*="cookie-consent-modal_"]
 ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 dovoba.de#@#div[class^="cookie-consent_"]
+coolblue.be#@#div[class^="cookie-notification_"]
 birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 timeout.com#@#div[data-module="cookie_banner"]
 konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
-facebook.com#@#div[data-testid="cookie-policy-banner"]
+facebook.com,messenger.com#@#div[data-testid="cookie-policy-banner"]
 yoigo.com#@#thor-cookies
 ! *** easylist:fanboy-addon/fanboy_annoyance_allowlist.txt ***
 @@/nk-sub.min.js$script,~third-party
@@ -47284,6 +47290,8 @@ yoigo.com#@#thor-cookies
 @@||reactandshare.com/plugin/rns.js$script
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
+@@||s.swiftypecdn.com/install/$script,domain=docs.ansible.com
+@@||s.swiftypecdn.com^$stylesheet,xmlhttprequest,domain=docs.ansible.com
 @@||sail-horizon.com/scout/*.js?$domain=theblaze.com
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
@@ -47475,6 +47483,7 @@ yoigo.com#@#thor-cookies
 @@||rainews.it/dl/components/js/cookiebanner/$script,xmlhttprequest
 @@||rainews.it^*/cookie.pack.js$script
 @@||raiplayradio.it^*/cookie.pack.js$script
+@@||raisport.rai.it/dl/components/js/cookiebanner/$script,xmlhttprequest
 @@||romagnanoi.it/js/cookiecuttr/jquery.cookiecuttr.js
 @@||s-bol.com/nl/static/js/dev/widgets/cookie_notification
 @@||sephora.pl/eStore-webMaster/js/common/acceptCookies.js$script

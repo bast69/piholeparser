@@ -35,6 +35,7 @@ mine.ubiq.labaleine.gg
 motd.pinion.gg
 music.labaleine.gg
 opskins.gg
+outl00k.mfs.gg
 pebed.dm.gg
 pinion.gg
 plik.root.gg
@@ -52,6 +53,7 @@ wiki.pinion.gg
 www.keyarena.gg
 www.labaleine.gg
 www.loungeangelina.tr.gg
+www.outl00k.mfs.gg
 www.pebed.dm.gg
 www.pinion.gg
 www.sexxx.gg

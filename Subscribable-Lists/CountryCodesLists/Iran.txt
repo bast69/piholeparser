@@ -74,7 +74,6 @@ amirapache.ir
 amlakiranian.ir
 amnandishan.ir
 amniyatgostariranian.ir
-amozesh.esampad.ir
 amozesheshahrvandi.ir
 anakleather.ir
 anaqiz.ir
@@ -375,6 +374,7 @@ copytak.ir
 crdu.shmu.ac.ir
 creditapp-beta.capitalone.bonitor.ir
 crmit.ir
+crmmlm.ir
 cts-alborz.ir
 d-dorbadam.ir
 dadehmohaseb.ir

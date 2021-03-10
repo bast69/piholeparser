@@ -111,6 +111,7 @@ rot.ron.si
 savate-domzale.si
 secure.qp.si
 slikopleskarstvo-fasaderstvo.si
+sm-projekt.si
 stipic-aso.si
 streha-metalko.si
 sukebei.nyaa.si
@@ -136,6 +137,7 @@ www.playboy.si
 www.poker.qp.si
 www.qp.si
 www.ron.si
+www.sm-projekt.si
 www.templates.qp.si
 www.v2.dev.qp.si
 www2.arnes.si
