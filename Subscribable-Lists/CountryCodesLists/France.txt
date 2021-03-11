@@ -1736,7 +1736,6 @@ decitre.fr
 declic.fr
 decouvrirlesdeal.fr
 decoval.fr
-dedicace.radio-ifge.fr
 deesseangelina.free.fr
 defend-paris.fr
 degrif-auto.fr
@@ -4443,6 +4442,7 @@ securty.fr
 sedequa.fr
 sedermaster.fr
 seedstore.fr
+sefinancer.fr
 sefp-boispro.fr
 select001.adtech.fr
 select002.adtech.fr

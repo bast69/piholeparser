@@ -112,6 +112,7 @@ gdi.ws
 gethealthy.ws
 geunperchji.ws
 gibdd.ws
+gladius.ws
 glazebrook.ws
 globalwagering.ws
 glscorp.ws
@@ -238,6 +239,7 @@ savonlinna.ws
 schalen.ws
 secure.runescape.com-applet.ws
 serials.ws
+sether.ws
 sexy-babes.ws
 shopus.ws
 shorten.ws

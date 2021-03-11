@@ -7,6 +7,7 @@ baahiye.so
 bankofamerica.com.libfoobar.so
 bos.so
 caasima.cartantech.so
+curve.so
 daarual-shifa.cartantech.so
 k.5qa.so
 mogadishushippinglines.com.so
@@ -22,6 +23,7 @@ spielothek.so
 tabaarak.so
 thefappening.so
 u870797.nvpn.so
+utrust.so
 www.bos.so
 www.olx-zamowienie.so
 www.olx.so

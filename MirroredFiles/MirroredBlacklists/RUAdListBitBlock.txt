@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r+GDvuq0JyQV2k9y5k+FSw
-! Version: 202103020220
+! Checksum: BPGJg7RIU7vlrtUyFm29tw
+! Version: 202103110220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 02 Mar 2021 02:20 UTC
+! Last modified: 11 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -57,7 +57,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~1gai.ru|~1prime.ru|~animalreader.ru|~animego.org|~brgi1.ru|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomoco.xyz|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinovideo.cc|~kinovideo.tv|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~v-variant.com.ua|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~1gai.ru|~1prime.ru|~animalreader.ru|~animego.org|~brgi1.ru|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinogoo.cc|~kinomoco.xyz|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinovideo.cc|~kinovideo.tv|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~v-variant.com.ua|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -313,6 +313,7 @@ glianec.com#?##col-right > .bl-middle2:-abp-has(> h4:contains(/facebook/))
 imtw.ru###content > .noad1
 gta.com.ua#?##content > div[style] > b:-abp-contains(Поделиться:)
 crimea-news.com###currency
+mashyna.com.ua###custom_html-12
 fit4brain.com###dgd_scrollbox-7840
 penzainform.ru###divInfo .logos16x16
 trashbox.ru###div_social_bottom
@@ -323,6 +324,7 @@ ria.ru###facebook-userbar
 newsinfo.ru###facebox
 homenet.beeline.ru###fast-reply_toolbar_3
 liga.net###fb-comm-block
+soccer.ru###fb_groups
 womanadvice.ru###fb_like_art
 ukrs.com.ua###fblbx
 kurs.com.ua###fixed-left
@@ -388,7 +390,7 @@ miped.ru###side_right > noindex
 zakura.ru###sidebar > .block-dark
 naruto-base.su#?##sidebar > .block:-abp-has(.title:-abp-contains(Мы в Вконтакте))
 kubikhd.ru#?##sidebar > .block:-abp-has(> .blockcontent > noindex > #vk_groups)
-hdseason.xyz#?##sidebar > .block:-abp-has(> .blockcontent img[src^="/social/"])
+boomtv.ru#?##sidebar > .block:-abp-has(> .blockcontent img[src^="/social/"])
 x-minus.in#?##sidebar > .card:-abp-has(> .card-content > .share-vk)
 headinsider.net###sidebar > :not(.blog-mini-widget)
 bitexpert.io###sidebar > div:not([class]) ~ div:not([class])
@@ -410,6 +412,7 @@ aspekty.net###socialStuff
 internetno.net###social_block_top
 rkn.gov.ru###social_btn
 metallurg-nk.ru###social_media_block
+mmo13.ru###social_menu
 glavcom.ua###social_menu > ul > li a
 tverigrad.ru,tverisport.ru###social_menu_buttons
 antivirus.ua###social_place
@@ -431,7 +434,7 @@ google.com###sub-tree-subscriptions
 myparcels.ru###sus-container
 study.ru###tabs_soc_wrap
 pl.com.ua,vesti.uz###telegram
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com###telegram-hdrezka-channel-block
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com###telegram-hdrezka-channel-block
 prokazan.ru###telegram_subscription
 evtifeev.com###text-14
 economics-prorok.com###text-7
@@ -536,7 +539,7 @@ rns.online##.b-popular--social
 disk.yandex.ru##.b-popup-share__content [data-click-action="share.resource"]
 sobaka.ru##.b-post-view__section--social-groups
 sobaka.ru##.b-post-view__share
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__social_holder > div
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-post__social_holder > div
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai#?#.b-projects > .b-projects__grid:-abp-has(> #fb-root)
 utro.ru##.b-repost
 m24.ru##.b-services-menu_footer
@@ -558,7 +561,7 @@ lenta.ru##.b-socials__email
 lenta.ru##.b-socials__sharing > :not(.b-socials__favorite)
 7days.ru##.b-stripe_content_footer-info > .b-stripe
 sobaka.ru##.b-telegram-promo
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tg__wrapper
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-tg__wrapper
 vc.ru##.b-widget-facebook
 vc.ru##.b-widget-vk
 hvylya.net##.b__share--buttons
@@ -641,6 +644,7 @@ price.ua##.community
 alcomarket.ru##.consultant-widget > .messengers
 gamebomb.ru#?#.container > .container-content:-abp-has(> #comments )
 gamebomb.ru##.container-light
+soccer.ru#?#.content > .block:-abp-has(> .content > #fb_groups)
 gre4ka.info##.content > .morelinks
 all-episodes.org##.content > .socbuttons ~ noindex
 gre4ka.info##.content > .tac
@@ -680,6 +684,7 @@ animaunt.org,it-here.ru##.fa-telegram
 it-here.ru##.fa-vk
 www.eg.ru##.fab
 gnatkovsky.com.ua##.fab-action-button
+mashyna.com.ua##.facebook-btn-discussion
 dyvys.info##.facebook-comments-title
 obozrevatel.com##.facebook-follow-pop-from-side
 dengi.ua##.facebook-title
@@ -781,6 +786,7 @@ real-vin.com##.heateor_sss_sharing_container
 humor.fm##.hfm-social-groups
 newstube.ru##.hplayer-socials
 4pda.ru##.huawei-social
+soccer.ru##.hybridauth-widget-wrapper
 polit.info##.icon.share
 polit.info##.icon.vk
 mobiledevice.ru##.icons_bar_placeholder
@@ -1449,7 +1455,7 @@ peterburg2.ru##a[href^="//vk.com/"]
 radiorecord.ru##a[href^="http"][target="_blank"] > span[class^="icon-"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-66.ru,a7d.com.ua,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,book-audio.com,daxshat.site,depo.ua,dni.ru,enovosty.com,fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,itech.co.ua,kino.video,kop.net.ua,livesport.ws,lostfilmstv.com,lrepacks.net,maanimo.com,mk.ru,myslo.ru,newsru.co.il,nn.by,okna.ua,overclockers.ua,pickfilm.ru,poiskvps.ru,pravda.com.ua,privatfinance.com,proagro.com.ua,profidom.com.ua,progolovne.ck.ua,rbc.ua,remontka.pro,rsload.net,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,techtoday.in.ua,veleto.ru,vgolos.com.ua,vixim.ru,zver.uz##a[href^="https://t.me/"]
+66.ru,a7d.com.ua,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,book-audio.com,coop-land.ru,daxshat.site,depo.ua,dni.ru,enovosty.com,fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,itech.co.ua,kino.video,kop.net.ua,livesport.ws,lostfilmstv.com,lrepacks.net,maanimo.com,mk.ru,myslo.ru,newsru.co.il,nn.by,okna.ua,overclockers.ua,pickfilm.ru,poiskvps.ru,pravda.com.ua,privatfinance.com,proagro.com.ua,profidom.com.ua,progolovne.ck.ua,rbc.ua,remontka.pro,rsload.net,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,techtoday.in.ua,veleto.ru,vgolos.com.ua,vixim.ru,zver.uz##a[href^="https://t.me/"]
 orelgrad.ru##a[href^="https://tele.click/"]
 govoritmoskva.ru##a[href^="https://tele.gs/"]
 gazeta.uz##a[href^="https://telegram.me/gazetauz"] > img
@@ -1464,6 +1470,7 @@ bombardir.ru##a[title="Twitter"]:not(.auth-link)
 versii.if.ua##article > .post-bottom-text
 gta-gaming.ru#?#article > .publMain:-abp-has(.ya-share2)
 coop-land.ru##article > .social ~ .center
+coop-land.ru##article > .social ~ .text-center
 coop-land.ru##article > .social ~ center
 ont.by#?#article > p:-abp-has(> a[href^="https://zen.yandex.ru/"])
 mybryansk.ru##article ~ .socShare + h2
@@ -1963,6 +1970,7 @@ _userbar_$image
 ##div[class^="app_gdpr"]
 ##div[data-cookie-notification]
 ##div[id="redim-cookiehint"]
+##form.cookie-modal
 ~date.zahav.ru,~www.zahav.ru##iframe[src*="://date.zahav.ru/iframe.php"]
 ##iframe[src="chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/widget.html"]
 ~dfm.ru,~redfm.ru,~rusradio.ru##marquee
@@ -2324,6 +2332,7 @@ _userbar_$image
 /_fixedPanel.js$script,domain=news.mail.ru
 /_parallax.js$script,domain=news.mail.ru
 /alert.js$script,domain=news.mail.ru
+/control?path=_Common/PayWall&aid=$domain=gd.ru
 /cs-privacy-policy/*$domain=banker.ua
 /forum/new_year/*$script,stylesheet,domain=nnm-club.lib|nnm-club.me|nnmclub.ro|nnmclub.to
 /geo/interesting/news/$domain=rbc.ru|sportrbc.ru
@@ -2784,7 +2793,7 @@ forum-windows.net###ntf
 friday.ru###offers
 kinodema.com###okno[href]
 vk.com###old_browser_wrap
-flashscore.com.ua,flashscore.kz,flashscore.ru###onetrust-consent-sdk
+flashscore.com.ua,flashscore.kz,flashscore.ru,livescore.in###onetrust-consent-sdk
 overclockers.ru#?##otherPageContent > #comments ~ .ui > .column:-abp-has(.divided > .material-near-feed)
 overclockers.ru###otherPageContent > .ui > .column > .divided
 autoclub-cerato.ru###outer_forum
@@ -2934,6 +2943,7 @@ instagram.com##.ZUqME.N9d2H
 novayagazeta.ru##._1npEp
 ngnovoros.ru##._2AzODJM
 novayagazeta.ru##._3I62d.QECK7
+online.sberbank.ru##._3K1DRIKw
 reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 1plus1.video##._opo_-playlist-player-left
 1plus1.video##._opo_-playlist-player-right
@@ -3146,6 +3156,7 @@ translate.google.by,translate.google.com,translate.google.com.ua,translate.googl
 erotix-tv.com##.cssload-loader
 google.by,google.com,google.com.ua,google.kz,google.ru##.ctr-p #prm
 lifeha.ru##.custom-block
+gd.ru##.customer-info-block__coockie
 govoritmoskva.ru##.darkPart > a[href*="/users/bloggers/"]
 obrkarta.ru##.data-banner > #vk
 fb.ru##.deed.is-opened
@@ -3218,6 +3229,7 @@ moya-planeta.ru##.full_object_shop_article_recommend
 kinoservis.net##.fullstory > #blocking
 2kino-2018.club##.fx-row.blocking
 filmpro.ru##.g-custompopup-wrapper
+sundries.com.ua##.g-news
 vedomosti.ru##.gallery__banner
 jufc.ru##.gdpr
 iz.ru##.get_news_link
@@ -3227,6 +3239,7 @@ facenews.ua##.gnews
 fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,pickfilm.ru,veleto.ru,vixim.ru##.go_to_bug
 24tv.ua##.google-news
 bykvu.com##.google-news-block
+24tv.ua##.google-news-link
 topvideo.tj##.google_play
 matchpremier.ru,matchtv.ru,sportbox.ru##.gpm-cookie-accepted
 kinoafisha.info##.grid > .layer-announcement
@@ -3315,7 +3328,7 @@ kinoteatr.ru##.mail_form
 ukranews.com##.mailing-block
 segodnya.ua##.mailing-popup
 cont.ws##.main-click-banner
-sports.ru##.main-footer__top-position
+sports.ru,tribuna.com##.main-footer__top-position
 myjane.ru##.main-subscribe
 overclockers.ru##.main-wrap > .grid.ui > .sixteen.wide.column.container-block
 bdf.ms##.mainContent > div[style^="outline"]
@@ -3447,6 +3460,7 @@ obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
 24tv.ua,football24.ua##.privete-polisy
 moya-planeta.ru##.products_list_full
 friday.ru##.project-slide__footer
+studiohd.org##.promo-bl
 habr.com##.promo-block
 womo.ua##.promo-block-subscribe
 shazoo.ru##.promo-button
@@ -3520,6 +3534,7 @@ lifehacker.ru##.side-banner > .widget_can_fix
 pleer.ru##.side_banner
 nashvancouver.com,sharkgame.ru##.sidebar
 habr.com##.sidebar > .js-sidebar_right > div[class="default-block default-block_sidebar"]:first-child
+online-fix.me##.sidebar > .text-center ~ div[class="sidebar-block"]
 lavnik.net#?#.sidebar > .widget_list_mag_wp_300px:-abp-has(> .img-300 > .Subscribe_button)
 geniusmarketing.me##.sidebar > .widget_search ~ .widget_text
 freakenergy.ru##.sidebar > div > noindex
@@ -3597,7 +3612,7 @@ forklog.com##.terms_popup
 hi-news.ru##.text > p > code.large-text
 lifeha.ru##.textwidget
 molodostivivat.ru##.textwidget > a[href][target="_blank"]
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.tg__info_block_wrapper
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.tg__info_block_wrapper
 vedomosti.ru##.the-header-announce
 efxi.ru##.titleblock
 tmfeed.ru##.tm-megaposts-links
@@ -3633,7 +3648,6 @@ itc.ua##.verticalPageNav
 topvideo.tj##.video-holder > .echo
 24v.tv##.video-rating-wrap
 sports.ru##.video-supertop
-studiohd.org##.video_rekl
 vokrug.tv##.videobomba
 riafan.ru##.videodigest-component
 ok.ru##.videoembed .html5-vpl_logo
@@ -4410,6 +4424,8 @@ myshared.ru#@#.ya-share2_inited
 @@/share42/*$domain=postila.ru
 @@/sharebox.$domain=vk.me
 @@/social-buttons$script,domain=my.mail.ru
+@@/static/share/email.gif|$~third-party,domain=yap.ru|yaplakal.com
+@@/static/share/yap.gif|$~third-party,domain=yap.ru|yaplakal.com
 @@/twitter.svg$domain=ctv7.ru
 @@/wp-content/plugins/wp-minify/min/?f=$stylesheet,~third-party
 @@/youtube.png$domain=metalarea.org|samforum.org
@@ -4915,6 +4931,7 @@ _revotas_push.
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
 ||getback.ch^$third-party
+||getpush.net^$third-party
 ||getpushmonkey.com^$third-party
 ||getsupernova.com^$third-party
 ||gravitec.net^$third-party
@@ -5046,7 +5063,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 -ico-twitter.
 -icon-facebook.
 -icon-fb.
--icon-google-
 -icon-gplus.
 -icon-instagram.
 -icon-linkedin.
@@ -5057,7 +5073,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 -icon_social.
 -iconFacebook.
 -icons/facebook.
--icons/google.
 -icons/twitter.
 -iconTwitter.
 -instagram-128x128.
@@ -5089,14 +5104,12 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 -pinterest-logo.
 -pinterest_icon.
 -pintrest-icon.
--plus_social.
 -redes-facebook.
 -redes-gplus.
 -redes-instagram.
 -redes-pinteres.
 -redes-twitter.
 -redes-youtube.
--share-16.
 -share-bar/
 -share-button.$~xmlhttprequest
 -share-buttons.$~xmlhttprequest
@@ -5268,7 +5281,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /32x32/facebook_
 /32x32/twitter_
 /35x35/facebook.
-/35x35/google.
 /35x35/linkedin.
 /35x35/twitter.
 /45x45xfacebook-ico.
@@ -5352,10 +5364,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /btn-twitter.
 /btn-youtube-
 /btn/follow?
-/btn_facebook.
-/btn_facebook_
 /btn_fb.
-/btn_google_
 /btn_share_
 /btn_social.
 /btn_social_
@@ -5420,10 +5429,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /components/share/*
 /connect-facebook-
 /connect-facebook.
-/connect-google-
-/connect-google.
-/connect-icons-
-/connect-icons_
 /connect-instagram.
 /connect-twitter-
 /connect-twitter.
@@ -5463,16 +5468,12 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /diggButton.
 /dist/share-
 /dk-share.
-/ds_fb2.
 /e-social-
 /e-social.
 /e_social/*
 /e_social_
 /easy-social-share-$script
 /ej-socialslider/*
-/email-icon-
-/email-signup.
-/email_30.
 /email_follow.
 /emailaddthis.
 /emailbutton.
@@ -5507,13 +5508,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /facebook-head.
 /Facebook-Home.
 /facebook-ico.
-/facebook-icon-
-/facebook-icon.
-/facebook-icon_
 /facebook-link2.
-/Facebook-Logo-
-/facebook-logo.
-/facebook-logo2-
 /facebook-over.
 /facebook-page-popup-cadence/*$~stylesheet
 /facebook-pagelike-widget/*
@@ -10421,12 +10416,9 @@ _youtube_social_
 ###subFooterSocial
 ###subheader-social-box
 ###subscribe-and-share
-###subscribe-button
 ###subscribe-facebook
 ###subscribe-icons-2
-###subscribe-options
 ###subscribeSocial
-###subscribe_box
 ###subscribe_under_post
 ###subscribebox-widget-2
 ###subscribebox-widget-3
@@ -15728,6 +15720,7 @@ _youtube_social_
 ##.nextgen-share-tools
 ##.nfy-detail-social-media
 ##.nfy-social-icons
+##.nfy-social-links
 ##.ng-sharekit
 ##.ngs-share-button
 ##.ngs-t-share-button
@@ -16430,6 +16423,7 @@ _youtube_social_
 ##.s_youtube
 ##.saboxplugin-socials
 ##.safirShare
+##.sal-leaf-accessori-sharebox
 ##.save-share
 ##.sb-blog-follow-wrap
 ##.sb-likeshare
@@ -16544,6 +16538,7 @@ _youtube_social_
 ##.share-anchor
 ##.share-and-comments
 ##.share-area
+##.share-art
 ##.share-article
 ##.share-article-button
 ##.share-article-loop
@@ -18854,6 +18849,8 @@ _youtube_social_
 ##.social_blk
 ##.social_bloc
 ##.social_block
+##.social_block--article
+##.social_block--overlay
 ##.social_block_content
 ##.social_blocks
 ##.social_bookmark
@@ -19531,13 +19528,9 @@ _youtube_social_
 ##.subnav-share-news-alert
 ##.subnav-share-news-alert__link
 ##.subpost_share
-##.subscribe-button
-##.subscribe-buttons-container
-##.subscribe-container
 ##.subscribe-follow
 ##.subscribe-option-facebook
 ##.subscribe-option-twitter
-##.subscribe-text
 ##.subscribe-widget
 ##.subscribeSocialTool
 ##.subscribe__social-container
@@ -19550,7 +19543,6 @@ _youtube_social_
 ##.subscribe_icons
 ##.subscribe_tw
 ##.subscribe_twitter
-##.subscribebox
 ##.subsubmenu__share
 ##.sucuri_social_icons_widget
 ##.sumome-image-sharer
@@ -21565,8 +21557,6 @@ base.de#@##social_footer
 ghostery.com#@##social_media
 nextinpact.com#@##socialbar
 arte.tv,lenta.ru#@##socials
-youtube.com#@##subscribe-button
-feedburner.com#@##subscribe-options
 24matins.fr#@##top_share
 socket.io,strim.io,twitter.com#@##tweets
 asian-u.com#@##twitter_button
@@ -21643,8 +21633,9 @@ digg.com#@#.digg-button
 wykophitydnia.pl#@#.diggBox
 digg.com#@#.digg_button
 science-et-vie.com#@#.entry-share
-epaka.pl#@#.fa-facebook
-teslarati.com#@#.fa-facebook-square
+epaka.pl,fontawesome.com#@#.fa-facebook
+fontawesome.com,teslarati.com#@#.fa-facebook-square
+fontawesome.com#@#.fa-rss
 insomnia.gr#@#.fa-share
 hackmd.io,qrdesign.net#@#.fa-share-alt
 bitbucket.org,ebuddy.com,etoro.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
@@ -21661,7 +21652,7 @@ okcupid.com,quora.com,rdio.com,ticketabc.com#@#.facebook_button
 jappy.de#@#.facebookbutton
 academia.edu,twitter.com#@#.fb-btn
 airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
-marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container
+foxbit.com.br,marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container
 flugzeugbilder.de,kizlarsoruyor.com#@#.fb-content
 google.com#@#.fb-dialog
 flugzeugbilder.de#@#.fb-footer
@@ -21917,7 +21908,7 @@ gallerix.asia,gallerix.org#@#.social-tumblr
 4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 medialeaks.ru#@#.social-widgets
 bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-chess-online.com,dreuz.info,etoro.com,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
+chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
 coub.com#@#.socialBlock
 runescape.com,study.163.com#@#.socialBox
 ceneo.pl,showmax.com#@#.socialBtns
@@ -21968,9 +21959,6 @@ listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 streetsblog.org,thinkprogress.org#@#.sticky-share
 stumbleupon.com#@#.stumble-button
-amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,last.fm,reddit.com,rutube.ru,skeptikon.fr,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
-fewo-direkt.de,nvidia.pl#@#.subscribe-container
-nvidia.pl#@#.subscribe-text
 first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
 twitch.tv#@#.tw-icon
 twitch.tv#@#.tw-share
@@ -22193,6 +22181,8 @@ digg.com#@#div[id^="digg-widget-"]
 @@||clubbingtv.com/module/opensocialconnect/static/image/linkedin.png
 @@||clubs.nfl.com/nfl-assets/js/social-buttons.js
 @@||cnn.com/cnnnext/*-social-$image
+@@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js$~third-party
+@@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/SocialShare.min.js$~third-party
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
 @@||corrupt-a-file.net/assets/images/icons/google-drive_$image,~third-party
@@ -22814,11 +22804,8 @@ digg.com#@#div[id^="digg-widget-"]
 /getnetworkwidget?
 /headsoc.
 /horizon/recommend?
-/icon-blog-
-/icon-bm-32-
 /icon-flavors-me-
 /icon-print-friendly-$third-party
-/icon_reader_
 /identica.png
 /interstitial.js
 /interstitial_overlay*.js
@@ -22853,7 +22840,6 @@ digg.com#@#div[id^="digg-widget-"]
 /plugins/wordpress-popup/*$~stylesheet
 /plugins/wp-emailfeedburnerpop/*
 /plugins/wp-greet-box/*$~stylesheet
-/popup_do_
 /popupally-pro-scripts/*$script
 /pubExchange.min.js
 /recommend.php$subdocument,~third-party
@@ -22894,7 +22880,6 @@ digg.com#@#div[id^="digg-widget-"]
 /wp-content/plugins/vto_plus/*
 /wp-snow-effect-pro/*
 /wp-snow-effect/*
-/yammer_16.
 ! sounds
 /popup-builder/public/sound/*
 ! Taboola
@@ -22934,7 +22919,6 @@ digg.com#@#div[id^="digg-widget-"]
 -newsletter-popup.
 -newsletter-subscription-
 -newsletter/popup/
--newsletter1.
 -newsletter_signup.
 -newsletterwidget-
 -newsletterwidget.
@@ -23080,9 +23064,7 @@ digg.com#@#div[id^="digg-widget-"]
 /newsletter/style.
 /newsletter/subscriber/*
 /newsletter/subscription/*
-/newsletter1.
 /newsletter2011_
-/Newsletter3.
 /newsletter_arrow.
 /newsletter_background_
 /newsletter_banner.
@@ -23207,8 +23189,6 @@ _subscribers_newsletters/
 /btnRSS.
 /bulle_rss.
 /buttons/rss_
-/ct_rss.
-/f_rss.
 /feed-16x16.
 /feed-icon-
 /feed-rss.
@@ -23555,7 +23535,6 @@ _backToTop.
 ###hellobar-wrapper
 ###hellobar_container
 ###im-pop-under
-###jBar
 ###jBarRetract
 ###jPopUp
 ###janrain-botcap
@@ -23589,15 +23568,12 @@ _backToTop.
 ###oneSignalBell
 ###onesignal-bell-container
 ###onesignal-popover-container
-###openshare
 ###orkut-button
 ###ouibounce-modal
 ###page-end-slidebox
 ###persistNotif
 ###phxtags-belowcontent
 ###piano_bottom_ribbon_wrapper
-###pmocntr2
-###popup-box-sxzw-1
 ###popupad-fixed
 ###post-fly-in
 ###posterous_footerbar
@@ -23625,10 +23601,8 @@ _backToTop.
 ###sharetools-email-form
 ###sidebar_connect_tw
 ###simplereach-slide-element
-###social_mail
 ###splash-page-backdrop
 ###splash-page-content
-###stFB
 ###stay_connected_float
 ###storyFeednext
 ###storyFeedprev
@@ -23639,22 +23613,15 @@ _backToTop.
 ###sumotest-badge
 ###survey_overlay
 ###thim-related-post-popup
-###toolboxDiv1
 ###topjobssidebar
-###tw_ico
 ###uatu-recommendations
-###unb-bar
-###upprev_box
 ###uservoice-feedback
 ###uservoice-feedback-tab
-###usrFeedbackButton
-###vspopup-overlay
 ###webklipper-publisher-widget-container
 ###webklipper-publisher-widget-container-content
 ###welcome-popup-box
 ###welcome-popup-overlay
 ###widget_detail_postlinks
-###wnb-bar
 ###wpd-bubble-wrapper
 ###wpfront-notification-bar-spacer
 ###wpl-likebox
@@ -23683,7 +23650,6 @@ _backToTop.
 ##.aptureTMMBar
 ##.article-next-sticky
 ##.articles-recirculation
-##.asset-paging-container
 ##.avia-post-nav
 ##.background-email-popup
 ##.bbccom_text
@@ -23693,7 +23659,6 @@ _backToTop.
 ##.block-simplenews
 ##.bookmark_services
 ##.bottom-nolink__social
-##.button-feed
 ##.cactus-post-suggestion
 ##.cb_ads
 ##.cfsnip-widget
@@ -23722,10 +23687,8 @@ _backToTop.
 ##.feedburner-email-subscription
 ##.feedburner-subscribe
 ##.feedburnerFeedBlock
-##.feedlink
 ##.findnsave_combo
 ##.fixed-connect
-##.fixshare
 ##.floating-podcast
 ##.floatingfeedback
 ##.flyInContent
@@ -23742,14 +23705,8 @@ _backToTop.
 ##.genericon-feed
 ##.gt-popup
 ##.home-twitterfeed
-##.ibbsub
-##.icn-fbuk
-##.icn-ggl
 ##.ico-livejournal
 ##.icomoon-feed
-##.icon-feed
-##.icon-feed-white
-##.icon-feed2
 ##.icon-icons_email-share
 ##.icon-icons_email-top-share
 ##.icon-social-mail-circle
@@ -23765,7 +23722,6 @@ _backToTop.
 ##.loggedout-follow-typekit
 ##.m-pubex
 ##.mbt-bookmark
-##.meebo-1
 ##.mod-sharing-margin
 ##.mod-simplyhired
 ##.module--next-story-slideout
@@ -23783,12 +23739,10 @@ _backToTop.
 ##.nrelate_flyout
 ##.ntfc_overlay
 ##.ntfc_popup
-##.om-has-email
 ##.omniWidget-article-signup-large
 ##.one-signal-bell
 ##.onesignal-bell-container
 ##.onesignal-customlink-container
-##.oo_tab_right
 ##.opinionlab-sidebar
 ##.overlay-content-arrows
 ##.overlay-content-promotion
@@ -23808,7 +23762,6 @@ _backToTop.
 ##.preview-feedback-button
 ##.previous-next-links
 ##.pubexchange_module
-##.publishToStatus
 ##.qanda-button-launch
 ##.qs-article_widget
 ##.quick-share
@@ -23819,10 +23772,8 @@ _backToTop.
 ##.recommended-flyout-wrap
 ##.rhs_cxense
 ##.sailthruRecommendation
-##.scribol
 ##.share-after-content-email
 ##.share-button-email
-##.share-viamail
 ##.sharing-printing
 ##.single_like_box
 ##.singlepost-like
@@ -23838,8 +23789,6 @@ _backToTop.
 ##.sodeviantart
 ##.sphinn-button-single
 ##.spot-im-brand
-##.sprite_feed
-##.sprites-xing
 ##.st_email_custom
 ##.station-promo-mrec
 ##.stico_default
@@ -23908,7 +23857,6 @@ _backToTop.
 ##div[id^="smi2adblock_"]
 ##div[id^="smi_teaser_"]
 ##form[action="http://feedburner.google.com/fb/a/mailverify"]
-##foxfield-xmas
 ##img[alt="Add to Google"]
 ##img[alt="Add to Live Alerts"]
 ##img[alt="Add to Mixx!"]
@@ -24000,7 +23948,6 @@ _backToTop.
 ###taboola_wrapper
 ##.classic-type-taboola-below-desktop
 ##.divider-taboola
-##.gnt_tb
 ##.js-taboola
 ##.m-article-taboola
 ##.ody-ob-taboola-wrapper
@@ -25465,6 +25412,7 @@ _backToTop.
 ##.newsletter-sign-up-popup
 ##.newsletter-sign-up-popup-mask
 ##.newsletter-signup
+##.newsletter-signup--homepage
 ##.newsletter-signup-article-wrapper
 ##.newsletter-signup-bait
 ##.newsletter-signup-bar-container
@@ -25491,6 +25439,7 @@ _backToTop.
 ##.newsletter-signup-wrap
 ##.newsletter-signup-wrapper
 ##.newsletter-signup2
+##.newsletter-signup__container
 ##.newsletter-signup__popup-bg
 ##.newsletter-simple
 ##.newsletter-slideout
@@ -26086,7 +26035,6 @@ _backToTop.
 ##.yel-popup-main-wrapper
 ##.yt-mailchimp-subscription-form-widget
 ##GANNETT-ATOMS-COMPONENT-NEWSLETTER-CTA
-##GET-SUBSCRIBERS
 ##[class^="NewsletterSubscribe"]
 ##[data-module="newsletter-signup"]
 ##[data-target="#newsletter-modal"]
@@ -27287,6 +27235,7 @@ _backToTop.
 ||jobvite.com/widget20.js$third-party
 ||js.brow.si^$third-party
 ||jugglu.com^$third-party
+||justanswer.com^$third-party
 ||kaango.com/feCustomWidgetDisplay/$third-party
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
@@ -27563,7 +27512,7 @@ wecollect.ch#@##subscribe_email
 techopedia.com,vivoplay.net#@##subscriptionModal
 blaklader.se,blaklader.uk,chansluts.com#@##to-the-top
 57reshotel.it,radiogra.pl#@##to-top
-bezahlen.de,stern.de#@##toTop
+bezahlen.de,iaa.gov.il,stern.de#@##toTop
 uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
@@ -27702,6 +27651,8 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||reactandshare.com/plugin/rns.js$script
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
+@@||s.swiftypecdn.com/install/$script,domain=docs.ansible.com
+@@||s.swiftypecdn.com^$stylesheet,xmlhttprequest,domain=docs.ansible.com
 @@||sail-horizon.com/scout/*.js?$domain=theblaze.com
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party

@@ -329,6 +329,7 @@ sxcdn06.now.sh
 sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn6.now.sh
+transfer.sh
 turnsocial.now.sh
 updata.sh
 upload.jav.sh

@@ -5,14 +5,17 @@ alimpses.im
 amityadav.im
 annig.im
 api-2-0.spot.im
+aragon.im
 askfm.im
 avlto.im
 bix.im
+bluzelle.im
 cadastroagoravai.thats.im
 chaji.im
 chohan.im
 click.onesoft.im
 colosao.im
+contribute-status.im
 count.im
 cp.us.na.cloud.im
 csgojackpot.im
@@ -31,6 +34,7 @@ feed.engage.im
 ff.im
 frankos.im
 gadere.im
+gladius.im
 gonzo.im
 hades.getsocial.im
 helsa.im
@@ -43,8 +47,10 @@ jeu.im
 jeux.im
 khh.im
 macstimess.im
+metalpay.im
 metrics-logger.spot.im
 midnight.im
+myetherwallet.com.im
 ogonotro.im
 onlike.ro.im
 oqnrkojahy.im
@@ -66,6 +72,7 @@ sn.im
 soad.im
 spot.im
 srv1.ricin.im
+statustoken.im
 subscribe.im
 suportte.im
 survivor.thats.im

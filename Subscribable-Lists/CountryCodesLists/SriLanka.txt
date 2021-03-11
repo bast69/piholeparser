@@ -8,6 +8,7 @@ artra.lk
 arugamlanka.lk
 asialankatravels.lk
 axisca.lk
+beta.itslanka.lk
 bibile.ps.gov.lk
 birdx.lk
 blog.duino.lk
@@ -54,6 +55,7 @@ imperial.lk
 infomatum.lk
 interfaith.lk
 ircsl.gov.lk
+itslanka.lk
 jkdca.lk
 justkidding.lk
 kandyleisure.lk
@@ -63,6 +65,7 @@ khanqahzakariya.lk
 kotahenacc.sch.lk
 lankasugar.lk
 lvision.lk
+m.itslanka.lk
 magento.lk
 manjulahandapangoda.lk
 mapiyawandana.lk
@@ -101,6 +104,7 @@ themotivator.lk
 tmgomas.lk
 twcorp.lk
 uniqueacademy.lk
+v1.itslanka.lk
 virusara.gov.lk
 vjcon.lk
 wasanacare.lk

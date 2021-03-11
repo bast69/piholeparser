@@ -206,6 +206,7 @@ bugetareparticipativa.primariaarad.ro
 bursaforex.home.ro
 bus4rent.ro
 business.dropbox.okamotocorp.sportsmag.ro
+business.softberg.ro
 businessmark-events.ro
 buylevitra.3xforum.ro
 buypc.ro
@@ -490,7 +491,6 @@ hitx.statistics.ro
 homie.ro
 hotel-mures.ro
 hotelimperium.go.ro
-hotelmarissa.ro
 hotelmm.ro
 hotnews.count.brat-online.ro
 howto.indecosoft.ro
@@ -620,6 +620,7 @@ mbctrans.3x.ro
 media.agentiecasting.ro
 mediadvertising.ro
 medicalmarketing.ro
+medicine.softberg.ro
 mediere-croma.ro
 meditur.ro
 mega-clean.ro
@@ -989,6 +990,7 @@ termodan.ro
 terrabit.ro
 testari-online.ro
 textad.traficdublu.ro
+textile.softberg.ro
 thebagshop.ro
 theorematravel.ro
 theprestige.ro
@@ -1121,6 +1123,7 @@ www.jbe.ro
 www.joinfree.ro
 www.loto.ro
 www.matrimoniale3x.ro
+www.mokarico.ro
 www.nikos-service.ro
 www.onechicjoy.blogspot.ro
 www.paidclick.ro

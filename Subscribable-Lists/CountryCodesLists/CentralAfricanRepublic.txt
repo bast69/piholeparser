@@ -312,6 +312,7 @@ bigdrives.cf
 bijo-style.cf
 binm.cf
 biology-71.cf
+bittrex.com11648724328774.cf
 bjsdja.cf
 bksantosh.cf
 blockchains.cf
@@ -939,6 +940,7 @@ hurdfloorinmi.cf
 i-cloud-log-in.cf
 ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 iccornacircri.cf
+iconexus.cf
 idec-sociiety-cosmos.cf
 identiity--okmarks.cf
 identiitysociiety.cf

@@ -5,6 +5,8 @@
 0ba7bb7e.ngrok.io
 0c1a332a.ngrok.io
 0nf91.codesandbox.io
+0xproject.io
+0xtoken.io
 1.top4top.io
 13ada143b0e1.ngrok.io
 15ftv.codesandbox.io
@@ -271,6 +273,7 @@ alloy-api.luckypool.io
 alloy.luckypool.io
 alma-cmp.almamedia.io
 alphonso.us-east-1.stinger-ad.bidr.io
+alrswap.io
 amer01.sp.backtrace.io
 amer02.sp.backtrace.io
 amerisleep.github.io
@@ -411,6 +414,7 @@ april-js.github.io
 aprod.scopely.io
 aqcr8bp0gud-3vqcr8bp0gudandlc103andid6485andmkten-usandcbcxta.pantheonsite.io
 aqt.adalliance.io
+aragonproject.io
 aras008-48301.portmap.io
 archive.adjust.io
 arlive.io
@@ -523,10 +527,12 @@ bitc.youpool.io
 bitcash.luckypool.io
 bitcoadz.io
 bitcoinlifestyle.io
+bitcoinsilver.io
 bitcoinup.io
 bitcoinz.miningpool.io
 bitcolony.io
 bitcore.io
+bitj0b.io
 bitmedia.io
 bitminer.io
 bitnex.io
@@ -538,6 +544,7 @@ blackstorm-api.keen.io
 blinkxevent.1rx.io
 blisspoint.us-east-1.stinger-ad.bidr.io
 blisspoint.us-west-2.stinger-ad.bidr.io
+block-v.io
 blog.br0vvnn.io
 blog.intelliservices.io
 blog.intercom.io
@@ -555,6 +562,7 @@ boolberry.luckypool.io
 box.adalliance.io
 branch.io
 brandless.extole.io
+bricklblock.io
 brony.dnb.io
 brpx.io
 bryfar4sd.github.io
@@ -587,6 +595,7 @@ c9f44961.ngrok.io
 ca1.metrics.backtrace.io
 caliber.luckypool.io
 calq.io
+canay.io
 canddi.io
 candid.io
 cannaworld.io
@@ -637,6 +646,7 @@ ce22ffb7.ngrok.io
 ce7428c103ad.ngrok.io
 cem.hotelsapi.io
 chaintime.epool.io
+change-bank.io
 chaseonline.io
 chatterbate.io
 cheatsheet-api.keen.io
@@ -672,6 +682,7 @@ clvk.viki.io
 cmm.vpool.io
 cmp.optad360.io
 cnv.event.prod.bidr.io
+cobinhood.io
 cockpit.ubiqpool.io
 codework.business24crm.io
 cogitat.io
@@ -732,6 +743,7 @@ cryweb.github.io
 crywebber.github.io
 cs.keen.io
 cubby10.github.io
+curvefi.io
 cusors.io
 custom-iyj6.frb.io
 custom-kvbo.frb.io
@@ -824,9 +836,11 @@ dicks-sporting-goods.pxf.io
 dil.hansel.io
 dimml.io
 dirdo.io
+district-0x.io
 districtm.io
 ditcoin.io
 djvii.codesandbox.io
+dmarkt.io
 dmat-dmatw.c9users.io
 dmitrovna.github.io
 dmp.starbolt.io
@@ -883,6 +897,7 @@ eladkarako.github.io
 electronero.easyhash.io
 electroneum.easyhash.io
 electroneum.uax.io
+elherdelta.io
 ella.epool.io
 elongive.io
 email.branch.io
@@ -896,6 +911,7 @@ encrypt.branch.io
 engine.voodoo-ads.io
 engineering.intercom.io
 english315portal.endlesss.io
+enijncoin.io
 env-3421506.cloud-fr1.unispace.io
 eosgas.io
 epicycle.aprod.scopely.io
@@ -910,8 +926,20 @@ eth.waterhole.io
 ethc.epool.io
 ethdrop.io
 ether.hashflare.io
+etherdelta.gilthub.io
+etherdelta.githulb.io
+etherdelta.gitlhub.io
+etherdelta.gitnub.io
+etherdelta.glthub.io
+ethereum.io
+etherume.io
+etherwallet.io
 ethn.io
 ethonline.io
+ethrdelta.github.io
+ethscan.io
+ethtrade.io
+etiam.io
 etn-api.uax.io
 etn-nicehash.easyhash.io
 etn.easyhash.io
@@ -919,6 +947,8 @@ etn.luckypool.io
 etn.uax.io
 etn2-api.uax.io
 etn2.uax.io
+etnerparty.io
+etnerscan.io
 etnpool.minekitten.io
 etnx.easyhash.io
 etp.comining.io
@@ -1060,7 +1090,9 @@ game.flygame.io
 gametorrents.io
 gap.extole.io
 gardenoflife.extole.io
+gatcoins.io
 gator.io
+gatscoin.io
 gbsicl43-android.mobile-sdk-api.intercom.io
 gbsicl43-ios.mobile-sdk-api.intercom.io
 gcelb.lytics.io
@@ -1160,6 +1192,7 @@ hello.adalliance.io
 hellotech.io
 henri-bendel.extole.io
 hentaimama.io
+herotokens.io
 hex.io
 hexagram.rtk.io
 hexamining.io
@@ -1193,9 +1226,12 @@ i.top4top.io
 i905c.codesandbox.io
 iapi.uax.io
 icg.io
+ico-telegram.io
 ico.ditcoin.io
 ico.lydian.io
+ico.worldofbattles.io
 icoindna.io
+iconfoundation.io
 ict-help-desk.webflow.io
 id.districtm.io
 idoor.io
@@ -1317,6 +1353,8 @@ krb.youpool.io
 krews.io
 krx.luckypool.io
 kvideo.io
+kvnuke.github.io
+kybernetwork.io
 kzmrgubj-ios.mobile-sdk-api.intercom.io
 l-v1.presage.io
 l-v1.prod.cloud.ogury.io
@@ -1433,13 +1471,14 @@ mediasmart.io
 meerai.io
 meeting-23900123090123.bitbucket.io
 messenger-apps.intercom.io
+metamak.io
 metric.cliphub.io
 metrics.backtrace.io
 metrics.getvitals.io
-metrics.lfanalytics.io
 metrics.readme.io
 metrics01.linode-ca1.backtrace.io
 metrics01.linode-de1.backtrace.io
+mettamask.io
 mew.epool.io
 mewapi.epool.io
 miecompany.8b.io
@@ -1497,6 +1536,7 @@ my-deltaplan.github.io
 my.hashflare.io
 my.offerbox.io
 myetherwaliet.io
+myethwallet.io
 myheritage.extole.io
 mystore.bttn.io
 mytikas.servers.lair.io
@@ -1583,6 +1623,7 @@ olivegarden.extole.io
 olx-zamowienie.io
 olx.order-pl.io
 omb.luckypool.io
+omise-go.io
 one-jj.github.io
 onlinebanking-bankofamerica-com.cleverapps.io
 onthe.io
@@ -1692,6 +1733,7 @@ portaltransaccionalclavedinamicaseguridadbancaria.burrow.io
 postepay.io
 pottery-barn-kids.extole.io
 pottery-barn.extole.io
+powrledger.io
 pox23.io
 pp.lp4.io
 pp.uax.io
@@ -1705,6 +1747,7 @@ prebid.admp.io
 prebid.emoteev.io
 presage.io
 priunceuf87fiv89ty0p-v977g98gt97.imfast.io
+privatex.io
 privcoin.io
 privnote.io
 prod-adidas.instana.io
@@ -1750,6 +1793,7 @@ px.marchex.io
 pxc.dnb.io
 pxlad.io
 pyrex.youpool.io
+pyro0.github.io
 q719k.codesandbox.io
 qhemp.io
 qmo4f3sd-android.mobile-sdk-api.intercom.io
@@ -1773,6 +1817,7 @@ re-confirm-paypallaccount.c9users.io
 re5afjv3-android.mobile-sdk-api.intercom.io
 react-ba2roi.stackblitz.io
 readalert-bofanews.c9users.io
+real-markets.io
 red-js.github.io
 redirect.dable.io
 redis.adjust.io
@@ -1850,6 +1895,7 @@ safex.luckypool.io
 safex.youpool.io
 sagent.io
 sal.aws.branch.io
+sale.canay.io
 saltco.io
 samba.us-east-1.stinger-ad.bidr.io
 samba.us-west-2.stinger-ad.bidr.io
@@ -1908,7 +1954,12 @@ setup.instana.io
 sfo.thor.rtk.io
 sg8tsj6r-ios.mobile-sdk-api.intercom.io
 sged6gdg-ios.mobile-sdk-api.intercom.io
+shape-shift.io
+shapeshiff.io
+shapeshifth.io
+shapesshift.io
 shapez.gameads.io
+shapishift.io
 share.chamaileon.io
 sharebutton.io
 shark-clean.extole.io
@@ -2015,6 +2066,7 @@ stl.uax.io
 storage.ipbc.io
 store.intercom.io
 storetail.io
+stormtokens.io
 str8-creative.io
 strat.dnb.io
 stratum.mining-pool.io
@@ -2087,6 +2139,8 @@ techhome-js.github.io
 telemetry.api.wmcdp.io
 teletype.internal.intercom.io
 tend.io
+tenxpay.io
+tenxwallet.io
 terraform-modules-test.intercom.io
 test-vokate.qa.extole.io
 test-xhv.luckypool.io
@@ -2116,6 +2170,8 @@ tiku.io
 tk.storetail.io
 tkx29.codesandbox.io
 tokensale.lydian.io
+tomo-coin.io
+tomocoln.io
 tous-jewelry.extole.io
 tpq74.codesandbox.io
 tqte0.codesandbox.io
@@ -2201,6 +2257,7 @@ undm.io
 uni.swap-v2.io
 unimodemhalfduplefw.pen.io
 uniqlo.extole.io
+unlversa.io
 unreal.backtrace.io
 unreal01.linode-ca1.backtrace.io
 unreal01.linode-de1.backtrace.io
@@ -2219,6 +2276,7 @@ ur93pklmrzha.ingest.sentry.io
 ur93pklmrzha.sentry.io
 url.io
 url5854.we-connect.io
+urtust.io
 us-api.mimecast.com.kb4.io
 us-east-1.bid.bidr.io
 us-east-1.event.prod.bidr.io
@@ -2278,6 +2336,7 @@ viewphoto.io
 vieww.codesandbox.io
 vincecamuto.extole.io
 visionsfcu.extole.io
+vlberate.io
 vokate.lo.extole.io
 vokate.qa.extole.io
 voodoo-ads.io
@@ -2326,6 +2385,7 @@ wisedmedia.stinger-ad.bidr.io
 wjc6gt6n-android.mobile-sdk-api.intercom.io
 wmwyl.codesandbox.io
 woody.intercom.io
+worldofbattles.io
 wow.luckypool.io
 wownero.luckypool.io
 wp.ipbc.io
@@ -2622,6 +2682,7 @@ xmr.waterhole.io
 xmv.easyhash.io
 xmv.luckypool.io
 xmx.luckypool.io
+xn--enjncoin-41a.io
 xn--exods-nva.io
 xn--gar-hla.io
 xn--www-xodus-e4a.io
@@ -2649,9 +2710,11 @@ z5pf6.codesandbox.io
 zbk.luckypool.io
 zbucks.luckypool.io
 zec.waterhole.io
+zeepln.io
 zentral.aws.branch.io
 zfg5qvsk-android.mobile-sdk-api.intercom.io
 zgz5b.codesandbox.io
+ziber.io
 zielonatravel.io
 zion.api.cnn.io
 zipcar.extole.io

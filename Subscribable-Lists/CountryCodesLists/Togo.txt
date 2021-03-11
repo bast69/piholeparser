@@ -5,6 +5,5 @@ haactogo.tg
 laposte.tg
 lesconcurrents.tg
 nunyalab.tg
-sproca.tg
 valeurscitoyennes.tg
 woelab.tg

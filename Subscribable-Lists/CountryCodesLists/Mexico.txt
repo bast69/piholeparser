@@ -321,7 +321,6 @@ eventosvallarta.com.mx
 evolucionmexicana.com.mx
 exagono.com.mx
 explosivosdecampeche.com.mx
-expresionesguerrero.com.mx
 expressface.mx
 f1maintenance.galaxyweb.mx
 facebook-login-security-customer-support-ticket-53597.solucionescovid19.mx
@@ -831,6 +830,7 @@ screenmax.mx
 sealeph.com.mx
 sec42.edu.mx
 seccion2ctm.com.mx
+security-steemit.com.mx
 sedesol.sedesol.gob.mx
 segob.gob.mx
 servermx20.com.mx
@@ -865,6 +865,7 @@ solartec.mx
 solojuegos.com.mx
 solucionesgrhydch.com.mx
 solucionesinformaticas.com.mx
+somir.com.mx
 sonnica.com.mx
 sonoraturismo.gob.mx
 soporte-apple.mx

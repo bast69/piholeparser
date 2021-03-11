@@ -28,6 +28,7 @@ cemsenik.qp.si
 chatroulette.si
 cookies.qp.si
 crnivrh.si
+curve.si
 cvzu-dolenjska.si
 damjanmozetic.si
 dbresorts.si

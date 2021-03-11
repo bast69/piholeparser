@@ -743,6 +743,7 @@ bibliadarkorbit.za.pl
 bibliotekakuslin.pl
 bieda.ewan.pl
 biedronaa.5v.pl
+biedronka2020x1room.pl
 biegamyzochota.pl
 biegostojazwierzat.pl
 bielmlek.com.pl
@@ -804,6 +805,7 @@ bmstudiourody.pl
 bobopstryk.pl
 bodegassantarufina.pl
 bodykarma.pl
+bodymindclinic.pl
 boherlex.com.pl
 bok-poczta.pl
 boksy.dir.onet.pl
@@ -3018,6 +3020,7 @@ inpostpaczka.pl
 insidegarage.pl
 inspektorzyzieleni.pl
 inssep.pl
+instagarm.pl
 instaqram.5v.pl
 instastory.pl
 instytut-pomocy.pl
@@ -4788,6 +4791,7 @@ pay-olxdostawa.pl
 pay.coinmine.pl
 pay.mobiltek.pl
 pay01-olx.pl
+pay02-olx.pl
 pay04-olx.pl
 pay05-olx.pl
 pay06-olx.pl
@@ -6032,6 +6036,7 @@ sklep.agrochlopecki.pl
 sklep.bactotech.pl
 sklep.dagma.pl
 sklep.mzuri.pl
+sklep.omax.pl
 sklep.phumaria.pl
 sklep466452.shoparena.pl
 skleplara.pl
@@ -7072,6 +7077,7 @@ wiktorek140.cba.pl
 wiktoriamila.pl
 wilanowskibiegkrolewski.pl
 wildent.pl
+wilkiewicz.pl
 willa-beskidek.pl
 willa-marina.pl
 willacesarz.pl
@@ -7430,6 +7436,7 @@ www.bgconsulting.pl
 www.bhpipoz.pl
 www.biakon.com.pl
 www.bialystok.straz.bialystok.pl
+www.biedronka2020x1room.pl
 www.biegostojazwierzat.pl
 www.bielpak.pl
 www.bifrost.pl
@@ -8292,6 +8299,7 @@ www.innsat.pl
 www.inpost-mobile.pl
 www.inposta.pl
 www.inspektorzyzieleni.pl
+www.instagarm.pl
 www.instastory.pl
 www.instytut-pomocy.pl
 www.instytutmed.pl
@@ -9073,6 +9081,7 @@ www.paweljuros.pl
 www.pawimex.com.pl
 www.pay-olxdostawa.pl
 www.pay01-olx.pl
+www.pay02-olx.pl
 www.pay04-olx.pl
 www.pay05-olx.pl
 www.pay06-olx.pl
@@ -10050,6 +10059,7 @@ www.wiktorek140.cba.pl
 www.wiktoriamila.pl
 www.wilanowskibiegkrolewski.pl
 www.wildent.pl
+www.wilkiewicz.pl
 www.willa-marina.pl
 www.willapawelpogorzelica.pl
 www.wimaj.pl

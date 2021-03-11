@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z0xuK4znUwYuTR241o1HOw
-! Version: 202103100211
+! Checksum: idAKGX6HKnKyx4La/wP/dg
+! Version: 202103110211
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Mar 2021 02:11 UTC
+! Last modified: 11 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16984,6 +16984,7 @@ _vpcookieconsent/
 ##.s_youtube
 ##.saboxplugin-socials
 ##.safirShare
+##.sal-leaf-accessori-sharebox
 ##.save-share
 ##.sb-blog-follow-wrap
 ##.sb-likeshare
@@ -26950,6 +26951,7 @@ _vpcookieconsent/
 ###mixcookies
 ###mj-cookie-consent
 ###mk-cookie
+###mkCookieBar-bar
 ###mktg_Cookie
 ###mktg_Cookie_Wrap
 ###mktzr_cookie_policy
@@ -34396,6 +34398,7 @@ _vpcookieconsent/
 ||jobvite.com/widget20.js$third-party
 ||js.brow.si^$third-party
 ||jugglu.com^$third-party
+||justanswer.com^$third-party
 ||kaango.com/feCustomWidgetDisplay/$third-party
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
@@ -39424,7 +39427,7 @@ sassyhongkong.com,sassymanila.com##.entry-subscribe
 livemint.com##.epaperCard
 londonreal.tv##.episode-overlay
 americanlookout.com##.essbasc-popup
-techradar.com##.exit-intent
+livescience.com,techradar.com##.exit-intent
 economist.com##.exit-pop
 jornaldacidadeonline.com.br##.exit-screen
 online-convert.com,pdf2go.com,rt.com##.extension-browser
@@ -47359,6 +47362,8 @@ yoigo.com#@#thor-cookies
 @@||cookielaw.org/consent/cmp.stub.js$domain=reuters.com
 @@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cbsnews.com|cnet.com|epicgames.com|eurogamer.net|gmx.com|gq-magazine.co.uk|popculture.com|reuters.com|rte.ie|trustpilot.com|tvn24.pl|wargaming.net|zdnet.com
 @@||cookielawinfo.com^$~third-party
+@@||cookiepro.com/consent/$xmlhttprequest,domain=softgames.com
+@@||cookiepro.com/scripttemplates/$script,xmlhttprequest,domain=softgames.com
 @@||cookist.com^*/remote-gdpr.min.js
 @@||costa.co.uk/js/libs/cookieconsent.min.js
 @@||defense.gouv.fr/lib/tarteaucitron/$~third-party
@@ -47408,7 +47413,7 @@ yoigo.com#@#thor-cookies
 @@||policy.app.cookieinformation.com^$script,domain=eniro.se
 @@||porno720.pl/core/js/cookieinfo.js
 @@||portal.aae.at/changeportal/js/lib/cookieconsent.js$script,~third-party
-@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|einthusan.tv|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|laptopmag.com|livescience.com|livingetc.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|einthusan.tv|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|laptopmag.com|livescience.com|livingetc.com|mahjong.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
 @@||riwal.com/includes/js/components/cookiebar.js$script
 @@||santepubliquefrance.fr/rgpd/smarttag.js$script,~third-party
 @@||sdk.privacy-center.org^$script,domain=allocine.fr|corrieredellosport.it|franceculture.fr|franceinter.fr|gamestar.de|ivoox.com|lavanguardia.com|mundodeportivo.com|tuttosport.com
@@ -47648,6 +47653,8 @@ yoigo.com#@#thor-cookies
 @@||clubbingtv.com/module/opensocialconnect/static/image/linkedin.png
 @@||clubs.nfl.com/nfl-assets/js/social-buttons.js
 @@||cnn.com/cnnnext/*-social-$image
+@@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js$~third-party
+@@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/SocialShare.min.js$~third-party
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
 @@||corrupt-a-file.net/assets/images/icons/google-drive_$image,~third-party

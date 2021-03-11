@@ -336,6 +336,7 @@ cateroo.id
 catur.ukm.undip.ac.id
 cbn-cargo.co.id
 cbt.co.id
+cbt.sman1paguyaman.sch.id
 ce.unnes.ac.id
 cellindosigma.co.id
 celotehanalumni.or.id
@@ -417,6 +418,7 @@ copyright-report-detect-check.my.id
 corporation-manager-team.my.id
 corvilla.id
 covermobil.web.id
+covid19.cyberschool.or.id
 cpanel.com-support.id
 cpanel.grupxx18.guied7.my.id
 cpanel.kiosgamer.guied7.my.id
@@ -924,7 +926,6 @@ journal.noesa.co.id
 journal.p-adri.or.id
 jpmchaseonlinesecurity.sdn2perumnaswayhalim.sch.id
 jrr.web.id
-jsw.co.id
 jualbajaringan.co.id
 jualtasbandungmurah.co.id
 julierumahmode.co.id
@@ -1361,8 +1362,9 @@ poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
 potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
+ppdb.sman1paguyaman.sch.id
 ppdb.smk-ciptaskill.sch.id
-ppdb.smp1sbw.sch.id
+ppdb.smpitalfirdauspwd.sch.id
 ppg-daljab.ump.ac.id
 ppid.posokab.go.id
 ppl.ac.id
@@ -1930,7 +1932,6 @@ www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
 www.charisministries.id
-www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id
