@@ -538,6 +538,7 @@ aqwvwn.cultfurniture.com
 ar.i-run.fr
 aran9midi.com
 argos.citruserve.com
+ariane.abtasty.com
 arid5glop.com
 arrietty.nrj.fr
 arrlrk.edigital.hu
@@ -1694,6 +1695,7 @@ g6536783055.co
 g6734867390.co
 g6932951725.co
 g7131036060.co
+g7329120395.co
 ga-beacon.appspot.com
 ga.canoe.ca
 ga.kvideo.io
@@ -2738,6 +2740,7 @@ mtc.nhk.or.jp
 mtcs.nhk-ondemand.jp
 mtcs.nhk.or.jp
 mtcvyv.sporx.com
+mtm.qdqmedia.com
 mtrcs.redhat.com
 mts-ws.rueducommerce.fr
 mtx.belfius.be
@@ -3355,6 +3358,7 @@ rum.marquardmedia.hu
 rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
+rum.vhwrz.net
 ruth8badb.com
 rva.outbrain.com
 rvkcpqz.com
@@ -4779,6 +4783,7 @@ stats.premiumsim.de
 stats.proff.no
 stats.propublica.org
 stats.pusher.com
+stats.qdq.com
 stats.radio-canada.ca
 stats.rcinet.ca
 stats.rcsobjects.it
@@ -5574,6 +5579,7 @@ trusted-web-seal.cybertrust.ne.jp
 trvonu.k-manga.jp
 trx.smdatalabs.com
 trx3.famousfix.com
+try.abtasty.com
 ts.faz.net
 ts.popsugar.com
 ts.rtl.de
