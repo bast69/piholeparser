@@ -17,6 +17,7 @@ kimexfinances.ci
 leclaireur.ci
 luttecovid19.zdcagency.ci
 mail.anare.ci
+marketing.net.jumia.ci
 mkconstruction.ci
 preventis.ci
 psndea.ci

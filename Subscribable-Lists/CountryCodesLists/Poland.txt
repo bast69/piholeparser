@@ -1286,6 +1286,7 @@ dhl-express.pl
 dhl-odbiorca.pl
 di.com.pl
 diabakter.pl
+dialogue.mazda.pl
 diamentebianco.pl
 diapress.pl
 dicky.pl
@@ -1710,6 +1711,7 @@ elkoinstalacje.pl
 elmar.krakow.pl
 elmar.rzeszow.pl
 elpla.pl
+elqtrk.intel.pl
 elstal.com.pl
 eluxlifenicesp.pl
 eluxlifevivasp.pl
@@ -3770,6 +3772,8 @@ mariuszsopyllo.pl
 mariza-wesela.pl
 mark-moto.com.pl
 market.bia24.pl
+marketing.net.brillen.pl
+marketing.net.monedo.pl
 marketing.tr.netsalesmedia.pl
 marketplace-olx.pl
 marketplace.ofeminin.pl
@@ -4354,6 +4358,7 @@ ns-sg-09.coinmine.pl
 ns-sg-10.coinmine.pl
 ns-us-01.coinmine.pl
 ns-us-02.coinmine.pl
+nsm.tr.netsalesmedia.pl
 ntslab.pl
 nu7.pl
 nudevista.com.pl
@@ -5525,7 +5530,6 @@ realitateadro.hit.gemius.pl
 realitatero.adocean.pl
 realnyzarobek.pl
 rec-ir.quartic.pl
-rec-pl.quartic.pl
 rec.quartic.pl
 recepta.com.pl
 redbear.pl
@@ -6262,7 +6266,9 @@ stasiolek.pl
 staswiselka.pl
 stat.4u.pl
 stat.ekologia.pl
+stat.lex.pl
 stat.pl
+stat.profinfo.pl
 stat.webmedia.pl
 static.adtaily.pl
 static.clickonometrics.pl
@@ -7024,6 +7030,7 @@ wedkarskaturystyka.pl
 weeb-tv.pl
 weedbook.pl
 wej-dz6.edu.pl
+welcome.item24.pl
 wellbeingworganizacji.pl
 wellneat.pl
 wellyss.pl

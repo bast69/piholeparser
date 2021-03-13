@@ -129,6 +129,7 @@ data.netscope.marktest.pt
 demeter.pt
 descansoserrano.pt
 dialog.pt
+dialogue.mazda.pt
 digibarre.pt
 digitalrepair.pt
 dii2.zooplus.pt
@@ -355,6 +356,8 @@ tipografiacouto.pt
 tipografiaformosa.pt
 tophoras.hoonicorns.pt
 toursedestinos.pt
+tr.boletim.meu-orcamento.pt
+tr.melhores-propostas.pt
 tracker.publico.pt
 tracker.remp.impresa.pt
 traditionalfoodcongress.ipvc.pt

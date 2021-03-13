@@ -378,6 +378,7 @@ baldini.editore.it
 baldoalberti.it
 ballaland.it
 bancadelluniverso.it
+bancopostapremia.bancoposta.it
 banner.aranzulla.it
 banner.crol.it
 banner.orizzontescuola.it
@@ -825,6 +826,7 @@ darfocervera.it
 dartstore.it
 dashbard-us-chase.64-b.it
 dasproduction.it
+data.decathlon.it
 data.inbank.it
 data.kataweb.it
 dataidea.it
@@ -851,6 +853,7 @@ dev.abitotv.it
 dev.mtmshop.it
 devaje.pourfemme.it
 devincenti.it
+dialogue.mazda.it
 dianasport.it
 dibrunamanshyea.it
 diegobianchinews.it
@@ -940,6 +943,8 @@ elisaart.it
 ellediufficio.it
 ellepimmobiliare.it
 elmondin.it
+elqtrk.intel.it
+elqtrk.morningstar.it
 elsabordetango.it
 elstore.it
 emanuelegambini.it
@@ -950,6 +955,7 @@ enabler.datalake.mediaset.it
 energeticasnc.it
 energyeplastiche.it
 enfis.it
+engage.3mitalia.it
 engine.netanday.it
 englishworld.it
 enh.gamesurf.it
@@ -1580,6 +1586,9 @@ marettimoisland.it
 mariaelenabececco.it
 mariodini-liposuzione.it
 markaservice.it
+marketing.net.home24.it
+marketing.net.occhiali24.it
+marketing.net.zooplus.it
 marta.martatovaglieri.it
 marypoppinscarpi.it
 mascheregraduate.it
@@ -2257,7 +2266,6 @@ smetrics.michaelkors.it
 smetrics.nowtv.it
 smetrics.payback.it
 smetrics.ralphlauren.it
-smetrics.rcsmetrics.it
 smetrics.seat-italia.it
 smetrics.sisal.it
 smetrics.sky.it

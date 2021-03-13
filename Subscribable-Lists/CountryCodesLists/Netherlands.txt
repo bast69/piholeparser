@@ -54,6 +54,7 @@ actie.gooieneemlander.nl
 actie.haarlemsdagblad.nl
 actie.ijmuidercourant.nl
 actie.leidschdagblad.nl
+actie.milieudefensie.nl
 actie.nhd.nl
 actie.noordhollandsdagblad.nl
 activa.tu.cuenta.en.linea.viabcp.hartvoorsoest.nl
@@ -576,6 +577,7 @@ coachatelier.nl
 code.checkstat.nl
 coditronix.nl
 coloursofnature.nl
+communicatie.nti.nl
 communicatiebureaukiezen.nl
 compassbvva.nl
 complaza.nl
@@ -853,6 +855,7 @@ emeubel.nl
 emleerdam.nl
 emobs.nl
 emojo.nl
+engage.3mnederland.nl
 engager.tmg.nl
 engine.letsstat.nl
 enjoysexshop.nl
@@ -1431,6 +1434,10 @@ inderegenjas.nl
 indexportal.nl
 indiandosakadai.nl
 indx.nl
+info.bvo.nl
+info.isbw.nl
+info.nibesvv.nl
+info.schoevers.nl
 ing-login.module-portaal.nl
 ing-login.portaalwerk-secure.nl
 ing-portaal.klanten-netwerk.nl
@@ -1804,6 +1811,9 @@ marjanschonenberg.nl
 markbruinink.nl
 marketcrowd.nl
 marketing.hearstmagazines.nl
+marketing.net.home24.nl
+marketing.net.zooplus.nl
+marketing.vathorst.nl
 markromer.nl
 marktgigant.nl
 marktman.nl
@@ -3396,6 +3406,7 @@ www.reusenproject-n.nl
 www.rooversadvocatuur.nl
 www.sameplace.nl
 www.sanoma-adverteren.nl
+www.service.just.nl
 www.sexadvertentiesite.nl
 www.sexbook.nl
 www.sexhunter.x0.nl
