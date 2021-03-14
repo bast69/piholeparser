@@ -747,6 +747,7 @@ curvefi.io
 cusors.io
 custom-iyj6.frb.io
 custom-kvbo.frb.io
+custom.plausible.io
 cvs.extole.io
 cyythcss-ios.mobile-sdk-api.intercom.io
 d.admp.io
