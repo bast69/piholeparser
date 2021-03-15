@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5/lGefD0XH/o2hhNfJ9XVg
-! Version: 202103140230
+! Checksum: MeXSSwq0drnNylPsMxBOuQ
+! Version: 202103150220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 14 Mar 2021 02:30 UTC
+! Last modified: 15 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2486,6 +2486,7 @@ _userbar_$image
 ||mds.yandex.net/get-bstor/$domain=www.kinopoisk.ru
 ||media-poll.mail.ru^$domain=~media-poll.mail.ru
 ||meta.ua/*/popup.$script,stylesheet
+||money.yandex.ru^$domain=stratege.ru
 ||mozilla-russia.org/images/$object
 ||muse-masters.ru/wp-content/uploads/*/snow.
 ||muz.ru/content/banners/
@@ -2693,6 +2694,7 @@ www.zakon.kz#?##dle-content > [class] > span:-abp-contains(/./)
 filmix.ac,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###dle-content > article ~ noindex ~ div a[href$="/pro.html"]
 lols.ru###dle-content td[style="padding-left:20px;"] > noindex
 archive.org###donate_banner
+stratege.ru###donation
 turbobit.net###download-top-note
 chehov-vid.ru###e-mail_subsc
 meteo.ua###easter_top_ban
@@ -3407,6 +3409,7 @@ fishki.net##.other-post-list
 bibliofond.ru##.outro
 sports.ru##.overlay[data-control="Common.Overlay"]
 userstyles.org##.overlay_background
+ufatime.ru##.page > center[style="margin-bottom: 15px;"]
 championat.com##.page-main > .article-comments-button ~ .page-title
 playground.ru##.page-notification
 bdf.ms##.pageContent > div[style^="outline"]
@@ -5004,6 +5007,7 @@ arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
 mobi24.net#@#a[href^="http://www.mobi24.net/"]
 mobi24.net#@#a[href^="https://www.mobi24.net/"]
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt ***
+@@||jrepoint.jp/resource/script/jquery.smartbanner.js
 @@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 !
 ! - Социальные сети -----------------------------------------------------------
@@ -22115,6 +22119,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
+@@||animeworld.tv/dist/frontend/vendor/jssocials/jssocials.min.js
 @@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
 @@||app.degoo.com/assets/icons/$~third-party
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
