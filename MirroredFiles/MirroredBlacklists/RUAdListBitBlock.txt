@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MeXSSwq0drnNylPsMxBOuQ
-! Version: 202103150220
+! Checksum: fPQs+errbFuoz+r6VSb5vQ
+! Version: 202103160230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 15 Mar 2021 02:20 UTC
+! Last modified: 16 Mar 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1502,7 +1502,7 @@ glavagronom.ru##div > a[href="https://www.facebook.com/GlavAgronom/"] ~ a
 gorod24.online,kinovidos.com,print-post.com#?#div:-abp-has(> #vk_groups)
 inter.ua#?#div:-abp-has(> .footer-social)
 4book.org#?#div:-abp-has(> .uSocial-Share)
-gageno.ru#?#div:-abp-has(> .ya-share2)
+gageno.ru,radiorecord.ru#?#div:-abp-has(> .ya-share2)
 youla.ru#?#div:-abp-has(> [data-test-component="SocialShare"])
 fontanka.ru#?#div:-abp-has(> ul > [data-rg-name="lj"])
 traktorist.ua#?#div:not([id]):not([class]):-abp-has(> a[href="https://t.me/traktoristua"])
@@ -2668,6 +2668,7 @@ cian.ru,eva.ru###cookie-agreement
 1000sovetov.ru,svpressa.ru###cookie-bar
 besplatka.ua###cookie-bottom
 inforesist.org,root-nation.com###cookie-notice
+tproger.ru###cookie-notice-wrapper
 greenpost.ua###cookie-popup
 psychol-ok.ru###cookie_agreement_div
 dfiles.ru###cookie_popup
@@ -2973,6 +2974,7 @@ megogo.ru##.agreement-notify_v1
 aknigionline.ru##.ak-meta > .ak-subtitle
 i.ua##.alarm
 rusmeteo.net##.alert
+proekt.media##.alerts
 gecid.com##.alogo > .lleft ~ *
 artlebedev.ru##.als-cookie-button
 tengrinews.kz##.alsoread-widget
@@ -3007,6 +3009,7 @@ cybersport.ru##.article__mailru
 rambler.ru##.article__read-also
 mk.ru##.article__subscription
 kinoafisha.info##.article_footer_more > .article_channels
+unian.info,unian.net,unian.ua##.article_vb
 news.nur.kz##.aside > .animated
 sports.ru#?#.aside-news-list__item:-abp-has(a[href^="https://trbna.co/"])
 lamoda.ru##.auth-social__item_ml
@@ -3623,6 +3626,7 @@ lifeha.ru##.textwidget
 molodostivivat.ru##.textwidget > a[href][target="_blank"]
 101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.tg__info_block_wrapper
 vedomosti.ru##.the-header-announce
+proekt.media##.tile--subscribe
 efxi.ru##.titleblock
 tmfeed.ru##.tm-megaposts-links
 www.kinopoisk.ru##.today-in-cinema__carousel-item > .film-trailer-carousel-item

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q6TKqE7bzF1/B5+//CkcXg
-! Version: 202103150211
+! Checksum: 7XGCmNearKGR4xu5t4kdVg
+! Version: 202103160211
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Mar 2021 02:11 UTC
+! Last modified: 16 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -25500,6 +25500,7 @@ _vpcookieconsent/
 ###cpolicy-bar
 ###cpolicy-holder
 ###cpolicyHolder
+###cps-shaman-notifier
 ###cpsCookieHintContainer
 ###cqcqButton
 ###cqcqPanel
@@ -29059,6 +29060,7 @@ _vpcookieconsent/
 ##.borlabsCookieShow
 ##.bottom--cookie-bar
 ##.bottom--cookie-bar-overlay
+##.bottom-bar-cookies
 ##.bottom-cookie-consent
 ##.bottom-cookie-wrap
 ##.bottom-zone__privacy-policy
@@ -31285,6 +31287,7 @@ _vpcookieconsent/
 ##.cpnb-top
 ##.cpnb[data-cookie-name="cookiesDirective"]
 ##.cpolicy-warning
+##.cps-banner
 ##.creatim-cookie-notice
 ##.creavea-banner-consentement-cookie
 ##.creavea-container-cookie-consent
@@ -42206,6 +42209,7 @@ infiniti-abudhabi.com,infiniti-alghassan.com,infiniti-azerbaijan.com,infiniti-ba
 currencyrate.today##.cc-alert
 viralnova.com##.cc-banner
 wallpapershome.com##.cc-dialog
+gll.gg##.ccINgy
 drakecircus.com##.ccc-widget
 hannity.com##.ccpa
 orcadian.co.uk##.cd-container
