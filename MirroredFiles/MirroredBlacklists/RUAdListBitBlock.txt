@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fPQs+errbFuoz+r6VSb5vQ
-! Version: 202103160230
+! Checksum: df+zC13JGXEdOJy592Sp1w
+! Version: 202103170220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 16 Mar 2021 02:30 UTC
+! Last modified: 17 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -909,6 +909,7 @@ inoprosport.ru##.news__block_social_wrap
 crimea-news.com##.news_info > .tags
 glavnoe.ua##.newssocial-label
 shostka.info##.ni-share
+minsknews.by##.nk_soc_links
 cn.ru##.nn-like
 ngs.ru##.nn-nav-socials
 nn.by##.nn-share-info-telegram
@@ -1004,6 +1005,7 @@ fitfan.ru##.right_bar > a[href*="com/fitfan"][onclick]
 sibnet.ru#?#.right_column div[class^="block"]:-abp-has(> .bl_content > h3:-abp-contains(Мы Вконтакте))
 2mm.ru##.rightblock > .tabs
 kinozloy.net#?#.rightbox:-abp-has(#vk_groups)
+showjet.net,showjet.ru##.rmp-sharing-social
 4pda.ru##.rnd-slider-social-container
 safetygate.ru##.round-bs[class*="icon-"]
 radiokp.ru##.rr-follow-wr
@@ -1182,6 +1184,7 @@ drinks.ua##.social-network
 lux.fm##.social-networks-block-wrapper
 mc.today##.social-share-yellow
 xsport.ua##.social-sharer-holder
+minsknews.by##.social-sharing-nk
 cosmo.ru##.social-sharing__item
 lenta.ru##.social-snippet
 kinopoisk.ru##.social-teasers
@@ -1465,7 +1468,7 @@ gazeta.uz##a[href^="https://telegram.me/gazetauz"] > img
 lux.fm##a[href^="https://vb.me/"]
 moirebenok.ua##a[href^="https://web.telegram.org/"]
 life.ru##a[href^="tg://msg_"]
-66.ru,car.ru,kavkaz-uzel.eu,myanianime.ru,online-fix.me,pythontutor.ru,tproger.ru##a[href^="tg://resolve"]
+66.ru,car.ru,kakoysegodnyaprazdnik.ru,kavkaz-uzel.eu,myanianime.ru,online-fix.me,pythontutor.ru,tproger.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
 bombardir.ru##a[title="Facebook"]:not(.auth-link)
@@ -1581,6 +1584,7 @@ meduza.io##img[src$="Zz4="]
 kinoferma.top,kinosezon.net,russkii-serial.net##img[src$="like.gif"]
 meduza.io##img[src$="zdmc+"]
 freehd.com.ua,hdreactor.club,hdreactor.su##img[src*="/rss.png"]
+kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai##img[src*="/vk_group."]
 dontimes.news##img[src*="/wp-content/uploads/sb/"]
 expert.com.ua##img[title^="кнопка"][alt^="HiTech.Expert "]
 ctc.ru##li[class="hsi-item"]
@@ -3232,6 +3236,7 @@ zaycev.net##.footer__apps
 kufar.by##.footer__scroll
 iz.ru##.footer__top__inside__right
 greenpost.ua##.footer_form
+kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai##.footer_links
 trudbox.com.ua##.form-group > .popover-yellow > .popover
 anistar.org,anistar.pro,anistar.world,online-star.org,online-stars.org##.frends-list-site
 myseria.fun##.full-soc-text
@@ -3353,6 +3358,7 @@ sports.ru##.material-list__item[data-control="Common.AnalyticsWatch"]
 www.kinopoisk.ru##.media-page-layout__trailer-promo
 liveinternet.ru##.mediametrics
 cybersport.ru##.menu__specials
+kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai##.menu_desc .nav_links
 in-the-fog.ru##.message-alert
 funtik.tv,magicfilm.net##.message-block-player
 2x2.su##.messenger_news_wrapper
@@ -3523,7 +3529,7 @@ sportanalytic.com#?#.rightModules > .block:-abp-has(> .bt > .bct:-abp-contains(/
 ruskline.ru##.right_banner_inner_1
 video.sibnet.ru##.right_column > #menu_profile ~ .block1[style]
 liveinternet.ru##.rightcolumn > .news
-showjet.net##.rmp-waring-content
+showjet.net,showjet.ru##.rmp-waring-content
 vesti.ua##.rowFullSecond
 www.rambler.ru##.rui-ToplineAd-adPlace
 livejournal.com##.s-ljvideo
