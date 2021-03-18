@@ -5086,7 +5086,6 @@ pool4you.pl
 popaki.pl
 popflix.pl
 popl-webs.pl
-popup.bitdefender.pl
 poradnik-diet.pl
 poradybiurowe.pl
 pornmania.pl

@@ -1,3 +1,2 @@
 cmp.dreamlab.pl
 mxapis.com
-popup.bitdefender.pl
