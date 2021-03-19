@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ujIW2V+0oBxH8IsCXTPM5Q
-! Version: 202103180211
+! Checksum: ifwLkVoQtEQaz8ScF0Nccg
+! Version: 202103190211
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Mar 2021 02:11 UTC
+! Last modified: 19 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -18137,6 +18137,7 @@ _vpcookieconsent/
 ##.sidebar-share-item-twitter
 ##.sidebar-share-widget
 ##.sidebar-social
+##.sidebar-social-btn
 ##.sidebar-socila
 ##.sidebar-tile-facebook
 ##.sidebar-twitter
@@ -24911,6 +24912,7 @@ _vpcookieconsent/
 ###cookies-box
 ###cookies-box-inner
 ###cookies-box-outer-layer
+###cookies-browser-ui-app
 ###cookies-button-container
 ###cookies-charter
 ###cookies-check
@@ -30884,6 +30886,7 @@ _vpcookieconsent/
 ##.cookies-field
 ##.cookies-footer
 ##.cookies-footer-block
+##.cookies-footer-i
 ##.cookies-gdpr
 ##.cookies-gioodo-require
 ##.cookies-handshake-wrapper
@@ -31849,6 +31852,7 @@ _vpcookieconsent/
 ##.gdpr-sticky_message
 ##.gdpr-stickybar
 ##.gdpr-support
+##.gdpr-tab
 ##.gdpr-terms-banner
 ##.gdpr-terms-popup
 ##.gdpr-warning
@@ -38967,6 +38971,7 @@ breitbart.com###cin_slideup_w
 sciencenews.org,sinya.com.tw,westhawaiitoday.com###colorbox
 monthlyreview.org###connect
 thewrap.com###content-bottom-sidebar
+academictimes.com###cover
 dallasnews.com###ctaNewsletterLightbox
 telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
 guidedoc.com###curtain
@@ -43677,6 +43682,7 @@ castroelectronica.pt##div[style="height: 35px; background:#2a2a2a; position:abso
 ! ---------- Romanian Site Specific Hiding Rules ----------
 !
 capital.ro###lastmin
+fundatiacaleavictoriei.ro###newsletter
 zf.ro###scrollTop
 antena3.ro###slidebox
 dcnews.ro###sliding
@@ -44826,7 +44832,7 @@ autokostencheck.de###footerSlideContainer
 pokewiki.de###gl-topbar-bg
 aida.de###hfas782aj
 pfarrverband-koenigslutter.de###hinweis
-cb500.net,grammophon-platten.de,heim-und-haustiere.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
+arznei-news.de,cb500.net,grammophon-platten.de,heim-und-haustiere.de,psylex.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
 d-secour.de###importantMessages
 bongu.de###infoBar
 gruene-bundestag.de###info_message
@@ -44870,6 +44876,7 @@ gab-umweltservice.de###rcpm
 netbet.de###sec-banner-div
 sightseeing-kontor.de###sk-info
 mydealz.de,preisjaeger.at###softMessages-list
+soldesign.de###solbox
 amazon.de###sp-cc
 urteile-gesetze.de###stickyFooter
 camp-firefox.de,soeren-hentzschel.at###storage-notice
@@ -45994,7 +46001,7 @@ lisa.ru##.disclamer
 ozon.ru##.i4
 friday.ru##.information
 patee.ru##.informer2
-kinoby.ru##.message-alert
+iblitzmods.ru,kinoby.ru##.message-alert
 shophair.ru##.modal_popup_sessid_box
 landrover.ru##.notificationBars
 kamkabel.ru##.panel_152_wp
@@ -46728,7 +46735,8 @@ speedtest.net#@#.share-body
 gala.fr#@#.share-bottom
 belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
-cnet.com,kcrw.com,vimeo.com#@#.share-button
+cnet.com,honestcoffeeguide.com,kcrw.com,vimeo.com#@#.share-button
+honestcoffeeguide.com#@#.share-button-container
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
