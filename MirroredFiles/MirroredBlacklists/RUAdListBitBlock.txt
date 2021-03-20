@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1GjCkij730L2+yQzDP47Yg
-! Version: 202103190220
+! Checksum: dP+pwXrOtGfStaou8cJ5sg
+! Version: 202103200230
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 19 Mar 2021 02:20 UTC
+! Last modified: 20 Mar 2021 02:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -743,6 +743,7 @@ kinopoisk.ru##.friends_search_right
 bugaga.ru##.fsmsg.more
 animaunt.org##.ft-feed-soc
 aces.gg##.fullstory_share
+agronomy.com.ua##.g-social
 koolinar.ru##.goodshare
 ukraina24.segodnya.ua##.gototelegram
 livemaster.ru##.grid-210
@@ -817,6 +818,7 @@ cinema-24.tv##.kikadz
 km.ru##.km-shares
 glav.su#?#.l-c > div[style^="margin"] > table [class]:-abp-has(> [class] > .fb-page)
 rueconomics.ru##.l-footer-socials
+baby.ru##.l-footer__signin
 tverigrad.ru##.l-pad.row > .hidden-xs
 zikua.tv##.l-soc-wrap
 news.ru##.larger-social-links
@@ -1078,6 +1080,7 @@ podrobnosti.ua##.sidebar .active > [href="javascript:;"]
 freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(/Наш RSS|Наша Группа ВК/)
 freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(/Наш RSS|Наша Группа ВК/) + div
 ukrmir.info##.sidebar > .module-social > .module-inner > .module-title
+newdeaf.vip##.sidebar > .side-box > [href="/index.php?do=lastcomments"] ~ a[href]
 turkcinema.org##.sidebar > .widget-wrap > .widget_text
 cikavosti.com,vstx.org#?#.sidebar > .widget:-abp-has([href*="//t.me/"])
 1jazz.ru#?#.sidebar aside:-abp-has(> .textwidget > .ya-share2)
@@ -3204,6 +3207,7 @@ gnatkovsky.com.ua##.donts
 translate.ru##.download-mobile
 dni24.com##.dtop
 car.ru##.dzen
+agronomy.com.ua##.eb-inst
 politros.com##.email-dispatch
 ubr.ua##.email-form
 rusplt.ru##.email-subscription
@@ -3396,6 +3400,7 @@ move.ru##.news-esputnik-subscribe__container-main
 rbc.ru,sportrbc.ru##.news-feed a[href*="utm_campaign"]
 sports.ru##.news-item__footer > h3
 sports.ru##.news-item__footer > hr
+prostoprosport.ru##.news-link
 motorpage.ru##.news-subscr
 finance.ua##.news-subscribe
 newsdozor.ru##.news.normaltext .bbc_img
@@ -3844,7 +3849,6 @@ svoimi-rykami.ru##body > div[class^="spu-"]
 gorodche.ru##body > div[class^="subPop"]
 www.kinopoisk.ru##body > div[id] > .js-position-sticky
 exelab.ru##body > div[id^="bnr"]
-newdeaf-online.net##body > div[id^="panel"]
 tnt-online.ru##body > div[style^="position"]
 lostfilm-online.org##body > div[style^="position: fixed"]
 lifter.com.ua##body > div[style^="position: fixed;"]
@@ -16886,6 +16890,7 @@ _youtube_social_
 ##.share-tick
 ##.share-title
 ##.share-to
+##.share-to-soc
 ##.share-to-whatsapp-wrapper
 ##.share-toggle
 ##.share-toggle-button
@@ -18006,6 +18011,7 @@ _youtube_social_
 ##.social-buttons--content
 ##.social-buttons--content-before
 ##.social-buttons-bottom
+##.social-buttons-compact
 ##.social-buttons-contact
 ##.social-buttons-container
 ##.social-buttons-float
@@ -21795,7 +21801,7 @@ pinterest.com#@#.pinterestComponentShare
 marieclaire.ru#@#.pinterestShare
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -25677,6 +25683,7 @@ _backToTop.
 ##.our_newsletter_block
 ##.outerHeaderCtaNewsletterWrap
 ##.page-footer-signups
+##.page-tail-newsletter-wrap
 ##.pane-bean-email-capture
 ##.pane-bonnier-newsletter-0
 ##.pane-email-opt-in

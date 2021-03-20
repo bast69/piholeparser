@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ifwLkVoQtEQaz8ScF0Nccg
-! Version: 202103190211
+! Checksum: FOej3+TN6iE4lSHaeIWlag
+! Version: 202103200211
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Mar 2021 02:11 UTC
+! Last modified: 20 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6851,6 +6851,7 @@ _vpcookieconsent/
 ##.our_newsletter_block
 ##.outerHeaderCtaNewsletterWrap
 ##.page-footer-signups
+##.page-tail-newsletter-wrap
 ##.pane-bean-email-capture
 ##.pane-bonnier-newsletter-0
 ##.pane-email-opt-in
@@ -17419,6 +17420,7 @@ _vpcookieconsent/
 ##.share-tick
 ##.share-title
 ##.share-to
+##.share-to-soc
 ##.share-to-whatsapp-wrapper
 ##.share-toggle
 ##.share-toggle-button
@@ -18539,6 +18541,7 @@ _vpcookieconsent/
 ##.social-buttons--content
 ##.social-buttons--content-before
 ##.social-buttons-bottom
+##.social-buttons-compact
 ##.social-buttons-contact
 ##.social-buttons-container
 ##.social-buttons-float
@@ -45507,6 +45510,7 @@ cassaforense.it,cfnews.it###cassaforense-cookies
 blogmamma.it###cbox-notice
 radiozammu.it###ccM
 centrometeolombardo.com###cc_div
+emanuelaursino.it###cke_plc
 eismoinfo.lt###consent
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
@@ -46719,7 +46723,7 @@ pinterest.com#@#.pinterestComponentShare
 marieclaire.ru#@#.pinterestShare
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
