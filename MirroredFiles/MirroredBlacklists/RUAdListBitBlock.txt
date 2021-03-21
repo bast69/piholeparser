@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dP+pwXrOtGfStaou8cJ5sg
-! Version: 202103200230
+! Checksum: f8FH98RzLF6e9t0rpvwO1Q
+! Version: 202103210220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 20 Mar 2021 02:30 UTC
+! Last modified: 21 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -653,6 +653,7 @@ ua.news##.content-socials
 spot.uz##.contentBoxR
 mirf.ru##.content_footer_social
 football.kulichki.net##.content_top_line > a[href]
+comments.ua#?#.conteres > p:-abp-has(> a[href^="https://t.me/"])
 coub.com##.coub__sharing__list > button.social
 cameralabs.org##.data-social
 ukrmilitary.com#?#.date-posts > .post-outer:-abp-has(> .post > .post-body > [href*="//t.me/"])
@@ -1019,6 +1020,7 @@ kulturologia.ru##.rss
 get-tune.cc,mp3cc.biz,mp3iq.com##.rt_share
 tsn.ua##.s-social-bar-static
 darada.co,sensatsiya.com##.s_stk
+freehat.cc##.sb-block_tp_social
 edinstvennaya.ua##.sb-instagram__button
 kp.ua##.sb-subscribe
 4mama.ua#?#.sb-tabs-itm:-abp-has(> .sb-tab-title > span:-abp-contains(Facebook))
@@ -1504,6 +1506,7 @@ gta.com.ua#?#b:-abp-contains(Поделиться:)
 aimp.ru#?#b:-abp-contains(Присоединяйтесь к нам)
 exzerry.com##body > #links > div[align="center"]
 slovoidilo.ua##body > a[href*="://telegram.me/"]
+frontend.vh.yandex.ru##button[data-control-name="share"]
 tsn.ua##button[data-share]
 dachnye-sovety.ru#?#center:-abp-has(> .uptolike-buttons)
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai#?#center:-abp-has(> .ya-share2)
@@ -3263,7 +3266,7 @@ topcor.ru,topwar.ru##.gl-news
 1kr.ua##.global > .inform
 facenews.ua##.gnews
 fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,pickfilm.ru,veleto.ru,vixim.ru##.go_to_bug
-24tv.ua##.google-news
+24tv.ua,comments.ua##.google-news
 bykvu.com##.google-news-block
 24tv.ua##.google-news-link
 topvideo.tj##.google_play
@@ -4205,7 +4208,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.dist-popup
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.dist_action_extension
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.distr-default-search
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.distr-default-search-header
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.distr-popup_js_inited
+translate.goog,yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.distr-popup_js_inited
 yandex.by,yandex.com,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.footer > .themes-promo
 translate.yandex.by,translate.yandex.kz,translate.yandex.ru,translate.yandex.ua,translate.yandex.uz##.footer-line_promo
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.footer-stripe
@@ -4249,7 +4252,7 @@ disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.ufo
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.universal-stripe
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.yabrowser-promo
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.z-default-search
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.zalogin-smart
+translate.goog,yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.zalogin-smart
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="desk-notif-card"] > [data-statlog*="plus"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="desk-notif-card"] > a[href*="/plus.yandex"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="header"] > .yaplus
@@ -22148,7 +22151,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||animeworld.tv/dist/frontend/vendor/jssocials/jssocials.min.js
-@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
 @@||app.degoo.com/assets/icons/$~third-party
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
