@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IQe6akm5fvXI0IpoNoJ7rA
-! Version: 202103230220
+! Checksum: tY1eD8tsVM1fnyzSMcB6BQ
+! Version: 202103240220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 23 Mar 2021 02:20 UTC
+! Last modified: 24 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -371,6 +371,7 @@ rg.ru###rgb_telegram
 yap.ru,yaplakal.com###right-column > div > noindex
 memesmix.net#?##right-menu .module-body:-abp-has(> div > #vk_groups)
 obrazovaka.ru###right-sidebar > .widget_text
+jetvis.ru#?##rightcol > .block:-abp-has(> .blockcontent > div > .twitter-timeline)
 animespirit.ru###rssButton
 kinofilms.ua###sBanner
 webpark.ru###sc-frame
@@ -401,7 +402,7 @@ underver.se,underverse.su###sidebar1-wrap > noindex,#sidebar1-wrap > noindex + b
 planet-today.ru#?##sidright > .custom_:-abp-has(#ok_group_widget)
 planet-today.ru#?##sidright > .custom_:-abp-has([id*="vkgroup"])
 rebenok.by###sn-block-right
-gidonline.eu###soc
+gidonline.eu,jetvis.ru###soc
 vchaspik.ua###soc-img-content-bottom
 materinstvo.ru###soc_icons_top
 amurmedia.ru,eaomedia.ru,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru###soc_invites_block
@@ -452,7 +453,6 @@ via-midgard.info###viiFaveBlock
 factorio.su,sntch.com,topmmo-games.ru###vk-comments
 kaermorhen.ru###vk-widget
 animespirit.ru###vkButton
-1kr.ua###vkGroupSection
 lightroom.kiev.ua###vk_poll
 drive.ru,shop.fc-zenit.ru###vk_subscribe
 stranamam.ru###vkfb
@@ -484,6 +484,7 @@ mirtesen.ru##.app.blog-post-page .blog-post__share
 russia.ru,vz.ru##.append-other-applecations
 narutoplanet.ru#?#.art-layout-cell > .art-block:-abp-has(> .art-blockcontent > div > [href="https://fapmc.info/group"])
 cheklab.ru##.art-postcontent > .buttons
+wtftime.ru##.art-telegram-container
 24smi.org##.article-footer
 4mama.ua##.article-footer--instagram
 tvoymalysh.com.ua##.article-footer-instagram
@@ -491,6 +492,7 @@ tvoymalysh.com.ua##.article-footer-share-title
 studopedia.ru##.article-info-share-wrapper > .icons
 ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru##.article-informer-bar__share
 beauty.ua##.article-instagram
+wtftime.ru##.article-like-mobile
 sobesednik.ru##.article-section > article ~ div > .row > .text-left > .d-none
 dengi.ua##.article-shares
 baby.ru##.article-sharing__socials
@@ -1280,6 +1282,7 @@ dyvys.info##.td-banner-bg
 gzt-sv.ru##.td-header__social
 amedia.online##.telegr
 business-gazeta.ru,fakty.ua,gorodkiev.com.ua,kinogo.biz,kinoukr.com,mi100.info,novostivmire.com,seralityt.online,serialstuts.online,sfera.fm,uaserials.pro,usionline.com,zikua.tv,zn.ua##.telegram
+1kr.ua##.telegram-chat
 htmlweb.ru##.telegram-groupe
 uaspectr.com##.telegram-notification
 sakh.com##.telegram-widget
@@ -1741,7 +1744,7 @@ porjati.net##form[action="http://feedburner.google.com/fb/a/mailverify"]
 /jquery.smartbanner.$domain=~1-ofd.ru|~blog.kaspersky.kz|~blog.kaspersky.ru|~gov.ru|~kaspersky.co.in|~kaspersky.co.uk|~kaspersky.co.za|~kaspersky.com|~kaspersky.com.au|~kaspersky.com.br|~kaspersky.com.cn|~kaspersky.com.tr|~kaspersky.de|~kaspersky.es|~kaspersky.fr|~kaspersky.it|~kaspersky.nl|~kaspersky.ru|~mosigra.ru|~mts.ru|~promelec.ru
 /light_chat/*$domain=~asilmedia.net|~coop-land.ru
 /livejournal.png$domain=~livejournal.com
-/mchat/*$domain=~electric-house.ru|~naruto-base.su|~partizzan1941.ucoz.ru|~stalkerportaal.ru
+/mchat/*$domain=~electric-house.ru|~jetvis.ru|~naruto-base.su|~partizzan1941.ucoz.ru|~stalkerportaal.ru
 /metric.$image
 /metric/*$image
 /mikuclock.swf
@@ -2713,7 +2716,7 @@ rsload.net#?##dle-content > .short:-abp-has(> .short-top > h2 > a > .fa)
 rsload.net#?##dle-content > .short:-abp-has(> .short-top a[href="https://rsload.net/news/"])
 rsload.net#?##dle-content > .short:-abp-has(> .short-top a[href="https://rsload.net/soft/obzor/"])
 www.zakon.kz#?##dle-content > [class] > span:-abp-contains(/./)
-filmix.ac,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###dle-content > article ~ noindex ~ div a[href$="/pro.html"]
+filmix.ac,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###dle-content > article ~ noindex ~ div a[href$="/pro.html"]
 lols.ru###dle-content td[style="padding-left:20px;"] > noindex
 archive.org###donate_banner
 stratege.ru###donation
@@ -2999,7 +3002,7 @@ proekt.media##.alerts
 gecid.com##.alogo > .lleft ~ *
 artlebedev.ru##.als-cookie-button
 tengrinews.kz##.alsoread-widget
-filmix.ac,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone##.android-telegram-main
+filmix.ac,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone##.android-telegram-main
 userstyles.org##.android_button_banner
 userstyles.org##.android_button_button
 playground.ru##.announcement-message-wrapper
@@ -3059,6 +3062,7 @@ sports.ru##.b-subscribe-block
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##.b-topbar-more-aside
 lenta.ru##.b-topic__favorite-tooltip
 ogorodniki.com##.b-user__cookies
+lenta.ru##.b-video-box__placeholder-logo
 7days.ru##.b-video-widget
 ogolosha.com##.b_a_n_e_r-top
 www.goha.ru##.badge
@@ -3102,6 +3106,7 @@ buhonline.ru##.bottomPopup
 driveroff.net,samlab.ws#?#.box-shadow:-abp-has(> .menu > div > iframe[src*="://yoomoney.ru/"])
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##.boxFormWrapper-center.defaultGradient-orange
 cnews.ru,obozrevatel.com##.branding
+rud.ua##.branding__link
 beliyspisok.ru##.bretiRandomThread
 znanija.com##.brn-brainly-plus-box
 tsn.ua##.browser_extension
@@ -3407,6 +3412,7 @@ move.ru##.news-esputnik-subscribe__container-main
 rbc.ru,sportrbc.ru##.news-feed a[href*="utm_campaign"]
 sports.ru##.news-item__footer > h3
 sports.ru##.news-item__footer > hr
+sports.ru,tribuna.com##.news-item__sources
 prostoprosport.ru##.news-link
 motorpage.ru##.news-subscr
 finance.ua##.news-subscribe
@@ -3523,6 +3529,7 @@ rau.ua##.rau-backing
 championat.com##.rcm-widget
 igromania.ru#?#.rcol > .rbox:nth-of-type(-n+3):-abp-has(> a.rbox_head[nohref])
 agronews.ua##.read-also
+1kr.ua##.read-google-news
 dengi.ua##.read-us
 news-r.ru##.read_news
 www.zakon.kz##.reading_now
@@ -3532,7 +3539,7 @@ spr.ru##.reklamalink
 eurosport.ru##.related-content-story
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?#.release-block-img1 > div:-abp-has([href^="/"][target="_blank"])
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?#.release-block-img1 > div:-abp-has([href^="https"][target="_blank"])
-filmix.ac,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone##.remove-sda-wrap
+filmix.ac,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone##.remove-sda-wrap
 igromania.ru##.remvb
 forum.ixbt.com##.reply_premium
 radioprofusion.com##.request
@@ -4168,6 +4175,7 @@ mail.ru#?#body > #grid .grid-top > .grid__container > div div[id][class]:-abp-ha
 pogoda.mail.ru##body > #layout div[id^="slot_"]
 ~e.mail.ru,mail.ru##body > .grid .logo__promo-tooltip
 ~e.mail.ru,mail.ru##body > .tooltip > .tooltip__box
+mail.ru##body > .zeropixel ~ * .balloon
 mail.ru##body > .zeropixel ~ * .searchContainer ~ .ssr-main ~ div[class] ~ div[class]
 mail.ru##body > .zeropixel ~ * .searchContainer ~ [class] > .tabs-content ~ div > div:first-child:not([name])
 mail.ru##body > .zeropixel ~ * div .eventbar
@@ -19520,6 +19528,7 @@ _youtube_social_
 ##.story-social-share
 ##.story-social-widget
 ##.story-taboola-related-module
+##.story-tool-share
 ##.story-tools-social
 ##.story-top-social
 ##.storySocial_lng
@@ -20335,6 +20344,7 @@ _youtube_social_
 ##.wds-tweet
 ##.wds-tweet-container
 ##.wds-tweet-data
+##.wdt_social_share
 ##.web_widget_socialBar
 ##.wf-social
 ##.whatsapp-barra
@@ -26022,6 +26032,7 @@ _backToTop.
 ##.wcpopupmodal-open
 ##.wcpopupmodal-wrapper-open
 ##.wdg-newsletter
+##.wdt_newsLetter
 ##.widNewsletter
 ##.wide-newsletter
 ##.wideNewsletterWrap
