@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KqKhkHnOR8OyXQFRgMPlLQ
-! Version: 202103250211
+! Checksum: jAXgDWhHC898LwTQp9Qv3Q
+! Version: 202103260211
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Mar 2021 02:11 UTC
+! Last modified: 26 Mar 2021 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Redirect: https://fanboy.co.nz/fanboy-annoyance.txt
@@ -4454,6 +4454,7 @@ _youtube_social_
 /opendotcom-cookie/*
 /opt-in-select/cookie/*
 /optInCookieGdprSSR.
+/otBannerSdk.
 /oupcookiepolicy_
 /pgdpr.min.js
 /plugin_cookie/*
@@ -6950,6 +6951,7 @@ _vpcookieconsent/
 ##.sendinblue-newsletter-mergefields
 ##.sendinblue-signup-subscribe-form
 ##.service-newsletter
+##.seva-overlay
 ##.sfsi_subscribe_Popinner
 ##.short-sign-up
 ##.shortcode-inline-newsletter
@@ -27068,6 +27070,7 @@ _vpcookieconsent/
 ###msgcookie
 ###msgcookies
 ###msgexpandcookies
+###mspb_alert_cookie
 ###msr_cookies
 ###mss-legal-banner
 ###mssg-cookies-warning
@@ -38879,6 +38882,7 @@ alternet.org###kindest-container
 insidethegames.biz###top-story-alert
 theweek.com###us77-test
 independent.co.uk###vouchercodes
+imgur.com##.EmeraldBanner
 out.com##.bean-house-promo
 wired.com##.cm-footer-container
 foxnews.com##.commenting-nation-promo
@@ -40358,6 +40362,7 @@ india.com##.open-app
 sportskeeda.com##.sidebar-app-download
 imgur.com,sowetanlive.co.za##.smartbanner
 reddit.com##.upsell_banner
+barandbench.com##div[class^="header-two-m__download-links_"]
 ! *** easylist:fanboy-addon/fanboy_social_specific_hide.txt ***
 schufa.de###AC_layout
 pcb.cc###Cntnr6
@@ -41670,6 +41675,7 @@ dallasnews.com##div[class^="app_social-media"]
 la-croix.com##div[class^="follow_"]
 engadget.com##div[class^="o-social_nav"]
 today.com##div[class^="share_"]
+barandbench.com##div[class^="social-share-"]
 dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
 fortune.com##div[class^="socialList_"]
 nbcnews.com##div[class^="socialShareWrapper_"]
@@ -42479,6 +42485,7 @@ norma-ammunition.com##.on-screen-messages
 suncorp.com.au##.one-pixel-margin-bottom.sg-Box
 wpengine.com##.opt-in-modal
 origin.com##.origin-sitestripe
+flashscore.co.uk,flashscore.com##.otPlaceholder
 ratemyprofessors.com##.overlay
 youronlinechoices.com##.p15
 geberit.com##.page-hint-box
@@ -42716,6 +42723,7 @@ smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
+tf1.fr###tc-privacy-wrapper
 shirtsofcotton.com###udtDark
 bild.de,welt.de##.as-oil
 icq.com##.ca_wrap
@@ -47553,7 +47561,8 @@ yoigo.com#@#thor-cookies
 @@||ohga.it^*/remote-gdpr.min.js
 @@||polenka.pl/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||privacy-mgmt.com^$domain=bold.dk
-@@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$domain=ilbianconero.com|money.it
+@@||quantcast.mgr.consensu.org/GVL-v2/$domain=independent.co.uk
+@@||quantcast.mgr.consensu.org/tcfv2/$domain=ilbianconero.com|independent.co.uk|money.it
 @@||quantcast.mgr.consensu.org^*/choice.js$domain=ilbianconero.com|money.it
 @@||rai.it^*/cookie.pack.js$script
 @@||rainews.it/dl/components/js/cookiebanner/$script,xmlhttprequest

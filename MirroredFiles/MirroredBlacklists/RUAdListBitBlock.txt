@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p5EteLCcPE7Dp7avIYgUVg
-! Version: 202103250230
+! Checksum: 3Pe7YmY03LMxsPImMjYiaw
+! Version: 202103260220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 25 Mar 2021 02:30 UTC
+! Last modified: 26 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -313,6 +313,7 @@ tverigrad.ru###center_column ~ .hidden-sm
 glianec.com#?##col-right > .bl-middle2:-abp-has(> h4:contains(/facebook/))
 imtw.ru###content > .noad1
 gta.com.ua#?##content > div[style] > b:-abp-contains(Поделиться:)
+bst.bratsk.ru###content-main > .social-sharing-top ~ p
 crimea-news.com###currency
 mashyna.com.ua###custom_html-12
 fit4brain.com###dgd_scrollbox-7840
@@ -710,6 +711,7 @@ interfax.ru##.figureSocWrap
 www.bigmir.net##.fix310 > .stiky > .row.pb20
 parlament.ua##.fixed-social-link
 vtrende72.ru##.fixedbut
+bst.bratsk.ru##.fly-bottom-soc
 vz.ru##.fly-panel__social
 football24.ua##.follow-us-under-news
 fireman.club##.followandsub
@@ -2889,6 +2891,7 @@ wikihow.com###side_follow
 proroofer.ru#?##sidebar > .widget:-abp-has(> .textwidget > [target="popupwindow"])
 tapochek.net###sidebar1
 fakty.com.ua###single-subscribe-news
+bst.bratsk.ru###site-wrap > a[href]
 wikipedia.org###siteNotice
 dic.academic.ru,translate.academic.ru###skidki
 dic.academic.ru,translate.academic.ru###skidki_hint
@@ -4287,11 +4290,12 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="logged "][class*
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="logged "][class*=" b-page_"] div[class*="head-promo-plus"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[aria-label="Реклама"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##div[class*="sidebar"] .no-ads
+market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-apiary-widget-name="@MarketNode/EntryPointPopup"]
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-apiary-widget-name="@marketplace/WebimChat"]
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz,~pokupki.market.yandex.ru##div[data-apiary-widget-name^="@"][data-apiary-widget-name*="Promo"]
 afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yandex.uz##div[data-component="AfishaApp"]
 afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yandex.uz##div[data-component="FooterSubscribe"]
-market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-zone-data*="banner"]
+market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-zone-data*="banner"]:not([data-zone-name="deals-banner"])
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-zone-name="promoSection"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[id^="BlogPost"][data-state*="/promo/popup/"]
 !
@@ -25800,6 +25804,7 @@ _backToTop.
 ##.sendinblue-newsletter-mergefields
 ##.sendinblue-signup-subscribe-form
 ##.service-newsletter
+##.seva-overlay
 ##.sfsi_subscribe_Popinner
 ##.short-sign-up
 ##.shortcode-inline-newsletter
