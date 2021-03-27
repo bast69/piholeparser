@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3Pe7YmY03LMxsPImMjYiaw
-! Version: 202103260220
+! Checksum: WWJqlW6Eqh13iLmfTzakVw
+! Version: 202103270220
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 26 Mar 2021 02:20 UTC
+! Last modified: 27 Mar 2021 02:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -436,7 +436,7 @@ google.com###sub-tree-subscriptions
 myparcels.ru###sus-container
 study.ru###tabs_soc_wrap
 pl.com.ua,vesti.uz###telegram
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com###telegram-hdrezka-channel-block
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,rezkion.com,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com###telegram-hdrezka-channel-block
 prokazan.ru###telegram_subscription
 evtifeev.com###text-14
 economics-prorok.com###text-7
@@ -542,7 +542,7 @@ rns.online##.b-popular--social
 disk.yandex.ru##.b-popup-share__content [data-click-action="share.resource"]
 sobaka.ru##.b-post-view__section--social-groups
 sobaka.ru##.b-post-view__share
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-post__social_holder > div
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,rezkion.com,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-post__social_holder > div
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai#?#.b-projects > .b-projects__grid:-abp-has(> #fb-root)
 utro.ru##.b-repost
 m24.ru##.b-services-menu_footer
@@ -564,7 +564,7 @@ lenta.ru##.b-socials__email
 lenta.ru##.b-socials__sharing > :not(.b-socials__favorite)
 7days.ru##.b-stripe_content_footer-info > .b-stripe
 sobaka.ru##.b-telegram-promo
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-tg__wrapper
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,rezkion.com,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.b-tg__wrapper
 vc.ru##.b-widget-facebook
 vc.ru##.b-widget-vk
 hvylya.net##.b__share--buttons
@@ -962,6 +962,7 @@ sports.ru,tribuna.com##.poll-share
 kurufin.ru##.polotno + .add1
 720hd.club##.pon
 kulturologia.ru#?#.post > .colored2:-abp-has(> .fb-like)
+kod.ru##.post > .subscribe + .section__title
 radojuva.com.ua##.post-bodycopy > .bottomcontainerBox
 begemot-media.com#?#.post-content > div:-abp-has(> a[href^="https://telegram.me/"])
 bitexpert.io#?#.post-content > span:-abp-contains(/^Подписывайтесь на новости/)
@@ -1087,6 +1088,7 @@ freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(
 freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-head:-abp-contains(/Наш RSS|Наша Группа ВК/) + div
 ukrmir.info##.sidebar > .module-social > .module-inner > .module-title
 newdeaf.vip##.sidebar > .side-box > [href="/index.php?do=lastcomments"] ~ a[href]
+kod.ru#?#.sidebar > .sidebar__section:-abp-has(> .social-links)
 turkcinema.org##.sidebar > .widget-wrap > .widget_text
 cikavosti.com,vstx.org#?#.sidebar > .widget:-abp-has([href*="//t.me/"])
 1jazz.ru#?#.sidebar aside:-abp-has(> .textwidget > .ya-share2)
@@ -2459,7 +2461,6 @@ _userbar_$image
 ||get-styles.ru/media_files/*banner$image
 ||gidonline.club/im/bannertvk.jpg
 ||gismeteo.*/static/ny/
-||goodhouse.ru/_nuxt/VideoRecommendation_
 ||google.com/async/*&async=encoded_cache_key$xmlhttprequest,domain=google.com
 ||google.ru/async/*&async=encoded_cache_key$xmlhttprequest,domain=google.ru
 ||gorod.dp.ua/js/cookie.js
@@ -2946,7 +2947,7 @@ multiurok.ru###vue-bubble
 multiurok.ru###vue-popup
 diary.ru###w18p
 kurs.com.ua###weatherInformer
-diets.ru,povarenok.ru###web-push-sub
+diets.ru,kabluki.ru,povarenok.ru###web-push-sub
 spletnik.ru###webpush
 inforuss.info,lentaruss.ru###wpd-bubble-wrapper
 telegraf.com.ua###wrapperBlockUp
@@ -3505,6 +3506,7 @@ obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
 24tv.ua,football24.ua##.privete-polisy
 moya-planeta.ru##.products_list_full
 friday.ru##.project-slide__footer
+kod.ru##.promo
 studiohd.org##.promo-bl
 habr.com##.promo-block
 womo.ua##.promo-block-subscribe
@@ -3659,7 +3661,7 @@ forklog.com##.terms_popup
 hi-news.ru##.text > p > code.large-text
 lifeha.ru##.textwidget
 molodostivivat.ru##.textwidget > a[href][target="_blank"]
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.tg__info_block_wrapper
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,rezkion.com,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.tg__info_block_wrapper
 vedomosti.ru##.the-header-announce
 proekt.media##.tile--subscribe
 efxi.ru##.titleblock
@@ -4577,6 +4579,7 @@ myshared.ru#@#.ya-share2_inited
 @@||static1.1tv.ru/resources/jquery.smartbanner.js$script,domain=1tv.ru
 @@||syndication.twimg.com/widgets/timelines/$script,domain=kg-portal.ru
 @@||talon.by/squeeze/$domain=talon.by
+@@||tltonline.ru/images/transparent-pixel.png|$image,domain=tltonline.ru
 @@||trinixy.ru/engine/classes/min/index.php$script,domain=trinixy.ru
 @@||twitter.com/js/timeline.$third-party,script,domain=kg-portal.ru
 @@||twitter.com/widgets.js|$domain=slon.ru
