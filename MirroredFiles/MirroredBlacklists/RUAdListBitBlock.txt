@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nbVn6iBK95mcnw9E/UMgBA
-! Version: 202103280120
+! Checksum: yECJcHMTIcrTd0jko4RuNQ
+! Version: 202103290130
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 28 Mar 2021 01:20 UTC
+! Last modified: 29 Mar 2021 01:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -918,6 +918,7 @@ censor.net##.news-social-wrapp [class^="read-in-"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-story__share
 inoprosport.ru##.news__block_social_wrap
 crimea-news.com##.news_info > .tags
+kursk-izvestia.ru##.newsimg_soc
 glavnoe.ua##.newssocial-label
 shostka.info##.ni-share
 minsknews.by##.nk_soc_links
@@ -1426,6 +1427,7 @@ acomics.ru##:not(.authors) > .social
 ok.ru##:not([title^="Войти через"]) > .social-icon
 animedub.ru##[alt="Группа вконтакте"]
 www.kinopoisk.ru##[class*="footer"] > [class*="social-section"]
+manutd.ru##[class*="new_graphic soc_"]
 cn.ru##[class*="socnets"]
 kanobu.ru##[class="i_p d-b"]
 meduza.io##[class^="Toolbar-module_list"] > [class^="Toolbar-module_item"]:not(:last-child)
@@ -2613,6 +2615,7 @@ _userbar_$image
 ||vk.com/feed*.php?act=widget$xmlhttprequest,domain=mail.ru
 ||vk.com/video_ext.php?*&autoplay=1$subdocument,domain=igromania.ru|kanobu.ru
 ||vk.com/widget_post.php$domain=kritika24.ru
+||vkurske.com/gdpr_ajax/
 ||vseiski.ru/consultant/
 ||web.webformscr.com^$domain=3dnews.ru
 ||wikimedia.org/wiki/Special:BannerLoader?$domain=wikipedia.org
@@ -3039,6 +3042,7 @@ rambler.ru##.article__read-also
 mk.ru##.article__subscription
 kinoafisha.info##.article_footer_more > .article_channels
 unian.info,unian.net,unian.ua##.article_vb
+kursk-izvestia.ru##.articles > article ~ noindex ~ p > strong
 news.nur.kz##.aside > .animated
 sports.ru#?#.aside-news-list__item:-abp-has(a[href^="https://trbna.co/"])
 lamoda.ru##.auth-social__item_ml
@@ -3222,6 +3226,7 @@ liga.net##.donation-list-block
 risu.ua##.donation-popup-wrapper
 gnatkovsky.com.ua##.donts
 translate.ru##.download-mobile
+playground.ru##.download-player-holder
 dni24.com##.dtop
 car.ru##.dzen
 agronomy.com.ua##.eb-inst
@@ -3506,6 +3511,7 @@ kinoafisha.ua##.privacy-modal
 hvylya.net,hyser.com.ua,politeka.net,ukrainianwall.com,znaj.ua##.privacy-policy
 obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
 24tv.ua,football24.ua##.privete-polisy
+vkurske.com##.pro-btn
 moya-planeta.ru##.products_list_full
 friday.ru##.project-slide__footer
 kod.ru##.promo
@@ -22353,6 +22359,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||fyre.co/*/facebook_share_post.png
 @@||gamingsociety.pl/wp-content/themes/$image
 @@||gannett-cdn.com^*/googleplus-user-account.js
+@@||garticphone.com/images/share/$image,~third-party
 @@||gcdn.co^*/social-sprite.webp$image,domain=tut.by
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
@@ -24260,6 +24267,7 @@ _backToTop.
 ###footer_block_newsletter
 ###footer_email_bar
 ###footer_newsletter
+###footer_newsletter_signup
 ###form-footer-newsletters
 ###form-newsletter-footer
 ###formNewsLetters

@@ -28,6 +28,7 @@ beautincollagen.rs
 bella9.rs
 benjamin-moore.rs
 bingoshop.rs
+bolnicaloznica.rs
 bookcom-54624596.showme.rs
 botting.rs
 bravax.co.rs
@@ -39,13 +40,13 @@ cplaw.rs
 creativeteam.co.rs
 decija.decija-garderoba.rs
 demico.rs
+dgroup.rs
 digitaldream.rs
 disco.publikum.rs
 domzdravljasd.rs
 dotmarket.rs
 ducan.sprej.rs
 dzzrenjanin.rs
-ecu.edu.rs
 efs.co.rs
 efsbg.yunethosting.rs
 elsa.org.rs
@@ -162,7 +163,6 @@ stavros.co.rs
 stek.rs
 storgas.co.rs
 stranijezici.edu.rs
-student.ecu.edu.rs
 superbit.rs
 tecasi.rs
 tehnopan.rs

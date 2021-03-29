@@ -336,7 +336,6 @@ cateroo.id
 catur.ukm.undip.ac.id
 cbn-cargo.co.id
 cbt.co.id
-cbt.sman1paguyaman.sch.id
 ce.unnes.ac.id
 cellindosigma.co.id
 celotehanalumni.or.id
@@ -514,7 +513,6 @@ duniagames.10xze.my.id
 duniagaya.id
 dutadamaijawatengah.id
 dutadharma.co.id
-dw2.co.id
 dwebdesign.web.id
 dwimitraselaras.co.id
 e-absen.id
@@ -1240,6 +1238,7 @@ ojs.budimulia.ac.id
 omahcorp.co.id
 omahyangti.co.id
 online.tesco.creditcardaccounts.co.ukonlinebanking.multimediasmkalhudakdr.id
+ont.proman.id
 ookatthat.tokofawaid.co.id
 opac.fteol-ukit.ac.id
 openstreetmap.id
@@ -1292,6 +1291,7 @@ paypalme.maliku-baru.id
 pbs.fkip.unja.ac.id
 pci-sepuluh.id
 pcmsumberrejo.or.id
+pdamkarawang.id
 pdri.or.id
 peacefulbirth.id
 pearland.co.id
@@ -1362,9 +1362,7 @@ poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
 potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
-ppdb.sman1paguyaman.sch.id
 ppdb.smk-ciptaskill.sch.id
-ppdb.smpitalfirdauspwd.sch.id
 ppg-daljab.ump.ac.id
 ppid.posokab.go.id
 ppl.ac.id
@@ -1932,6 +1930,7 @@ www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
 www.charisministries.id
+www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id

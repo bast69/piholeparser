@@ -37,7 +37,6 @@ cesl.co.ke
 cibcbankinguserverification09113ca.pathwaychurchministries.co.ke
 cityride.co.ke
 com.se.ke
-config.co.ke
 conicscontractors.co.ke
 coolbreezegardens.co.ke
 crystalmotors.co.ke
@@ -222,7 +221,6 @@ security-measures-updates-information-id002.login.thelawfirm.co.ke
 selectfreshproduce.co.ke
 sepu.co.ke
 site.neoalchemy.co.ke
-site.sjc.co.ke
 skyboxtraders.co.ke
 skyhotel.co.ke
 skypremier.co.ke

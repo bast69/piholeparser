@@ -1,7 +1,6 @@
 8000plus.si
 active.si
 ad.partis.si
-ad.xmovies8.si
 ads.citymagazine.si
 ads.rtvslo.si
 ads.wave.si

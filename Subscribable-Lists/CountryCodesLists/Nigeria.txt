@@ -38,7 +38,6 @@ bleuhey.ng
 bmh.com.ng
 bmorealestate.com.ng
 bonbranding.com.ng
-bppgov.ng
 brandage.com.ng
 brighthopeschools.com.ng
 brooklynandbronx.com.ng
@@ -84,6 +83,7 @@ dropboxlogin.name.ng
 drumcussac.com.ng
 dubberman.com.ng
 e-v-kay.com.ng
+eandgdesign.com.ng
 earnhere.com.ng
 eazybiz.ng
 ebootcamp.com.ng
@@ -97,7 +97,6 @@ engneeringwork.wyattengineeringscope.com.ng
 enigeria.gov.ng
 enuguxtendchapters.org.ng
 et-transfer-lnterac-confirmation.periscopeandsights.com.ng
-events.mayein.org.ng
 everlastingcare.com.ng
 evesedge.com.ng
 expoking.com.ng
@@ -140,9 +139,9 @@ instantcashflowtoday.com.ng
 instantserviceatchaseupdateserver.chasebankupdateservice.com.ng
 instlaboost.com.ng
 intersightoptions.com.ng
+intertex.com.ng
 invoices.iwepeaceconsult.com.ng
 ism.edu.ng
-ismf.com.ng
 isviralgram.com.ng
 itecwh.com.ng
 jameshopecollege.edu.ng
@@ -179,6 +178,7 @@ marketing.net.jumia.com.ng
 marketingspace.com.ng
 marketprice.com.ng
 masoic.com.ng
+maxweir.com.ng
 mbgnc.com.ng
 mbta.com.ng
 mcss.sch.ng
@@ -265,7 +265,6 @@ sloutionenglishdor.com.ng
 sodakventures.com.ng
 soltraghotels.com.ng
 sorvictech.com.ng
-souvenirs.ng
 speedfolks.com.ng
 starlightstonesandconstructions.com.ng
 streamlinebasicsolution.com.ng

@@ -267,7 +267,6 @@ comandor-impex.ro
 complexaropalace.ro
 comsertim.ro
 comunaghergheasa.ro
-conceptimagine.ro
 concurs.kzh.hi2.ro
 conferintahrb.ro
 consacre.ro
@@ -621,7 +620,6 @@ mbctrans.3x.ro
 media.agentiecasting.ro
 mediadvertising.ro
 medicalmarketing.ro
-medicine.softberg.ro
 mediere-croma.ro
 meditur.ro
 mega-clean.ro
@@ -871,7 +869,6 @@ saltele-online.ro
 sampax.ro
 sanlux.ro
 sans.ro
-sapac.ro
 saulescupredeal.licee.edu.ro
 save-selfsecurity.ro
 sbxelb.bonprix.ro
@@ -1053,7 +1050,6 @@ usxe5eqstjo3dhyeforo.viomil.ro
 utransilvania.ro
 vacantela.ro
 valiumvalium.3xforum.ro
-vanzare.cabanabrazi2.ro
 vcalinus.gemenii.ro
 ventdepot.ro
 ventrust.ro
@@ -1124,7 +1120,6 @@ www.jbe.ro
 www.joinfree.ro
 www.loto.ro
 www.matrimoniale3x.ro
-www.mokarico.ro
 www.nikos-service.ro
 www.onechicjoy.blogspot.ro
 www.paidclick.ro

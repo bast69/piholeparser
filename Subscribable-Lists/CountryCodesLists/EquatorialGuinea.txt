@@ -1002,6 +1002,8 @@ netease-163mail-com.gq
 netmegs.gq
 networking-analog484.gq
 new-login-fb.gq
+newspl.gq
+newsweekpl.gq
 nextbackgroundcheck.gq
 nhovlrx.gq
 nightmarefile.gq
@@ -1542,6 +1544,8 @@ www.mlcr0soft.gq
 www.mlcros0ft.gq
 www.msdfxtk.gq
 www.mwor.gq
+www.newspl.gq
+www.newsweekpl.gq
 www.nhovlrx.gq
 www.njgnbke.gq
 www.nxfvcxu.gq

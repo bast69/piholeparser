@@ -90,6 +90,7 @@ ads.marry.vn
 ads.netlinkad.vn
 ads.nghenhinvietnam.vn
 ads.novanet.vn
+ads.pcccdongduong.vn
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
@@ -201,6 +202,7 @@ analytics.vietnamfinance.vn
 analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.yomedia.vn
+analytics.zapps.vn
 anc.mangoads.vn
 andinh.com.vn
 angkortours.vn
@@ -219,6 +221,7 @@ api.adfly.vn
 api.adtima.vn
 api.adtimaserver.vn
 api.ladipage.vn
+api.mobio.vn
 api.nas.nct.vn
 api.ozui.vn
 api.piads.vn
@@ -231,10 +234,12 @@ apinas.nct.vn
 apk.adflex.vn
 app.ants.vn
 app.brand.zing.vn
+app.mobio.vn
 app.slimads.vn
 app.subiz.com.vn
 appdigitalstory.admicro.vn
 apps.ants.vn
+arcbox.vn
 artexport.com.vn
 athenacomplexhoangmai.vn
 atrack-a.anthill.vn
@@ -253,6 +258,7 @@ banglaixe.vn
 bankofamerica.com.myaccounts.smv.vn
 banner.5giay.vn
 banner.brand.zing.vn
+banner.etargeting.mobifone.vn
 banner.novanet.vn
 banner.thadaco.vn
 banner.vietnamfinance.vn
@@ -290,6 +296,7 @@ blog.kapy.vn
 blog.saigon247.vn
 blogstatistics.sapoapps.vn
 blxuue.phukienonline.com.vn
+bm.stats.vng.com.vn
 booking.mediaz.vn
 boxapp.admicro.vn
 boxpr.admicro.vn
@@ -304,6 +311,7 @@ buigiaphat.com.vn
 builder.ladipage.vn
 business.cleverads.vn
 bwstatistics.bizwebapps.vn
+bwstatistics.sapoapps.vn
 c.d.eclick.vn
 c.eclick.vn
 c.logging.admicro.vn
@@ -521,6 +529,7 @@ ecotourhoian.com.vn
 ecpmedia.vn
 eie.edu.vn
 elasticsearch.mangoads.vn
+elink.nhanlucnganhluat.vn
 emailadvertising.vn
 emarketing.eclick.vn
 emitech.jones.vn
@@ -727,6 +736,7 @@ kmqm.com.vn
 koithe.vn
 konoikevina.com.vn
 kpi.admicro.vn
+kpi.stats.vng.com.vn
 kv-analytics.kiotviet.vn
 kymviet.vn
 l.a.eclick.vn
@@ -830,6 +840,7 @@ logs.thethaovanhoa.vn
 logs1.reatimes.vn
 logsbin.dantri.com.vn
 logv2.mp3.zing.vn
+loind.mobio.vn
 lomo.com.vn
 longvanceramics.com.vn
 lopandam.kidsplaza.vn
@@ -862,6 +873,10 @@ marketing.frv.edu.vn
 marketingai.admicro.vn
 marketingauto.e-learning.admicro.vn
 maryland.kovo.vn
+matomo.ecoe.vn
+matomo.energyfacility.vn
+matomo.shac.vn
+matomo.vepg.vn
 mautic.akhoe.vn
 mautic.bizgift.vn
 mautic.casso.vn
@@ -939,6 +954,7 @@ mlc.vn
 mne.edu.vn
 mobile.novanet.vn
 mobilead.vn
+mobio.vn
 mocdong.com.vn
 modularhouse.vn
 moitruongnhietdoi.vn
@@ -984,6 +1000,7 @@ noithatnhathoang.vn
 noithatviet24h.vn
 nongthonmoi.daknong.gov.vn
 nori.com.vn
+notebook.stats.vng.com.vn
 notify.brand.zing.vn
 novanet.vn
 novaon.vn
@@ -1010,6 +1027,7 @@ org.zaloapp.ads.zdn.vn
 origin-c0.anthill.vn
 origin-e.anthill.vn
 origin-st-a.anthill.vn
+oss.stats.vng.com.vn
 otosinh.vn
 ovudil.sendo.vn
 ox1.vietstock.vn
@@ -1071,6 +1089,7 @@ publisher.admicro.vn
 pushdy.vn
 qamedia.vn
 qbros.vn
+qc.5giay.vn
 qc.coccoc.vn
 qc.itsgroup.vn
 qc.japo.vn
@@ -1204,6 +1223,7 @@ ss.yomedia.vn
 ssl.ladipage.vn
 sslstatic.yomedia.vn
 sso.admicro.vn
+sso.stats.vng.com.vn
 sspapi.admicro.vn
 ssprtb.admicro.vn
 sspsrv.admicro.vn
@@ -1246,6 +1266,7 @@ static.yomedia.vn
 static2.adflex.vn
 static2.adtimaserver.vn
 staticad.thethao247.vn
+statis.dsp.vn
 statistic.batdongsan.com.vn
 statistics.tapchimypham.com.vn
 statistics.vov.vn
@@ -1257,12 +1278,12 @@ stats.muasamcong.gov.vn
 stats.petrotimes.vn
 stats.sapo.vn
 stats.vietnammoi.vn
+stats.vng.com.vn
 stc.adtima.vn
 stc.interactive.brand.zing.vn
 stiad.eclick.vn
 stla.eclick.vn
 stportal.eclick.vn
-stracking.zalopay.vn
 stream.adtimaserver.vn
 stream.org.adtimaserver.vn
 streaming.interactive.brand.zing.vn
@@ -1283,6 +1304,7 @@ t.d.adx.vn
 t.d.ants.vn
 t.d.eclick.vn
 t.eclick.vn
+ta.toprework.vn
 tamco.vn
 tankhoi.vn
 tanthanhdanh.vn
@@ -1337,7 +1359,6 @@ tientrienseafood.com.vn
 tiki.ants.vn
 tinhbotxanh.vn
 tinnha.vn
-tka.tiki.vn
 tlk.mediaz.vn
 tls.net.vn
 tmp.adflex.vn
@@ -1355,6 +1376,7 @@ track.icheck.com.vn
 track.kyna.vn
 track.sendo.vn
 track.srv.vietnamnet.vn
+track.vio.edu.vn
 tracker-29.logger.vsmarty.vn
 tracker.fado.vn
 tracker.phunuvagiadinh.vn
@@ -1363,6 +1385,7 @@ tracking.ad360.vn
 tracking.adflex.vn
 tracking.aita.gov.vn
 tracking.api.media.zapps.vn
+tracking.banner.g6.zing.vn
 tracking.cleverads.vn
 tracking.dantri.com.vn
 tracking.dinos.vn
@@ -1512,6 +1535,7 @@ www.adtima.vn
 www.alivar.vn
 www.anthill.vn
 www.ants.vn
+www.arcbox.vn
 www.cleverads.vn
 www.clevernet.vn
 www.codon.vn
@@ -1532,6 +1556,7 @@ www.lifelabs.vn
 www.mangoads.vn
 www.mediaz.vn
 www.microad.vn
+www.mobio.vn
 www.nitaphar.com.vn
 www.novanet.vn
 www.novaon.vn

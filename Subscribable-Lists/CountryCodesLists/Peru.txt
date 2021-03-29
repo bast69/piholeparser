@@ -35,6 +35,7 @@ bvt.com.pe
 byvingenieria.com.pe
 caballerobustamante.com.pe
 cajpe.org.pe
+campusvirtual.cepsanjuanbosco.net.pe
 cappuno.org.pe
 casasur.pe
 cbmetal.com.pe
@@ -100,7 +101,6 @@ expertise-solutions.com.pe
 facebook-log-in-attempt-customer-ticket-id-73653324236762742335.caberysac.com.pe
 facebooks2020.verahoraaqui.clan.pe
 filtroswillybusch.com.pe
-fixit.com.pe
 flocchem.com.pe
 floresysorpresas.pe
 fundomaranello.com.pe
@@ -239,7 +239,6 @@ sei.com.pe
 semmaq.com.pe
 servican.pe
 sillasderuedas.pe
-sinautsunat.org.pe
 smetrics.interbank.com.pe
 smetrics.interbank.pe
 smetrics.interbankbenefit.pe
@@ -261,6 +260,7 @@ tododinos.pe
 topodesia.com.pe
 totaltravel.com.pe
 trascendenza.pe
+trescumbres.pe
 triplearq.com.pe
 tuarquitectura.com.pe
 tych.pe

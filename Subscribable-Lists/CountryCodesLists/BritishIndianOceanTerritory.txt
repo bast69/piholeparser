@@ -381,6 +381,7 @@ api.radar.io
 api.redshell.io
 api.repro.io
 api.sagent.io
+api.sampy.io
 api.sdk.wiman.io
 api.segment.io
 api.simpleanalytics.io
@@ -497,7 +498,6 @@ bdb2e2e2.ngrok.io
 bdx.luckypool.io
 beacon.flow.io
 beacon.searchspring.io
-beacons-ipv4.extremereach.io
 beacons.extremereach.io
 beacons2.extremereach.io
 beast.faucethub.io
@@ -526,6 +526,9 @@ bitc.luckypool.io
 bitc.youpool.io
 bitcash.luckypool.io
 bitcoadz.io
+bitcoin-loophole.io
+bitcoinchampion.io
+bitcoinera.io
 bitcoinlifestyle.io
 bitcoinsilver.io
 bitcoinup.io
@@ -806,6 +809,7 @@ dev-fbapps.pantheonsite.io
 dev-fewfewfewfew.pantheonsite.io
 dev-gdj.pantheonsite.io
 dev-goat-203.pantheonsite.io
+dev-interestingtech.pantheonsite.io
 dev-linkedin-com.pantheonsite.io
 dev-made-in-china-com-id1babp0gud5bpg9abid-securelogin.pantheonsite.io
 dev-made-in-china-com-id976543821.pantheonsite.io
@@ -1253,6 +1257,7 @@ infinia.eu-west-1.stinger-ad.bidr.io
 info-updatepplsupe.ngrok.io
 infocheckxahwozvdjtvv1l08.burrow.io
 infodetailschecku43z9ejrr6qmhg5nzbk5.burrow.io
+infoee.gitlab.io
 infors.sp.backtrace.io
 ing.pl.proxy.c7s.io
 ingame.flygame.io
@@ -1608,6 +1613,7 @@ o1.alerts.hashflare.io
 o1.email.keen.io
 o1r0ew0h-android-5-1-4.mobile-sdk-api.intercom.io
 o2.marketing.hashflare.io
+o430870.ingest.sentry.io
 o8n9c.codesandbox.io
 oaq.io
 octomerris.getforge.io
@@ -1964,6 +1970,7 @@ shapishift.io
 share.chamaileon.io
 sharebutton.io
 shark-clean.extole.io
+shatteredglass.io
 she.said.districtm.io
 shg.luckypool.io
 shg2.luckypool.io
@@ -2461,6 +2468,9 @@ www.betastratum.coinking.io
 www.bethub.io
 www.bidserver.clickpapa.io
 www.bitcoadz.io
+www.bitcoin-loophole.io
+www.bitcoinchampion.io
+www.bitcoinera.io
 www.bitcoinlifestyle.io
 www.bitcoinrush.io
 www.bitcoinup.io
@@ -2553,6 +2563,7 @@ www.hashzone.io
 www.hentaimama.io
 www.hexamining.io
 www.ho.io
+www.infoee.gitlab.io
 www.ing.pl.proxy.c7s.io
 www.insights.algolia.io
 www.intercom.io

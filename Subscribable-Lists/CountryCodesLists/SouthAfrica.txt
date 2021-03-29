@@ -11,7 +11,6 @@
 911beautystudios.co.za
 a2zcarsales.co.za
 aande.s2designsolutions.co.za
-aatreefelling.co.za
 abacus4maths.co.za
 abantumarket.co.za
 abkayeservices.co.za
@@ -152,7 +151,6 @@ bettingworld.co.za
 betxchange.co.za
 bi-rite.co.za
 biggloria.co.za
-bigmikesupplies.co.za
 bigskylights.co.za
 bilhen.co.za
 billboards-signs.co.za
@@ -376,10 +374,8 @@ dstvincapetown.co.za
 durbanbusinesscollege.co.za
 dutapp.wisolve.co.za
 dynamicrental.co.za
-dzspetroleum.co.za
 e-document.frsteel.co.za
 e-learning247.co.za
-ea-nutritions.coastalpc.co.za
 eagarpienaar.co.za
 earecords.co.za
 earthproafrica.co.za
@@ -566,7 +562,6 @@ howcanweprotectyou.co.za
 howzatmedia.co.za
 hrmonline.co.za
 hsbekker.co.za
-hubinfo.co.za
 hubtech.co.za
 i-mediate.co.za
 ib-absab.co.za
@@ -578,7 +573,6 @@ imbueautoworx.co.za
 imbuyiso.co.za
 imeconsulting.co.za
 imisebe.co.za
-imperiumtherapy.co.za
 imultimedia.co.za
 imvomvo.co.za
 imvusatrading.co.za
@@ -595,7 +589,6 @@ internal.adu.org.za
 internationalexpress.co.za
 intranet.isoflow.co.za
 iqf-sa.co.za
-isiphephelocon.co.za
 islamtoday.co.za
 itandall.co.za
 ithubainternships.co.za
@@ -641,6 +634,7 @@ kineticcc.org.za
 king-price-mail.co.za
 kingprice-mail.co.za
 kingscatering.co.za
+kingssa.co.za
 kiteye.co.za
 kleinendeli.co.za
 kre-8.co.za
@@ -790,7 +784,6 @@ msrhs.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
-mumgee.co.za
 musgraveracing.co.za
 mvulabnb.co.za
 myadsl.co.za
@@ -846,7 +839,6 @@ onex.co.za
 onlydestiny.co.za
 onyx.co.za
 openquote.co.za
-openx.aosis.co.za
 openx.co.za
 opinions-count.co.za
 optimumwellnesstestbuild.co.za
@@ -883,7 +875,6 @@ pentacompza.co.za
 pepepiatto.co.za
 perfect10westwood.co.za
 personastaff.co.za
-petlele.co.za
 petrievnphotography.co.za
 phdesign.co.za
 phokwanetech.co.za
@@ -940,6 +931,7 @@ raliiletradings.co.za
 ramphosis.co.za
 randburgardens.co.za
 randpassconsulting.co.za
+rashika.ascarvalho.co.za
 rawi.co.za
 rcp.co.za
 receive.capetradefinance.co.za
@@ -959,6 +951,7 @@ richwayfinancialservices.co.za
 riebens.co.za
 rikennedy.co.za
 rimpfumelo.co.za
+rinaefoundation.org.za
 ripenesseffective.co.za
 rippeleffect.co.za
 risingstarawards.co.za
@@ -972,7 +965,6 @@ rootedorigin.co.za
 rootsshop.co.za
 roundtablesa.co.za
 royalblue.co.za
-rrrstylin.co.za
 rubikolholdings.co.za
 rudzconcepts.co.za
 rustonc.co.za
@@ -989,7 +981,6 @@ sagenerators.co.za
 sainform.co.za
 sainsleads.co.za
 saintignatiouscollege.co.za
-sainzim.co.za
 sakaza.co.za
 salocalserv.co.za
 saluremakers.co.za
@@ -1022,7 +1013,6 @@ sebata.co.za
 secbusiness101.co.za
 secure.bankofamerica.com.login-access.decorhireco.co.za
 securecrm.co.za
-secureportalforapplle.shalommissionarychurchsa.co.za
 segakwengassociates.co.za
 segalsmetals.elin.co.za
 selesho.co.za
@@ -1213,8 +1203,6 @@ tasteofindiarestaurant.co.za
 tctsautobody.co.za
 teachingmathsforunderstanding.co.za
 tecserv.co.za
-teneth.co.za
-test20.coastalpc.co.za
 thatchpro.co.za
 the-zones.co.za
 thecodeshop.co.za
@@ -1233,7 +1221,6 @@ thubagutsa.co.za
 thulilekhanyile.co.za
 thuthukanisports.co.za
 tiffany-functions.co.za
-timamollo.co.za
 timbalok.co.za
 tinacowleyeversdal.co.za
 titaniumcorporate.co.za
@@ -1244,7 +1231,6 @@ toette_durbanhighschool.co.za
 top-ultimateintl.co.za
 topdottourism.co.za
 topengineers.co.za
-topmask.co.za
 totalcover-sa.co.za
 tourismkwadukuza.co.za
 tpg-gauteng.co.za
@@ -1252,6 +1238,7 @@ track-lost-device.co.za
 tracking.iol.co.za
 tracstar.co.za
 train6.netwisedev6.co.za
+travelwithmanta.co.za
 treefellinggroup.co.za
 trevoffs.co.za
 trevorwilliams.co.za
@@ -1373,6 +1360,7 @@ www.capturecreative.co.za
 www.cctvalberton.co.za
 www.coronavirustestkit.co.za
 www.cumtree.co.za
+www.curasoles.co.za
 www.document.pdf.kfunk.co.za
 www.freeelectricity.co.za
 www.glamourgirls.co.za
@@ -1382,7 +1370,6 @@ www.justbet.co.za
 www.marketingmachine.co.za
 www.matildas.co.za
 www.mbet.co.za
-www.mediamaster.co.za
 www.myadsl.co.za
 www.nationallottery.co.za
 www.openx.co.za

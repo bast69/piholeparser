@@ -218,7 +218,6 @@ edmond.hu
 eductronic.hu
 edzok.hu
 edzom.hu
-egereged.otthonfurdoszoba.hu
 egeszsegespont.hu
 ekcami.hu
 elektro54.hu
@@ -299,6 +298,7 @@ hakkendesign.hu
 hasbean.hu
 hasznaltgumivetel.hu
 hayalegal.pe.hu
+hdkamera2003.hu
 hebkft.hu
 hefa.hu
 help-info-us.pe.hu
@@ -438,7 +438,6 @@ mkkm.hu
 mlweb.dmlab.hu
 mobilborbar.hu
 modernotthon.hu
-modularch.hu
 moncsipirograf.hu
 motowell-robogo.hu
 multimix.hu
@@ -646,6 +645,7 @@ tormasport.hu
 tothcsirke.hu
 totszentmarton.hu
 tpc.hu
+tpke.hu
 tr.affiliate.hu
 tracking.tchibo.hu
 traffic.index.hu
@@ -746,6 +746,7 @@ www.hotbull.hu
 www.hunszex.hu
 www.ize.hu
 www.kedvesek.hu
+www.ksh.hu
 www.lesbian.hu
 www.miqsoft.hu
 www.naked.hu

@@ -8,7 +8,6 @@ artra.lk
 arugamlanka.lk
 asialankatravels.lk
 axisca.lk
-beta.itslanka.lk
 bibile.ps.gov.lk
 birdx.lk
 blog.duino.lk
@@ -36,6 +35,7 @@ duluxshop.lk
 eeewwwwwwee.jvp.lk
 facebookus-25094498.cleansol.lk
 forwardhomes.lk
+freedombookshop.tickme.lk
 freelancer.lk
 furniturefactory.lk
 glamourd.lk
@@ -55,7 +55,6 @@ imperial.lk
 infomatum.lk
 interfaith.lk
 ircsl.gov.lk
-itslanka.lk
 jkdca.lk
 justkidding.lk
 kandyleisure.lk
@@ -64,8 +63,8 @@ kentridge.lk
 khanqahzakariya.lk
 kotahenacc.sch.lk
 lankasugar.lk
+lawforall.edu.lk
 lvision.lk
-m.itslanka.lk
 magento.lk
 manjulahandapangoda.lk
 mapiyawandana.lk
@@ -93,6 +92,7 @@ sibweb.lk
 signplus.lk
 sindbad.lk
 skytel.lk
+solar.amazingtribe.lk
 sriarcsolutions.lk
 srisaranankara.sch.lk
 styling.lk
@@ -101,10 +101,12 @@ swarnajayanthiosa.lk
 temp.tara.edu.lk
 thairose.lk
 themotivator.lk
+tickfood.tickme.lk
+tickjobs.tickme.lk
+tickmart.tickme.lk
 tmgomas.lk
 twcorp.lk
 uniqueacademy.lk
-v1.itslanka.lk
 virusara.gov.lk
 vjcon.lk
 wasanacare.lk

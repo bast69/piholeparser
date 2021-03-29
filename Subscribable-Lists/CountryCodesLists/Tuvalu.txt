@@ -121,7 +121,6 @@ ads.samba.tv
 ads.sexgratuit.tv
 ads.sexhihi.tv
 ads.smartstream.tv
-ads.staging.superawesome.tv
 ads.static.blip.tv
 ads.superawesome.tv
 ads.tnt.tv
@@ -296,7 +295,6 @@ cdn.discoveryad.castoola.tv
 cdn.go.affec.tv
 cdn.hog.tv
 cdn.ispot.tv
-cdn.javdoe.tv
 cdn.pinklabel.tv
 cdn.shoofle.tv
 cdn.teads.tv

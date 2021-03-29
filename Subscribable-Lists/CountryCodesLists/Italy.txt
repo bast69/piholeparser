@@ -1428,6 +1428,7 @@ kutt.it
 kyscanner.it
 l.heatmap.it
 l2.heatmap.it
+lab18.it
 labobit.it
 laboratoriosca.it
 labottegadellulivo.it
@@ -1489,7 +1490,6 @@ lilzeuansj.it
 limmobiliareweb.it
 lineahandy.it
 lineaserramenti.it
-lineavabit.it
 linkz.it
 linuxcdstore.it
 lionsclubpaderno.it
@@ -1606,7 +1606,6 @@ maurobb.freecounter.it
 maurocesari.it
 maxhotel.it
 maxisport.it
-maxmacelleria.it
 mazzarellisrl.it
 mbastudio.it
 mcgrafica.it
@@ -1722,6 +1721,7 @@ mymetanet1db1351enet.neamar.it
 myosushi.it
 myshoppingclub.it
 mystat.it
+mysura.it
 n26-impostazioni-sicurezza.it
 nacoaudit.it
 namifitnessclub.it
@@ -1764,7 +1764,6 @@ noema2k.it
 noitennisvacanze.it
 noleggioautopadova.it
 nomak.it
-nomuos.it
 noncontribuito.nexive-shop.it
 noreply-team.it
 northpoleitalia.it
@@ -1892,6 +1891,7 @@ partidiricambio24.it
 paruamodel.it
 pasticceriabonci.it
 pasticceriacasteldebole.it
+pasticcerialonghitano.it
 patriciabb.it
 patro.it
 pattinodanza.it
@@ -2139,7 +2139,6 @@ santissimo.it
 sapol.it
 sarabernardelli.it
 satelliteshop.it
-saveriopiazza.it
 sazzinisrl.it
 sblocko-conto.it
 sbo.it
@@ -2340,6 +2339,7 @@ studiodiconsulenzalavoro.it
 studiogiardasrls.it
 studiolagrasta.it
 studiolegalecsb.it
+studiologosstp.it
 studiomariano.it
 studiomascellaro.it
 studionostro.it
@@ -2387,7 +2387,6 @@ techno-shop.it
 tecnoaffilatura.it
 tecnodrinktrento.it
 tecnologicapavan.it
-tecnoteakviareggio.it
 telefoni.it
 telefoniabologna.it
 teleglobalsecurity.it
@@ -2442,12 +2441,10 @@ timeout-91770581.bebcristiano.it
 timeout-93067743.bebcristiano.it
 timeout-94727942.bebcristiano.it
 titolari.cartabccc.it
-tivolibasket.it
 tkustom.it
 tolpeit.it
 tomcarservice.it
 tomshw.corley.it
-tonivedu.it
 top100.mrwebmaster.it
 top100.tuttoperinternet.it
 totalfitness.it
@@ -2563,7 +2560,6 @@ vinicolacherchi.it
 vinoinvilla.it
 visitors.dooyoo.it
 viteonlusarezzo.it
-viveresaniesnelli.it
 vmservice.it
 volontariatoeuropeo.it
 volturi-amo.it
@@ -2588,6 +2584,7 @@ wetrack.it
 widget.promoqui.it
 wikidesign.it
 willblackedruverstaredman.it
+winnercircle.it
 wklm.it
 wnt-40.seeweb.it
 wonderstore.it
@@ -2705,6 +2702,7 @@ www.p2pool.soon.it
 www.paginelucirosse.it
 www.panel.home.pl.frustone.it
 www.panel.home.pl.muna.it
+www.pasticcerialonghitano.it
 www.paypaal.it
 www.piccoletrasgressioni.it
 www.placehold.it
@@ -2742,6 +2740,7 @@ www.smecom.it
 www.stage.edilnord.it
 www.stageportieri.it
 www.statistiche.it
+www.studiologosstp.it
 www.superzeta.it
 www.technix.it
 www.testimone-di-nozze.it
@@ -2776,7 +2775,6 @@ yespornplease.it
 yhoo.it
 yourcustomerstats.it
 youtoner.it
-youtubologia.it
 zadigroma.it
 zahlung.hostpoint.ch.verricars.it
 zahlung.hostpoint1.ch.soluzioniperleimprese.it
@@ -2790,6 +2788,5 @@ zanfo.it
 zatitaproduction.it
 zeoiamiservicemina.it
 zero1.it
-zirondelli.it
 zovena.it
 zssdi.it

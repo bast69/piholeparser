@@ -19,6 +19,7 @@ ads.centralmedia.ws
 ads.katz.ws
 ads.thebugs.ws
 adsecxnet.ws
+adserver.madeby.ws
 adultload.ws
 adwareremover.ws
 agel4u.ws

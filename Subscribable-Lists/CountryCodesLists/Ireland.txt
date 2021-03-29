@@ -38,6 +38,7 @@ bogstandard.ie
 booknest.ie
 breakingnews.ie
 broleceng.ie
+bubblesballoons.ie
 bushido.ie
 buyandsell.ie
 cabracc.ie
@@ -260,7 +261,6 @@ secure.irs.gov.us.irishgrainassurance.ie
 short.ie
 skyray.ie
 smackboxing.ie
-smackwear.ie
 smartcandle.ie
 smetrics.irishjobs.ie
 smetrics.jobs.ie
@@ -307,6 +307,7 @@ wildcard.hgps.ie
 word.fingalcsrnetwork.ie
 wrk.fingalcsrnetwork.ie
 www.breakingnews.ie
+www.bubblesballoons.ie
 www.curranco.ie
 www.flog.ie
 www.lottery.ie

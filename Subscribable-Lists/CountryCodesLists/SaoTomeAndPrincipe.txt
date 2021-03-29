@@ -6,7 +6,6 @@
 3jyf.adj.st
 3kmh.adj.st
 3p3x.adj.st
-3swu.adj.st
 3zpt.adj.st
 3zq8.adj.st
 4495.adj.st
@@ -531,7 +530,6 @@ unpalpedhf.st
 unsparseck.st
 uqp6.adj.st
 uu4c.adj.st
-uy2r.adj.st
 v1.srv.eligius.st
 v2.srv.eligius.st
 v3.srv.eligius.st

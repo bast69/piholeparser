@@ -111,6 +111,7 @@ cer.salu.edu.pk
 cgassociates.pk
 championfoods.com.pk
 chandni.pk
+chappals.pk
 chaseinn.pk
 chateauroyal.com.pk
 checkcheck.pk
@@ -166,7 +167,6 @@ edgeview.com.pk
 eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
-emaz.pk
 ems.ecom.pk
 enqlab.pk
 envatomarket.pk
@@ -399,7 +399,6 @@ prowiders.com.pk
 ptoti.pk
 puffing.com.pk
 punjabdevelopersassociation.com.pk
-pureaqua.pk
 pureherbs.pk
 pushing.pk
 qims.edu.pk
@@ -497,12 +496,10 @@ usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp-home.roofwaterproofing-
 usaa.logon.cec.com.pk
 usaaa.com.paymernt.account.accep.sabdekho.pk
 utmc.com.pk
-v-tech.com.pk
 valueserve.com.pk
 verificatucuentalbcp.mobilemoods.pk
 verify.almamaterschool.pk
 vigilance365.com.pk
-voin.staysafe.pk
 vputin.pk
 waksurgical.com.pk
 wearthis.pk

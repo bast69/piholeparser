@@ -83,6 +83,7 @@ ayrpro.com.mx
 azcarm.com.mx
 bajatel.mx
 balcam.com.mx
+balealgodon.mx
 banamex-bancanet.com.mx
 banamex-rl.com.mx
 banamex-verifica.com.mx
@@ -149,6 +150,7 @@ ceie.mx
 celestinfreinet.mx
 cem.msm.edu.mx
 centrosluz.com.mx
+cespol-bote.com.mx
 cfe-recibos.com.mx
 cgi-banamex.com.mx
 chameleongroup.com.mx
@@ -243,6 +245,7 @@ csinformaticos.com.mx
 ctyd.com.mx
 cuadi.com.mx
 cuartaplana.com.mx
+cubrebocasenpuebla.com.mx
 culturaqueretaro.gob.mx
 cwa.mx
 cycc.com.mx
@@ -534,6 +537,7 @@ hemolab.com.mx
 herralum.com.mx
 heslimpieza.com.mx
 hetznir.ventanasyaluminios.com.mx
+hgperformance.com.mx
 hidalgoenlared.com.mx
 hisense.com.mx
 hispanopolis.mx
@@ -709,6 +713,7 @@ myrc.com.mx
 nem.edu.mx
 neoredes.com.mx
 netpub.com.mx
+neverseenshop.com.mx
 newservicegold.com.mx
 noeby.mx
 nominas.utrng.edu.mx
@@ -730,12 +735,12 @@ off.fbook.com-64066642.directoriosweb.mx
 oficinayhogar.com.mx
 ofstlaxcala.gob.mx
 olerestauranteria.mx
-omicron-kappa.com.mx
 onirix.mx
 opcionesflex.mx
 opcioninmobiliaria.com.mx
 opticron.com.mx
 p.ato.mx
+pagos.krayem.com.mx
 palaciohierro.com.mx
 pangealogistics.com.mx
 pastelesallegro.mx
@@ -897,6 +902,7 @@ tecglobal.com.mx
 techihuahua.org.mx
 technest.mx
 technolead.mx
+tecnicaencolectores.com.mx
 tecnicoadomicilio.com.mx
 tecnoalarmas.mx
 tecnoeventos.com.mx
