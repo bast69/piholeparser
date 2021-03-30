@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yECJcHMTIcrTd0jko4RuNQ
-! Version: 202103290130
+! Checksum: iKUFcdM+mf5ROxz2otY64g
+! Version: 202103300120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 29 Mar 2021 01:30 UTC
+! Last modified: 30 Mar 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -446,6 +446,7 @@ glavnoe.ua###tools-section
 nahnews.org###top-social-profiles
 track24.ru###trackingFormShare
 free-max.ru###tt_social
+downdetector.ru###tweets-card
 zhzh.info###uLogin
 hlamer.ru,zloekino.com,zloekino.ru,zloekino.su###user-bar [title="Группа вконтакте"]
 hlamer.ru,zloekino.com,zloekino.ru,zloekino.su###video-comments .social-icons
@@ -495,6 +496,7 @@ ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru##.article-informer-
 beauty.ua##.article-instagram
 wtftime.ru##.article-like-mobile
 sobesednik.ru##.article-section > article ~ div > .row > .text-left > .d-none
+lada.kz##.article-shared
 dengi.ua##.article-shares
 baby.ru##.article-sharing__socials
 volodymyrets.city##.article-slider-img-gallery-social
@@ -947,6 +949,8 @@ svxg.su##.oxle.cenzo
 ulej.by##.p-social-sharing
 kp.by,kp.kg,kp.kz,kp.md,kp.ru,teleprogramma.pro##.page-footer_socials
 riotpixels.com##.page-info > .relative-buttons
+chelny-izvest.ru##.page-main > .page-main__text ~ p
+chelny-izvest.ru##.page-main__details-share
 sovsport.md,sovsport.ru##.page-socials-popup-wrapper
 2ip.io,2ip.ru##.page_speed_result__share > h3
 electric-house.ru#?#.panel-body > div:-abp-contains(Поделитесь в соц.сетях:)
@@ -1007,6 +1011,7 @@ rz.com.ua##.region-social-top
 calorizator.ru#?#.region[id^="content-"] > .block:-abp-has(#vk_comments)
 appstudio.org##.repost td:not(.atropos)
 eba.com.ua##.research-shares
+lada.kz##.right-col > .section > .tabss
 f1analytic.com#?#.right-indent > .wrapper-box:-abp-has(> div > .boxTitle:-abp-contains(Вконтакте))
 animedia.pro##.right-sidebar > center > a[href][target="_blank"]
 chernomorets.odessa.ua##.right-widget
@@ -2963,7 +2968,7 @@ auto.ru##.AppStoreBanner
 i.ua##.Disclaimer
 ren.tv##.Footer_2LPPF > .news-delimiter
 meduza.io##.GDPRPanel-root
-meduza.io##.Grid-root > .Grid-container ~ .Grid-container
+meduza.io#?#.Grid-root > .Grid-container:-abp-has(> .Grid-header:-abp-contains(Наши партнерские материалы))
 auto.ru##.ListingItemPromo-module__wrapper
 meduza.io##.MaterialPanel-ad
 cnews.ru##.NewsBody > .video.img-block
@@ -23990,6 +23995,7 @@ _backToTop.
 ##.sics-component__outbrain
 ##.tr-outbrain-container
 ##.widget_ione-outbrain
+##.widget_outbrain
 ##.yom-outbrain
 ! Taboola
 ###block-boxes-taboola-article-right-rail
@@ -25387,6 +25393,7 @@ _backToTop.
 ##.newsletter--footer
 ##.newsletter--initial
 ##.newsletter--logged-out
+##.newsletter-390
 ##.newsletter-advertisement
 ##.newsletter-anon
 ##.newsletter-area
@@ -25611,6 +25618,7 @@ _backToTop.
 ##.newsletter__wrapper
 ##.newsletter_and_social
 ##.newsletter_area
+##.newsletter_background
 ##.newsletter_bar
 ##.newsletter_bg
 ##.newsletter_block
