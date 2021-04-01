@@ -52,6 +52,7 @@ apenologia.pt
 apio.pt
 appfb-41897436.superprimavera.pt
 appfb-53797050.superprimavera.pt
+archive-admin.museubandasfilarmonicas.pt
 arquitectosdobairro.pt
 assessoria-finan.webnode.pt
 assinatura.com.pt
@@ -73,7 +74,6 @@ bellapersona.pt
 belong.pt
 beta-i.pt
 beyondwisdom.pt
-bitcoin.co.pt
 bl11-253-38.dsl.telepac.pt
 blog.insite.pt
 bnox.pt
@@ -146,6 +146,7 @@ eduambiental.cm-porto.pt
 edupa.pt
 eletroalfama.pt
 embratel21.home.sapo.pt
+engage.3m.com.pt
 engibim.pt
 equitubos.pt
 ergometrica.pt
@@ -169,6 +170,7 @@ gigamania.pt
 ginethic.pt
 girlsbcn.pt
 globalscore.pt
+gmpaladinos.pt
 gotavinica.pt
 gpfa.pt
 grpconsulting.pt
@@ -231,7 +233,6 @@ metabolicedge.pt
 metalmozel.pt
 milcenas.pt
 milenar-ads.pt
-minercry.pt
 minhon.pt
 miscaros.cm-fundao.pt
 mkt.publico.pt
@@ -266,10 +267,10 @@ peterfilesblog.blogspot.pt
 pgalvaoteles.pt
 photomodels.com.pt
 pinturasfernandes.pt
+pixelware.pt
 plurais.pt
 pnneuroeducacao.pt
 polibarral.pt
-pool.xmr.pt
 pornofreedom.blogspot.pt
 pornographo.blogspot.com.blogspot.pt
 pornographo.blogspot.com.br.blogspot.pt
@@ -326,6 +327,8 @@ sitesparastands.pt
 skift.pt
 skiftmedia.pt
 smartpos.pt
+smetrics.fnac.pt
+smetrics.seat.pt
 sne.pt
 sobral-fonseca.pt
 sofialopes.pt
@@ -335,6 +338,7 @@ sonhodosavosinhos.pt
 sousexy.pt
 spedycargo.pt
 sportugal.pt
+sstats.fishersci.pt
 st.pba.xl.pt
 stbb.pt
 sucessenvolve.pt
@@ -372,6 +376,7 @@ uniclima.pt
 uniplastica.pt
 urban-dna.pt
 vagasdesine2020.pt
+vbsjdd.olx.pt
 veseco.pt
 vgo.vegaoo.pt
 villa-mare.pt
@@ -392,7 +397,6 @@ www.acompanhantes.pt
 www.acompanhantesdoprazerevora.pt
 www.anunciosgratis.pt
 www.anunciosintimos.pt
-www.bitcoin.co.pt
 www.cal365.pt
 www.conci.pt
 www.contornosdesign.pt
@@ -402,8 +406,6 @@ www.harem.pt
 www.inovscope.pt
 www.jogossantacasa.pt
 www.kalandraka.pt
-www.loy.pt
-www.minercry.pt
 www.mlpoint.pt
 www.mpestudios.pt
 www.mrporno.pt
@@ -414,12 +416,10 @@ www.portugalgay.pt
 www.sasenergia.pt
 www.segredosdeluxo.pt
 www.sousexy.pt
-www.xmr.pt
 www.xxx.harem.pt
 www.zonaintima.pt
 xad.dnoticias.pt
 xanauto.pt
-xmr.pt
 xnat.pt
 xxx.harem.pt
 ygmpia.worten.pt

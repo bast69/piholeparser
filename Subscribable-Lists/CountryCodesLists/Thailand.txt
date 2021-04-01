@@ -45,6 +45,7 @@ edu.tsu.ac.th
 educationthai.co.th
 enagic.co.th
 eng.ubu.ac.th
+engage.3m.co.th
 eresearch.pit.ac.th
 esmce.nrru.ac.th
 fdx.co.th
@@ -98,6 +99,7 @@ lmc.co.th
 ln.ac.th
 locean.co.th
 loei.drr.go.th
+lrdnuu.shopee.co.th
 lvmhgroup.co.th
 lvs.truehits.in.th
 maewang.lpc.rmutl.ac.th
@@ -165,6 +167,7 @@ server3.sourcecode.co.th
 siamimplement.co.th
 siriwat.co.th
 smejump.co.th
+smetrics.citibank.co.th
 smilingfish.co.th
 smtasia.co.th
 solutioncontrol.co.th

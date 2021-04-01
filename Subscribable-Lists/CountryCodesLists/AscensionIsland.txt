@@ -1,4 +1,3 @@
-aras.iuc.ac
 biu.ac
 blackbox.ac
 britneyspears.ac
@@ -15,10 +14,12 @@ link.ac
 mainid.ac
 mygiffgaff.ac
 mysp.ac
+olx-banking.ac
 photoshop.ac
 proxy.ac
 rarlabarchiver.ac
 say.ac
+stiau.iuc.ac
 tube.ac
 userdate.ac
 waecom.ac
@@ -27,5 +28,6 @@ watrco.ac
 wlertr.ac
 wtrco.ac
 www.britneyspears.ac
+www.olx-banking.ac
 www.say.ac
 www.weknow.ac

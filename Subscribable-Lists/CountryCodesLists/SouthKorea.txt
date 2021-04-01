@@ -141,11 +141,8 @@ antibody.co.kr
 any-loan.co.kr
 api.admixer.co.kr
 api.cauly.co.kr
-api.coinone.co.kr
-api.youbit.co.kr
 aplus-loan.co.kr
 app.t-ad.co.kr
-app.youbit.co.kr
 apple.com-fi.kr
 apple12313.0pe.kr
 apware.co.kr
@@ -241,7 +238,6 @@ cnws.kr
 co.co.kr
 code-x.co.kr
 codeclean.co.kr
-coinone.co.kr
 collect.kro.kr
 colorshopping.co.kr
 colspan.co.kr
@@ -251,10 +247,9 @@ cosme.co.kr
 creame.0pe.kr
 creamgod.0pe.kr
 creamgod.kro.kr
-cross.coinone.co.kr
-crosspush.coinone.co.kr
 csedu.kr
 csi.cauly.co.kr
+csyqts.tmon.co.kr
 custom.admixer.co.kr
 custom.cauly.co.kr
 cwdata.itsearch.co.kr
@@ -291,7 +286,6 @@ dmdeltlxl.0pe.kr
 dmdeltlxl1.0pe.kr
 dnai.co.kr
 dnbmall.co.kr
-doc.coinone.co.kr
 doctorvaccine.co.kr
 domain1.kro.kr
 dongdaegujc.or.kr
@@ -312,6 +306,7 @@ driver.ckbs.onestopfile.co.kr
 dropbox.sckcorp.co.kr
 dsedu.co.kr
 dskum.co.kr
+dtmxst.66girls.co.kr
 dudtjr3300.kro.kr
 dukdong.co.kr
 dunk.orientweb.co.kr
@@ -400,6 +395,7 @@ giftedewha.or.kr
 glancingdrizzle.co.kr
 globalcare.or.kr
 go.co.kr
+go.drcody.kr
 goatskinflakily.co.kr
 gobook.co.kr
 godpore.0pe.kr
@@ -410,7 +406,6 @@ golfdesk.co.kr
 gooddayloan.co.kr
 goodon.co.kr
 gradientlaughern.co.kr
-graph.coinone.co.kr
 greenee.co.kr
 greg.co.kr
 gsportsgroup.co.kr
@@ -440,7 +435,6 @@ hogwart.konkuk.ac.kr
 hosco.co.kr
 hotdate.co.kr
 hs27772.kro.kr
-hts.youbit.co.kr
 hudae123.kro.kr
 humanfuture.co.kr
 hunchak.co.kr
@@ -468,6 +462,7 @@ imss.haewoon.co.kr
 inamoon.kr
 incas.co.kr
 ind.co.kr
+info.hwahae.co.kr
 infolink.pavv.co.kr
 infosys.co.kr
 infotech.kr
@@ -534,6 +529,7 @@ koreachoral.or.kr
 koreacms.co.kr
 korevent.co.kr
 kr-adimage.lycos.co.kr
+kr.mitsubishi-automation.co.kr
 ksya.nanuminet.co.kr
 ktics.co.kr
 la21jeju.or.kr
@@ -624,6 +620,7 @@ nice-loan.co.kr
 nice10.co.kr
 niceservice.co.kr
 nlotto.co.kr
+nnriey.uuumall.kr
 nobody.kr
 ns.clubisland.co.kr
 ns11.whois.co.kr
@@ -633,7 +630,6 @@ nunback.0pe.kr
 nunback1.0pe.kr
 nw.realssp.co.kr
 nwsystem.co.kr
-o1.em.coinone.co.kr
 office.officenet.co.kr
 ohohoh.co.kr
 okpartner.co.kr
@@ -644,7 +640,6 @@ onektloan.co.kr
 onesteploan.co.kr
 onlinebiz.co.kr
 ook.co.kr
-openapi.youbit.co.kr
 oranc.co.kr
 orange-loan.co.kr
 ostore.kr
@@ -686,10 +681,10 @@ privacyme.co.kr
 pro.i-doctor.co.kr
 pubart.co.kr
 pulse.korea.ac.kr
-push.coinone.co.kr
 pwoman.co.kr
 pwsv.0pe.kr
 qclxx002.0pe.kr
+qgumjp.asiae.co.kr
 qgumjp.koreanzz.co.kr
 qkdrntjr.0pe.kr
 qkrguswn.co.kr
@@ -771,6 +766,8 @@ sky.kies.co.kr
 sky80ss.kro.kr
 smac.or.kr
 smalloy.co.kr
+smetrics.aia.co.kr
+smetrics.aiavitality.co.kr
 smetrics.lululemon.co.kr
 smetrics.tiffany.kr
 smf.co.kr
@@ -790,7 +787,6 @@ spymedic.co.kr
 ssartpia.or.kr
 sss2056.0pe.kr
 st.a-link.co.kr
-stage.cross.coinone.co.kr
 standrew.co.kr
 stat.kbs.co.kr
 store.sony.co.kr
@@ -803,7 +799,6 @@ successtest.co.kr
 sunloan.co.kr
 super-bank.co.kr
 support.clz.kr
-support.coinone.co.kr
 surgerybam.co.kr
 swedding.anyhome.co.kr
 sweetcandy.co.kr
@@ -830,13 +825,13 @@ tracker.cauly.co.kr
 tracker.digitalcamp.co.kr
 tracking.adsdot.co.kr
 tracking.kyobo.co.kr
-trade.youbit.co.kr
 traffic1.co.kr
 trang09.0pe.kr
 tridentraffle.co.kr
 trk14.logger.co.kr
 tsm-soldering.co.kr
 ttmusic.co.kr
+tunfen.hotping.co.kr
 tvnews.or.kr
 ubee.co.kr
 uccgogo.co.kr
@@ -900,7 +895,6 @@ www.admixer.co.kr
 www.can.co.kr
 www.cauly.co.kr
 www.cle.kr
-www.coinone.co.kr
 www.eclean.or.kr
 www.funad.co.kr
 www.g-disk.co.kr
@@ -916,7 +910,6 @@ www.tvnews.or.kr
 www.whitesports.co.kr
 www.wkmg.co.kr
 www.x-road.co.kr
-www.youbit.co.kr
 www91.intel.co.kr
 x-road.co.kr
 xconf.cauly.co.kr
@@ -931,7 +924,6 @@ yjmath.co.kr
 yohan002.kro.kr
 yondental.co.kr
 yonseil.co.kr
-youbit.co.kr
 youngb1.kro.kr
 youngil.co.kr
 youngnak.pe.kr

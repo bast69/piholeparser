@@ -99,7 +99,6 @@ jetmix.cd
 jointo.cd
 jwazo.cd
 keyhere.cd
-kickass.cd
 kilar.cd
 kruble.cd
 kwita.cd

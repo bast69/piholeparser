@@ -231,6 +231,7 @@ api.subiz.com.vn
 api.tag.adtima.vn
 apigateway.admicro.vn
 apinas.nct.vn
+apiv2.tiin.vn
 apk.adflex.vn
 app.ants.vn
 app.brand.zing.vn
@@ -594,6 +595,7 @@ glic.vn
 global.americanexpress.com.nth.com.vn
 gmon.com.vn
 gmon.vn
+go.mbs.com.vn
 go.mediaz.vn
 gocanada.vn
 gochaua.vn
@@ -707,6 +709,7 @@ iyes.vn
 j.eclick.vn
 jashop.vn
 jira.tools.adtima.vn
+jslog.zapps.vn
 k8s2.testcentre.vn
 kazuled.com.vn
 kebepxinh.vn
@@ -950,6 +953,7 @@ minhkiet.com.vn
 minhman.vn
 minhmanh.vn
 miyabibar.vn
+mjeejc.tiki.vn
 mlc.vn
 mne.edu.vn
 mobile.novanet.vn
@@ -1036,6 +1040,7 @@ p.ants.vn
 packexim.vn
 pacolano.com.vn
 pano4you.vn
+pardot.tcbs.com.vn
 partner.accesstrade.vn
 partner.vietnamnetad.vn
 payment.rungrinh.vn
@@ -1131,6 +1136,7 @@ robotrade.com.vn
 romans.com.vn
 rp.codon.vn
 rss2.vietnamnetad.vn
+rsyslog.24h.com.vn
 rtb.eclick.vn
 rungrinh.vn
 ruouduadaiviet.vn
@@ -1206,6 +1212,7 @@ smartlifevietnam.vn
 smartlink.adpia.vn
 smartpiano.vn
 smarttrain.edu.vn
+smetrics.citibank.com.vn
 smetrics.kone.vn
 smshanoi.edu.vn
 snews.admicro.vn

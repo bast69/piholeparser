@@ -14,7 +14,6 @@ desbloqueio-online.rf.gd
 dhl-france-service.fr.gd
 diskussionsforen-ebay-de-ws65-ebayisapii.rf.gd
 diskussionsforen-ebay.de-ebayisapi.rf.gd
-dogepool.rf.gd
 eventsgrenada.gd
 from-lnstagram-copyright.rf.gd
 giuuijhjhujhk.rf.gd
@@ -55,7 +54,6 @@ tregdsryterger.rf.gd
 viagra.gd
 wva.gd
 www.counter.gd
-www.dogepool.rf.gd
 www.gd
 www.soo.gd
 zz.gd

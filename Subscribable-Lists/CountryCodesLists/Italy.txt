@@ -226,6 +226,7 @@ analisiclinichebrusca.it
 analytics.arubamediamarketing.it
 analytics.digitouch.it
 analytics.magelan.it
+analytics.ratioform.it
 analytics.websolute.it
 anarkos.it
 andfir.it
@@ -538,6 +539,7 @@ castellodicornelianobertario.it
 castiglionidiarcevia.it
 cattolica2000.it
 caveaudelteatro.it
+cdfhpj.automobile.it
 cdsfirenze.it
 cease.it
 ceccarinisuite.it
@@ -639,6 +641,7 @@ comune.sanpietroaltanagro.sa.it
 comunedeicittadini.it
 comunedipratiglione.it
 comunefdm.it
+comunicazioni.bancamediolanum.it
 conaffetto.it
 condom.it
 condomizzati.it
@@ -973,14 +976,6 @@ eskaton.it
 esteticavelvetskin.it
 eties.it
 eu1.heatmap.it
-eu2.heatmap.it
-eu3.heatmap.it
-eu4.heatmap.it
-eu5.heatmap.it
-eu6.heatmap.it
-eu7.heatmap.it
-eu8.heatmap.it
-eu9.heatmap.it
 euroausili.it
 eurocell.it
 euromedicalonline.it
@@ -1018,6 +1013,7 @@ farmaciagiacinti.it
 fascettanera.it
 fast-adv.it
 fattoriaspineto.it
+fckxdb.hometogo.it
 federparchilab.it
 federpescatoscana.it
 fediburgame.it
@@ -1109,7 +1105,6 @@ genevashop.it
 geni.anas.it
 gennaroespositomilano.it
 genova7.it
-geo.heatmap.it
 geo.play.it
 geoegroup.it
 geracar.it
@@ -1152,7 +1147,10 @@ giusybuscemi.it
 gliamicidellunicef.it
 globalvasca.it
 glovein.says.it
+glowell.it
 gmt2000.it
+go.angeleye.it
+go.belvedere.it
 goccedespressione.it
 gold-city.it
 goldart-348ar.it
@@ -1256,6 +1254,7 @@ hiltonphorma.it
 hipposcafe.it
 histats2014.simply-webspace.it
 hit.tripod.lycos.it
+hiuplq.diretta.it
 hmgnjf.autoscout24.it
 hobbycantina.it
 hobbypescasport.it
@@ -1342,6 +1341,8 @@ in-medias-res.it
 indierock.it
 info-segnalazione.it
 info.biofarmasrl.it
+info.cybrary.it
+info.wolterskluwer.it
 infonodo.it
 inkospor.it
 inlink.it
@@ -1427,7 +1428,6 @@ klinko.it
 kutt.it
 kyscanner.it
 l.heatmap.it
-l2.heatmap.it
 lab18.it
 labobit.it
 laboratoriosca.it
@@ -1554,6 +1554,7 @@ lunaparkperugia.it
 lunapienashop.it
 lupopornohd.it
 luxurybrands.it
+lxoemc.dilei.it
 lxoemc.virgilio.it
 lynkedin.it
 m-facebook.undo.it
@@ -1586,6 +1587,8 @@ marettimoisland.it
 mariaelenabececco.it
 mariodini-liposuzione.it
 markaservice.it
+marketing.3dz.it
+marketing.itap.it
 marketing.net.home24.it
 marketing.net.occhiali24.it
 marketing.net.zooplus.it
@@ -1640,6 +1643,7 @@ metan2.villapeppe.it
 meteo.macerata.it
 meteoerba.it
 metodosilverfoxx.it
+metrics.eurobet.it
 metrics.ionos.it
 metrics.rcsmetrics.it
 metrics.sky.it
@@ -1660,7 +1664,6 @@ milardi.it
 milking-tits32.64-b.it
 milleniumbar.it
 mindflower.it
-minecoin.it
 minerbi.it
 mingarelliricambi.it
 mington.16-b.it
@@ -1674,6 +1677,7 @@ mixmaster.it
 mlifrazuplkhdiz.it
 mm-meccanica.it
 mmelloni.it
+mmulsx.comet.it
 mobile.banzai.it
 mobileservicefre.it
 modenamusicbox.it
@@ -1815,6 +1819,7 @@ offertematerassi.it
 officinapiva.it
 ogame.it
 ogameita.it
+oglzhm.monclick.it
 oikosecologia.it
 okadsweb.tiscali.it
 okcellulari.it
@@ -1863,7 +1868,6 @@ ovr2.supercalk.it
 owenfashion.it
 owo.it
 ozoz.it
-p2pool.soon.it
 pacom.it
 pagamenti-sella-aruba-ar63dc742e.fotoparitani.it
 pagamenti-sella-aruba-arb4f22103.noleggiobicimilano.it
@@ -2072,6 +2076,7 @@ residenzaborgopio.it
 residenzaguiot.it
 revolutionaryeyewear.it
 rgtalp14.it
+rhksxx.nencinisport.it
 rianarocchetta.it
 riattiva-carta-2021.it
 riattiva-n26.it
@@ -2134,7 +2139,9 @@ salvadores.it
 samoiedo.it
 sampey.it
 samspot.softairmania.it
+sanalytics.boingtv.it
 sanguineti.it
+sanl.footlocker.it
 santissimo.it
 sapol.it
 sarabernardelli.it
@@ -2142,6 +2149,7 @@ satelliteshop.it
 sazzinisrl.it
 sblocko-conto.it
 sbo.it
+sc.mtv.it
 sc.radiofficine.it
 scambiobanner.aruba.it
 scampoligolosi.it
@@ -2152,11 +2160,13 @@ scegli-vinci.it
 scholacantorumsangaetano.it
 scipol.unito.it
 sclservice.it
+scmetrics.vodafone.it
 scopateitaliane.it
 scouts.it
 scoutvda.it
 scribus.it
 scripts.kataweb.it
+scsmetrics.vodafone.it
 scuola.provincia.pescara.it
 scuolaartispettacolo.it
 scuoladanzamaja.it
@@ -2171,6 +2181,7 @@ secure-banca.it
 secure-getway21b63240.gemis.it
 secure-paiement236b9e3e.exhemplara.it
 securealert.it
+secureanalytics.avisautonoleggio.it
 secured.soon.it
 seedata.it
 seefrancesystamanoia.it
@@ -2222,11 +2233,9 @@ shop.parcoavventurachaberton.it
 shop.simonazzimoto.it
 shop.treccani.it
 shopcamaflor.it
-shopify-app.heatmap.it
 shopping.multiplayer.it
 shoppingcar.it
 shoppinglife.it
-shrink-service.it
 sichenia.omniadvert.it
 sicildolcezze.it
 sicilia20news.it
@@ -2260,11 +2269,18 @@ smartoria.it
 smartphoneservice.it
 smarturl.it
 smecom.it
+smetrics.boehringer-ingelheim.it
+smetrics.enelenergia.it
 smetrics.eprice.it
+smetrics.eurobet.it
+smetrics.frontlinecanegatto.it
+smetrics.infomedics.it
+smetrics.kone.it
 smetrics.michaelkors.it
 smetrics.nowtv.it
 smetrics.payback.it
 smetrics.ralphlauren.it
+smetrics.rcsmetrics.it
 smetrics.seat-italia.it
 smetrics.sisal.it
 smetrics.sky.it
@@ -2299,9 +2315,12 @@ spotmix.libero.it
 srnk.it
 srvcla-ub10.claimadv.it
 ss.tiscali.it
+ssa.eurosport.it
 ssl-metrics.tim.it
 ssl.admin.itybuy.it
 ssouranceservicemangar.it
+sstats.fishersci.it
+sstats.tiffany.it
 st.wetrack.it
 stage.edilnord.it
 starbenesenzaglutine.it
@@ -2339,7 +2358,6 @@ studiodiconsulenzalavoro.it
 studiogiardasrls.it
 studiolagrasta.it
 studiolegalecsb.it
-studiologosstp.it
 studiomariano.it
 studiomascellaro.it
 studionostro.it
@@ -2362,6 +2380,7 @@ suwa.it
 sv1.eyeonmusica.it
 sw88.disney.it
 sw88.shopdisney.it
+swa.nexive.it
 sweettravel.it
 switchclub.it
 switech.it
@@ -2452,6 +2471,7 @@ totogratis.it
 totusbroker.it
 touring-italy.it
 tptelecom.it
+tpufck.orologio.it
 tqvacq.intrend.it
 tr.bt.matrixspa.it
 track.cedsdigital.it
@@ -2470,7 +2490,10 @@ tracking.conversionlab.it
 tracking.directservices.it
 tracking.gruppo.mps.it
 tracking.italiamobilesrl.it
+tracking.omron.it
 tracking.sembox.it
+tracking.shop.verymobile.it
+tracking.ssab.it
 tracking.trovaprezzi.it
 tracks.arubamediamarketing.it
 trackset.it
@@ -2516,8 +2539,6 @@ update.rifugiopontese.it
 upstory.it
 url.to.it
 urtx.ilramodellestreghe.it
-us1.heatmap.it
-us2.heatmap.it
 usdavetrana.it
 ussanlorenzo.it
 utenti.lycos.it
@@ -2541,6 +2562,7 @@ verficastaradamangral.it
 verfidsghmangaramz.it
 vesparicambi.it
 vestelli.it
+vgo.vegaoo.it
 vhf.tbiz.it
 viaggipenzo.it
 vicariassicurazioni.it
@@ -2569,6 +2591,7 @@ vsfius.aranzulla.it
 w-02.th.seeweb.it
 wachvre.it
 walo1.simply-winspace.it
+wbtrkk.teufelaudio.it
 web-assistenza.it
 web-revolution.it
 web.mapp.ilgiardinodeilibri.it
@@ -2668,14 +2691,12 @@ www.girlsbcn.it
 www.giuliodrei.it
 www.gliamicidellunicef.it
 www.gold-city.it
-www.heatmap.it
 www.hostc.uniriscossioni.it
 www.imetrix.it
 www.impresadeambrosis.it
 www.insubriamed.it
 www.italiahard.it
 www.ivysolutions.it
-www.l.heatmap.it
 www.lasthotel.it
 www.leprimodels.it
 www.leveleservizimmobiliari.it
@@ -2698,7 +2719,6 @@ www.mystat.it
 www.northpoleitalia.it
 www.olioeroli.it
 www.ordingparma.it
-www.p2pool.soon.it
 www.paginelucirosse.it
 www.panel.home.pl.frustone.it
 www.panel.home.pl.muna.it
@@ -2730,8 +2750,6 @@ www.seralighting.it
 www.sessosublime.it
 www.sexycommunity.it
 www.shinystat.it
-www.shopify-app.heatmap.it
-www.shrink-service.it
 www.sieltre.it
 www.sisal.it
 www.sitivisibili.it
@@ -2746,7 +2764,6 @@ www.technix.it
 www.testimone-di-nozze.it
 www.tracc.it
 www.trackset.it
-www.u.heatmap.it
 www.unfake.it
 www.unicaitaly.it
 www.ussanlorenzo.it
@@ -2758,7 +2775,9 @@ www.xxxvideoporno.it
 www.yespornplease.it
 www.zalukaj.it
 www91.intel.it
+xdkwsh.farmacialoreto.it
 xenec.stol.it
+xiznql.laredoute.it
 xn--80aa0cb0jqb.emozionipiscine.it
 xoom.virgilio.it
 xoomer.alice.it
@@ -2773,8 +2792,11 @@ yep.it
 yesnews.it
 yespornplease.it
 yhoo.it
+ykfsxw.engie.it
 yourcustomerstats.it
 youtoner.it
+yvtgva.casa.it
+zaawds.farmae.it
 zadigroma.it
 zahlung.hostpoint.ch.verricars.it
 zahlung.hostpoint1.ch.soluzioniperleimprese.it
@@ -2790,3 +2812,4 @@ zeoiamiservicemina.it
 zero1.it
 zovena.it
 zssdi.it
+zxbumj.edreams.it

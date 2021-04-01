@@ -56,12 +56,10 @@ counter.top100.penki.lt
 covidkaukes.lt
 cs.balticum-tv.lt
 cus.lt
-custom.bnc.lt
 dating.lt
 dcfloraldecor.lt
 deconex.lt
 demo.boxinn.lt
-dev.bnc.lt
 dgreitkelis.lt
 digitalcore.lt
 dineka.lt
@@ -84,7 +82,7 @@ elektroszona.lt
 elektrozigaretten2.yn.lt
 elos.lt
 emailrinkodara.lt
-epsilon.thirdparty.bnc.lt
+engage.3mlietuva.lt
 euk.lt
 eurologus.lt
 farmville2.visits.lt
@@ -149,6 +147,7 @@ match10photos.96.lt
 match89photos.96.lt
 matchview.96.lt
 meskinas.lt
+metrics.nissan.lt
 mikhimshaissayd.blogspot.lt
 mmp.lt
 mmpsuf.lt
@@ -174,7 +173,6 @@ photomatch100.96.lt
 piola.lt
 pirkis.lt
 plastas.lt
-play.alt.indigital.lt
 player-moderator.us.lt
 powergymclub.lt
 proxy.dlf.lt
@@ -232,7 +230,6 @@ teofilius.lt
 terrasport.lt
 testnpost.nsoft.lt
 themes.affect.lt
-thirdparty.bnc.lt
 tillmoon.lt
 tingiunoriu.lt
 toniteradio.lt
@@ -241,6 +238,8 @@ top.dating.lt
 top.dkd.lt
 top100.lt
 toviewallhe838jdspics.96.lt
+tracking.bonava.lt
+tracking.visma.lt
 tradecharm.lt
 travelmaster.lt
 triusiai.lt

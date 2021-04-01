@@ -10,7 +10,6 @@ c.adsco.re
 carokane.re
 cli.re
 com-featu.re
-huit.re
 ico.re
 lesplusbellesvoituresdu974.re
 log.cnt.re

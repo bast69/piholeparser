@@ -327,7 +327,6 @@ biorno.hk
 bipal.hk
 birdis.hk
 biser.hk
-bitcoin.inc.hk
 bithear.hk
 bitme.hk
 bitsafe.hk
@@ -1104,6 +1103,7 @@ elementclose.hk
 elementdrive.hk
 elgrande.com.hk
 elllwi.hk
+elqtrk.morningstar.hk
 elsecook.hk
 elseriver.hk
 endeny.hk
@@ -1115,6 +1115,7 @@ energyprint.hk
 energystead.hk
 energywomen.hk
 enermax.hk
+engage.3m.com.hk
 engart.hk
 engineshoe.hk
 englishmatters.hk
@@ -2028,6 +2029,7 @@ insectadd.hk
 insectone.hk
 insectscore.hk
 insfertpeople.hk
+insight.its.cityu.edu.hk
 instantheat.hk
 instrumenteach.hk
 instrumenttoo.hk
@@ -4151,6 +4153,7 @@ smallnear.hk
 smalloperate.hk
 smallunder.hk
 smallweather.hk
+smetrics.citibank.com.hk
 smetrics.lululemon.com.hk
 smiask.hk
 smigal.hk
@@ -4314,7 +4317,6 @@ straightthing.hk
 strangecotton.hk
 strangehot.hk
 strangehurry.hk
-stratum.bitcoin.inc.hk
 streamby.hk
 streamcut.hk
 streetall.hk

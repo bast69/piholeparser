@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T3ubvE6HlABY3n9UiEH4Gw
-! Version: 202103310120
+! Checksum: PavoSAmmNBJxUJ8zr5CZOQ
+! Version: 202104010120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 31 Mar 2021 01:20 UTC
+! Last modified: 01 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -662,6 +662,7 @@ comments.ua#?#.conteres > p:-abp-has(> a[href^="https://t.me/"])
 coub.com##.coub__sharing__list > button.social
 cameralabs.org##.data-social
 ukrmilitary.com#?#.date-posts > .post-outer:-abp-has(> .post > .post-body > [href*="//t.me/"])
+smotret-multfilmi.net##.ddsocial
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #facebook_like_box)
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #vk_groups)
 tsn24.ru##.detail__share
@@ -1179,6 +1180,7 @@ fireman.club##.social-block-bottom
 gtavicecity.ru##.social-block-groups
 radioromantika.ru##.social-block__container
 ukrlib.com.ua##.social-box-item
+patrol.police.gov.ua##.social-btn
 freehat.cc##.social-buttons > * > *
 1tv.ru##.social-buttons-compact
 gismeteo.ru##.social-buttons-title
@@ -3480,6 +3482,7 @@ animevost.club##.player-section > .player-box ~ center
 filmaniaz.net##.player-warning-br
 sports.ru,tribuna.com##.plistaList > a[data-campaign]
 sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
+smotret-multfilmi.net##.podpleer-title-google
 1cloud.ru##.policy
 sport.ua##.policy-accept
 bhub.com.ua##.policy-cookies
@@ -19163,6 +19166,7 @@ _youtube_social_
 ##.socialcont
 ##.socialcontainer
 ##.socialcount
+##.socialcountb
 ##.socialdefault
 ##.socialdigg
 ##.socialdiv
@@ -21985,7 +21989,7 @@ cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
 cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,politico.eu,songkick.com#@#.social-sharing
 golem.de#@#.social-sidebar
 domain.com.au#@#.social-stick
-tv-kino.net#@#.social-tab
+sanmarinortv.sm,tv-kino.net#@#.social-tab
 hdfcbank.com#@#.social-title
 golem.de#@#.social-tools
 gamesrepublic.com,gopojie.net#@#.social-top:not(html):not(body)

@@ -39,7 +39,6 @@ ads.img.co.za
 ads.vipmobile.co.za
 ads.wm.co.za
 ads1.jev.co.za
-adserver.openx.co.za
 adserver.sabc.co.za
 adserver.sabcnews.co.za
 adservice.google.co.za
@@ -111,7 +110,6 @@ attachefashions.co.za
 audiocart.co.za
 aussiebum.co.za
 autocomms.co.za
-autodiscover.marketingmachine.co.za
 autofinance.co.za
 aviosmail.co.za
 aviosmail7.co.za
@@ -179,6 +177,7 @@ bomkazi.co.za
 bonnievalewines.co.za
 boogieroom.co.za
 bookyourtravel.co.za
+bophelocare.co.za
 bosgemors.co.za
 botrivier.wcape.school.za
 bradleyinstitute.co.za
@@ -252,6 +251,7 @@ chinashield.co.za
 chineseschool.co.za
 cinemacorpater.co.za
 cinipixtv.co.za
+citssolutions.co.za
 citygroup.co.za
 clariondevelopment.co.za
 cliaconsulting.co.za
@@ -310,6 +310,7 @@ dancezonne.co.za
 danticlantern.co.za
 darklife.co.za
 dashboardnottinghamshire.co.za
+data-ssl.pnet.co.za
 dating.khokhas.co.za
 davisloenthems.co.za
 daydreams.co.za
@@ -339,6 +340,7 @@ direct-capitecbanks.co.za
 directech.co.za
 disco2000.co.za
 discover.dnsi.co.za
+disinfection-cleaning.co.za
 dismart.co.za
 display.mybroadband.co.za
 ditetha.co.za
@@ -358,6 +360,7 @@ drakdescent.co.za
 drctech.co.za
 dreambrides.co.za
 dreamfieldsguesthouse.co.za
+drgroup.co.za
 driftersraceway.co.za
 driveclean.co.za
 drmayah.co.za
@@ -580,7 +583,6 @@ imzansi.co.za
 indieagent.co.za
 industryetingselected.co.za
 innetec.co.za
-insights.marketingmachine.co.za
 insopt.co.za
 insyear.co.za
 interafricatraining.co.za
@@ -694,7 +696,6 @@ magicmaid.co.za
 magicpeople.co.za
 mahood.co.za
 mail.bs-eiendomme.co.za
-mail.marketingmachine.co.za
 mail.mavusoandbatauitsolutions.co.za
 mailcompanion.co.za
 mailserve.co.za
@@ -708,7 +709,6 @@ manpscoys.co.za
 mansionhousebuild.co.za
 mapone.co.za
 maritasguesthouse.co.za
-marketingmachine.co.za
 marketingpromo.co.za
 mascurla.co.za
 mascuts.co.za
@@ -810,6 +810,7 @@ netbankdemo.co.za
 netshivhumbetraders.co.za
 networkwheels.co.za
 neuschelectrical.co.za
+newsnow.co.za
 newstardiamonds.co.za
 nfusedigital.co.za
 ngdaycare.co.za
@@ -839,7 +840,6 @@ onex.co.za
 onlydestiny.co.za
 onyx.co.za
 openquote.co.za
-openx.co.za
 opinions-count.co.za
 optimumwellnesstestbuild.co.za
 optitechsa.co.za
@@ -858,6 +858,7 @@ p.pypl-checkinformation.betscapital.co.za
 p4plumbing.co.za
 pagelaw.co.za
 palletfurniturecapetown.co.za
+pamperpartypros.co.za
 parkerplacement.co.za
 parkplace.co.za
 pasellaauctioneers.co.za
@@ -968,10 +969,12 @@ royalblue.co.za
 rubikolholdings.co.za
 rudzconcepts.co.za
 rustonc.co.za
+s.metric.vodacom.co.za
 sa-rewards.co.za
 sa-tribe.co.za
 sacarlead.co.za
 sacimailpromo.co.za
+sadmahfuneralservices.co.za
 saecopta.co.za
 safcoin.africa.ronells.co.za
 safi.co.za
@@ -1035,6 +1038,7 @@ shimahosting.co.za
 shimaxsolutions.co.za
 shopphotographer.co.za
 shoppingrun.co.za
+shrinikelectrical.co.za
 sibuyagr.co.za
 sign.antenatalcourses.co.za
 signature4safety.co.za
@@ -1145,6 +1149,7 @@ smartmobilelearning.co.za
 smartsoft-communicator.co.za
 smdistributors.co.za
 smetechnologies.co.za
+smetrics.kone.co.za
 softworkvalid.co.za
 southcoastprop.co.za
 southwestdistillers.co.za
@@ -1240,6 +1245,7 @@ tracstar.co.za
 train6.netwisedev6.co.za
 travelwithmanta.co.za
 treefellinggroup.co.za
+trendyshoes.co.za
 trevoffs.co.za
 trevorwilliams.co.za
 triangletrust.co.za
@@ -1309,7 +1315,6 @@ wct.co.za
 wealthmanysns.co.za
 web-facebook.co.za
 web-sign.account.limited-alertsacconts.artmeansbusiness.co.za
-webdisk.marketingmachine.co.za
 webmail.cybersecure.co.za
 webontwikkeling.co.za
 wedohair.myap.co.za
@@ -1348,7 +1353,6 @@ wreckbizzare.co.za
 writesofpassage.co.za
 wsigninrpsnvsrver.cloudhosting.rsaweb.co.za
 www-t-online-de.logomultitech.co.za
-www.adserver.openx.co.za
 www.andremaraisbeleggings.co.za
 www.anysbergbiltong.co.za
 www.app-postrackingc.parcel.pl.uyfm.co.za
@@ -1364,15 +1368,12 @@ www.curasoles.co.za
 www.document.pdf.kfunk.co.za
 www.freeelectricity.co.za
 www.glamourgirls.co.za
-www.insights.marketingmachine.co.za
 www.interbet.co.za
 www.justbet.co.za
-www.marketingmachine.co.za
 www.matildas.co.za
 www.mbet.co.za
 www.myadsl.co.za
 www.nationallottery.co.za
-www.openx.co.za
 www.peoplemagazine.co.za
 www.riverwalktrader.co.za
 www.sa-rewards.co.za

@@ -111,7 +111,6 @@ cer.salu.edu.pk
 cgassociates.pk
 championfoods.com.pk
 chandni.pk
-chappals.pk
 chaseinn.pk
 chateauroyal.com.pk
 checkcheck.pk
@@ -168,6 +167,7 @@ eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
 ems.ecom.pk
+engage.3m.com.pk
 enqlab.pk
 envatomarket.pk
 epage.pk
@@ -227,6 +227,7 @@ gofresh.com.pk
 gotoshopping.pk
 gotovacations.pk
 grace-international.pk
+greenclinic.pk
 greenconsulting.org.pk
 guggis.com.pk
 hamdamfoundation.org.pk
@@ -427,7 +428,6 @@ saltpur.pk
 samaaj.org.pk
 saremco.com.pk
 scholars.com.pk
-scriptproxy.pie.net.pk
 sdgsacademy.pk
 securetech.net.pk
 seenext.com.pk

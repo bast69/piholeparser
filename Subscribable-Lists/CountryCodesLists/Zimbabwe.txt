@@ -4,6 +4,7 @@ aldridge.co.zw
 ares.co.zw
 astro.co.zw
 avbrands.co.zw
+betpawa.co.zw
 biorichinvestments.co.zw
 blockchainzim.co.zw
 botswanaembassy.co.zw
@@ -80,5 +81,6 @@ truworths.co.zw
 tusilago.co.zw
 vsp.co.zw
 wireless4sdg.org.zw
+www.betpawa.co.zw
 zbnet.zb.co.zw
 zihotelsandtours.co.zw

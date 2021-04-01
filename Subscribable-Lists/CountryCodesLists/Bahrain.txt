@@ -1,2 +1,3 @@
 almojtaba.bh
 mashroo3i.bh
+smetrics.kone.bh

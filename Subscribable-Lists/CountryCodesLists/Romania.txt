@@ -56,7 +56,6 @@ ads.rol.ro
 ads1.admedia.ro
 ads2.cancan.ro
 ads2.evz.ro
-adserver.creativeads.ro
 adserver.kissfm.ro
 adserver.lx.ro
 adserver.ro
@@ -145,7 +144,6 @@ axells.ro
 axiomatic.ro
 ayareview-document.pdf-iso.webapps-security.review-2jk39w92.newsletter.stomatologievalcea.ro
 ayerbo.xhost.ro
-bacm.ro
 balastiere-ploiesti.ro
 banana.automaxcenter.ro
 bancoestado.cl.scoaladesoferi-azratim.ro
@@ -207,6 +205,7 @@ bursaforex.home.ro
 bus4rent.ro
 business.dropbox.okamotocorp.sportsmag.ro
 business.softberg.ro
+business2.softberg.ro
 businessmark-events.ro
 buylevitra.3xforum.ro
 buypc.ro
@@ -267,6 +266,7 @@ comandor-impex.ro
 complexaropalace.ro
 comsertim.ro
 comunaghergheasa.ro
+conceptimagine.ro
 concurs.kzh.hi2.ro
 conferintahrb.ro
 consacre.ro
@@ -283,7 +283,6 @@ counter.clubnet.ro
 covoruloltenesc.ro
 crad.ro
 crazykids.ro
-creativeads.ro
 credimag.ro
 criscat.ro
 cronicaviseuana.ro
@@ -299,6 +298,7 @@ curscomplet.ro
 customgrup.ro
 cvartet-capriccio.ro
 czjrhhpnigalslkpztv1.viomil.ro
+da.hornbach.ro
 daclim.ro
 dalepietra.ro
 danaldea.ro
@@ -395,6 +395,7 @@ elomo.ro
 emadialine.ro
 emedialabtrainingacademy.ro
 emms.ro
+engage.3m.com.ro
 enjoyableemma.blogspot.ro
 eolvci.olx.ro
 epectasys.ro
@@ -413,6 +414,7 @@ exigostrategic.ro
 expatsolutions.ro
 expertmedia.ro
 eymiwj.cancan.ro
+eymiwj.prosport.ro
 ezptntfdueb6coblmfca.viomil.ro
 facebook-confirmation-007.blogspot.ro
 facebook.com-account.security.smahost.ro
@@ -488,6 +490,7 @@ hermann.com.ro
 heximed.ro
 hi-peer.ro
 hitx.statistics.ro
+hlygsp.modivo.ro
 homie.ro
 hotel-mures.ro
 hotelimperium.go.ro
@@ -498,6 +501,7 @@ hydropoolromania.ro
 hytorc.ro
 iarpp.ro
 icpet-intrometic.ro
+iethpk.notino.ro
 ifish.ro
 ikjncdnfjr.ro
 iliebike.ro
@@ -519,7 +523,6 @@ innovaclean.ro
 inspireconsulting.ro
 instagram-media.ro
 instalcons.ro
-int.bacm.ro
 integratio.ro
 intelicasa.ro
 intreprinde.ro
@@ -776,7 +779,6 @@ pnl-maieru.ro
 politeh.ro
 polymetal.ro
 ponny.hi2.ro
-pool.bacm.ro
 posdru-edru.bioresurse.ro
 posl.hanuldrumetilor.ro
 postdoctorat.ase.ro
@@ -854,6 +856,7 @@ rouamaramuresului.ro
 royalmotors.ro
 rozette.ro
 rta-persn2nd.pensiunealazar.ro
+rtpznj.garibald.ro
 rugidom.ro
 ruki.ro
 rulote.allkrisautomobile.ro
@@ -867,6 +870,8 @@ salinaocnelemari.ro
 salonlamaison.ro
 saltele-online.ro
 sampax.ro
+sanalytics.boomerang-tv.ro
+sanalytics.cartoonnetwork.ro
 sanlux.ro
 sans.ro
 saulescupredeal.licee.edu.ro
@@ -898,7 +903,6 @@ seo-portal.ro
 seone.ro
 sepcinewera.ro
 servautodan.ro
-server.bacm.ro
 serviceoprescu.ro
 servicetanase.ro
 servsitepower.ro
@@ -941,6 +945,7 @@ srrom.ro
 srvkcnsite.ro
 srvsiteservncj.ro
 srvsitesrvnrj.ro
+ssa.eurosport.ro
 sspbike.ro
 stailapoza.ro
 stampile-constanta.ro
@@ -951,7 +956,6 @@ startex.ro
 startupbiz.ro
 static.gtop.ro
 statistici.ro
-status.bacm.ro
 stefanaki.ro
 stil-proiect.ro
 stomatologievalcea.ro
@@ -1032,6 +1036,7 @@ trustsoft.ro
 tudialactate.ro
 tulcealive.ro
 turkishkebab.ro
+uberum.ro
 uggreduceri.ro
 uiwock.epantofi.ro
 unilite.ro
@@ -1050,6 +1055,7 @@ usxe5eqstjo3dhyeforo.viomil.ro
 utransilvania.ro
 vacantela.ro
 valiumvalium.3xforum.ro
+vanzare.cabanabrazi2.ro
 vcalinus.gemenii.ro
 ventdepot.ro
 ventrust.ro
@@ -1092,7 +1098,6 @@ www.adbanner.ro
 www.adorablevickylive.blogspot.ro
 www.adoredcassie.blogspot.ro
 www.adtrade.ro
-www.bacm.ro
 www.bcs-ionservice.ro
 www.beautifulaudrey.blogspot.ro
 www.best-top.ro
@@ -1100,7 +1105,6 @@ www.bostik.com.ro
 www.ccnprodusenaturiste.home.ro
 www.cmt.ro
 www.coilprofil.ro
-www.creativeads.ro
 www.cssincronbucuresti.ro
 www.doll.home.ro
 www.ecpi.ro
@@ -1125,6 +1129,7 @@ www.onechicjoy.blogspot.ro
 www.paidclick.ro
 www.panazan.ro
 www.petitemelissa.blogspot.ro
+www.pkbacademy.ro
 www.refinedlover.blogspot.ro
 www.rosemaryevanscam.blogspot.ro
 www.seo-portal.ro
@@ -1145,10 +1150,12 @@ www.trafix.ro
 www.transexclub.ro
 www.w1.ro
 www.xtrafic.ro
+www2.avikofoodservice.ro
 xanaxxanax.3xforum.ro
 xchange.ro
 xn--dezmembrri-constana-dfc400d.ro
 xn--transfgran-mgbbb600b.ro
+xsrzqh.oferte360.ro
 xtrafic.ro
 yacovtours.ro
 yhdyhd.ro
@@ -1161,3 +1168,4 @@ zamburi.ro
 zebramov.ro
 zefirdecor.ro
 zughy.uv.ro
+zxxvns.f64.ro

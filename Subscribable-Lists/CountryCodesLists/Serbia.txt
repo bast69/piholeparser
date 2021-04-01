@@ -74,7 +74,6 @@ grandgroup.co.rs
 greenvillage.edu.rs
 grupnaputovanja.rs
 hausbau.rs
-hk.rs
 ho-openx.ha.rs
 igralistens.rs
 importex.rs
@@ -149,7 +148,6 @@ rem.fbook-920859146.infomax.rs
 sbb20688.mycpanel.rs
 scorpion.co.rs
 secure.webmail.2020.pending-emailverification.ks.salonadut.rs
-seminarski-diplomski.co.rs
 serverirrc.rs
 signin.ebay.de.ws.ebayisapi.dll.signin.usingssl.rjvs8dbe62c6hqz.nezavisnisindikatbvk.rs
 smarteconomy.rs
@@ -157,6 +155,7 @@ smarting.rs
 solvensplus.co.rs
 sporttrimzlatibor.rs
 srvk.org.rs
+st.encyclopediadramatica.rs
 static.hk.rs
 status-pro.rs
 stavros.co.rs
@@ -164,6 +163,7 @@ stek.rs
 storgas.co.rs
 stranijezici.edu.rs
 superbit.rs
+taiva.rs
 tecasi.rs
 tehnopan.rs
 teorija.rs
@@ -176,7 +176,9 @@ transporteri.rs
 udruzenjeprimarna.org.rs
 uv-lit.rs
 videostreaming.rs
+vilaart.rs
 vitaplan.rs
+vmtzastita.rs
 vsstle.edu.rs
 webhostingsrbija.rs
 weldgas.co.rs

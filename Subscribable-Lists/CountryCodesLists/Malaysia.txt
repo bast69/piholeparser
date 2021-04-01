@@ -65,6 +65,7 @@ bulb.76.my
 bumidotcom.my
 bzmotors.com.my
 cal.com.my
+capasa.com.my
 carstreet.com.my
 cashsweep.com.my
 cdee.com.my
@@ -196,6 +197,7 @@ imaginelaserworks.com.my
 imeb.com.my
 imm2h.my
 infiboom.com.my
+info.esrimalaysia.com.my
 inkpoint.com.my
 inlesb.com.my
 innocraft.com.my
@@ -330,7 +332,6 @@ rajas.com.my
 rapidko.com.my
 rates.my
 rebuild.ewarehouse.my
-redhex.my
 relacer.rajas.com.my
 reliancetravel.net.my
 repsoloil.com.my
@@ -352,11 +353,13 @@ shop.arch.my
 shop.qbee.my
 show.my
 singnan.com.my
+sitepro.my
 sku-auto.com.my
 slsb.com.my
 slymochoco.my
 smart-i.my
 smetrics.abbottnutrition.com.my
+smetrics.citibank.com.my
 smetrics.pediasure.com.my
 smksultanahasma.edu.my
 smlex.com.my
@@ -434,6 +437,7 @@ www.maybankard.com.my
 www.quiz-fun.com.my
 www.robbreport.com.my
 www.sportstoto.com.my
+www2.tmone.com.my
 x.cnt.my
 ybsgroup.com.my
 ycom.com.my

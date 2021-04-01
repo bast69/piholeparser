@@ -1,6 +1,7 @@
 17so.so
 685.so
 ad.spielothek.so
+analytics.pgncs.notion.so
 asd.projectfreetv.so
 asd2.projectfreetv.so
 baahiye.so
@@ -20,6 +21,8 @@ rcl.yme.so
 sispa.so
 somcast.so
 spielothek.so
+stats.cohere.so
+stats.shoutout.so
 tabaarak.so
 thefappening.so
 u870797.nvpn.so

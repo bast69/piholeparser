@@ -9,7 +9,6 @@
 69.subnet254.astinet.telkom.net.id
 85leather.id
 991mostfm.co.id
-a.props.id
 aads.co.id
 aakmanggalajogja.web.id
 aarm-tniad.mil.id
@@ -171,8 +170,6 @@ atman.web.ugm.ac.id
 atria.co.id
 atris-express.id
 attujarmandiri.co.id
-au-insight.props.id
-au.props.id
 audiary.id
 auth.netflix.logs.com.khanza.biz.id
 auto.web.id
@@ -451,6 +448,7 @@ dapurmakgitta.id
 darasempurna.co.id
 darussunnah.ponpes.id
 daster.id
+dauvwl.cottonink.co.id
 davia.co.id
 dayahblang.id
 dd.ub.ac.id
@@ -534,6 +532,7 @@ emeraldstore.biz.id
 emonev.pakpakbharatkab.go.id
 en.lppm.unila.ac.id
 enable-certificate-advance-of-pages-notify.my.id
+engage.3m.co.id
 enisunaeni.co.id
 esene.co.id
 essenza.co.id
@@ -643,6 +642,7 @@ globalfeednusantara.co.id
 globalmediatama.co.id
 globaltimework.my.id
 globissys.co.id
+go.privy.id
 gogogo.id
 gojexcoffee.id
 gold.investforex.id
@@ -757,7 +757,6 @@ himafarmaavicenna.ulm.ac.id
 himahi.upnvj.ac.id
 himateka.umj.ac.id
 himatif.pelitabangsa.ac.id
-hit-log.viva.co.id
 hjtriryotrirtuejdfjerywr7347347347347.internal-social-advanced.my.id
 hkb.co.id
 hlp01pgercvrsrvce01.my.id
@@ -777,6 +776,7 @@ hrcraf.id
 hsianpgehlp01rcvrsrvce01.my.id
 hukum.unmuha.ac.id
 hydration.id
+hyybul.kaskus.co.id
 i.coffees.fh.unila.ac.id
 iais.ac.id
 iam-creative.co.id
@@ -824,10 +824,10 @@ indonesiaku.or.id
 indotamaconsulting.co.id
 indta.co.id
 industrid3.nusch.id
+info.esriindonesia.co.id
 inforeprtpages2020.my.id
 infos3cfbadsacc.my.id
 insanmadani.sch.id
-insight.props.id
 inspiran.co.id
 instagram.officials.email.mulyatitety.my.id
 instagram.rindagemilang.co.id
@@ -837,7 +837,6 @@ instink.smkmfsudimoro.sch.id
 instpgehlprcvrysrvce01.my.id
 intagram.my.id
 interac.online1.verified.deposit-funds-canada.jaimorishop.id
-interbanx.co.id
 interiorbandung.co.id
 internaprima.co.id
 internetpositif.uzone.id
@@ -1160,7 +1159,6 @@ mob1legend.my.id
 mobile-legends-bagi2-hadiah.my.id
 mobile-protection-page.my.id
 mohzaenisahrudin.my.id
-monero.riefly.id
 mootostudiocoid.masterweb.id
 mozaikfoodinovation.co.id
 msi.undip.ac.id
@@ -1291,7 +1289,6 @@ paypalme.maliku-baru.id
 pbs.fkip.unja.ac.id
 pci-sepuluh.id
 pcmsumberrejo.or.id
-pdamkarawang.id
 pdri.or.id
 peacefulbirth.id
 pearland.co.id
@@ -1475,6 +1472,7 @@ risenet.id
 rivera.co.id
 rizkikhaizir.id
 rizkyamaliamebel.co.id
+rjlhoi.torch.id
 roeangkata.id
 roidatuddiana.id
 rosikha.id
@@ -1620,6 +1618,8 @@ sman44jkt.sch.id
 smansaduri.sch.id
 smapgripangkalankersik.sch.id
 smartdigi.id
+smetrics.citibank.co.id
+smetrics.kone.co.id
 smk01diponegoro.sch.id
 smk1nglipar.sch.id
 smkfadris.sch.id
@@ -1715,8 +1715,6 @@ sryapgehlpbsnessrvce01.my.id
 ss.monita.co.id
 ssm-whatsap.new9.my.id
 ssp.adplus.co.id
-st-a.props.id
-st-insight.props.id
 stai-almasthuriyah.ac.id
 staida.ac.id
 stainujakarta.ac.id
@@ -1784,7 +1782,6 @@ teknikjaya.co.id
 teknosmart.co.id
 telematika.id
 temaniomhlprcvrysrvce01.my.id
-test1.milenial.id
 teumpeun.id
 tglsrcvrpgehlp01srvcpge01.my.id
 thamarbengkel.co.id
@@ -1929,21 +1926,19 @@ wwbali.co.id
 www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
+www.capitallifesyariah.co.id
 www.charisministries.id
 www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id
-www.interbanx.co.id
 www.jabra.id
-www.props.id
 www.sekolahalmunasemarang.sch.id
 www.sewamobilbengkulu.web.id
 www.veljko.id
 www.web.pa-cirebon.go.id
 wypratama.co.id
 xgiectd6bqsggcvjmlvx.smpasbsolo.sch.id
-xmr.riefly.id
 yah.albaclothj.my.id
 yanicraftcoid.masterweb.id
 ybhr.or.id

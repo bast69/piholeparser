@@ -19,6 +19,7 @@ luttecovid19.zdcagency.ci
 mail.anare.ci
 marketing.net.jumia.ci
 mkconstruction.ci
+net.jumia.ci
 preventis.ci
 psndea.ci
 pub.rti.ci

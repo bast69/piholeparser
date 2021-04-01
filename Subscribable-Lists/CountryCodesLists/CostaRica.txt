@@ -1,5 +1,6 @@
 agns.co.cr
 ak.cr
+app.info.coopenae.fi.cr
 beneficios.davivienda.cr
 ccss.cr
 chase.com-cmserver-users-default-confirm.cfm.farmaciacentral.co.cr
@@ -7,11 +8,12 @@ chubbydu51.fr.cr
 cidicer.so.ucr.ac.cr
 confidentialite-profils.webnode.cr
 costaricametal.cr
+cs.coopeservidores.fi.cr
 eco.eca.or.cr
+engage.3m.co.cr
 freeones.co.cr
 introduction6-espace.webnode.cr
 kat.cr
-laferia.cr
 line.co.cr
 metal.co.cr
 mx01.dulcefiesta.co.cr
@@ -24,8 +26,6 @@ revistas.tec.ac.cr
 revistasoho.co.cr
 seminario.ebci.ucr.ac.cr
 solarenergy.co.cr
-thepiratebay.cr
 tooness.cr
 uadns.co.cr
 www.freeones.co.cr
-www.thepiratebay.cr

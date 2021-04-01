@@ -20,7 +20,6 @@ icloud.com.admin-rs-mcas.ms
 in.appcenter.ms
 jeux.ms
 jps.ms
-jt.ms
 lat.ms
 lnk.ms
 m.w.ms
@@ -40,7 +39,6 @@ samaretoday.ms
 seopin7.ms
 signin-ebay.de.ms
 site-stats.rbl.ms
-srv.jt.ms
 start07.ms
 statics-wcus.onestore.ms
 stoperectionproblem.ms

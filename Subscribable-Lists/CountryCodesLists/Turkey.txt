@@ -259,6 +259,7 @@ designgroup.com.tr
 destek.hometech.com.tr
 devas.com.tr
 devexpress.com.tr
+dgynnj.koctas.com.tr
 dikon.com.tr
 dinarsu.com.tr
 dincticaret.com.tr
@@ -336,6 +337,7 @@ ferka.com.tr
 ferrokim.com.tr
 fetih1453.org.tr
 fevzihoca.com.tr
+fimuod.korkmazstore.com.tr
 firmamentum.com.tr
 fkpres.com.tr
 florapark.com.tr
@@ -434,6 +436,7 @@ ivr.com.tr
 jennah.com.tr
 jineplast.com.tr
 jmoon.com.tr
+jptobh.network.com.tr
 jvznla.rossmann.com.tr
 kadem.com.tr
 kahramanmaras.gen.tr
@@ -650,6 +653,8 @@ saimakcil.com.tr
 saltaninsaat.com.tr
 samli.com.tr
 samurmakina.com.tr
+sanalytics.boomerangtv.com.tr
+sanalytics.cartoonnetwork.com.tr
 sarayciftligi.com.tr
 sarinsaat.com.tr
 savaspark.com.tr
@@ -716,8 +721,10 @@ sts-richterhuclientrequest.ahmetakayazak.com.tr
 suluklima.com.tr
 sumer.gen.tr
 sunkozmetik.com.tr
+sw88.disneymagicmoments.gen.tr
 sw88.disneyturkiye.com.tr
 swwcyk.ahaber.com.tr
+swwcyk.fotomac.com.tr
 swwcyk.sabah.com.tr
 swwcyk.takvim.com.tr
 sync.console.adtarget.com.tr
@@ -753,6 +760,7 @@ topragitaniyoruz.pau.edu.tr
 toramanlar.com.tr
 totemguvenlik.com.tr
 tr.alzaminilac.com.tr
+tracking.omron.com.tr
 tracking.tchibo.com.tr
 truva2007.com.tr
 ttnet.yandex.com.tr
@@ -781,12 +789,14 @@ varyant.com.tr
 vedznh.cumhuriyet.com.tr
 vhvsigorta.com.tr
 vipkon.com.tr
+vllclq.ninewest.com.tr
 vmedya.com.tr
 wampum.com.tr
 waterchem.com.tr
 watergreen.com.tr
 wbswtr.decathlon.com.tr
 webservis.gen.tr
+webstat.garanti.com.tr
 webstats.garanti.com.tr
 wellsfargo.userverifyaccountsecure.mesmobil.com.tr
 wildcard.fullsports.com.tr
@@ -1204,6 +1214,7 @@ www.stats.posta.com.tr
 www.stats.tv8.com.tr
 www.suluklima.com.tr
 www.sumer.gen.tr
+www.sunaryem.com.tr
 www.tabanway.com.tr
 www.tahinlim.com.tr
 www.tanguluercetin.com.tr

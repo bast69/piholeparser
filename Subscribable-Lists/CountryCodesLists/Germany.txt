@@ -231,7 +231,6 @@
 1anus-defonce.blogspot.de
 1apflanzen.de
 1apics.de
-1as-bannertest.adtech.de
 1asex.de
 1asexchat.de
 1badooducul.blogspot.de
@@ -1166,6 +1165,8 @@ adarkadaptedlife.blogspot.de
 adaum.de
 adayatthegames2.blogspot.de
 adayinthelifeofwhatsmynameagain.blogspot.de
+adb.superrtl.de
+adb.toggo.de
 adbl.spieletipps.de
 adbot.de
 adbridge.de
@@ -1301,7 +1302,6 @@ ads.adtiger.de
 ads.adtube.de
 ads.adultshop.de
 ads.advance.de
-ads.aol.fr.adtech.de
 ads.badische-zeitung.de
 ads.banner.t-online.de
 ads.berlinonline.de
@@ -1431,16 +1431,6 @@ adservant.mediapoint.de
 adserve.ad4money.de
 adserve.gkeurope.de
 adserver-a-amt.adtech.de
-adserver-a-frr.adtech.de
-adserver-dpamt.adtech.de
-adserver-dpfrr.adtech.de
-adserver-nbamt.adtech.de
-adserver-nbfrr.adtech.de
-adserver-origin-frr.adtech.de
-adserver-qcamt.adtech.de
-adserver-qcfrr.adtech.de
-adserver-sb-ams.adtech.de
-adserver-sb-fra.adtech.de
 adserver.3digit.de
 adserver.71i.de
 adserver.adtech.de
@@ -1476,7 +1466,6 @@ adserver.konze.de
 adserver.lexas.de
 adserver.mindshare.de
 adserver.motorpresse.de
-adserver.mrnetworks.de
 adserver.mundo-service.de
 adserver.ngz-network.de
 adserver.oktoberfest.de
@@ -1488,12 +1477,10 @@ adserver.publicaddress.de
 adserver.schuetter-interactive.de
 adserver.spritmonitor.de
 adserver.synergetic.de
-adserver.telekom.de
 adserver.trojaner-info.de
 adserver.vogelforen.de
 adserver.web.de
 adserver.webmeister24.de
-adserver.webstatsserver.de
 adserver.yopi.de
 adserver01.de
 adserver1.mediainsight.de
@@ -1992,7 +1979,6 @@ afrodite.de
 afroerotik.blogspot.de
 afservant.guj.de
 afsoft.de
-aftenposten.glb.adtech.de
 afterbuy.de
 afterdarkonlinestories.blogspot.de
 afterpack.de
@@ -3257,7 +3243,6 @@ analwaschung.de
 analx.de
 analytics-static.unister-gmbh.de
 analytics.1und1.de
-analytics.adtech.de
 analytics.audionow.de
 analytics.bigfm.de
 analytics.bytefabrik.de
@@ -3267,13 +3252,13 @@ analytics.epublica.de
 analytics.gameforge.de
 analytics.ip-profis.de
 analytics.loop-cloud.de
+analytics.lunge.de
 analytics.media-proweb.de
 analytics.moviepilot.de
 analytics.myhermes.de
 analytics.pixeltricks.de
 analytics.spreadshirt.de
 analytics.unister-gmbh.de
-analyticstest.adtech.de
 ananovam.blogspot.de
 anarchangel.blogspot.de
 anarchyforbeginners.blogspot.de
@@ -3772,12 +3757,9 @@ aphrodite-travel.de
 aphrodite.de
 aphrodites-table.blogspot.de
 aphroditeshop.de
-api-doc.adtech.de
 api-img.billiger.de
 api-selene.prod.adtech.de
-api.bitcoin.de
 api.chip-secured-download.de
-api.einfach-iota.de
 api.finanzen.immobilienscout24.de
 api.intensifier.de
 api.mobile.immobilienscout24.de
@@ -4110,6 +4092,7 @@ as.bild.de
 as.bz-berlin.de
 as.computerbild.de
 as.fitbook.de
+as.metal-hammer.de
 as.mirapodo.de
 as.musikexpress.de
 as.myhomebook.de
@@ -4546,8 +4529,6 @@ attumeetsjenna.blogspot.de
 attustest.blogspot.de
 atv-24.de
 atv24.de
-atwola-sb-ams.adtech.de
-atwola-sb-fra.adtech.de
 aubu.de
 auch-nett.de
 auction4adult.de
@@ -5020,7 +5001,6 @@ bajolasfaldas-oficial.blogspot.de
 bakamuthafuckamackyu.blogspot.de
 baketown.blogspot.de
 bakhtiarazi.blogspot.de
-balance.einfach-iota.de
 baldo-shop.de
 bali-beads.de
 ball-honeys-videos.blogspot.de
@@ -5132,7 +5112,6 @@ banners.unibet.de
 bannersexchange.blogspot.de
 bannersolutions.de
 bannertausch-erotik.de
-bannertest.adtech.de
 bannertool.hotel.de
 bannerwerbung.bienenzeitung.de
 bantqr8rrm9c11.com.de
@@ -5896,13 +5875,7 @@ bestxxxxxporn.blogspot.de
 besuch24.de
 besucherstats.de
 besucherzaehler-zugriffszaehler.de
-beta-adserver.adtech.de
-beta-imageserver.adtech.de
-betaadserv001.adtech.de
 betacupcool.com.de
-betathome-sb-ams.adtech.de
-betathome-sb-fra.adtech.de
-betathome.glb.adtech.de
 betcoinupdateaccount.de
 betcs.phpbbx.de
 betec-ideen.de
@@ -6366,17 +6339,12 @@ bitchreport.blogspot.de
 bitchroad.blogspot.de
 bitchsex.de
 bitchy-musings.blogspot.de
-bitcoin-game.de
-bitcoin.de
-bitcoin.minerpool.de
-bitcoin2.minerpool.de
 bitcupcool.com.de
 bitefight.de
 bitenfolie.blogspot.de
 biti-media.de
 bitingbeaver.blogspot.de
 bitinobowshotp.blogspot.de
-bitmainer.de
 bitoffurniture.blogspot.de
 bitsofrebekah.blogspot.de
 bitter-buch.de
@@ -7268,6 +7236,7 @@ bostonmassachusettsware.com.de
 bostonmassachusettsweb.com.de
 bostonmassachusettszone.com.de
 bostonmassachusettszoom.com.de
+botschaftvielfalt.de
 bottlecock.blogspot.de
 bottlestore.de
 bottom-lines.blogspot.de
@@ -7752,6 +7721,7 @@ bt.mediaimpact.de
 btd2379.blogspot.de
 btexpress.blogspot.de
 btjdsbhjhfdajjc.blogspot.de
+btptod.aerzteblatt.de
 btt.betarget.de
 bttmboyslut.blogspot.de
 buakaw.blogspot.de
@@ -8658,8 +8628,6 @@ capturedheroes.blogspot.de
 car-a-fun.de
 car-girl.de
 car-hifi-produkte.de
-caradisiac-sb-ams.adtech.de
-caradisiac-sb-fra.adtech.de
 caralarmsystem.de
 caralockwood.blogspot.de
 caralottsjournal.blogspot.de
@@ -11006,7 +10974,6 @@ curvycelebs.blogspot.de
 curvycleo.blogspot.de
 cuslingerie.blogspot.de
 cussixia.de
-custom.einfach-iota.de
 customeroticasource.blogspot.de
 cute-angie-pics.blogspot.de
 cute-anne-nude.blogspot.de
@@ -11454,12 +11421,13 @@ dastex-veranstaltungen.de
 dasweblabor.de
 data-ssl.stepstone.de
 data.ads.t-online.de
-data.adtech.de
 data.all-in.de
 data.decathlon.de
+data.engelhorn.de
 data.goertz.de
 data.leipzig.de
 data.mainpost.de
+data.westlotto.de
 date-4-sex.de
 date-cafe.de
 date-today.de
@@ -11538,6 +11506,8 @@ dbz-hentai.blogspot.de
 dbzhentaiblog.blogspot.de
 dcaffeinated.blogspot.de
 dcchick1-lifepost.blogspot.de
+dcclaa.instyle.de
+dcclaa.meine-familie-und-ich.de
 dcgaysofourlives.blogspot.de
 dcide.de
 dcpcdoll.blogspot.de
@@ -11708,7 +11678,6 @@ delusionalbitch.blogspot.de
 delusionalborderlineswinger.blogspot.de
 deluxe-escorts.de
 deluxebabes.de
-demand-service.adtech.de
 demarcusvesix.blogspot.de
 demasiadohots.blogspot.de
 dementedfairytale.blogspot.de
@@ -11972,7 +11941,6 @@ deva-muenchen.de
 devanrdkriejl.blogspot.de
 devanture.phpbbx.de
 devcoult.blogspot.de
-developers.minerpool.de
 developerservis.de
 devenelautcbi.blogspot.de
 devenez-animatrice-webcam.blogspot.de
@@ -12042,6 +12010,7 @@ diacyzclmztufkv.blogspot.de
 diagrammedboy.blogspot.de
 dialatart.blogspot.de
 dialerschutz.de
+dialog.dqs.de
 dialogue.mazda.de
 diamant-escort.de
 diamond-escort.de
@@ -12522,7 +12491,6 @@ dnt.de
 do-jo.de
 doahentai.blogspot.de
 dobrasil.de
-doc.adtech.de
 docholewa.blogspot.de
 docmar.de
 docopsizeblog.blogspot.de
@@ -13351,7 +13319,6 @@ edendf.blogspot.de
 edenfetierotc.blogspot.de
 edensex.de
 edgbpymkijgaatc.blogspot.de
-edgeno.de
 edgeofdesire.blogspot.de
 edgeofreality222.blogspot.de
 edgozrjjaisvjcs.blogspot.de
@@ -13458,7 +13425,6 @@ eiloadajdjf.de
 ein-besseres-leben.de
 einemillioneuro.de
 eineweltforum-muenster.de
-einfach-iota.de
 einfachgay.de
 eingang69.de
 eingepisst.de
@@ -13669,6 +13635,7 @@ elysepsjoudlt.blogspot.de
 emackinations.blogspot.de
 email-kontakte.de
 email-postfach-gratis.de
+email.eigensonne.de
 emailaruba.com.de
 emailbang.com.de
 emailbenachrichtigung.de
@@ -15299,15 +15266,12 @@ et-porno-sexe.blogspot.de
 et-sexe-porno.blogspot.de
 etackle.de
 etcandsoon.blogspot.de
-eth-pocket.de
 ethanlane108.blogspot.de
 ethenyirogvhk.blogspot.de
-ethereum-pocket.de
 etherus.blogspot.de
 ethnicmen.blogspot.de
 ethnodesigns.de
 ethnoshop24.de
-ethtrader.de
 etiltonexplorations.blogspot.de
 etits.de
 etlittersvixens.blogspot.de
@@ -15485,6 +15449,7 @@ ewelmay.blogspot.de
 ewh-ferienwohnungen.de
 ewigeliga.de
 ewix.de
+eworfe.babyartikel.de
 ex-courtesan.blogspot.de
 ex-fotze.de
 ex-fotzen.de
@@ -16745,6 +16710,7 @@ fiodonorte.blogspot.de
 fionafucktoy.blogspot.de
 fionaluv.blogspot.de
 fiorellafeet.blogspot.de
+fipsta.urbanara.de
 fireball.de
 firegirls.de
 firma-thummerer.de
@@ -16817,6 +16783,7 @@ fivestars.de
 fivetown.de
 fivid.de
 fivwbox.de
+fiwinet.firmenwissen.de
 fizzgigabyte.blogspot.de
 fizzleandpop.blogspot.de
 fjortisknull.blogspot.de
@@ -17232,7 +17199,6 @@ fpornclip.blogspot.de
 fpv18.blogspot.de
 fpwtsp.xxxlutz.de
 fr-sex.de
-fraad.adtech.de
 frabo.de
 fragmentserv.iac-online.de
 frame3d.de
@@ -17887,6 +17853,7 @@ ftpbrasil.blogspot.de
 ftv-girl-carli.blogspot.de
 ftv-julia-naked-wife-porn.blogspot.de
 ftvgirlserotica.blogspot.de
+ftysya.aboutyou.de
 fu-qtoo.blogspot.de
 fu-qtoobabes.blogspot.de
 fuck-boy.de
@@ -19587,28 +19554,6 @@ glaswels.de
 glauwitz.de
 glavyril.blogspot.de
 glazingthedonut.blogspot.de
-glb-ads-eu.one.adtech.de
-glb-ads.adplus.adtech.de
-glb-ads.adstarslive.adtech.de
-glb-ads.aftenposten.adtech.de
-glb-ads.aftonbladet.adtech.de
-glb-ads.atwola.adtech.de
-glb-ads.betathome.adtech.de
-glb-ads.caradisiac.adtech.de
-glb-ads.ekstrabladet.adtech.de
-glb-ads.eyeonx.adtech.de
-glb-ads.finno.adtech.de
-glb-ads.iam.adtech.de
-glb-ads.immobilienscout24.adtech.de
-glb-ads.popitunder.adtech.de
-glb-ads.ripplead.adtech.de
-glb-ads.t101.adtech.de
-glb-ads.vgsgaming.adtech.de
-glb-ads.webtraffic.adtech.de
-glb-mads.iam.adtech.de
-glb-mobile.a.adtech.de
-glbad.adtech.de
-glbimg.adtech.de
 gleich-ficken.de
 gleichgehtslos.de
 gleitgel-shop.de
@@ -19662,7 +19607,10 @@ go-rank.de
 go-rezepte.de
 go-transsexuell.de
 go-versand.de
+go.hhl.de
+go.nevensuboticstiftung.de
 go.newsletterklick29.de
+go.optadata.de
 go1.elcbz.de
 go4beauty.de
 go4filez.blogspot.de
@@ -19940,7 +19888,6 @@ green.ingame.de
 green0whatbulb.blogspot.de
 green24.de
 greenfeet.de
-greengaming.de
 greengayboy.blogspot.de
 greenhell.de
 greenlight-shop.de
@@ -20126,6 +20073,7 @@ gwc-clan.de
 gwendanas-shop.de
 gwenmasters.blogspot.de
 gwmnc.blogspot.de
+gwqtum.philips.de
 gwyneth-paltrow-nude.blogspot.de
 gxpedia.de
 gxporn.blogspot.de
@@ -20146,9 +20094,7 @@ gyrne.de
 h-animeplay.blogspot.de
 h-haider.de
 h-ue.de
-h1.node.einfach-iota.de
 h1rl.blogspot.de
-h2.node.einfach-iota.de
 h2omens.blogspot.de
 h2r2.de
 ha-ha.de
@@ -20644,11 +20590,7 @@ hdtemizporno.blogspot.de
 hdtvcelebnudeclips.blogspot.de
 hdtvmoneyplay.com.de
 head-light.de
-head-node1.einfach-iota.de
-head-node2.einfach-iota.de
 head-shop.de
-head1.node.einfach-iota.de
-head2.node.einfach-iota.de
 headcoach-fanclub.de
 headmastersstudy.blogspot.de
 heartbreakcity.blogspot.de
@@ -20897,7 +20839,6 @@ hermajestysplaything.blogspot.de
 hermaneilla.blogspot.de
 hermaphroditeendormi.blogspot.de
 hermaphroditephotos.blogspot.de
-hermes.bitcoin.de
 hermesbeethovenensis.de
 hermionesheart.blogspot.de
 hermisterbaldwin.blogspot.de
@@ -21104,10 +21045,6 @@ hlm-lifestyle.de
 hm-deluxe.de
 hm-sat.de
 hmgames.de
-hn1.einfach-iota.de
-hn1.status.einfach-iota.de
-hn2.einfach-iota.de
-hn2.status.einfach-iota.de
 hno-bremennord.de
 hnt-james.blogspot.de
 hntanon.blogspot.de
@@ -22288,6 +22225,7 @@ hsexo.blogspot.de
 hsg-exten-rinteln-damen.de
 hsg-volkach.de
 hsk-erotikkontakte.de
+hslkll.verkehrsuebungsplatz-info.de
 ht-gmbh.de
 htb2006.blogspot.de
 htransvestite.blogspot.de
@@ -22455,8 +22393,6 @@ i9vwbox.de
 iaintscaredtosayit.blogspot.de
 iam-heliosiq.adtech.de
 iam-iq.adtech.de
-iam-sb-ams.adtech.de
-iam-sb-fra.adtech.de
 iamagaytekeeper.blogspot.de
 iamahornywife.blogspot.de
 iamasuperpenis.blogspot.de
@@ -22639,7 +22575,6 @@ imap.drbill.de
 imaragingglesbian.blogspot.de
 imelda-imelda.blogspot.de
 img-dc2.adtech.de
-img.adtech.de
 img.gamezone-media.de
 img.layer-ads.de
 img.seitwert.de
@@ -22658,7 +22593,6 @@ immobilie-nuernberg.de
 immobilien1000.de
 immobilienbegleitung.de
 immobilienbid.de
-immobilienscout24-sb-ams.adtech.de
 immobilienvertraulich.de
 imnot2bzy.blogspot.de
 imnotallright.blogspot.de
@@ -22745,7 +22679,6 @@ imserv006.adtech.de
 imserv00x.adtech.de
 imsogothikickedacarebearsass.blogspot.de
 imsolesbian.blogspot.de
-imspro.adtech.de
 imssl01.adtech.de
 in-der-schule-gefickt.blogspot.de
 in-fected.de
@@ -22822,7 +22755,11 @@ influencing-machine.blogspot.de
 info-announcement.de
 info-protal.de
 info-shopsysteme.de
-info.bitcoin.de
+info.aagon.de
+info.bnp-news.de
+info.dgq.de
+info.forms.messe-muenchen.de
+info.janitza.de
 info.kopp-verlag.de
 info.o2business.de
 info.web.de
@@ -23060,7 +22997,6 @@ intimvideo.de
 intimzonen.de
 intogossip.blogspot.de
 intopits.blogspot.de
-intranet.adtech.de
 intranetimir.de
 introducetailor.com.de
 invdeo.de
@@ -23075,6 +23011,7 @@ inzest-tv.de
 inzest.de
 ioam.de
 iogaddict.blogspot.de
+iooecb.bergzeit.de
 iovwbox.de
 iowabev.blogspot.de
 ipacc1.adtech.de
@@ -23089,9 +23026,6 @@ ipornx.blogspot.de
 ipx24.de
 iq.adtech.de
 iq001.adtech.de
-iqreport-dc1.adtech.de
-iqreport-dc2.adtech.de
-iqreport.adtech.de
 iqtestsites.adtech.de
 ir-ag.de
 iransexysexy.blogspot.de
@@ -23498,8 +23432,11 @@ jdgtgb.augsburger-allgemeine.de
 jdgtgb.desired.de
 jdgtgb.duden.de
 jdgtgb.express.de
+jdgtgb.giga.de
 jdgtgb.mopo.de
 jdgtgb.pcgames.de
+jdgtgb.pcgameshardware.de
+jdgtgb.rnz.de
 jdgtgb.t-online.de
 jdgtgb.watson.de
 jdsampson.blogspot.de
@@ -24050,6 +23987,7 @@ k-o-l.de
 k-porn.blogspot.de
 k-und-f-modellbau.de
 k-v-s.de
+k.cocooncenter.de
 k4-livesex.de
 k9info.blogspot.de
 k9sluts.blogspot.de
@@ -24532,6 +24470,7 @@ kittycam.de
 kittysexoticpaddles.blogspot.de
 kittystiger.blogspot.de
 kivwbox.de
+kjdazx.buecher.de
 kjsayshitmewithyourbestshot.blogspot.de
 kk0.de
 kka.agitos.de
@@ -24888,6 +24827,7 @@ ksv-holzdorf.de
 kt-g.de
 ktgrant.blogspot.de
 ktosxy.de
+ktzuoc.bueroshop24.de
 kubango.de
 kubb-spiel.de
 kubembom.blogspot.de
@@ -24932,6 +24872,7 @@ kyrrha.blogspot.de
 kyssmytits-kyssmytits.blogspot.de
 kzorras.blogspot.de
 kzsicw.chip.de
+kzsicw.focus.de
 l-a-tex.de
 l-u-l.de
 l0vebites.blogspot.de
@@ -25089,7 +25030,6 @@ lalolamemola.blogspot.de
 lalove.de
 lalunabar.de
 lamachacareload.blogspot.de
-lambdafoobar.de
 lamboo.de
 lamemeauxchats.blogspot.de
 lamentoeternal.blogspot.de
@@ -25338,6 +25278,7 @@ ldsc.de
 ldserv01.adtech.de
 ldserv02.adtech.de
 ldsexpositor.blogspot.de
+ldwybo.ingenieur.de
 le-contrat.blogspot.de
 le-dos-de-la-culotte.blogspot.de
 le-hot.blogspot.de
@@ -25394,6 +25335,7 @@ leechhentaiforfree.blogspot.de
 leeowensromance.blogspot.de
 leeza.de
 lefildutemps-bis.blogspot.de
+lefmhl.14-tage-wettervorhersage.de
 leftsideheart.blogspot.de
 lefun.de
 legacyofwednesday.blogspot.de
@@ -25649,6 +25591,7 @@ lfdylol.de
 lfmonline.de
 lgsbizarr.de
 lgsolar.de
+lgyvfv.nix-wie-weg.de
 lia-19-pics.blogspot.de
 lia-19-video.blogspot.de
 lia19-teen-model.blogspot.de
@@ -25947,7 +25890,6 @@ lissadventures.blogspot.de
 listedboy.blogspot.de
 listi.de
 lite.adtech.de
-litecoin.minerpool.de
 literotic.blogspot.de
 litterature-erotique-amateur.blogspot.de
 little-amadeus.de
@@ -26327,7 +26269,6 @@ log.suchen.de
 log.sz-online.de
 logger.cash-media.de
 login-security.de
-login.adtech.de
 login.app.mailchimp.session.id1552443.m-breden.de
 login.mobile.de.mblplaza.de
 login.steamcomunity.de
@@ -26504,13 +26445,23 @@ lotix.de
 lotsoffreeporn.blogspot.de
 lotterluder.de
 lotterymaster.de
+lotto-bayern.de
 lotto-berlin.de
+lotto-brandenburg.de
+lotto-bremen.de
+lotto-bw.de
+lotto-hessen.de
+lotto-hh.de
+lotto-niedersachsen.de
+lotto-rlp.de
 lotto-sh.de
 lotto-thueringen.de
 lotto.de
 lotto.web.de
 lotto24.de
 lottohelden.de
+lottomv.de
+lottosachsenanhalt.de
 lotus-escort.de
 loub1356.blogspot.de
 loucadeasas.blogspot.de
@@ -26661,6 +26612,7 @@ lovinggay.blogspot.de
 lovingme.de
 lovpoint.de
 low-carb-treff.de
+lp.reliaslearning.de
 lsc-erftland.de
 lsex.de
 lsgmodels.blogspot.de
@@ -26668,6 +26620,7 @@ lssorority99.blogspot.de
 lstarkcaptions.blogspot.de
 lsuniversity99.blogspot.de
 ltinvest.de
+ltsveh.wetteronline.de
 lualua83.blogspot.de
 luanas-treff.de
 luangpore.de
@@ -27550,7 +27503,6 @@ medejobeber.blogspot.de
 media-adserver.de
 media-angel.de
 media-dealer.de
-media.adtech.de
 media.elb-kind.de
 media.funpic.de
 media.gameduell.de
@@ -27650,6 +27602,7 @@ mein-katzenshop.de
 mein-konto-einloggen.com.de
 mein-pornovideo.de
 mein.monster.de
+mein.teva.de
 meine-augen-blicke.de
 meine-domina.de
 meine-ex-freundin-nackt.fasthoster.de
@@ -27823,17 +27776,22 @@ metgirls.blogspot.de
 metgirls.de
 metmodels.de
 metralhasbros.blogspot.de
+metric.volkswagen-nutzfahrzeuge.de
 metrics.adacreisen.de
 metrics.dertour.de
+metrics.deutschlandcard.de
 metrics.fressnapf.de
 metrics.ionos.de
 metrics.its.de
+metrics.jahnreisen.de
 metrics.jh-profishop.de
 metrics.meiers-weltreisen.de
+metrics.mein-jahnreisen.de
 metrics.n-tv.de
 metrics.notebooksbilliger.de
 metrics.oetker.de
 metrics.payback.de
+metrics.penny-reisen.de
 metrics.rewe-reisen.de
 metrics.rewe.de
 metrics.strato.de
@@ -27871,6 +27829,7 @@ mhanhoester.blogspot.de
 mhoff.de
 mi-nena.blogspot.de
 mi-ultimo-deseo.blogspot.de
+mi.miliboo.de
 mia-models.de
 mia-nana.de
 miamifeet.blogspot.de
@@ -28261,6 +28220,7 @@ mjs.amberg.de
 mk-beauty.de
 mk-schmuckart.de
 mksadult.blogspot.de
+mktg.diamant-software.de
 mkw313.blogspot.de
 ml-brillant.de
 mlgame.de
@@ -28524,8 +28484,6 @@ monikasexy.blogspot.de
 monique-fuentes-brazilian-pussy-n.blogspot.de
 monis-sexgeschichten.de
 monis-swingertreff.de
-monitor.hn2.einfach-iota.de
-monitor.node.einfach-iota.de
 monitorflecken.de
 monkeycage.blogspot.de
 monkeyparts.de
@@ -29108,8 +29066,6 @@ n-ice.de
 n-k-dekorationen.de
 n-toutsimplement.blogspot.de
 n-tv.met.vgwort.de
-n01.pool.einfach-iota.de
-n1.pool.einfach-iota.de
 n3sjr.blogspot.de
 n6x.de
 n8stories.blogspot.de
@@ -29641,7 +29597,6 @@ neval.de
 never-newserotic.blogspot.de
 new-adult-friend-finder-online.blogspot.de
 new-anime.blogspot.de
-new-bannertest.adtech.de
 new-camsex.de
 new-contact.de
 new-facebook.de
@@ -29794,7 +29749,6 @@ nigger.xt5.de
 night-n-day-dreams.de
 night-of-passion.de
 night-of-the-masks.de
-night-pool.de
 nightclub-avalon.de
 nightcrawler-gilde.de
 nightflymmv.blogspot.de
@@ -29909,10 +29863,6 @@ noctifer.de
 nocturnalchat.blogspot.de
 nocturnodeprincesa.blogspot.de
 noddyblue.blogspot.de
-node.einfach-iota.de
-node1.einfach-iota.de
-node2.einfach-iota.de
-nodes.einfach-iota.de
 nohemi-showxcam.blogspot.de
 noid-project.de
 noirsurblanche.blogspot.de
@@ -29934,9 +29884,6 @@ nonnude-teens.blogspot.de
 nonnude8teenmodels.blogspot.de
 nonnudeteensportsgirls.blogspot.de
 nononames.blogspot.de
-nonprod-api-selene.dev.adtech.de
-nonprod-classic-api.dev.adtech.de
-nonprod-classic-rest-api.dev.adtech.de
 nontonbokepterus.blogspot.de
 nonudeblog.blogspot.de
 nooby19.no.ohost.de
@@ -30237,7 +30184,6 @@ nuttenhaus.de
 nuttenlecker.de
 nuttensucher.de
 nuttyvideo.blogspot.de
-nutzdoch.einfach-iota.de
 nuwell.de
 nvljuckenscheidebj.blogspot.de
 nwfinanz.de
@@ -30457,6 +30403,7 @@ oliviaholtrules.blogspot.de
 olli-f.de
 olszowi.de
 om-ssl.consorsbank.de
+om-ssl.cortalconsors.de
 om.dsl.1und1.de
 oma-ida.de
 oma-porno.de
@@ -30671,7 +30618,6 @@ optikschneider.de
 optikshop24.de
 optima1227.blogspot.de
 optimale-tarife2014.de
-optout3.adtech.de
 ora-it.de
 oral--sex--pictures.blogspot.de
 oral-amber.blogspot.de
@@ -30872,13 +30818,12 @@ p-6.de
 p-sysnet.de
 p-ts.de
 p.t-online.de
+p.versacommerce.de
 p00nzpics.blogspot.de
 p1-bodyculture.de
 p1mpdogg.blogspot.de
 p1o2i3u4y5t6r7e8w9q0z1x2c3v4b5n6m7a1s.blogspot.de
-p2p-multipool.greengaming.de
 p2p-versicherung.de
-p2poolmining.de
 p2pversicherung.de
 p8-events.de
 p800.ericson.synchronise.sms13.de
@@ -31057,6 +31002,7 @@ parapluesch.de
 parashead.blogspot.de
 paratusojitos.blogspot.de
 paravent-art.de
+pardot.komm-it.de
 parejahumedavalles.blogspot.de
 parejasamateurs.blogspot.de
 parfuemtest.de
@@ -31851,7 +31797,6 @@ pitschka.de
 pivwbox.de
 piwik.datawrapper.de
 piwik.dom.de
-piwik.fobos.de
 piwik.hboeck.de
 piwik.n24.de
 piwik.pl-rlp.de
@@ -31982,6 +31927,8 @@ platonicsex.blogspot.de
 plattform.deruwia.de
 plauen-ladies.de
 plauenerspitze-shop.de
+plausible.banovo.de
+plausible.resilienz-kongress.de
 play-boy-girls.blogspot.de
 play-it-online.de
 play.de
@@ -32119,9 +32066,6 @@ ponygirls.de
 ponyhopper.de
 poochy.de
 pool-discount-anhalt.de
-pool.einfach-iota.de
-pool.k1024.de
-pool.xmrpool.de
 poolbedarf-online.de
 poolshop-duske.de
 pop-babes.blogspot.de
@@ -33063,7 +33007,6 @@ pplayboysbustybabes.blogspot.de
 pporno.de
 ppro.de
 pproject.blogspot.de
-pr-a.adtech.de
 pr-free.de
 pr-iq.adtech.de
 pr-star.de
@@ -33743,7 +33686,6 @@ qisas-sexy.blogspot.de
 qivwbox.de
 qlog.de
 qplay.de
-qpscoin.minerpool.de
 qs.ioam.de
 qs.ivwbox.de
 qtbsuperbusench.blogspot.de
@@ -34097,6 +34039,7 @@ reckersdrees.de
 recomendedporn.blogspot.de
 recorded-phone-sex.blogspot.de
 recordedphonesex.blogspot.de
+recruitingnews.stellenanzeigen.de
 recudeloquenohapas.blogspot.de
 red-apel.de
 red-carparts.de
@@ -34355,7 +34298,6 @@ renoise-info.de
 rent-a-sexclip.de
 rentboss-client-server-2013.blogspot.de
 rentnerbar.de
-rep-ibi.adtech.de
 reperbahn.de
 replaytaxicenter.com.de
 replaytaxifree.com.de
@@ -34385,6 +34327,7 @@ resex-lc.blogspot.de
 residenz-hekate.de
 resmungo.blogspot.de
 resourceplay.com.de
+resources.opentext.de
 respectformistress.blogspot.de
 responder.wt.heise.de
 responsiblerep.blogspot.de
@@ -34757,6 +34700,7 @@ royalsex.de
 royalteens.blogspot.de
 rozdidyourmom.blogspot.de
 rp-online.met.vgwort.de
+rpfkgf.rp-online.de
 rpfkgf.saarbruecker-zeitung.de
 rpg2.de
 rpguides.de
@@ -34867,6 +34811,7 @@ rutenbauer.de
 rutenplan.de
 rutenplanung.de
 ruth-uhl.de
+rw.net.rewe.de
 rwmaz1ewk6lk18.com.de
 rwt.reichelt.de
 ryansqueerbent.blogspot.de
@@ -34899,6 +34844,7 @@ saarbabes.de
 saarerotik.de
 saarland-spielbank.de
 saarsex.de
+saartoto.de
 sabbaspornbabes.blogspot.de
 sabbathsplayground.blogspot.de
 sabbermuschi.de
@@ -34927,9 +34873,11 @@ sachisparadise.blogspot.de
 sachsen-girls.de
 sachsen-intim.de
 sachsen-sexy.de
+sachsenlotto.de
 sackundpack.de
 sadb.superrtl.de
 sadb.toggo.de
+sadb.toggoeltern.de
 sadb.toggolino.de
 saddestgirltoholdamartini.blogspot.de
 sadiedark69.blogspot.de
@@ -34944,6 +34892,7 @@ sado-maso.de
 sado-maus.de
 sado-teens.de
 sado.de
+sadobemarketing.bodendirect.de
 sadomania.de
 sadomaso-bilder.de
 sadomaso-cams.de
@@ -35090,11 +35039,22 @@ samopes-arabes.blogspot.de
 samoticha.de
 sampai-puas.blogspot.de
 sample-erotyka5044.blogspot.de
+sams.manager-magazin.de
+sams.spiegel.de
 samsung.flip.phone.sms13.de
 samsung.usb.sms13.de
 samuel555.blogspot.de
 samuelextreme.blogspot.de
 samya.de
+sanalytics.boomerangtv.de
+sanalytics.express.de
+sanalytics.gladbachlive.de
+sanalytics.ksta.de
+sanalytics.metro.de
+sanalytics.mopo.de
+sanalytics.mz-web.de
+sanalytics.rblive.de
+sanalytics.rundschau-online.de
 sanavita-gesundheitsforum.de
 sancy.de
 sandalen.de
@@ -35212,11 +35172,14 @@ saytailor.com.de
 sazkia.de
 sbabes.blogspot.de
 sbbau.de
+sbcomniture.focus.de
 sbg2mtg.blogspot.de
 sblondeglns.blogspot.de
 sbrdri.blogspot.de
+sby1.madeindesign.de
 sc-gut-blatt.de
 sc-venus.de
+sc.mtv.de
 sc13.de
 sca-actualisatieformulier.de
 scale-bikes.de
@@ -35547,6 +35510,7 @@ sciencefictionmovies.blogspot.de
 sciencesexandtheladies.blogspot.de
 sclm36.blogspot.de
 sclub-lippstadt.de
+scnd.landsend.de
 scompany.de
 sconti-pazzi.de
 scooter-shop-kassel.de
@@ -35678,6 +35642,7 @@ scuba-marin.de
 scumfucktradition.de
 scuties.blogspot.de
 scuttleslut.blogspot.de
+sdc.allianz.de
 sdns.de
 se-group.de
 se-network.de
@@ -35705,6 +35670,7 @@ seccionadultos.blogspot.de
 seccpics.blogspot.de
 seccpicsnude.blogspot.de
 secimage.adtech.de
+secmetrics.schaefer-shop.de
 second-fetish.de
 secondavendi.de
 secret-adult.blogspot.de
@@ -35743,6 +35709,7 @@ secu-hirtie.de
 secu-piap.de
 secure-iptv.de
 secure.download-sponsor.de
+secureanalytics.avis.de
 securemail.com.de
 securescout.de
 securetalk.cwsurf.de
@@ -35913,7 +35880,6 @@ serv85.surfplanet.de
 server-seven.de
 server7.webplus24.de
 serverlinks.de
-servermonitor.einfach-iota.de
 servernude.blogspot.de
 service-auge.de
 service-chase.de
@@ -38334,7 +38300,6 @@ sgirls.de
 sgmsex.blogspot.de
 sgolbreggolb.blogspot.de
 sgs001.adtech.de
-sgsdata.adtech.de
 sgthose.blogspot.de
 sh-op.de
 sh2070.evanzo-server.de
@@ -38601,7 +38566,6 @@ sieger.de
 siegessaeule.de
 sievers-hahn-shop.de
 sifaci-sakir.blogspot.de
-sig.edgeno.de
 sigmund-arbeitsschutz.de
 signin-ebay-users-2febayisapi-dll-1pagetype.de
 signin-eday.de
@@ -39096,14 +39060,25 @@ smdesires.blogspot.de
 smeile.de
 smelllikegirl.blogspot.de
 smellmypits.blogspot.de
+smetric.volkswagen-nutzfahrzeuge.de
 smetrics.babycenter.de
+smetrics.canosan.de
+smetrics.cinemaxx.de
+smetrics.cupraofficial.de
+smetrics.dhl.de
+smetrics.e-wie-einfach.de
+smetrics.frontline.de
 smetrics.lululemon.de
+smetrics.michaelkors.de
+smetrics.o2online.de
 smetrics.oetker.de
 smetrics.payback.de
 smetrics.portal.roche.de
 smetrics.ralphlauren.de
 smetrics.roche.de
 smetrics.seat.de
+smetrics.sparkassendirekt.de
+smetrics.tomjoule.de
 smetrics.www.vwfs.de
 smfuerstin.de
 smgay.de
@@ -39609,6 +39584,7 @@ speiuebel.de
 spektakulaerelinks.de
 spektrumlicht.de
 spelling-for-adults.blogspot.de
+spenglerei-froehlich.de
 sperm-swap-gallery.blogspot.de
 sperma-fotzen.de
 sperma-im-mund.de
@@ -39816,6 +39792,7 @@ srarkham-cativa.blogspot.de
 srpski-pornic.blogspot.de
 srv.nwave.de
 srv1.rapidstats.de
+ssa.eurosport.de
 ssb-berlin.de
 ssbbwpearass.blogspot.de
 ssbbwxutjja.blogspot.de
@@ -39826,6 +39803,7 @@ ssl-static.vinsight.de
 ssl-verfication.lima-city.de
 ssl-vg03.met.vgwort.de
 ssl.gft2.de
+ssl.o.univadis.de
 ssl.sc.amc.devk.de
 ssl.xplosion.de
 sslanalytics.sixt.de
@@ -39833,6 +39811,7 @@ sslhost.de
 sslsecurity-pays-secure-cgi-bin.de
 sssh.de
 sssoze.blogspot.de
+sstats.fishersci.de
 sstats.tiffany.de
 sswpornoblog.blogspot.de
 st-agnes.de
@@ -39951,6 +39930,7 @@ starz-music-movies-sex-scandal.blogspot.de
 starzinterracialcaptions.blogspot.de
 stat.bei-uns.de
 stat.clichehosting.de
+stat.umsu.de
 static.123.97.119.168.clients.your-server.de
 static.125.248.201.195.clients.your-server.de
 static.133.1.203.116.clients.your-server.de
@@ -39977,26 +39957,37 @@ statistik.bundestag.de
 statistik.i22.de
 statistik.polizei-beratung.de
 statistik.simaja.de
+stats.alleaktien.de
 stats.av.de
+stats.baby-care.de
 stats.bildconnect.de
 stats.bmw.de
+stats.code-it-studio.de
 stats.computecmedia.de
 stats.comunio.de
 stats.daserste.de
 stats.datawrapper.de
+stats.deutschlandsim.de
 stats.digital-natives.de
 stats.discotel.de
+stats.drillisch-online.de
 stats.eteleon.de
+stats.farbenmeer.de
 stats.fittkaumaass.de
 stats.frankfurterneuepresse.de
+stats.galaxyexperte.de
 stats.handyvertrag.de
+stats.infoboard.de
+stats.marudor.de
 stats.maxxim.de
+stats.mynfp.de
 stats.opoloo.de
 stats.premiumsim.de
 stats.ser4.de
 stats.sim.de
 stats.simplytel.de
 stats.smartmobil.de
+stats.steuer-soldaten.de
 stats.united-domains.de
 stats.vertriebsassistent.de
 stats.warenform.de
@@ -40010,10 +40001,6 @@ stats4free.de
 statse-omtrdc.deka.de
 statt-park.de
 statt-schamanen.de
-status.einfach-iota.de
-status.h1.node.einfach-iota.de
-status.hn1.einfach-iota.de
-status.hn2.einfach-iota.de
 staubing.de
 staubsauger-depot.de
 staudenshop-peters.de
@@ -40490,7 +40477,6 @@ summer-altice-news.blogspot.de
 summer-time-milf.blogspot.de
 summergraystone.blogspot.de
 summerlust.blogspot.de
-sumo.night-pool.de
 sumplay.com.de
 sunboys.de
 sunghileehotness.blogspot.de
@@ -40656,6 +40642,7 @@ svenfor.de
 svenjas-escort.de
 svision-online.de
 svkeyuit.de
+svoywu.autoscout24.de
 sw-battlefields.de
 sw-trading.de
 sw88.disney.de
@@ -40871,6 +40858,7 @@ swr.ivwbox.de
 swserver.de
 swsexblog.blogspot.de
 swsgrv.blogspot.de
+sxkyif.springlane.de
 sxo-libre.blogspot.de
 sxxxy.blogspot.de
 sybian.blogspot.de
@@ -40901,6 +40889,7 @@ t-mart-web-service.de
 t-omex.de
 t-shirt-total.de
 t.bahn.de
+t.bahnbuchung.de
 t.locasun.de
 t.nativendo.de
 t.paydirekt.de
@@ -41151,11 +41140,18 @@ tchibo.de
 tcimoneyplay.com.de
 tcrwharen.homepage.t-online.de
 td24-club.de
+tdep.garmundo.de
+tdep.suncamp.de
+tdep.vacansoleil.de
 tdf1.easyvoyage.de
 tdipt-backporch.blogspot.de
+te.frankonia.de
+te.heine.de
 te.limango.de
+te.mirapodo.de
 te.mytoys.de
 te.otto.de
+te.schlafwelt.de
 te.sheego.de
 te.witt-weiden.de
 te.yourhome.de
@@ -41839,7 +41835,6 @@ test-sites-adultes.blogspot.de
 test.madeinwestgermany.de
 test.webclient4.de
 test.wiredminds.de
-test2-adserver.adtech.de
 testelindastr.blogspot.de
 testensie.de
 testergebnis.de
@@ -42860,6 +42855,7 @@ tracking.3gnet.de
 tracking.affiliates.de
 tracking.base.de
 tracking.beilagen-prospekte.de
+tracking.bonava.de
 tracking.ddd.de
 tracking.emsmobile.de
 tracking.gameforge.de
@@ -42889,6 +42885,7 @@ tracking.sandstein.de
 tracking.sim-technik.de
 tracking.sport1.de
 tracking.srv2.de
+tracking.ssab.de
 tracking.statravel.de
 tracking.tchibo.de
 tracking.verlocke.de
@@ -43088,7 +43085,6 @@ triggi.de
 trimax-manga.de
 trimaxporno.blogspot.de
 trinity-pup.blogspot.de
-trinity.einfach-iota.de
 tripacio.blogspot.de
 tripjax.blogspot.de
 triple-sexy.blogspot.de
@@ -43109,7 +43105,9 @@ triwar.de
 trixie-teen-nude.blogspot.de
 trixieteenager.blogspot.de
 trk.blume2000.de
+trk.business.westernunion.de
 trk.marketing4.de
+trk.nuernberger.de
 trojak.de
 trolhasecompanhia.blogspot.de
 tropenschauer.de
@@ -43148,7 +43146,6 @@ ts-o.de
 ts-topliste.de
 ts-video-collection.blogspot.de
 ts-winkle.de
-ts.greengaming.de
 ts.otto.de
 ts.rtl.de
 ts6.de
@@ -43167,6 +43164,7 @@ tsv-russee-kiel.de
 ttg-neustadt-wildenheid.de
 ttwdblondiesblog.blogspot.de
 tu-xxx.blogspot.de
+tuagol.gartenmoebel.de
 tuamanteinfiel.blogspot.de
 tuamedia.de
 tuaprima.blogspot.de
@@ -43319,7 +43317,6 @@ uglydog.blogspot.de
 ugm-records.de
 ugtsrvd.blogspot.de
 uhlandstrasse.de
-uiservices.adtech.de
 uivwbox.de
 uk-dogging.blogspot.de
 uk6.de
@@ -43367,7 +43364,6 @@ uma-thurman.blogspot.de
 umasandesdeatum.blogspot.de
 umassdrunks.blogspot.de
 ums.adtech.de
-ums.glb.adtech.de
 umsonnst.de
 umsonst-ficken.de
 umsonst-gratis.de
@@ -44309,8 +44305,6 @@ vizit-x.de
 vkrdbsrqpi.de
 vlc.de
 vldxodkklt703.blogspot.de
-vlibs.eu-central-1.dev.adtech.de
-vlibs.eu-central-1.prod.adtech.de
 vngallery.blogspot.de
 vo-software.de
 vodkasquash.de
@@ -44424,6 +44418,7 @@ voyeurwebb.blogspot.de
 voyeurwebcam.de
 voyoeri.blogspot.de
 vozobliqua.blogspot.de
+vpuuzj.schnullireich.de
 vqmdj522.snt24.de
 vr-obb-so.de
 vrai-site-plan-cul.blogspot.de
@@ -44484,7 +44479,6 @@ waktai.blogspot.de
 walkerspointart.blogspot.de
 walkingwithmermaidsfeet.blogspot.de
 wall-wallpaper.blogspot.de
-wallet.einfach-iota.de
 wallflore.de
 wallpaper-star.blogspot.de
 wallpaper4you.de
@@ -44855,9 +44849,6 @@ webtipp-link-32.de
 webtipplink-9.de
 webtipplink.de
 webtipplink42.de
-webtraffic-sb-ams.adtech.de
-webtraffic-sb-fra.adtech.de
-webtraffic.adtech.de
 webtraxx.de
 webtreffer.de
 webtrekk.de
@@ -45264,6 +45255,7 @@ wmpc.de
 wn420pjpa.homepage.t-online.de
 wnoz.de
 wo-regnet-es.de
+wo.wormland.de
 wobblybitsgirl.blogspot.de
 wochenend.de
 woep.de
@@ -45471,7 +45463,6 @@ wowinsider.de
 wowshedoes.blogspot.de
 wowshedoesp.blogspot.de
 woww.de
-wp-monero-miner.de
 wp.containerbau-polen.de
 wp1014565.wp023.webpack.hosteurope.de
 wrapper.giga.de
@@ -45482,12 +45473,6 @@ wrl-gmbh.de
 wrongtown.blogspot.de
 ws-api.adtech.de
 ws-forum.de
-ws.adtech.de
-ws.bitcoin.de
-ws1.bitcoin.de
-ws2.adtech.de
-ws2.bitcoin.de
-ws3.bitcoin.de
 wsdp45.blogspot.de
 wsdprscenes.blogspot.de
 wsrv.hi-ke.de.88cui.de
@@ -45511,6 +45496,7 @@ wurstkoenigin.de
 wurzelimperium.de
 wusfeetlinks-columns.blogspot.de
 wuwis.blogspot.de
+wvxeju.schlafwelt.de
 ww1.econda-monitor.de
 ww1.erotik-fakes.de
 ww251.bz-berlin.de
@@ -45619,8 +45605,6 @@ www.besucherzaehler-zugriffszaehler.de
 www.bignaturals.de
 www.bigsister-puff.cxa.de
 www.bigsister.cxa.de
-www.bitcoin.de
-www.bitmainer.de
 www.bivwbox.de
 www.blackangel-halle.de
 www.blitz-natursekt.de
@@ -45718,7 +45702,6 @@ www.edle-stuecke.de
 www.edococounter.de
 www.eevwbox.de
 www.efs-euro-finanz-service.de
-www.einfach-iota.de
 www.eis.de
 www.eivwbox.de
 www.eops.de
@@ -45730,9 +45713,6 @@ www.erostars.de
 www.erotikmessen-forum.de
 www.erozuna.de
 www.escort-desire.de
-www.eth-pocket.de
-www.ethereum-pocket.de
-www.ethtrader.de
 www.etracker.de
 www.etracking24.de
 www.euro-finanz-service-ag.de
@@ -45791,7 +45771,6 @@ www.girlsbcn.de
 www.givwbox.de
 www.gratis-counter-gratis.de
 www.gratis-toplist.de
-www.greengaming.de
 www.grosseladies.de
 www.guruads.de
 www.gwebspace.de
@@ -45837,7 +45816,6 @@ www.immobaustein.de
 www.indirizle.ohost.de
 www.infonline.de
 www.intelliad.de
-www.intranet.adtech.de
 www.ioam.de
 www.iovwbox.de
 www.ipcounter.de
@@ -46007,13 +45985,23 @@ www.lintelligence.de
 www.livestrip.de
 www.livwbox.de
 www.losecounter.de
+www.lotto-bayern.de
 www.lotto-berlin.de
+www.lotto-brandenburg.de
+www.lotto-bremen.de
+www.lotto-bw.de
+www.lotto-hessen.de
+www.lotto-hh.de
+www.lotto-niedersachsen.de
+www.lotto-rlp.de
 www.lotto-sh.de
 www.lotto-thueringen.de
 www.lotto.de
 www.lotto.web.de
 www.lotto24.de
 www.lottohelden.de
+www.lottomv.de
+www.lottosachsenanhalt.de
 www.love-angels-berlin.de
 www.love-world.de
 www.m-barati.de
@@ -46026,7 +46014,6 @@ www.meinebranche24.de
 www.meo.de
 www.micaela-s.de
 www.microcounter.de
-www.minerpool.de
 www.mivwbox.de
 www.model-kartei.de
 www.modelle-hamburg.de
@@ -46051,7 +46038,6 @@ www.netdebit-counter.de
 www.netzathleten.de
 www.newsletterklick26.de
 www.newsletterklick29.de
-www.night-pool.de
 www.nivwbox.de
 www.nrwladies.de
 www.ntdesk.de
@@ -46077,8 +46063,6 @@ www.ovwbox.de
 www.owl-intim.de
 www.p.de
 www.p2p-load.de
-www.p2p-multipool.greengaming.de
-www.p2poolmining.de
 www.papierturm.de
 www.paradisi.de
 www.partner.gonamic.de
@@ -46090,7 +46074,6 @@ www.plauen-ladies.de
 www.playboy.de
 www.playu.de
 www.pomp-buerotechnik.de
-www.pool.k1024.de
 www.poppen.de
 www.porncash.de
 www.pornfilmfestivalberlin.de
@@ -46120,6 +46103,8 @@ www.rotlichtmodelle.de
 www.royalgirl.de
 www.rst-velbert.de
 www.runningmen-mk.de
+www.saartoto.de
+www.sachsenlotto.de
 www.sadomaso-chat.de
 www.salldo.de
 www.saunaundbad.de
@@ -46161,7 +46146,6 @@ www.stroeerdigitalmedia.de
 www.stylelounge.de
 www.subfix.de
 www.sucherle.de
-www.sumo.night-pool.de
 www.sunios.de
 www.super8service.de
 www.superclix.de
@@ -46183,13 +46167,11 @@ www.transgirls.de
 www.treffpunkte.de
 www.trendcounter.de
 www.trierladies.de
-www.ts.greengaming.de
 www.uivwbox.de
 www.ums.adtech.de
 www.unisex-friseure.de
 www.usemax.de
 www.uvwbox.de
-www.vegascosmetics.de
 www.verwoehndich.de
 www.videoladies.de
 www.view4cash.de
@@ -46219,7 +46201,6 @@ www.x-stat.de
 www.xdol.de
 www.xfind.de
 www.xivwbox.de
-www.xmrpool.de
 www.xplosion.de
 www.xxxcounter.de
 www.yevwbox.de
@@ -46233,8 +46214,14 @@ www.zivwbox.de
 www1-freealltelringtones.blogspot.de
 www1.belboon.de
 www104.your-server.de
+www2.ichkannkochen.de
+www2.joyce-meyer.de
+www2.kroschke.de
+www2.mindsquare.de
 www2.stats4free.de
 www2.stundenhotel-muenchen.de
+www2.sw-stiftung.de
+www2.tennis-point.de
 www3.topsites24.de
 www4.at.debianbase.de
 www5.topsites24.de
@@ -46257,6 +46244,7 @@ wwwwebcams.de
 wwwxxx-satao.blogspot.de
 wx01.strato-wlh.de
 wx02.strato-wlh.de
+wxaaqr.plusdental.de
 wyldwyl101.blogspot.de
 wzukoees.homepage.t-online.de
 x-access.de
@@ -46276,6 +46264,7 @@ x-gay.de
 x-guide.de
 x-hit.de
 x-id.de
+x-iting.de
 x-kontaktmarkt.de
 x-ladies.de
 x-medien.de
@@ -46376,6 +46365,7 @@ xllx.de
 xlol.de
 xlook.de
 xlookgay.de
+xlpzul.daenischesbettenlager.de
 xlsex.de
 xmal-ficken.de
 xmal69.de
@@ -46389,7 +46379,6 @@ xmindvideo.blogspot.de
 xml.adtech.de
 xml.ioam.de
 xmovies.blogspot.de
-xmrpool.de
 xn--bcherlust-q9a.de
 xn--bdsm-mnchen-yhb.de
 xn--behrdengnge-s8a2u.de
@@ -46976,6 +46965,7 @@ youtubelindas.blogspot.de
 youtubesexy.blogspot.de
 youvideoxxx.blogspot.de
 yoymipaquetegay.blogspot.de
+ypwzcq.tink.de
 yummiegirls.blogspot.de
 yummyoftheday.blogspot.de
 yuna-party-kogal.blogspot.de

@@ -794,6 +794,7 @@ alavels.us
 alaxcalo.us
 albagee.us
 albertoforwardings.us
+alberts.diamondrelationscrm.us
 alboe.us
 alchema.us
 alclock.us
@@ -1110,10 +1111,6 @@ apexwedo.us
 aphasia1362drygs.us
 aphrodite1260rx.us
 api.band.us
-api.multipool.us
-api.qa.samplicio.us
-api.samplicio.us
-api.stg.samplicio.us
 apiessr.us
 apinzoe.us
 apishiv.us
@@ -1317,7 +1314,6 @@ ashros.us
 ashurea.us
 asiabet.us
 asiann.us
-asicpool.us
 asics-shoesoutlet.us
 askedamericanshealth.us
 askedpennystocksrich.us
@@ -2106,9 +2102,7 @@ besumin.us
 bet--chips.us
 bet-a-bingo.us
 bet-and-slot.us
-bet.webcoin.us
 beta-darksoulsii.us
-beta.gridcoin.us
 betaput.us
 betcass.us
 betenst.us
@@ -2313,7 +2307,6 @@ bitcallt.us
 bitcallv.us
 bitcallx.us
 bitcallz.us
-bitcoin-doubler.us
 bitcoincode.us
 bitcoinrealty.us
 bitemnb.us
@@ -2325,7 +2318,6 @@ bitetimesharesell.us
 bithelpheartattackother.us
 bithise.us
 bitigue.us
-bitin.us
 bitsautowarranty.us
 bitsend.us
 bitsisew.us
@@ -2687,7 +2679,6 @@ bracist.us
 bradmj.us
 braib46.us
 braiest.us
-brain.multipool.us
 brainboosterapprove.us
 brainboosteraround.us
 brainboosterclean.us
@@ -3108,7 +3099,6 @@ caleandw.us
 caleandz.us
 caleband.us
 caleeme.us
-calendar.gridcoin.us
 caleosk.us
 calesand.us
 caleuand.us
@@ -3518,7 +3508,6 @@ chaeare.us
 chaiano.us
 chaicks.us
 chailma.us
-chain.gridcoin.us
 chairdn.us
 chairuz.us
 chalksb.us
@@ -3850,6 +3839,7 @@ clevelandbrownsjerseys.us
 cliaell.us
 clianne.us
 cliaply.us
+click.zoom.us
 click2myrx.us
 clickback.us
 clickdesign.us
@@ -3878,10 +3868,8 @@ clogrif.us
 cloient.us
 cloierm.us
 cloiess.us
-clone.samplicio.us
 cloniva.us
 cloplix.us
-clortho.multipool.us
 closecall.us
 closed6129tads.us
 closedeals.us
@@ -3986,7 +3974,6 @@ com-cgi-bin.us
 com-consumer.us
 com-garcinia-jun13.us
 com-gsm.us
-com-http.us
 com-in5.us
 com-jun30.us
 com-june6.us
@@ -4238,7 +4225,6 @@ cparail.us
 cpcalendars.verizoncustomerservice.us
 cpcheek.us
 cpcontacts.verizoncustomerservice.us
-cpid.gridcoin.us
 cpiling.us
 cplaced.us
 cpprior.us
@@ -4745,7 +4731,6 @@ dashlmi.us
 dasicee.us
 dasie.us
 data-host.us
-data.gridcoin.us
 databank1.us
 dataiiz.us
 datalime.us
@@ -4941,6 +4926,7 @@ deliburningfats.us
 delicateimplore.us
 delightstare.us
 deliverit-1.us
+delivery.3azamto.us
 delivery.anchorfree.us
 delivery.olx-pl.us
 delivery.olx.pl-safecash.us
@@ -5028,7 +5014,6 @@ detiari.us
 detilmy.us
 deting009.us
 detroh.us
-dev.multipool.us
 dev1.xicom.us
 devdiabeteslast.us
 develer.us
@@ -5274,7 +5259,6 @@ dnkpost.us
 dns75.us
 dnsopen11.us
 dnsopen22.us
-dnsseed.gridcoin.us
 doandenjoy.us
 dobelor.us
 dobenth.us
@@ -5390,7 +5374,6 @@ downlinebuilder.us
 downllj.us
 downlmi.us
 download-hacks.us
-download.gridcoin.us
 download1.us
 download9.us
 downloadnow.us
@@ -6106,7 +6089,6 @@ equalig.us
 equalkm.us
 equalub.us
 equdtgexdgl.us
-equipool.1ds.us
 equrece.us
 eqvc.us
 eraitsp.us
@@ -6199,7 +6181,6 @@ etegray.us
 etfork.us
 etheraz.us
 etherget.us
-ethergrab.us
 ethigro.us
 ethlesi.us
 ethnicr.us
@@ -6212,8 +6193,6 @@ etrerne.us
 etrivia.us
 etroneo.us
 ettllrx.us
-eu.multipool.us
-eu2.multipool.us
 eucks.us
 eucsid.us
 eulatcy.us
@@ -6327,8 +6306,6 @@ expectedway.us
 experience1.us
 experiencememoryfix.us
 expertcuredheartinfo.us
-explorer.gridcoin.us
-explorer2.gridcoin.us
 exportsalmost.us
 exportshop.us
 exposew.us
@@ -6808,7 +6785,6 @@ fijep.us
 fildene.us
 filedcg.us
 fileme.us
-files.gridcoin.us
 files.martellexpress.us
 files.secure-docs.us
 files4.us
@@ -6837,7 +6813,6 @@ finalnxmgd.us
 finalqj.us
 finalresult.us
 finalvideo.us
-finance.gridcoin.us
 financialissuesinfolet.us
 financialissuesinfouse.us
 financialissuesokay.us
@@ -7917,6 +7892,10 @@ gnmt3435.us
 gnorivo.us
 gnscent.us
 gntaste.us
+go.cybernet.us
+go.legrand.us
+go.whill.us
+go.wibu.us
 goalyeh.us
 goateen.us
 goatkoo.us
@@ -8092,7 +8071,6 @@ grandetelhost.us
 grandka.us
 grandnews.us
 grandnx.us
-graphite.multipool.us
 graphixspread.us
 graphs.amung.us
 grartry.us
@@ -8163,11 +8141,9 @@ griaank.us
 grialke.us
 griarei.us
 gribsed.us
-gridcoin.us
 gridgh.us
 gridmeltfatsdrink.us
 gridregularpenny.us
-gridsql.gridcoin.us
 gridsystm.us
 gridty.us
 grievex.us
@@ -8406,7 +8382,6 @@ halacci.us
 halcisa.us
 haledda.us
 halfian.us
-halibut.multipool.us
 haliked.us
 hallex.us
 hallroom.us
@@ -8469,7 +8444,6 @@ harrytrsl7654.us
 hasdahlp.us
 hasdahlr.us
 hasepic.us
-hashforcash.us
 haspdahl.us
 hasqdahl.us
 hasslef.us
@@ -10344,6 +10318,7 @@ jewords.us
 jeyears.us
 jfadeep.us
 jfamost.us
+jfcwmn.laroche-posay.us
 jffinal.us
 jfiling.us
 jfminus.us
@@ -10767,7 +10742,6 @@ khriate.us
 khriery.us
 khritat.us
 khypera.us
-ki.multipool.us
 kibaa.us
 kicatim.us
 kicatro.us
@@ -11536,14 +11510,12 @@ loeager.us
 loevery.us
 lofreed.us
 log-in-appleid-services.us
-log.zoom.us
 logangmerch.us
 logiicalltests.us
 login-care.us
 login.microsoftonline.r--0.us
 login.microsoftonline.us
 login.optimumbank.us
-login.samplicio.us
 logintencent.ns01.us
 loginxcoev9.wsxer1.us
 logojeeves.us
@@ -11567,7 +11539,6 @@ lolitasnude.us
 lolitassex.us
 lolitatgp.us
 lolitavideo.us
-lolkekss.us
 loloved.us
 lolteam.us
 lomulti.us
@@ -11738,6 +11709,7 @@ loyalno.us
 loyaloo.us
 lozlelllil.us
 lozlnonizn.us
+lpa.idx.us
 lpeaked.us
 lphands.us
 lphurry.us
@@ -12737,7 +12709,6 @@ meteticaret.us
 methodsbrainbooster.us
 methodswarrantycar.us
 metress.us
-metrics.dockerhub.us
 mettress.us
 meurner.us
 mevisioncuredhere.us
@@ -12822,8 +12793,6 @@ mindiio.us
 mindpao.us
 mindrinkmeltfats.us
 mindtality.us
-mine-for.us
-mine.equipool.1ds.us
 minecarsecurity.us
 minecry.us
 minecurememoryreally.us
@@ -13167,7 +13136,6 @@ mulacix.us
 muling.us
 multatuli.us
 multimediashop.us
-multipool.us
 multitudesum.us
 multizr.us
 mumih.us
@@ -13783,7 +13751,6 @@ nocrumb.us
 nocs.us
 nodarkside.us
 nodating.us
-node.gridcoin.us
 noditing.us
 nodtinga.us
 nodtingo.us
@@ -13919,7 +13886,6 @@ nrtater.us
 ns-dois.us
 ns-quatro.us
 ns01.us
-ns2.webcoin.us
 nsblink.us
 nsimple.us
 nslug.us
@@ -15479,16 +15445,10 @@ ponyhhs.us
 poochfh.us
 poodlea.us
 poofjqa.us
-pool.gridcoin.us
-pool.webcoin.us
-pool1.eu.multipool.us
-pool1.us.multipool.us
-pool2.us.multipool.us
 poolbell.us
 poolges.us
 poolisp.us
 poolrss.us
-poolweb1.multipool.us
 poorlyo.us
 pop.virgilio.us
 popenii.us
@@ -15893,8 +15853,6 @@ puffcss.us
 puffedi.us
 pulleds.us
 pulledy.us
-pulley-qa.samplicio.us
-pulley.samplicio.us
 pullkkb.us
 pulllmx.us
 pullyjh.us
@@ -16070,7 +16028,6 @@ quakevg.us
 qualifiable.us
 qualitypapertowels.us
 qualitypicssaveonly.us
-quant.gridcoin.us
 quantifiable.us
 quartermasters.us
 quartieri1.us
@@ -16230,7 +16187,6 @@ raisedz.us
 raketnk.us
 rakhbuixeghobfipvjt.us
 rallyoptions.us
-ram.gridcoin.us
 ramaanta.us
 ramhg.us
 rami8allelic.us
@@ -16688,7 +16644,6 @@ resille.us
 resmama.us
 resolutional.us
 resolutionhearinglose.us
-resonate.samplicio.us
 resortf.us
 resortw.us
 responsibleendnervepain.us
@@ -17176,7 +17131,6 @@ rtznick.us
 rtzscan.us
 rubaunse.us
 rubella.us
-rubiconproject.us
 rubiunse.us
 rubtage.us
 rubunsei.us
@@ -17352,7 +17306,6 @@ samplegeneratordevice.us
 samplepennystocks.us
 samplew.us
 sampleweedstocksrise.us
-samplicio.us
 samssclub.us
 sanchan.us
 sandiegochargersjerseys.us
@@ -18428,6 +18381,9 @@ smearos.us
 smellht.us
 smellyl.us
 smestua.us
+smetrics.boehringer-ingelheim.us
+smetrics.calvinklein.us
+smetrics.kpmg.us
 smetrics.smartmove.us
 smiachy.us
 smighexv.us
@@ -18555,7 +18511,6 @@ soleiff.us
 solelot.us
 solerrprogram.us
 solicon.us
-solid.mine-for.us
 solidcarprotections.us
 solidwarrantyvehicle.us
 solitaireserver.avosapps.us
@@ -18614,7 +18569,6 @@ sopdes.us
 sopennystocksget.us
 sopennystocksreceive.us
 sopleas.us
-sopool.us
 soporte-apple.com-conect.us
 soporte.apple.com-conect.us
 soporte.apple.com.fnd-ios.us
@@ -18975,7 +18929,6 @@ stateen.us
 stateod.us
 statetw.us
 stathearingloss.us
-static.samplicio.us
 stationurl.us
 statmet.us
 statpennystockslook.us
@@ -19021,7 +18974,6 @@ stereov.us
 sterpin.us
 sterrae.us
 stevebalard.us
-stg.samplicio.us
 sthrown.us
 stialay.us
 stickac.us
@@ -19263,7 +19215,6 @@ superduperdeals.us
 superfoodinfokeep.us
 superiora.us
 superiorcomfortpro.us
-supernode.gridcoin.us
 suportsaccount.0fees.us
 supplyautowarranty.us
 suppoer78.us
@@ -19314,7 +19265,6 @@ survey-service.us
 survey-signup.us
 survey-signups.us
 survey-winners.us
-survey.samplicio.us
 survey2006.us
 survey32.us
 surveydatabase.us
@@ -21064,10 +21014,6 @@ urucley.us
 uruling.us
 us-contest.us
 us-drugstore.us
-us-east-1.multipool.us
-us-east-2.multipool.us
-us-east.multipool.us
-us-east2.multipool.us
 us-financial.us
 us-greencard-office.us
 us-matchprofile.us
@@ -21075,9 +21021,6 @@ us-medical.us
 us-reverse-mortgage.us
 us-viagra.us
 us-vvesternunion.us
-us-west.multipool.us
-us-west2.multipool.us
-us.multipool.us
 usa-parmacy.us
 usa-production.us
 usaa.com-inet-truememberent-iscaddetour.antidietsolution.us
@@ -21129,7 +21072,6 @@ usepennystockavail.us
 usequest.us
 user.facebook.confirm-source.us
 useroad.us
-usersync.samplicio.us
 usfac.us
 usfamilybox.us
 usfroze.us
@@ -21915,12 +21857,10 @@ weaslac.us
 weasome.us
 weatherrock.us
 weavebc.us
-web1.multipool.us
 webaaqua.us
 webapps-update-information.usefinch.us
 webaquaa.us
 webaquao.us
-webcoin.us
 webgrowthdoc.us
 webhostingstar.us
 webkad.us
@@ -22138,7 +22078,6 @@ wigea.us
 wigglem.us
 wiggleo.us
 wiiweak.us
-wiki.multipool.us
 wildcard.hostdazzle.us
 wildcard.uh9p.us
 wildcard.wastickerapps.us
@@ -22499,9 +22438,6 @@ wusud.us
 wuvia.us
 wuvoj.us
 wviable.us
-ww1.asicpool.us
-ww17.asicpool.us
-ww38.asicpool.us
 ww7.dor4ikpomidor4ik.us
 wwasted.us
 wwgreet.us
@@ -22514,13 +22450,9 @@ www.adultfriendfinders.us
 www.all-nude-celebs.us
 www.allvideos.us
 www.amung.us
-www.asicpool.us
 www.astalavista.us
 www.bestialityvideo.us
-www.bet.webcoin.us
 www.bigclosetr.us
-www.bitcoin-doubler.us
-www.bitin.us
 www.blowjobpornstars.us
 www.bustyweb.us
 www.cdn.goateastcach.us
@@ -22532,7 +22464,6 @@ www.celebflix.us
 www.celebpic.us
 www.chaturbate.us
 www.cleansite.us
-www.com-http.us
 www.cshacks.partycat.us
 www.cutt.us
 www.danafashiontrends.us
@@ -22544,17 +22475,13 @@ www.dontwatch.us
 www.doujin-moe.us
 www.downturk.us
 www.drunkporn.us
-www.equipool.1ds.us
-www.ethergrab.us
 www.eveangel.us
 www.expl.us
 www.freejav.us
 www.freelingerie.us
 www.fxpb.us
 www.genericviagra.us
-www.gridcoin.us
 www.harleyquinn.us
-www.hashforcash.us
 www.hitpro.us
 www.hoerbuch.us
 www.hyvf65qiht.us
@@ -22572,28 +22499,21 @@ www.l-virgin.us
 www.lauxanh.us
 www.liitt.us
 www.livejasmine.us
-www.lolkekss.us
 www.maturegirl.us
 www.maturesexy.us
 www.megadown.us
 www.microsoftpchelp.us
-www.mine.equipool.1ds.us
-www.multipool.us
 www.nonude.us
-www.ns2.webcoin.us
 www.paczkomaty.us
 www.pln.m-olx.us
 www.poczta-polska-pl.us
-www.pool.webcoin.us
 www.porn-service.us
 www.porn4free.us
 www.quiver.us
-www.rubiconproject.us
 www.rumrunners.us
 www.russian-virgin.us
 www.s548173211.onlinehome.us
 www.saldiri.ates.us
-www.samplicio.us
 www.securityscan.us
 www.sexporntube.us
 www.sexy-pics.us
@@ -22610,7 +22530,6 @@ www.uncover.us
 www.vb1rc5l52n.us
 www.vipcheats.us
 www.wdmwebs.us
-www.webcoin.us
 www.wgirlz.us
 www.whitesmoke.us
 www.xworld.us
@@ -22619,8 +22538,6 @@ www.xxx-video.us
 www.ymk.us
 www.yourfreeporn.us
 www.yyn.us
-www1.samplicio.us
-www2.samplicio.us
 www8.ns01.us
 wwwbox.us
 wwwhile.us
@@ -22779,7 +22696,6 @@ xskface.us
 xskgate.us
 xskmust.us
 xsnonline.us
-xst.argakiig.us
 xtbeard.us
 xtbread.us
 xtegray.us

@@ -6,6 +6,7 @@ ajmsolicitors.co.tz
 anazakschools.ac.tz
 annacollections.co.tz
 arushaone.co.tz
+betpawa.co.tz
 binattorneys.co.tz
 businesstimes.co.tz
 cafe.tgeeks.co.tz
@@ -62,6 +63,7 @@ sfuchas.ac.tz
 shelves.co.tz
 shiftech.co.tz
 southernsahara.co.tz
+sportpesa.co.tz
 studio19.co.tz
 tancropsltd.co.tz
 tanroadsarusha.go.tz
@@ -75,6 +77,8 @@ wamisionariwakatoliki.or.tz
 weberms.co.tz
 wedding.co.tz
 whg.co.tz
+www.betpawa.co.tz
+www.sportpesa.co.tz
 yatoshafoundation.or.tz
 zanfood.co.tz
 zhelb.go.tz

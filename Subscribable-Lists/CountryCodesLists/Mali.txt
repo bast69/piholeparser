@@ -128,7 +128,6 @@
 962583-deutschland-nutzung-mitteilung-konto_identity.sicher-sicherheitsabfrage.ml
 987621-deu-nutzung-sicherheit-validierung.sicherheitsabwehr-vorkehrung.ml
 9en.esses.ml
-a.pool.ml
 abcdmorgans.ml
 abeate.ml
 abiataltib.ml
@@ -385,7 +384,6 @@ bharia.ml
 bigbossra.ml
 bikin-ngiler.masuksekarang.ml
 binatones.ml
-binm.ml
 biokinetix-auth.ml
 bitoinplus.ml
 biznetvigator.ml
@@ -409,8 +407,6 @@ bluebonneths-web-inv.ml
 bluenewsletter.ml
 blueticket-center.ml
 bluetickverification.ml
-bmcm.ml
-bnm.ml
 bnnvzrz.ml
 bnsjdsd.ml
 bobbyservices.ml
@@ -737,7 +733,6 @@ distmannonimb.ml
 diyngabvouche.ml
 djhfjnt.ml
 djtepos.ml
-dloger.ml
 dnewxcaxelpass.ml
 dnkunyn.ml
 dnsservis.ml
@@ -759,7 +754,6 @@ dostatka-proverenno.ml
 dr-shadow.ml
 dregfiledoc.ml
 droga-dalej.ml
-dronml.ml
 dropways.ml
 dsifoe.ml
 dssasadasdasdsa.ml
@@ -928,6 +922,7 @@ fhoc.ml
 ficdehypmider.ml
 fifafree.ml
 filto.ml
+finaudit.ml
 findtipertandsast.ml
 finixgroup.ml
 fishv.ml
@@ -946,7 +941,6 @@ foodcar.ml
 forgerot.ml
 form-copyrightappeals.ml
 form-lnstagramverificationbadges.ml
-fotka10.ml
 fqcebook-video.ml
 frankinty.ml
 free-chat981.ml
@@ -992,7 +986,6 @@ garena-shelss-garena.ml
 garniermens.ml
 gasduiad.ml
 gasimanai.ml
-gasolina.ml
 gbgwhatsappxxx.new22.ml
 geforharennorcve.ml
 geikbbh.ml
@@ -1160,7 +1153,6 @@ honestypolic.ml
 hont.ml
 hopeisgreat.ml
 horick-71.ml
-horrorscopeme.ml
 host-bnb-config.ml
 hostelunke.ml
 hostinglist.ml
@@ -1392,7 +1384,6 @@ join997grup.whatsapp-109258.ml
 joinbkp.whatsaap7.ml
 joinbokepbaru.whatsappsexx.ml
 joinchatonline.ml
-joincrypro.ml
 joingroup22.xute.ml
 joingroupbokepwhatsapp2020mantap.w4tsup.ml
 joingroupwhatsapp.new55.ml
@@ -1634,7 +1625,6 @@ loginmembernewshare.ml
 logintoyourpaypal-account-and-provide-informationmbkjs1.ml
 logintoyourpaypal-account-and-provide-informationmbkjs8.ml
 loitran.ml
-lokalfed.ml
 lokatservices.ml
 loki.bjornovar.ml
 lokipanelhostingnew.ml
@@ -1648,7 +1638,6 @@ loversclubxx.ml
 loygf-33.ml
 lpocfzn.ml
 lsced.ml
-lumanajaska.ml
 luxlogics.ml
 m-facebook-url20.ml
 m-facebook81.ml
@@ -1742,14 +1731,9 @@ milesitaucard.ml
 milhar-it2020.ml
 millvalleyplaza.ml
 minefunc.ml
-minelearnto.ml
-mineshaft.ml
-minexmr.ml
-minzpool.ml
 mjnalha.ml
 mkboss.ml
 mlakshfee.ml
-mlcr0soft.ml
 mmedc.kbgswwogodd.ml
 mmmasnnssss.ml
 mnlo.ml
@@ -2031,14 +2015,12 @@ offq.ml
 ogicseistag.ml
 oisecu9-siga2.ml
 ojmyxee.ml
-okeyletsgo.ml
 okujyh.ml
 olaresak.ml
 oldgames.ml
 ollopled.ml
 olsiyll.ml
 olx-pl.ml
-olx-polska.ml
 omfgskins.ml
 omgevingskeuzebankieren.ml
 omibngf.ml
@@ -2162,7 +2144,6 @@ pokemongooo.ml
 politicadeprivacidade.ml
 polska-raport.ml
 pontofrio.ofertasdodia.ml
-pool.ml
 poperjffd.ml
 poqujimev.ml
 porn-bokep82.you-whatsapp52.ml
@@ -2195,7 +2176,6 @@ promocionalmagalu.ml
 promwhat.ml
 protection-block.ml
 protective-71.ml
-proxy.mineshaft.ml
 prutixb.ml
 przejdz.ml
 psiquiatramty.ml
@@ -2310,7 +2290,6 @@ rudistore.ml
 rugu.ml
 rusiapromo2018.ml
 rusoolw.ml
-s3.gasolina.ml
 sacrameatopku.ml
 saitut-71.ml
 sakixx.ml
@@ -2365,10 +2344,8 @@ sekretov.ml
 sekzpkn.ml
 selfiaecarae.ml
 sellintrins.ml
-selverrytony.ml
 semana-de-ofertas.ml
 seminarykansas904.ml
-sen-to-zdrowie.ml
 senddigi.ml
 seniorcarecentersltc-auth-inv-page.ml
 seniorcarecentersltc-auth.ml
@@ -2535,7 +2512,6 @@ steamsuports.ml
 steamwin.ml
 steamwit.ml
 steamyz.ml
-steeflssow.ml
 stelinenprouc.ml
 stephero.ml
 stolft-71.ml
@@ -2607,7 +2583,6 @@ tgme.ml
 thantoeaung.ml
 theautoprofit.ml
 thedelaneyseniorliving-web-doc.ml
-theslots.ml
 thomsun.ml
 thottchalnerosbo.ml
 thrany.ml
@@ -2898,8 +2873,6 @@ woodworkingeasytools.ml
 worldlulz.ml
 worldskins.ml
 wrric.ml
-ws1.bmcm.ml
-ws2.bmcm.ml
 wszystkowpolsce.ml
 wtwetwerq.ml
 wupx.ml
@@ -2952,7 +2925,6 @@ www.delivery-olx.ml
 www.detinrocondsand.ml
 www.dirtyflix.ml
 www.djtepos.ml
-www.dloger.ml
 www.dnkunyn.ml
 www.droga-dalej.ml
 www.ealohck.ml
@@ -2968,7 +2940,6 @@ www.geikbbh.ml
 www.gzxrykv.ml
 www.hhkfrjr.ml
 www.hkmicsy.ml
-www.horrorscopeme.ml
 www.isbank-isube.ml
 www.iscep-turkiye.ml
 www.ismtrum.ml
@@ -2977,11 +2948,9 @@ www.jeeurte.ml
 www.jjnarxs.ml
 www.jkypevx.ml
 www.jmxjstn.ml
-www.joincrypro.ml
 www.josjxdv.ml
 www.jozaloxibi.ml
 www.jrcgbmy.ml
-www.jurty.ml
 www.jxblvgb.ml
 www.kilunhe.ml
 www.kitaplar.ml
@@ -2990,16 +2959,10 @@ www.lazllht.ml
 www.lgaycex.ml
 www.lhtoxez.ml
 www.liin.ml
-www.lokalfed.ml
 www.lpocfzn.ml
 www.mamcmfs.ml
 www.mdlznke.ml
 www.mgvcgyn.ml
-www.minelearnto.ml
-www.mineshaft.ml
-www.minexmr.ml
-www.minzpool.ml
-www.mlcr0soft.ml
 www.msdfxtk.ml
 www.naijakush.ml
 www.namibiasafaritours.ml
@@ -3012,7 +2975,6 @@ www.nzjsbyv.ml
 www.ojmyxee.ml
 www.olsiyll.ml
 www.olx-pl.ml
-www.olx-polska.ml
 www.omibngf.ml
 www.pbgbpia.ml
 www.pcgiujk.ml
@@ -3036,11 +2998,9 @@ www.rjxzpjr.ml
 www.rjzcfoc.ml
 www.sdglbly.ml
 www.sekzpkn.ml
-www.selverrytony.ml
 www.sgsyeku.ml
 www.sprawdzto.ml
 www.star-porn.ml
-www.steeflssow.ml
 www.svbsoet.ml
 www.szczhal.ml
 www.tgme.ml
@@ -3056,9 +3016,7 @@ www.vlmrtdm.ml
 www.voycczf.ml
 www.xacugvx.ml
 www.xetosuda.ml
-www.xinchao13.ml
 www.xlmmsdt.ml
-www.xn--gogle-281b.ml
 www.yfyxybef.ml
 www.ynbrhyi.ml
 www.ysfzois.ml
@@ -3067,7 +3025,6 @@ www.zipnbus.ml
 www.ziraat-bireysel.ml
 www.znuestu.ml
 www.zodldoc.ml
-www.zvuhanie.ml
 www.zxdtdhl.ml
 www3-oferta-do-dia.fraldapampers.ml
 wxzlejvzxzsd3xzsd2pnwa.paypalservicecheck.ml
@@ -3079,11 +3036,9 @@ xctoppayaxelterl.ml
 xdjavwa.login888newgroupss.ml
 xetosuda.ml
 xholls2.ml
-xinchao13.ml
 xinjiangguanghui.ml
 xlmmsdt.ml
 xn----7sbcqbbuqevtudgle3mi.ml
-xn--gogle-281b.ml
 xnxx-new2020.ml
 xoxo2019.ml
 xtentd.ml
@@ -3138,7 +3093,6 @@ zqsgxkrwno.fmgupbjivsvtyh.ml
 zsqwwxcgtyu.ml
 zumbala.ml
 zvatrswtsrw.ml
-zvuhanie.ml
 zwyciezcy-konkursu.ml
 zxdtdhl.ml
 zxjciifc.ml

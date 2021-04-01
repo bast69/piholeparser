@@ -299,6 +299,7 @@ batteryeah.pl.ua
 bbdfhurt.com.ua
 bbn.img.com.ua
 bcstroy.kiev.ua
+bderbn.foxtrot.com.ua
 beamaffection.pl.ua
 bearavenue.pl.ua
 beardcarve.pl.ua
@@ -460,6 +461,7 @@ coalshoot.pl.ua
 cockpitch.pl.ua
 codedraught.pl.ua
 coffeedungeon.pl.ua
+cofnix.hillary-shop.com.ua
 coldvice.com.ua
 colgoty-chylki.com.ua
 collaboration.com.ua
@@ -508,11 +510,6 @@ csp.zp.ua
 customsua.com.ua
 cveevo.com.ua
 cyprus.in.ua
-d1.eth.pp.ua
-d2.eth.pp.ua
-d3.eth.pp.ua
-d4.eth.pp.ua
-d5.eth.pp.ua
 dadamarket.com.ua
 dadashov.org.ua
 dadoctor.pl.ua
@@ -720,7 +717,6 @@ este-line.com.ua
 etdoctor.pl.ua
 etehnika.com.ua
 eternas.kiev.ua
-eth.pp.ua
 etmedic.pl.ua
 etofirma36.pp.ua
 eurolifecare.com.ua
@@ -1000,7 +996,6 @@ guys.com.ua
 gydoctor.pl.ua
 h-truck.olimp-motors.com.ua
 h.holder.com.ua
-h2.eth.pp.ua
 h5464574.at.ua
 hacker3456.zzz.com.ua
 halogen.dp.ua
@@ -2104,7 +2099,6 @@ nofex.pp.ua
 nomedic.pl.ua
 nomer1.od.ua
 nopenmi.com.ua
-nord.adr.com.ua
 noregetnores.com.ua
 north-market.od.ua
 nostert.com.ua
@@ -2174,6 +2168,7 @@ orbit.lun.ua
 ordoctor.pl.ua
 orekhov-city.zp.ua
 orenthe.com.ua
+orevbi.lamoda.ua
 osbb.lviv.ua
 osvitaportal.com.ua
 otdoctor.pl.ua
@@ -2262,9 +2257,7 @@ poltavavodgosp.gov.ua
 polyana-skazok.org.ua
 pommann.zzz.com.ua
 pooh.net.ua
-pool.eth.pp.ua
 poptas.com.ua
-porno.simple-image.com.ua
 portnoff.od.ua
 portsmob.com.ua
 posmishka-dent.com.ua
@@ -2537,6 +2530,7 @@ slopre.com.ua
 smart-fun.com.ua
 smc.odessa.ua
 smeat.com.ua
+smetrics.boehringer-ingelheim.ua
 smk.com.ua
 softdigitalbuybest.com.ua
 softoutletcenter.com.ua
@@ -2562,7 +2556,6 @@ spirtnoe.org.ua
 sportlex.com.ua
 sportovets.com.ua
 sportwin.com.ua
-sql.eth.pp.ua
 srepli.com.ua
 ss.icloud.co.ua
 ssdoctor.pl.ua
@@ -2656,7 +2649,6 @@ teodiarie.com.ua
 terms-page.at.ua
 terra-yug.com.ua
 test.budresurs.org.ua
-test.eth.pp.ua
 test.goride.com.ua
 test.speckomfrotstroi.kiev.ua
 texnika.com.ua
@@ -2726,6 +2718,7 @@ ukrfarms.com.ua
 ukrfinansaudit.com.ua
 ukrteatr.odessa.ua
 ukrtvory.in.ua
+ulerkr.ukrzoloto.ua
 ultrasoft2011.com.ua
 umakara.com.ua
 umdoctor.pl.ua
@@ -2862,6 +2855,7 @@ woundshrug.pl.ua
 wow-s.at.ua
 woweb.com.ua
 wowitech.com.ua
+wprixk.brocard.ua
 wrapshoe.pl.ua
 wrapslow.pl.ua
 wreckgradual.pl.ua
@@ -2875,12 +2869,9 @@ www.beespace.com.ua
 www.dessertcake.com.ua
 www.drupal.dp.ua
 www.e-market.com.ua
-www.eth.pp.ua
-www.krb.devphp.org.ua
 www.lasertag.kiev.ua
 www.msc.org.ua
 www.msl.ua
-www.nord.adr.com.ua
 www.opel.km.ua
 www.sdspropro.co.ua
 www.slivki.com.ua

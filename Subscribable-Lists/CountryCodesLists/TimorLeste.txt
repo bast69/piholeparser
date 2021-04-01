@@ -13,10 +13,7 @@ ki.tl
 lt.tl
 m.catalogue-sample.page.tl
 movie2k.tl
-port.so.tl
 preroll.a4.tl
 sdk.a4.tl
 te.tl
 twi.tl
-www.acbp0020171456.page.tl
-www.port.so.tl

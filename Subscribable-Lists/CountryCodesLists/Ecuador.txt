@@ -38,6 +38,7 @@ dllst.ec
 dllst.net.ec
 ebay.ec
 ecosur.ec
+engage.3m.com.ec
 facebook-log-in-attempt-customer-verification-195664.bajomilestrellas.com.ec
 fernandez.ec
 freeones.ec
@@ -54,7 +55,6 @@ intersa.ec
 itserv.ec
 juntadebeneficencia.org.ec
 labzumba.ec
-landing.yetiapp.ec
 lgs.ec
 loteria.com.ec
 lstdata.net.ec

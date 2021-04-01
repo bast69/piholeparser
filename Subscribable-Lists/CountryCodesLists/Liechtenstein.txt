@@ -23,11 +23,9 @@ ads.paper.li
 adv.li
 aggrito2.li
 aharegor.li
-api.traq.li
 atio.li
 bariit3.li
 cdek.li
-cdn.traq.li
 cic.li
 citizensbank.com.force4.li
 ckray.li
@@ -44,7 +42,6 @@ de2nuvwegoo32oqv.tortelevision.li
 de2nuvwegoo32oqv.tortodorf.li
 de2nuvwegoo32oqv.torworks.li
 deultimosimpactos.blogspot.li
-devhome.traq.li
 dfdf4.li
 did.li
 ebanking.mason-privatbank.li
@@ -63,9 +60,6 @@ gogo.om-nom-nom.li
 grurl.li
 guvenli-girisyap.blogspot.li
 hduuw4.li
-home.traq.li
-hq.traq.li
-hqhome.traq.li
 href.li
 idbase.li
 ifiili.li
@@ -82,7 +76,6 @@ kgier3.li
 kiier1.li
 kiiweev.li
 koln45.li
-kyivpost.redirect.traq.li
 lah.li
 linx.li
 lotto.li
@@ -142,5 +135,4 @@ wagre.li
 worldpoint1.li
 www.href.li
 www.lah.li
-www.traq.li
 yy678.li
