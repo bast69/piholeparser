@@ -265,6 +265,7 @@
 ||b.st-hatena.com/images/entry-button/
 ||line-scdn.net^$domain=~line.me
 ||line-scdn.net/r/web/social-plugin/js/widget/
+||social-plugins.line.me/widget/
 ||timeline.line.me/social-plugin-widget/
 ||static.mixi.jp/js/share.js
 ||platform.twitter.com/widgets
@@ -357,6 +358,8 @@ google.co.jp##div#bottomads
 google.com##div#taw
 google.com##div#mbEnd
 google.com##div#bottomads
+youtube.com##ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com##*#YtKevlarVisibilityIdentifier
 
 !---------------- CUSTOM : ITmedia
 itmedia.co.jp##div#colBoxAmazon
