@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A5LhJv+Gh4cPuvp5QCks4A
-! Version: 202104030130
+! Checksum: 1xMyoCBde/K5ySLqnomf+Q
+! Version: 202104040120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 03 Apr 2021 01:30 UTC
+! Last modified: 04 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -440,6 +440,7 @@ pl.com.ua,vesti.uz###telegram
 prokazan.ru###telegram_subscription
 evtifeev.com###text-14
 economics-prorok.com###text-7
+virtualbrest.ru###text_news + noindex
 newinform.com###tg-vk
 navkolokino.com###the_share
 glavnoe.ua###tools-section
@@ -933,7 +934,7 @@ allcio.ru,it-weekly.ru,it-world.ru##.not_sm > .note
 allcio.ru,it-weekly.ru,it-world.ru##.not_sm > .note ~ hr
 cross.expert##.notify
 cameralabs.org##.notlabs
-myseria.fun##.novelty-banner
+myseria.club##.novelty-banner
 wi-fi.ru##.novelty__content > [src="//yastatic.net/share/share.js"] + p
 inforuss.info,lentaruss.ru##.nv-aside-social-wrapper
 1plus1.video##.o-share-table-cell-right
@@ -1492,7 +1493,7 @@ peterburg2.ru##a[href^="//vk.com/"]
 radiorecord.ru##a[href^="http"][target="_blank"] > span[class^="icon-"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-66.ru,a7d.com.ua,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,bdg.by,book-audio.com,coop-land.ru,daxshat.site,depo.ua,dni.ru,enovosty.com,fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,itech.co.ua,kino.video,kop.net.ua,livesport.ws,lostfilmstv.com,lrepacks.net,maanimo.com,mk.ru,myslo.ru,newsru.co.il,nn.by,okna.ua,overclockers.ua,pickfilm.ru,poiskvps.ru,pravda.com.ua,privatfinance.com,proagro.com.ua,profidom.com.ua,progolovne.ck.ua,rbc.ua,remontka.pro,rsload.net,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,techtoday.in.ua,veleto.ru,vgolos.com.ua,vixim.ru,zver.uz##a[href^="https://t.me/"]
+66.ru,a7d.com.ua,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,bdg.by,book-audio.com,coop-land.ru,daxshat.site,depo.ua,dni.ru,enovosty.com,fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,itech.co.ua,kino.video,kop.net.ua,livesport.ws,lostfilmstv.com,lrepacks.net,maanimo.com,mk.ru,myslo.ru,newsru.co.il,nn.by,okna.ua,overclockers.ua,pickfilm.ru,poiskvps.ru,pravda.com.ua,privatfinance.com,proagro.com.ua,profidom.com.ua,progolovne.ck.ua,rbc.ua,remontka.pro,rsload.net,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,techtoday.in.ua,veleto.ru,vgolos.com.ua,virtualbrest.ru,vixim.ru,zver.uz##a[href^="https://t.me/"]
 orelgrad.ru##a[href^="https://tele.click/"]
 govoritmoskva.ru##a[href^="https://tele.gs/"]
 gazeta.uz##a[href^="https://telegram.me/gazetauz"] > img
@@ -2993,6 +2994,7 @@ novayagazeta.ru##._1npEp
 ngnovoros.ru##._2AzODJM
 novayagazeta.ru##._3I62d.QECK7
 online.sberbank.ru##._3K1DRIKw
+rambler.ru##._3S8wP > div:first-child + div
 reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 1plus1.video##._opo_-playlist-player-left
 1plus1.video##._opo_-playlist-player-right
@@ -3282,7 +3284,7 @@ greenpost.ua##.footer_form
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai##.footer_links
 trudbox.com.ua##.form-group > .popover-yellow > .popover
 anistar.org,anistar.pro,anistar.world,online-star.org,online-stars.org##.frends-list-site
-myseria.fun##.full-soc-text
+myseria.club##.full-soc-text
 moya-planeta.ru##.full_object_shop_article_recommend
 kinoservis.net##.fullstory > #blocking
 2kino-2018.club##.fx-row.blocking
@@ -3460,6 +3462,7 @@ nag.ru##.openxtop
 dostfilms.org##.opovesh-gosty
 lenta.ru##.oscar-link
 fishki.net##.other-post-list
+virtualbrest.ru##.otpr_newsstr
 bibliofond.ru##.outro
 sports.ru##.overlay[data-control="Common.Overlay"]
 userstyles.org##.overlay_background
@@ -3655,7 +3658,7 @@ chita.ru##.subscribe-form
 ukrainianwall.com,znaj.ua##.subscribe-in-article
 russian.rt.com##.subscribe-layout
 vesti.ua##.subscribe-line
-myseria.fun##.subscribe-link
+myseria.club##.subscribe-link
 24tv.ua##.subscribe-wrap
 openmedia.io##.subscribePopUp
 expert.ru##.subscribe_banner_fixed
@@ -18305,6 +18308,7 @@ _youtube_social_
 ##.social-link-header
 ##.social-link-image
 ##.social-link-info
+##.social-link-item
 ##.social-link-list
 ##.social-link-pinterest
 ##.social-link-top
@@ -27579,6 +27583,7 @@ _backToTop.
 ||static.widget.trengo.eu/assets/$media
 ||tawk.to/*/audio/
 ||tidiochat.com^$media
+||userway.org/widgetapp/sounds/
 ||zdassets.com/web_widget/$media
 ! Taboola
 ||taboola.com^$third-party
