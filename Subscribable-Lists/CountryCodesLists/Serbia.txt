@@ -28,7 +28,6 @@ beautincollagen.rs
 bella9.rs
 benjamin-moore.rs
 bingoshop.rs
-bolnicaloznica.rs
 bookcom-54624596.showme.rs
 botting.rs
 bravax.co.rs
@@ -40,7 +39,6 @@ cplaw.rs
 creativeteam.co.rs
 decija.decija-garderoba.rs
 demico.rs
-dgroup.rs
 digitaldream.rs
 disco.publikum.rs
 domzdravljasd.rs
@@ -163,7 +161,6 @@ stek.rs
 storgas.co.rs
 stranijezici.edu.rs
 superbit.rs
-taiva.rs
 tecasi.rs
 tehnopan.rs
 teorija.rs
@@ -178,7 +175,6 @@ uv-lit.rs
 videostreaming.rs
 vilaart.rs
 vitaplan.rs
-vmtzastita.rs
 vsstle.edu.rs
 webhostingsrbija.rs
 weldgas.co.rs

@@ -65,7 +65,6 @@ bulb.76.my
 bumidotcom.my
 bzmotors.com.my
 cal.com.my
-capasa.com.my
 carstreet.com.my
 cashsweep.com.my
 cdee.com.my
@@ -353,7 +352,6 @@ shop.arch.my
 shop.qbee.my
 show.my
 singnan.com.my
-sitepro.my
 sku-auto.com.my
 slsb.com.my
 slymochoco.my

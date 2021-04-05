@@ -618,7 +618,6 @@ disrespect-log.ga
 disrespect-loneliness.ga
 distsigab.ga
 disturbed-fat.ga
-dit2020cst.ga
 divide-lower.ga
 divine-loyal.ga
 divistic.ga

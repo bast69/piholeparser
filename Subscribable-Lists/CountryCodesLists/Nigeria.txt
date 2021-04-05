@@ -80,6 +80,7 @@ dropboxlogin.name.ng
 drumcussac.com.ng
 dubberman.com.ng
 e-v-kay.com.ng
+eandgdesign.com.ng
 earnhere.com.ng
 ebootcamp.com.ng
 ecowriesbulksms.com.ng
@@ -139,7 +140,6 @@ ism.edu.ng
 ismf.com.ng
 isviralgram.com.ng
 itecwh.com.ng
-iwaa.org.ng
 jameshopecollege.edu.ng
 jcsolutionsglobal.com.ng
 katmerciler.com.ng
@@ -292,7 +292,6 @@ wenacompany.com.ng
 widget.cheki.com.ng
 widgets.privateproperty.com.ng
 www.betpawa.ng
-www.ceethoglobal.com.ng
 www.guzelkadin.ng
 www.ierdafrica.org.ng
 www.progitaltech.com.ng

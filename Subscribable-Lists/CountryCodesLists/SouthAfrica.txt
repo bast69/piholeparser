@@ -11,6 +11,7 @@
 911beautystudios.co.za
 a2zcarsales.co.za
 aande.s2designsolutions.co.za
+aatreefelling.co.za
 abacus4maths.co.za
 abantumarket.co.za
 abkayeservices.co.za
@@ -149,6 +150,7 @@ bettingworld.co.za
 betxchange.co.za
 bi-rite.co.za
 biggloria.co.za
+bigmikesupplies.co.za
 bigskylights.co.za
 bilhen.co.za
 billboards-signs.co.za
@@ -158,6 +160,7 @@ bitclassic.co.za
 bitcotek.co.za
 bizdirectory.org.za
 bizy.co.za
+bl4n3.zadns.co.za
 blackdiamondsemporium.co.za
 blackroseconcepts.co.za
 blankersprobs.co.za
@@ -591,6 +594,7 @@ internal.adu.org.za
 internationalexpress.co.za
 intranet.isoflow.co.za
 iqf-sa.co.za
+isiphephelocon.co.za
 islamtoday.co.za
 itandall.co.za
 ithubainternships.co.za
@@ -784,6 +788,7 @@ msrhs.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
+mumgee.co.za
 musgraveracing.co.za
 mvulabnb.co.za
 myadsl.co.za
@@ -842,7 +847,6 @@ onyx.co.za
 openquote.co.za
 opinions-count.co.za
 optimumwellnesstestbuild.co.za
-optitechsa.co.za
 optmeout4.co.za
 optmeout9.co.za
 orange.bluegemify.co.za
@@ -984,6 +988,7 @@ sagenerators.co.za
 sainform.co.za
 sainsleads.co.za
 saintignatiouscollege.co.za
+sainzim.co.za
 sakaza.co.za
 salocalserv.co.za
 saluremakers.co.za
@@ -1208,6 +1213,7 @@ tasteofindiarestaurant.co.za
 tctsautobody.co.za
 teachingmathsforunderstanding.co.za
 tecserv.co.za
+teneth.co.za
 thatchpro.co.za
 the-zones.co.za
 thecodeshop.co.za
@@ -1226,6 +1232,7 @@ thubagutsa.co.za
 thulilekhanyile.co.za
 thuthukanisports.co.za
 tiffany-functions.co.za
+timamollo.co.za
 timbalok.co.za
 tinacowleyeversdal.co.za
 titaniumcorporate.co.za
@@ -1236,6 +1243,7 @@ toette_durbanhighschool.co.za
 top-ultimateintl.co.za
 topdottourism.co.za
 topengineers.co.za
+topmask.co.za
 totalcover-sa.co.za
 tourismkwadukuza.co.za
 tpg-gauteng.co.za
@@ -1306,6 +1314,7 @@ vitamincreative.co.za
 vkwelaarts.co.za
 vnmattorneys.co.za
 voobzfreight.co.za
+vpts.co.za
 vulasafety.co.za
 waaris.co.za
 wahldental.co.za

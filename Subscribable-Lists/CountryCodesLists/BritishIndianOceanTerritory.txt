@@ -1117,7 +1117,6 @@ shapez.gameads.io
 shapishift.io
 share.chamaileon.io
 sharebutton.io
-shatteredglass.io
 shivom.icocrowdsale.io
 shivoms.io
 shynet.rmrm.io
@@ -1277,7 +1276,6 @@ try.perpetua.io
 tt.onthe.io
 ttt.onthe.io
 two-jj.github.io
-u.teknik.io
 u19kt.codesandbox.io
 u2sk3.codesandbox.io
 uberm.bttn.io

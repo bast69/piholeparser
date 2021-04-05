@@ -1428,7 +1428,6 @@ klinko.it
 kutt.it
 kyscanner.it
 l.heatmap.it
-lab18.it
 labobit.it
 laboratoriosca.it
 labottegadellulivo.it

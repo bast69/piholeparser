@@ -269,7 +269,6 @@ blockfacebook.indo93.my.id
 bluecheckmarknotificationlive.my.id
 bluecheckmarksupport.my.id
 bmlstgngbhstlog.my.id.akknggwpstpblmrlog.my.id
-bnrnews.id
 bogamakmurgracia.co.id
 bokeknjir.new9.my.id
 bokep-new.my.id
@@ -511,6 +510,7 @@ duniagames.10xze.my.id
 duniagaya.id
 dutadamaijawatengah.id
 dutadharma.co.id
+dw2.co.id
 dwebdesign.web.id
 dwimitraselaras.co.id
 e-absen.id
@@ -1782,6 +1782,7 @@ teknikjaya.co.id
 teknosmart.co.id
 telematika.id
 temaniomhlprcvrysrvce01.my.id
+test1.milenial.id
 teumpeun.id
 tglsrcvrpgehlp01srvcpge01.my.id
 thamarbengkel.co.id
@@ -1926,9 +1927,7 @@ wwbali.co.id
 www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
-www.capitallifesyariah.co.id
 www.charisministries.id
-www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id
