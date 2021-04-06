@@ -2,11 +2,11 @@
 
 ### Last Run Stats
 
-* Script Started Mon Apr  5 03:00:24 CEST 2021
-* Script Ended Mon Apr  5 04:20:22 CEST 2021
-* [Script Took 79 Minutes To Filter 128 Lists. See Log Here.](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* Script Started Tue Apr  6 03:00:24 CEST 2021
+* Script Ended Tue Apr  6 03:58:15 CEST 2021
+* [Script Took 57 Minutes To Filter 128 Lists. See Log Here.](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 * The Edited AllParsed File is 43 MB And Contains 2115201 Domains.
-* Average Parsing Of 79426.8 lines in 5 BlackLists was 392.4 Seconds.
+* Average Parsing Of 14353.7 lines in 3 BlackLists was 212.667 Seconds.
 * 1753 Valid Top Level Domains. No New TLD's.
 * [6 Lists That Do NOT Use https](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
