@@ -272,7 +272,6 @@ babs.com.ua
 babybag.com.ua
 babybreeze.ua
 bac.in.ua
-backup.tamga.net.ua
 balcon.in.ua
 balon.com.ua
 bambi.ck.ua
@@ -737,6 +736,7 @@ explanationfolk.pl.ua
 exporhub.pp.ua
 export.gad.org.ua
 extraret.com.ua
+extremestore.com.ua
 eydoctor.pl.ua
 eyelike.com.ua
 fable.in.ua
@@ -1180,7 +1180,6 @@ kabanuar.com.ua
 kadfor.com.ua
 kakadu-interior.com.ua
 kameliya.dn.ua
-kamstore.com.ua
 kancaktiv.com.ua
 karapuz.org.ua
 karinashop.com.ua
@@ -1995,7 +1994,6 @@ mnn0gofilueus.dvvarf.pp.ua
 moat.kiev.ua
 mobicover.com.ua
 mobility.lviv.ua
-mobystore.com.ua
 modaforyou.com.ua
 modonyashka.com.ua
 moeller.kiev.ua

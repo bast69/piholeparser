@@ -94,6 +94,7 @@ asteriassa.gr
 asterix.gr
 astrocorfu.gr
 autodreams.gr
+avra.dtmh.gr
 avrakougioumtzi.gr
 avsiii.gr
 axiabanners.exodus.gr
@@ -191,6 +192,8 @@ chefandbarista.gr
 chzb.gr
 cityfm92.gr
 clickbanner.gr
+comments-7938414148.psychogenesis.gr
+comments-9288814641.psychogenesis.gr
 computernetworks.gr
 conduct.gr
 confirmation-4s8e1x4des55e7s46.868-710-d4dx44sdd-s1.tsipiras.gr
@@ -201,6 +204,7 @@ coolgames.gr
 cosapo.gr
 crazytaste.gr
 creativityfilms.gr
+credicorpcapital.trendyfashion.gr
 credit-insurance.gr
 cretashop.gr
 crete-car-rent.gr
@@ -376,6 +380,7 @@ jai-biomek.gr
 jimmysvathifishtavern.gr
 jkujfy.mistore-greece.gr
 jojos.gr
+journal.taxagent.gr
 kakovatos-studios.gr
 kalaitzis.gr
 kalandranis.gr
@@ -647,6 +652,7 @@ thermopompoi-agora.gr
 thessalikoiek.gr
 thinkink.gr
 thundernet.gr
+tntmedia.gr
 to-stromatadiko.gr
 tokelari.gr
 tomaso.gr
@@ -671,7 +677,6 @@ victoria-makrigialos.gr
 villaceleste.gr
 villamonadi.gr
 villantzakislaw.gr
-vintagetoys.gr
 vioreystalydias.gr
 vitalaikiathinon.gr
 vivipapaliaga.gr

@@ -430,7 +430,6 @@ d.eclick.vn
 dabaco.quanlytruyxuat.vn
 dacsancaonguyen.vn
 daddy.com.vn
-dai.vn
 daibotat.com.vn
 daidienlam.vn
 daithanhtech.com.vn
@@ -986,6 +985,7 @@ ncl.vn
 ndd.vn
 newlog.daidoanket.vn
 news.admicro.vn
+news.leta.com.vn
 newwayit.vn
 ngoaingu.garage.com.vn
 ngoaingusunrise.edu.vn
@@ -1060,6 +1060,7 @@ phukienchat.com.vn
 phukienhdpe.vn
 phunguyengroup.vn
 phuoclongco.com.vn
+phuoclonggroup.com.vn
 phuongphamngulao.gov.vn
 phuxuan.edu.vn
 pi.adflex.vn

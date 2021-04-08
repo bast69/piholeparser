@@ -377,16 +377,19 @@ amarzonahktadminday.jp
 amazon-co-jp.co-login.jp
 amazon.co-login.jp
 amazon.co.jp
+amazon.co.jp.access.usid-9452.mixh.jp
 amazon.co.jp.account-update.access-openid.mixh.jp
 amazon.co.jp.account-update.jpaccess.mixh.jp
 amazon.co.jp.account-update.lzjse.mixh.jp
 amazon.co.jp.account-update.usid-7458.mixh.jp
+amazon.co.jp.account-update.usid-9181.mixh.jp
 amazon.co.jp.coioad8975azopj0987fs7d2faf2as00adfac.jp
 amazon.co.jp.dalemmirgribacheev3.jp
 amazon.co.jp.dalemmirgribacheev4.jp
 amazon.co.jp.dalemmirgribacheev5.jp
 amazon.co.jp.usid-58476.mixh.jp
 amazon.co.jp.usid-9842.mixh.jp
+amazon.login-jp.jp
 amazon.oret.jp
 amazon5050.jp
 ameba.d.ad-cloud.jp
@@ -2065,7 +2068,6 @@ pink.clicktx.jp
 pitatto.rakuten.co.jp
 pivotpoint.jp
 piyocosmo.jp
-plain-yame-5621.sub.jp
 plaso.jp
 plat.co.jp
 plugins.mixi.jp
@@ -2968,6 +2970,7 @@ xgtxdf.saihok.jp
 xlisting.jp
 xmax.jp
 xml.affiliate.rakuten.co.jp
+xn--45q115c4wl.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
 xr.shinobi.jp
 xscmzs.tenki.jp

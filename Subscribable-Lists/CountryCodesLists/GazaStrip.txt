@@ -12,6 +12,7 @@ cst-kh.edu.ps
 diabetespal.ps
 ebay.de.sada.ps
 elastal.ps
+eurex.ps
 fbook-47501682.almajd.ps
 fbook-87410688.almajd.ps
 fbook-93167133.almajd.ps
@@ -107,6 +108,7 @@ report-64245034.nabalifares.ps
 report-83047937.nabalifares.ps
 report-84256296.nabalifares.ps
 report-99888812.nabalifares.ps
+smtp.comune.royal-eng.ps
 smtpseguro.royal-eng.ps
 vmail.royal-eng.ps
 wildcard.nabalifares.ps

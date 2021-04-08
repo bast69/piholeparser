@@ -1036,6 +1036,7 @@ trustsoft.ro
 tudialactate.ro
 tulcealive.ro
 turkishkebab.ro
+uberum.ro
 uggreduceri.ro
 uiwock.epantofi.ro
 unilite.ro
@@ -1069,7 +1070,6 @@ vila-bendis.ro
 vilastefania.go.ro
 vines.ebrodat.ro
 vintagegold.ro
-virtual-callcenter.ro
 visaeurope.irsud.ro
 visaeurope.tiglametalicagerard.ro
 vitromed.ro

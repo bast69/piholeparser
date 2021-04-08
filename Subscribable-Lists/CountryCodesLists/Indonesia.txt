@@ -109,6 +109,7 @@ andromeda-manager-association-offices.my.id
 anekakain.co.id
 animalhusbandry.pps.unud.ac.id
 anisahijabcoid.masterweb.id
+aniver3rd.my.id
 antjava.co.id
 anugrahabadi.co.id
 anzshoesoriginal.co.id
@@ -327,6 +328,7 @@ cak-gurcafe.id
 cakemamaatin.id
 cakramedika.co.id
 cantikcerdas.id
+capitallifesyariah.co.id
 cateringnoval.co.id
 cateroo.id
 catur.ukm.undip.ac.id
@@ -364,7 +366,6 @@ chatingwhatsapp.eventml.my.id
 chatt.whatsappp-com.my.id
 chatwabkpviral.chats-whatapps.my.id
 chatwhatsaap.grupinvite-join.my.id
-chatwhatsapp-invitee.join-wa18.my.id
 chatwhatsapp.my.id
 chatwrkng02.my.id
 chatx-whatsapp.guied7.my.id
@@ -560,6 +561,7 @@ facebooksecurity2020.my.id
 facebooksecurity2021.my.id
 facebooksecurityaccount.my.id
 facebooksecurityhelp.my.id
+facebooksecuritynew.my.id
 facebookss21.my.id
 faceluke.loginingacount.vipz-04.my.id
 fai.unublitar.ac.id
@@ -757,6 +759,7 @@ himafarmaavicenna.ulm.ac.id
 himahi.upnvj.ac.id
 himateka.umj.ac.id
 himatif.pelitabangsa.ac.id
+hitexpert.id
 hjtriryotrirtuejdfjerywr7347347347347.internal-social-advanced.my.id
 hkb.co.id
 hlp01pgercvrsrvce01.my.id
@@ -1040,7 +1043,6 @@ lenteramutiarahati.id
 lesprivatgenius.co.id
 leu.co.id
 library.uib.ac.id
-limasakti.co.id
 limited.paypal.angkasasakti.co.id
 lindy.co.id
 linggaperdana.co.id
@@ -1080,6 +1082,7 @@ mahawarna.id
 mahestri.id
 mahusa.fh.unila.ac.id
 mail.10xze.my.id
+mail.bug.codashop.claim018.my.id
 mail.chattwhatps.my.id
 mail.codashop-uygoblok.join-grupnew.my.id
 mail.diamondgratis-budi.my.id
@@ -1206,6 +1209,9 @@ nimesjeans.web.id
 nirwanaafoodcoid.masterweb.id
 nonneteddy.id
 notification-office-suporrt-recovery-identity.my.id
+notification-page-claim-2021.my.id
+notification-page-claim-restriction-2021.my.id
+notification-page-claim-restriction.my.id
 notification-suport-recover-identity-office.my.id
 nrt0pgehlpsrvcrecvr01.my.id
 ns2.binadarma.ac.id
@@ -1264,6 +1270,7 @@ pagepolicysecuritycenter.my.id
 pages-authorized-social-network-2020.my.id
 pages-help-identify-certificated-2020.my.id
 pages-reconfirm-active-info-2020.my.id
+pageshome.my.id
 pagesupportmessagebox.my.id
 pancong-jaya.co.id
 pandansari120.id
@@ -1450,6 +1457,7 @@ recoverypages2020.my.id
 redemhadiah.eventfreeclaims8.my.id
 rekbersakukita.co.id
 rellorifla.co.id
+remajamarta.my.id
 renatacoid.masterweb.id
 rental-kompresor.web.id
 rentalbackdrop.id
@@ -1615,6 +1623,7 @@ sman1candiroto.sch.id
 sman1mema.sch.id
 sman1tembilahanhulu.sch.id
 sman44jkt.sch.id
+sman5kotatangsel.sch.id
 smansaduri.sch.id
 smapgripangkalankersik.sch.id
 smartdigi.id
@@ -1725,6 +1734,7 @@ stiepancasetia.ac.id
 stikesamanahpadang.ac.id
 stikeshangtuahsby-library.ac.id
 stkipadzkia.ac.id
+stmik-yadika.ac.id
 stmpge01rcvr01.my.id
 stocklab.id
 store.erzet17.my.id
@@ -1744,7 +1754,6 @@ sundahijab.co.id
 sunrisecorp.co.id
 supercorridor.co.id
 superherbal.id
-support.apple.com.br-my.id
 support.apple.com.signin.web.id
 supportpages2020.my.id
 suprthlpcnfrmtnpgesrvce01.my.id
@@ -1943,6 +1952,7 @@ yanicraftcoid.masterweb.id
 ybhr.or.id
 yoessycoid.masterweb.id
 yuliarachma.id
+yuliusgem.my.id
 yulynshop.co.id
 yumishop.id
 yunivandra.web.id

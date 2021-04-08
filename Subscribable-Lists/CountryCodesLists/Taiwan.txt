@@ -39,7 +39,6 @@ ahd.ruten.com.tw
 ahhrtt.bnext.com.tw
 ahhrtt.managertoday.com.tw
 ai-ad.com.tw
-alia.tnua.edu.tw
 all1.com.tw
 analytics.batmobile.com.tw
 apotech.com.tw
@@ -105,7 +104,6 @@ fayioptical.com.tw
 fg.com.tw
 flv.dotmore.com.tw
 fsbank.com.tw
-fstd.com.tw
 fwuser.tw
 g7.com.tw
 getaway1.tw
@@ -142,6 +140,7 @@ interactome.csie.ntu.edu.tw
 jasminne.tw
 jbbc.com.tw
 jcecl.com.tw
+jenergy.tw
 jhenho.com.tw
 jikao.com.tw
 jikua.com.tw

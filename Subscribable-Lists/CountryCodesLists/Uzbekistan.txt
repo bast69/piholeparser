@@ -4,7 +4,6 @@ a.muloqot.uz
 agrover.uz
 airma.uz
 anora71.uz
-aziko9.uz
 azlex.uz
 bank.uz
 bmwxdinnoapx.uz
@@ -30,19 +29,20 @@ integris.uz
 kosmetshop.uz
 kriomed.uz
 kuhnya.novo.uz
+mail.diyar.uz
+mail.qrerloyiha.uz
 matm.uz
 medreg.uz
 mrbillboard.uz
 mybazaar.uz
 news.megapixel.uz
+osiyo-mebel.uz
 outlook.live.com.mail.inbox.id.aziko9.uz
 pagefinder52.uz
 politex.uz
 qqadebiyati.uz
 qqbaspasi.uz
-qqjaslar.uz
 qrerloyiha.uz
-qriim.uz
 s-zone.uz
 school118.uz
 shovot27-m.uz
@@ -59,5 +59,6 @@ uzstroystandart.uz
 vatanparvar.uz
 versus.uz
 vipsecuritygroup.uz
+webmail.diyar.uz
 xazarasp.uz
 yunusobodmdo.uz

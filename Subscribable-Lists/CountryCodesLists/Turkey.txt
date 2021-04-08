@@ -488,7 +488,9 @@ limanyapidenetim.com.tr
 logex.com.tr
 logo.webservis.gen.tr
 longline.com.tr
+m.visa.com-req-0436710903.gulab.com.tr
 m.visa.com-req-1997613117.gulab.com.tr
+m.visa.com-req-8337744284.gulab.com.tr
 m.visa.com-req-9420173318.gulab.com.tr
 magaza.listeleo.com.tr
 mahalliidareleregitimmerkezi.com.tr
@@ -634,6 +636,7 @@ reklam.star.com.tr
 reklam.vogel.com.tr
 reksanistifleme.com.tr
 reprise.com.tr
+req-0436710903.gulab.com.tr
 result.com.tr
 retgilp_dyo.com.tr
 rexus.com.tr
@@ -720,6 +723,7 @@ storieshotel.com.tr
 sts-richterhuclientrequest.ahmetakayazak.com.tr
 suluklima.com.tr
 sumer.gen.tr
+sunaryem.com.tr
 sunkozmetik.com.tr
 sw88.disneymagicmoments.gen.tr
 sw88.disneyturkiye.com.tr

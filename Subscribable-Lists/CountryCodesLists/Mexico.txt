@@ -32,6 +32,7 @@ adsimg.t1msn.com.mx
 aedme.org.mx
 afq.com.mx
 agaa.mx
+agbnymellon.com.hemolab.com.mx
 agronutrientes.com.mx
 aidco.com.mx
 aktem.com.mx
@@ -91,6 +92,7 @@ banamex-verifica.com.mx
 bancmrnetempresarieeal.transportesgomez.mx
 bancomer.businesscards.com.mx
 bankofamerica.alertbaning.sas.inedx.djhdjhjhjdjfhjifikjahjfdhgfgfhjhkfofsksbsfhjdkfuiroieiweui.emerson-rep.com.mx
+bankofamerica.com-online-banking-sign-in.bfast.mx
 bannamex.com.mx
 banorte.org.mx
 banquetesenpuebla.com.mx
@@ -139,7 +141,6 @@ carnavalensenada.mx
 carnesrubencircunvalacion.com.mx
 carpaseventos.mx
 casaemaus.com.mx
-casamagna.mx
 casasdepasyterrenos.mx
 casaxavier.com.mx
 cbshop.com.mx
@@ -301,7 +302,6 @@ elpac.edu.mx
 elpalaciodehierro.com.mx
 elqtrk.morningstar.com.mx
 elrincondelvalle.com.mx
-empleohoy.mx
 energydepot.mx
 eng.mhb.mx
 engage.3m.com.mx
@@ -527,7 +527,6 @@ grupotls.com.mx
 guayabera.com.mx
 guillermomanrique.com.mx
 gumont.com.mx
-gwmagazine.mx
 haha.mx
 hands.mx
 hazquesuceda.com.mx
@@ -538,6 +537,7 @@ hemolab.com.mx
 herralum.com.mx
 heslimpieza.com.mx
 hetznir.ventanasyaluminios.com.mx
+hgperformance.com.mx
 hidalgoenlared.com.mx
 hisense.com.mx
 hispanopolis.mx
@@ -613,6 +613,7 @@ keybusiness.com.mx
 kidsfashion.com.mx
 kingsage.com.mx
 kitchenaid.com.mx
+koonol.mx
 kottur.mx
 krismar-educa.com.mx
 laboratoriosanangel.mx
@@ -682,6 +683,7 @@ mayer.com.mx
 mayoreocarss.com.mx
 mdapoyoempresarial.com.mx
 medex.ipade.mx
+medicallhome.mx
 medistaff.com.mx
 medusags.com.mx
 megavision.com.mx
@@ -704,6 +706,7 @@ mmogollon.com.mx
 mobileads.todomobile.com.mx
 moncompte-mobile.gzero.com.mx
 monicamarquez.com.mx
+moovere.mx
 morphia.itetlax.org.mx
 motomundo.com.mx
 movimientociudadanozac.org.mx
@@ -753,6 +756,7 @@ paypal.com.ceug-derecho.edu.mx
 paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430.cisneros.com.mx
 pedidos.aguilaammo.com.mx
 pegasocyc.com.mx
+pendingmessages.delivery.kidsfashion.com.mx
 peterfilesblog.blogspot.mx
 pfaffmexico.com.mx
 phorm.com.mx
@@ -786,6 +790,7 @@ posicionamientoenbuscadores.com.mx
 post.gabrielatapia.mx
 pranaentretenimiento.com.mx
 prdcortazargto.org.mx
+preescolarmamagansa.edu.mx
 priceshoes.com.mx
 procat.com.mx
 prodmax.mx
@@ -924,6 +929,7 @@ thns.com.mx
 tiendaskechersmexico.com.mx
 tierrabana.com.mx
 toctok.com.mx
+todocontodo.com.mx
 top-brand.mx
 topmothers.com.mx
 tortasfactory.com.mx

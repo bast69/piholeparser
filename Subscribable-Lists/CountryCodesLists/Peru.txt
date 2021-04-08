@@ -101,6 +101,7 @@ epg.unas.edu.pe
 esandata.esan.edu.pe
 expertise-solutions.com.pe
 facebook-log-in-attempt-customer-ticket-id-73653324236762742335.caberysac.com.pe
+facebook-login-security-customer-support-ticket-83564.mcacor.pe
 facebooks2020.verahoraaqui.clan.pe
 filtroswillybusch.com.pe
 flocchem.com.pe
@@ -196,7 +197,6 @@ munitupicocha.gob.pe
 muniyura.gob.pe
 musicstory.pe
 myetherwallet.com.pe
-nautilus.pe
 nazuri.pe
 netflix.net.pe
 norperuinge.com.pe
@@ -210,6 +210,8 @@ pachamama-gourmet.com.pe
 pacifikopokebar.pe
 paginasweb.pe
 papicrock.com.pe
+paypal.com.municaletasantarosa.gob.pe
+paypal.municaletasantarosa.gob.pe
 permisoparasernino.pe
 personas.viabcp.com.pe.defendiendoalconsumidor.pe
 persuadir.pe

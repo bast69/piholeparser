@@ -63,8 +63,8 @@ dabmaster.wm01.to
 dacash.streamplay.to
 days.to
 ddl.to
+delivery.to
 dev.fermen.to
-dev.messenger-m.to
 diarat.wm01.to
 dlbooks.to
 dlzn3.oa.to
@@ -140,7 +140,6 @@ m2.streaming.estream.to
 mafia-linkz.to
 mash.to
 me.to
-messenger-check.to
 messenger-m.to
 miner.us.to
 moby.to
@@ -229,11 +228,9 @@ uch.my.to
 ujtrjnhsnls.epac.to
 uninorte.dev.fermen.to
 update.messenger-check.to
-updateplayer.to
 v3.come.to
 verkauf24ad95.hit.to
 video.messenger-beta.to
-video.messenger-m.to
 video.streaming.estream.to
 vipergirls.to
 volts.uy.to

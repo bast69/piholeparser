@@ -163,12 +163,14 @@ activityeventscodashop7s.ml
 activityeventsgetskin7s.ml
 activitynewseventscodashop.ml
 activityskinkofnews.ml
+actualisatie-portal.ml
 actualizaciondeinformacion.ml
 acvila.ml
 addhun.ml
 adminpay0pal.ml
 adobcloud.ml
 adobelinkedinfiling.ml
+afanga.ml
 afet.ml
 afinderlast.ml
 afte-gu-ser-gq.ml
@@ -313,6 +315,8 @@ azorult.botspy.ml
 azxcvb.ml
 babesfarm.ml
 babezshine.ml
+badge-helpservices.ml
+badges-center.ml
 badgess-help.ml
 baggage.ml
 bajzmtnejc.gvhaqzryeeaqqvktboki.ml
@@ -436,6 +440,7 @@ brmase.ml
 brokacpferpis.ml
 brokenbones.ml
 brokenservices.ml
+broomesoho.ml
 broooo-skins.ml
 brosta-71.ml
 brsbrosker.ml
@@ -514,11 +519,8 @@ chat-whatsapp.holz2.ml
 chat-whatsapp.newsgrup.ml
 chat-whatsapp.ocry2020.ml
 chat-whatsapp.xhols7.ml
-chat-whatsapp1.grup-wa69.ml
 chat-whatsapp18.hol11.ml
 chat-whatsapp18.xord.ml
-chat-whatsapp7.grup-wa69.ml
-chat-whatsapp9.grup-wa69.ml
 chat-whatsappgrubsxx.ml
 chat.whatsapp.bokep.log-1.ml
 chat.whatsapp.com.join78.ml
@@ -530,11 +532,13 @@ chaturbatesxx.ml
 chatwhasapbkp.new55.ml
 chatwhatsap18.ml
 chatwhatsapp.abgz5.ml
+chatwhatsapp.diamonffgratiss.ml
 chatwhatsapp.id99.ml
 chatwhatsapp.wa-grup9.ml
 chatwhatsappbkp.whatsappgroupp.ml
 chatwhatsappbokepindo.log-wa8.ml
 chatwhatsappbokepvirall.free94.ml
+chatwhatsappcom.bokepz82021.ml
 chatwhatsappjoin.ff-free.ml
 chatwhatsappjoin.free-sexxx.ml
 chatyoungsonline.ml
@@ -581,6 +585,9 @@ clopincuumami.ml
 closingchain.ml
 cloudgiveaways.ml
 cloudon.ml
+coda.illegal.skinitemfree.ml
+codashop-events77.ml
+codashop.freeclaim-xyz.ml
 codex-71.ml
 coindash.ml
 colbaservices.ml
@@ -650,8 +657,10 @@ cpcalendars.lnstagramcopyrightbusiness.ml
 cpcontacts.lnstagramcopyrightbusiness.ml
 cpcontacts.verifikasi-keamanan-facebook.chat-whatsapp-join.ml
 crat86prinkk.ml
+craws-ios.ml
 creayepanels.ml
 creopt.ml
+crotth-xxx.ml
 crsikasso.gouv.ml
 cs-zone.ml
 csgamer.ml
@@ -708,6 +717,7 @@ de-bitcoin.ml
 de-safe-transaction-pp.ml
 deep-secureinfo.ml
 delivery-olx.ml
+denizdenaidatiniz.ml
 densefox.ml
 dentsplysirona.microsoft-0ffice365.ml
 deposayim.ml
@@ -755,6 +765,7 @@ dr-shadow.ml
 dregfiledoc.ml
 droga-dalej.ml
 dropways.ml
+druseidt.ml
 dsifoe.ml
 dssasadasdasdsa.ml
 duduk-reed.ml
@@ -763,7 +774,6 @@ durstinternet.ml
 dverapple.ml
 dxrwbh.ml
 dynout.ml
-e-commerc-unicredit.ml
 e-devlet-mobil-turkiye.ml
 ealohck.ml
 eastt.ml
@@ -853,7 +863,6 @@ facebook-supportmail-helpcenter.ml
 facebook-tr.ml
 facebook.bebashangat.ml
 facebook.com.612576988721587125.account78511.ml
-facebook.com.mylogicbd.ml
 facebook.fep10.ml
 facebook.login.vvipx20.ml
 facebook.org-fbcdn.ml
@@ -947,7 +956,6 @@ free-chat981.ml
 free-event-pubgmetro16.lkgdsca.ml
 free-gifts-pubgs.ml
 free-stickers-vk.ml
-free94.ml
 freeastuce.ml
 freebitcoin-bot.ml
 freeclaim.my-garena3.ml
@@ -997,6 +1005,7 @@ getpopcorn.ml
 getrichquick.ml
 getskinmobilelegends.ml
 gettideal.ml
+geyoii-hold69.ml
 gfdgdg-0.ml
 ggdrop1.ml
 ggdrops24.ml
@@ -1117,6 +1126,7 @@ helpcontactcenter.ml
 helpcopyright-businessteam.ml
 helpercenterformlnstagram.ml
 helpers.ml
+helpfor-dm-copyright-center.ml
 helpline4everyone.ml
 helps-mediasupport.ml
 helpserver-instagram-form-105614853501338.ml
@@ -1190,6 +1200,7 @@ iforgot-apple-support.ml
 ifyoutouchpereyou.ml
 ig-bluetickcenter.ml
 ig-businessteam.ml
+ig-copyrightservice-mediahelpteam.ml
 ig-helpcenter-supportss.ml
 ig-helpsviolation.ml
 ig-support-form.ml
@@ -1198,6 +1209,7 @@ ig-verifycenter.ml
 igcopyright-helpscenter.ml
 igcopyrightsteam.ml
 igcopyrightverifyservices.ml
+ighelp-centerys.ml
 ignbfl.fmgupbjivsvtyh.ml
 igsupporthelpcenter.ml
 iinformativo-online2020.ml
@@ -1224,6 +1236,7 @@ inimprove-fbs-3400998833332hkk.ml
 inntenlena.ml
 instagram-accountverify.ml
 instagram-and-verification.ml
+instagram-appeal-violating.ml
 instagram-badge-verification-services.ml
 instagram-badgeform.ml
 instagram-badges.verifikasicenter.ml
@@ -1234,6 +1247,7 @@ instagram-copyright-help-service.ml
 instagram-copyrightcheck.ml
 instagram-copyrightforms.ml
 instagram-copyrightpolicy-rules.ml
+instagram-copyrightscenters.ml
 instagram-copyrightsupportcenter.ml
 instagram-direct-login.ml
 instagram-gg.ml
@@ -1284,6 +1298,7 @@ instagramgetfollowersfree.ml
 instagramhelp-fb.ml
 instagramhelpcenterfroms.ml
 instagramhelpicenter.ml
+instagramhelpy.ml
 instagramlivesupportteam.ml
 instagramofficialcenter.ml
 instagramsecurityhelp.ml
@@ -1379,7 +1394,6 @@ join-whatsappfat.grup67.ml
 join-whatsappgrupbokep.kiosgamer73.ml
 join0101grup.whatsapp-777579.ml
 join2.xn3xx.ml
-join78.ml
 join997grup.whatsapp-109258.ml
 joinbkp.whatsaap7.ml
 joinbokepbaru.whatsappsexx.ml
@@ -1439,6 +1453,7 @@ junhodeofertas.ml
 junholiquidageral.ml
 junopink.ml
 jurty.ml
+justclaimgift.ml
 justsedaer.ml
 jwarrior319.ml
 jxblvgb.ml
@@ -1502,6 +1517,7 @@ lg-badge-verification.ml
 lg-blueteaksteam.ml
 lg-copyrighthelplive.ml
 lgaycex.ml
+lgcopyrightservice-fb.ml
 lghelps-centers.ml
 lhtoxez.ml
 lieoo.ml
@@ -1527,6 +1543,7 @@ liquidacaodejulhohoje.ml
 liquidacoesexpress.ml
 livbayn.ml
 live-support-instagram.ml
+liveinstagramchannel.ml
 lkjkh-71.ml
 lmn-securesharepoint.ml
 lmsd-doc.ml
@@ -1674,6 +1691,7 @@ mail.whatsappgroup.claimzz9.ml
 mail.whatsappgroup.masuk-disini.ml
 mail.whatsappgrupdewasa.chat-link.ml
 mail.whatsappnewgruphot.invt-grup11.ml
+mail.wpgroup.ml
 mailcenter.ml
 maintin.ml
 mainuntdswqemainpog.ml
@@ -1709,6 +1727,7 @@ meet-people.ml
 megadoc.ml
 meganet.ml
 menmferdape.ml
+merewards-mlbb1.ml
 mesdecombateaocovid-19.ml
 mesdejulhoofertaspro.ml
 messanger-71.ml
@@ -1734,6 +1753,7 @@ minefunc.ml
 mjnalha.ml
 mkboss.ml
 mlakshfee.ml
+mls-event21.ml
 mmedc.kbgswwogodd.ml
 mmmasnnssss.ml
 mnlo.ml
@@ -2153,6 +2173,7 @@ portalclientebb.ml
 poshmarkdoas.ml
 postdenial.ml
 posteemailserver86.ml
+postnlmijnpakket.ml
 potwierdz-wiek.ml
 powerplug.ml
 pp-account-limits.ml
@@ -2228,6 +2249,7 @@ rakuten.co.jp.vhujesk3j8io29slyuyd93kdye37fg39ytask2mzu2.ml
 rakuten.co.jp.word-login.ml
 ranemarkte.ml
 rangedata.ml
+rapidations.ml
 raulgil.ml
 raymondbryanloanfirm.ml
 rbctheroyalone.ml
@@ -2526,6 +2548,7 @@ sucure-activity.ml
 sucursalpersonasdesbloqueo.ml
 sucursalvirtualpersonasrestablecimiento.ml
 suhaswebs.ml
+sukienpubgx-thang3.ml
 sumadosa.ml
 suntrust.com-personal.ml
 super-promocao-ame.ml
@@ -2836,6 +2859,7 @@ whatsapp-invite69.ml
 whatsapp-invitegrupbokep18.event-74.ml
 whatsapp-joinade.wa-bokep18.ml
 whatsapp-sexx-ind.ml
+whatsapp-zcx.ml
 whatsapp.bkp-grup.bkp-wa18.ml
 whatsapp.bokep091615.ml
 whatsapp.claimtzeventmlxzy.ml
@@ -2869,6 +2893,7 @@ wilthywatong.ml
 windowsupdatefree.ml
 wiprolimitedceo.ml
 wohkamkiyakaregi12.ml
+woning-nl.ml
 woodworkingeasytools.ml
 worldlulz.ml
 worldskins.ml

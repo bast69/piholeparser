@@ -167,6 +167,7 @@ eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
 emaz.pk
+emeraldtextiles.pk
 ems.ecom.pk
 engage.3m.com.pk
 enqlab.pk
@@ -193,6 +194,8 @@ fbook.com-56737882.betterdeal.pk
 fbook.com-63354233.betterdeal.pk
 fbook.com-70227956.betterdeal.pk
 fbook.com-83253294.betterdeal.pk
+fbtags-62735910.baraan.pk
+fbtags-747143636.baraan.pk
 fidnos.com.pk
 file01.pk
 file02.pk
@@ -347,7 +350,6 @@ pdl.com.pk
 peanuts.pk
 pecc.pk
 perfume.pk
-pesl.pk
 physiocare.pk
 picnicustad.pk
 pie.net.pk
@@ -405,7 +407,6 @@ pushing.pk
 qims.edu.pk
 qw.airambulancepakistan.com.pk
 randlaw.com.pk
-realtime.com.pk
 rice.com.pk
 riit.edu.pk
 rime.pk
@@ -452,6 +453,7 @@ solutionstech.com.pk
 souqalburj.pk
 spave.com.pk
 speedy.com.pk
+srmc.edu.pk
 ssalliance.com.pk
 staging.securenetworks.pk
 starjobs.com.pk

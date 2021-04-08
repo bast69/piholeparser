@@ -6,7 +6,6 @@ ads.off.net.mk
 ads.popularno.mk
 ads.puls24.mk
 arkoplast.com.mk
-arthaus.com.mk
 bgsoft.mk
 bibliskozdruzenie.mk
 creativepool.mk
@@ -33,6 +32,7 @@ kuvar.mk
 lekovi.com.mk
 litra.com.mk
 loto.mk
+maak.org.mk
 magnometal.com.mk
 marsisdata.mk
 mirjananikoloska.mk

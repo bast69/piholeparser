@@ -291,7 +291,6 @@ govconsulta.pe.hu
 gportal.hu
 gpr.hu
 grsilver.hu
-gtalarm.hu
 gyerekkonyv.hu
 gyermekneurologia.hu
 gyongyszemfoto.hu
@@ -379,6 +378,7 @@ kovacsvagas.hu
 kovesszucs.atw.hu
 kralikmarti.hu
 kristalydental.hu
+ksh.hu
 laborex.hu
 lafiduciastudio.hu
 lampalazszelidito.hu
@@ -570,6 +570,7 @@ sexhirdetesek.hu
 sexpictures.hu
 sher.index.hu
 shokk.hu
+signin.eday.co.uk.ws.isapi.dllsign.oxj5uxbpg75y1dhqkkpg2zmg4hv.waterbay.hu
 siigkorp.pe.hu
 simonecav.pe.hu
 skank-haze.pe.hu
@@ -602,6 +603,7 @@ support-inbox.pe.hu
 support-info.pe.hu
 support.infopolis.hu
 surl.hu
+susanweb.hu
 sw88.disney.hu
 szallodaverseny.hu
 szeged.suvido.hu
