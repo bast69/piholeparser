@@ -544,6 +544,7 @@ naturagro.com.tr
 nazarspot.com.tr
 neseker.com.tr
 nesilgroup.com.tr
+netflix.pl.murataydeniz.com.tr
 netflix.pl.springday.com.tr
 netflix.pl.yigitbeylojistik.com.tr
 netflix.update.fatihelektronik.com.tr
@@ -600,6 +601,7 @@ phorm.tv.tr
 phorm.web.tr
 pimmas.com.tr
 pirlantaisgiyim.com.tr
+pl.suluklima.com.tr
 platinlojistik.com.tr
 pornofreedom.blogspot.com.tr
 pornographo.blogspot.com.tr.blogspot.com.tr
@@ -1124,6 +1126,7 @@ www.mytoplist.gen.tr
 www.naturagro.com.tr
 www.nazarspot.com.tr
 www.neseker.com.tr
+www.netflix.pl.murataydeniz.com.tr
 www.netflix.pl.springday.com.tr
 www.netto.com.tr
 www.noktapc.com.tr
@@ -1193,7 +1196,6 @@ www.sensellojistik.com.tr
 www.serdarozturk.com.tr
 www.serumx.com.tr
 www.servismerkezi.com.tr
-www.seyranikenger.com.tr
 www.shahkara.com.tr
 www.shootpower.com.tr
 www.sigaramakinesi.gen.tr

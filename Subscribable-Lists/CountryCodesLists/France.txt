@@ -1534,7 +1534,6 @@ clickshoot.fr
 clicmanager.fr
 client-impotgouv.fr
 clients-center1-online.fr
-clim34000.fr
 clinique-poupees.fr
 clk.boulanger.fr
 clodogame.fr
@@ -1739,7 +1738,6 @@ deblokgsm.free.fr
 decapsuleurderonde.free.fr
 decathlon.fr
 decerto.fr
-dechetterie-rennes-nantes.fr
 decitre.fr
 declic.fr
 decouvrirlesdeal.fr
@@ -5335,7 +5333,6 @@ www.sexit.fr
 www.sexodrome.fr
 www.sharks-lagoon.fr
 www.shinangel9.free.fr
-www.sosgsm.fr
 www.sota-france.fr
 www.squash-moyennedurance.fr
 www.stats.fr

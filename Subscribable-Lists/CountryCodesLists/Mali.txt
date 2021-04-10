@@ -2319,7 +2319,6 @@ saldodeofertas.ml
 salonduchat.ml
 santadernetibe.ml
 santasgift.ml
-santebarleyshop.jakewebtechs.ml
 sas-agri.ml
 sassgue-71.ml
 savexcaxeltremgol.ml

@@ -190,6 +190,7 @@ azzhplehoslogkunabsver.my.id
 backpacker.co.id
 bahankarpetdasarmobilberkualitas.co.id
 bajumuslimmurah.co.id
+bakamla.go.id
 baksomumakasarcoid.masterweb.id
 baliundangan.id
 baliwalk.id
@@ -1242,7 +1243,6 @@ ojs.budimulia.ac.id
 omahcorp.co.id
 omahyangti.co.id
 online.tesco.creditcardaccounts.co.ukonlinebanking.multimediasmkalhudakdr.id
-ont.proman.id
 ookatthat.tokofawaid.co.id
 opac.fteol-ukit.ac.id
 openstreetmap.id
@@ -1313,7 +1313,6 @@ pena-indonesia.id
 pending-secure-account-inc.hematech.co.id
 peralatanandroid.id
 perfect.dc.unify.id
-perpus.onlineman7-jombang.sch.id
 perpustakaan.deliserdangkab.go.id
 persaudaraan.co.id
 persediaan.jogjaprov.go.id
@@ -1616,6 +1615,7 @@ skripsi.co.id
 slanikwaterpark.co.id
 slbtunaskasih-sedayu.sch.id
 sma.sekolah-kesatuan.sch.id
+sma1sapuran.sch.id
 sma2pangkep.sch.id
 smaltochimica.co.id
 sman1bajawa.sch.id

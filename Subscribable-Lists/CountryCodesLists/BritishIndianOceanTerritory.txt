@@ -1457,8 +1457,10 @@ www.trackers.voodoo-analytics.io
 www.umarkets.io
 www.warzone.io
 www.whatshelp.io
+www.wyborcza-7.cleverapps.io
 www2.branch.io
 www2.rediq.io
+wyborcza-7.cleverapps.io
 x-storage-a1.cir.io
 x01.aidata.io
 xc3-s.tlnk.io

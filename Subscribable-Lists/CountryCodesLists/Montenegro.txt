@@ -1189,8 +1189,10 @@ inpost-app.me
 inpost.generuj-kod.me
 inpost.generujkod.me
 inpost.kod-odbioru.me
+inpost.kody-odbioru.me
 inpost.paczkomaty.me
 inpost.play-sklep.me
+inpost.wygeneruj-kod.me
 inserimentodati.me
 inspectns.me
 insta.webhop.me
@@ -1722,6 +1724,7 @@ olx.pay-id65473.me
 olx.pl-id295982.me
 olx.pl-id43261.me
 olx.pl-id64781.me
+olx.pl-id785192.me
 olx.pl-id831733.me
 olx.pl-mkonto.me
 olx.pl-offerta.me
@@ -3158,6 +3161,8 @@ www.ifap.me
 www.in-post.me
 www.indiaporn.me
 www.inpost-app.me
+www.inpost.kody-odbioru.me
+www.inpost.wygeneruj-kod.me
 www.japanesemom.me
 www.japanesesex.me
 www.jav-porn.me
@@ -3214,6 +3219,7 @@ www.olx.pay-id65473.me
 www.olx.pl-id295982.me
 www.olx.pl-id43261.me
 www.olx.pl-id64781.me
+www.olx.pl-id785192.me
 www.olx.pl-id831733.me
 www.olx.pl-mkonto.me
 www.olx.pl-offerta.me

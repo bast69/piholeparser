@@ -381,7 +381,6 @@ jimmysvathifishtavern.gr
 jkujfy.mistore-greece.gr
 jojos.gr
 journal.taxagent.gr
-kakovatos-studios.gr
 kalaitzis.gr
 kalandranis.gr
 kalliston-olive.gr
@@ -448,6 +447,7 @@ mencity.gr
 menon.org.gr
 metaldamage.gr
 metanor.gr
+metastudies.gr
 metrobeautymedical.gr
 mikoniou.gr
 mindtheshoe.gr

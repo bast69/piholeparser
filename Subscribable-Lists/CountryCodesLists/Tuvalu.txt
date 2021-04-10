@@ -75,7 +75,6 @@ adserver.iad1.videohub.tv
 adserver.uniqube.tv
 adserver.videohub.tv
 adsrv.advanced-television.tv
-adsrv.kobi.tv
 adsrv.kstarplay.tv
 adsrv.moebelmarkt.tv
 adsystem.wasu.tv

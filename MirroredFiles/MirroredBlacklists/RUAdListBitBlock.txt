@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SmgGiBFyzSLVGLPKsGvnvA
-! Version: 202104090120
+! Checksum: 3M0MO7aM2RUn41bBNSWzpw
+! Version: 202104100120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 09 Apr 2021 01:20 UTC
+! Last modified: 10 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -3157,6 +3157,7 @@ kino-sayt.net##.cap
 xn--80aeev7a.xn--j1amh##.car-top
 livejournal.com##.cat-widget__card-wrap--selfpromo
 www.onliner.by##.catalog-offers
+lampa.ua##.catalog_bnr-ua
 pingvin.pro##.catsbuttoncat2
 wallpapershome.ru##.cc-dialog
 real-vin.com##.cc-window[aria-label="cookieconsent"]
@@ -4973,6 +4974,7 @@ _revotas_push.
 ||pushnotificationx.com^$third-party
 ||pushowl.com^$third-party
 ||pushpad.xyz^$third-party
+||pushpanda.io^$third-party
 ||pushprofit.ru^$third-party
 ||pushprospush.com^$third-party
 ||pushpushgo.com^$third-party
@@ -9228,6 +9230,7 @@ _youtube_social_
 ###menu-social2
 ###menu-socialnbt
 ###menu-socila-footer
+###menu-top-social
 ###menuSocial
 ###menu_servizio_social
 ###menu_social
@@ -12118,6 +12121,7 @@ _youtube_social_
 ##.c-article_service_option-btnShare
 ##.c-articlehead__detail__share
 ##.c-articlenav__socialsharing
+##.c-aside--subscribe
 ##.c-author__social-media
 ##.c-blog-social
 ##.c-bolt-share
@@ -21969,7 +21973,7 @@ gry-online.pl#@#.social-16
 tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
-adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,ecoustics.com,egyptianstreets.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 chess.com#@#.social-btns
 4shared.com,bestbuy.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
@@ -27813,4 +27817,5 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
 @@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
+@@||zdassets.com/ekr/snippet.js$domain=superbet.pl
 @@||zdnet.com/images/base/sprites-social.png
