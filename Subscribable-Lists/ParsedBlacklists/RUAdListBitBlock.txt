@@ -23,6 +23,7 @@ p.nag.ru
 platform.loyaltylion.com
 promotion.vesti.lv
 push.esputnik.com
+push.knd.ro
 ruler.autoserv.ru
 sge-chat.skorpik.ru
 snippets.mozilla.com
