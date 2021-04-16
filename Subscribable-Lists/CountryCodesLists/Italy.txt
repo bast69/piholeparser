@@ -2231,6 +2231,7 @@ shocksock.it
 shop-zone.it
 shop.parcoavventurachaberton.it
 shop.simonazzimoto.it
+shop.sportal.it
 shop.treccani.it
 shopcamaflor.it
 shopping.multiplayer.it
