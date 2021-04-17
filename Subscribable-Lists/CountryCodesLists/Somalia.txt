@@ -10,6 +10,7 @@ bos.so
 caasima.cartantech.so
 curve.so
 daarual-shifa.cartantech.so
+docs.revv.so
 k.5qa.so
 mogadishushippinglines.com.so
 mrw.so

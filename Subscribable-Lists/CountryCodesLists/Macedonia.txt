@@ -8,6 +8,7 @@ ads.puls24.mk
 arkoplast.com.mk
 bgsoft.mk
 bibliskozdruzenie.mk
+confirm-facebook-5261878454.maak.org.mk
 creativepool.mk
 dds.com.mk
 diendicure.mk
@@ -32,7 +33,6 @@ kuvar.mk
 lekovi.com.mk
 litra.com.mk
 loto.mk
-maak.org.mk
 magnometal.com.mk
 marsisdata.mk
 mirjananikoloska.mk

@@ -194,8 +194,6 @@ fbook.com-56737882.betterdeal.pk
 fbook.com-63354233.betterdeal.pk
 fbook.com-70227956.betterdeal.pk
 fbook.com-83253294.betterdeal.pk
-fbtags-62735910.baraan.pk
-fbtags-747143636.baraan.pk
 fidnos.com.pk
 file01.pk
 file02.pk
@@ -467,6 +465,7 @@ suntrust.com.secured.logon.portal.hktrader.com.pk
 supersafe.com.pk
 support.fb.pargonintl.pk
 sussi.cressoft.com.pk
+tds.com.pk
 tecklinks.com.pk
 teclink.com.pk
 terralink.com.pk

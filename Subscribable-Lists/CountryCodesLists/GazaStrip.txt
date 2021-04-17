@@ -12,7 +12,6 @@ cst-kh.edu.ps
 diabetespal.ps
 ebay.de.sada.ps
 elastal.ps
-eurex.ps
 fbook-47501682.almajd.ps
 fbook-87410688.almajd.ps
 fbook-93167133.almajd.ps
@@ -79,6 +78,7 @@ mail7.royal-eng.ps
 mail8.royal-eng.ps
 mailgw.royal-eng.ps
 mailhost.royal-eng.ps
+mailin.royal-eng.ps
 mails.royal-eng.ps
 masader.ps
 mobadarat.ps

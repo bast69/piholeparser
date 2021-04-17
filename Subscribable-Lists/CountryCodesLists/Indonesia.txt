@@ -3,6 +3,7 @@
 18groups.guied7.my.id
 1fbsadsheyrhdsbhddas.my.id
 202045654645547547547666666546.my.id
+20facebooksecurity21.my.id
 23paskal.id
 2putra.id
 3dsecure.postfinance.ch.sitbinainsani.sch.id
@@ -109,7 +110,8 @@ andromeda-manager-association-offices.my.id
 anekakain.co.id
 animalhusbandry.pps.unud.ac.id
 anisahijabcoid.masterweb.id
-aniver3rd.my.id
+anniversary-3rd.my.id
+anniversarypubg.my.id
 antjava.co.id
 anugrahabadi.co.id
 anzshoesoriginal.co.id
@@ -562,7 +564,6 @@ facebooksecurity2020.my.id
 facebooksecurity2021.my.id
 facebooksecurityaccount.my.id
 facebooksecurityhelp.my.id
-facebooksecuritynew.my.id
 facebookss21.my.id
 faceluke.loginingacount.vipz-04.my.id
 fai.unublitar.ac.id
@@ -833,6 +834,7 @@ inforeprtpages2020.my.id
 infos3cfbadsacc.my.id
 insanmadani.sch.id
 inspiran.co.id
+instagram.maz.my.id
 instagram.officials.email.mulyatitety.my.id
 instagram.rindagemilang.co.id
 instagram.zyaxu.my.id
@@ -1199,6 +1201,7 @@ nemo.pelabuhanperikanan.or.id
 netciti.id
 netflix-global.auths-line.com.jagasia.co.id
 neurolat.id
+newfacebooksecurity.my.id
 newstarplastic.co.id
 nexsukses.co.id
 ngamprahprak.id
@@ -1210,10 +1213,8 @@ nimesjeans.web.id
 nirwanaafoodcoid.masterweb.id
 nonneteddy.id
 notification-office-suporrt-recovery-identity.my.id
-notification-page-claim-2021.my.id
-notification-page-claim-restriction-2021.my.id
-notification-page-claim-restriction.my.id
 notification-suport-recover-identity-office.my.id
+notifpagekempong.my.id
 nrt0pgehlpsrvcrecvr01.my.id
 ns2.binadarma.ac.id
 ntfctnpgecnfrmtionhlp01.my.id
@@ -1270,7 +1271,6 @@ pagepolicysecuritycenter.my.id
 pages-authorized-social-network-2020.my.id
 pages-help-identify-certificated-2020.my.id
 pages-reconfirm-active-info-2020.my.id
-pageshome.my.id
 pagesupportmessagebox.my.id
 pancong-jaya.co.id
 pandansari120.id
@@ -1363,6 +1363,7 @@ portale.titolari.secure.login.bpm.kanmoinvestments.co.id
 portale.titolari.verifica.privati.poste.kanmoinvestments.id
 poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
+poster.ubb.ac.id
 potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
 ppdb.smk-ciptaskill.sch.id
@@ -1408,6 +1409,7 @@ ptkgb.co.id
 ptsp.bangkabaratkab.go.id
 pu.seruyankab.go.id
 pubgme.my.id
+pubgmobille.my.id
 publicspeaking.co.id
 publish-advanced-recovery-2020.my.id
 pukarafahpegundan.co.id
@@ -1433,8 +1435,10 @@ ratnawulandaricoid.masterweb.id
 rbcaccess.royalbank.ca.rdi.or.id
 rcvryhlpsrvcebsns01.my.id
 rcvrypgehlpbsnssrvice01.my.id
+rdnz.my.id
 ready.co.id
 real.de.seller.bookings.siharkaboy.boyolali.go.id
+reconfaccount.my.id
 reconfirm-accounts-protection.my.id
 reconfirm-info-advanced-recovery-2020.my.id
 reconfirm-page-invitation-team.my.id
@@ -1547,6 +1551,7 @@ securelogin.verifica.portaletitolari.poste.it.a7378449.multitrendindo.id
 securfb20.my.id
 security-page-notifications-public.my.id
 security-page-notiifications-live.my.id
+securityfacebookinc2020.my.id
 securityupgrade.sumitro.my.id
 segopecel24.id
 seimmanpd.id
@@ -1952,7 +1957,6 @@ yanicraftcoid.masterweb.id
 ybhr.or.id
 yoessycoid.masterweb.id
 yuliarachma.id
-yuliusgem.my.id
 yulynshop.co.id
 yumishop.id
 yunivandra.web.id

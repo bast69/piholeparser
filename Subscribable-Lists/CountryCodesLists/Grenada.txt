@@ -14,6 +14,7 @@ desbloqueio-online.rf.gd
 dhl-france-service.fr.gd
 diskussionsforen-ebay-de-ws65-ebayisapii.rf.gd
 diskussionsforen-ebay.de-ebayisapi.rf.gd
+emprunt-direct-webnode.fr.gd
 eventsgrenada.gd
 from-lnstagram-copyright.rf.gd
 giuuijhjhujhk.rf.gd
@@ -50,6 +51,7 @@ shopscovid19.rf.gd
 soo.gd
 ta.gd
 tl.gd
+top-pret-service.fr.gd
 tregdsryterger.rf.gd
 viagra.gd
 wva.gd

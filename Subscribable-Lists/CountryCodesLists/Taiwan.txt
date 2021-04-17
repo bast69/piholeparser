@@ -40,6 +40,7 @@ ahhrtt.bnext.com.tw
 ahhrtt.managertoday.com.tw
 ai-ad.com.tw
 all1.com.tw
+amrp.tw
 analytics.batmobile.com.tw
 apotech.com.tw
 apple.com-ios.tw
@@ -119,6 +120,7 @@ hgecr4obgv.happy-lemon.com.tw
 hiareshi.tw
 hiareshis.tw
 hilanguage.com.tw
+hiyang.com.tw
 hoist.com.tw
 homeless.org.tw
 homework1.tw
@@ -140,7 +142,6 @@ interactome.csie.ntu.edu.tw
 jasminne.tw
 jbbc.com.tw
 jcecl.com.tw
-jenergy.tw
 jhenho.com.tw
 jikao.com.tw
 jikua.com.tw

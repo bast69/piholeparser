@@ -8,7 +8,6 @@ dev.maverick.cm
 diplocam.cm
 doga.cm
 download.cm
-educam.cm
 etranscom.cm
 facebook.bazar.cm
 facebook.cm

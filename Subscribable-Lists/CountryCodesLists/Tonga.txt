@@ -64,7 +64,6 @@ dabmaster.wm01.to
 dacash.streamplay.to
 days.to
 ddl.to
-delivery.to
 dev.fermen.to
 diarat.wm01.to
 dlbooks.to
@@ -146,6 +145,7 @@ miner.us.to
 moby.to
 movie2k.to
 mphtadhci5mrdlju.onion.to
+mrqz.to
 musicmaargarit63.uk.to
 my.putlocker.to
 mychat.to

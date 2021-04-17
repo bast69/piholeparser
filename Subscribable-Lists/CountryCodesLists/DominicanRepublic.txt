@@ -6,6 +6,7 @@ bit.do
 boomerang.do
 callservices.do
 carabela.com.do
+cathedral.edu.do
 chase.bank.active.balance.elian.do
 cidrd.com.do
 construlok.com.do

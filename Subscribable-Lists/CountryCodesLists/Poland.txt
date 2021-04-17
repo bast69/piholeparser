@@ -2204,7 +2204,6 @@ genotypstudio.pl
 geo.interia.pl
 geodeta-lodz.pl
 geokomp.com.pl
-geonet.mozello.pl
 geoportal-info.powiat.lukow.pl
 geovisionpolska.pl
 gepard-mobilian.pl
@@ -3727,6 +3726,7 @@ mocny.live-sex.pl
 moda2020.pl
 modamart.pl
 modelestrazackie.za.pl
+modenasklep.com.pl
 modernbox-meble.pl
 modrzejewski-bhp.pl
 modwebpro.pl
@@ -3778,6 +3778,7 @@ motoprawko.pl
 motored.pl
 motorowka-zegrze.pl
 motovblog.pl
+mottino.pl
 movienet.pl
 movieprojector.pl
 moviestarplanet-hack.org.pl
@@ -4493,6 +4494,7 @@ pabiszit.pl
 paciorekradom.pl
 pacjentpolski.pl
 pacyfka99.pl
+paczkowodpd4you.pl
 paczuli.pl
 pallotyni.ryn.pl
 pamietajmyoogrodach.pl
@@ -4652,6 +4654,7 @@ pilates.com.pl
 pillscareit.pl
 pillssalebaruchel.pl
 pilson.pl
+piltza.przedszkole-gabi.pl
 pimrentcar.pl
 pinapple.pl
 pineks.pl
