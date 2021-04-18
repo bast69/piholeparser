@@ -2,35 +2,35 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Calculating Average Parsing Time Sat Apr 17 04:12:38 CEST 2021
+## Calculating Average Parsing Time Sun Apr 18 04:14:41 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/10-Calculating-Average-Parsing-Time.md)
 
-## Calculating Average Parsing Lines Sat Apr 17 04:12:39 CEST 2021
+## Calculating Average Parsing Lines Sun Apr 18 04:14:43 CEST 2021
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/15-Calculating-Average-Parsing-Lines.md)
 
-## Calculating Total Runtime Of Script Sat Apr 17 04:12:40 CEST 2021
+## Calculating Total Runtime Of Script Sun Apr 18 04:14:44 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/20-Calculating-Total-Runtime-Of-Script.md)
 
-## Calculating TLD Percentages Sat Apr 17 04:12:42 CEST 2021
+## Calculating TLD Percentages Sun Apr 18 04:14:46 CEST 2021
 Process Took 46 Minutes.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
 
-## Looking At What Did Not Pass TLD Test Sat Apr 17 04:59:36 CEST 2021
+## Looking At What Did Not Pass TLD Test Sun Apr 18 05:01:37 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
 
-## Adjusting README Sat Apr 17 04:59:38 CEST 2021
+## Adjusting README Sun Apr 18 05:01:39 CEST 2021
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
 
-## Removing Temporary Script Files Sat Apr 17 04:59:40 CEST 2021
+## Removing Temporary Script Files Sun Apr 18 05:01:41 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
 
-## Pushing Lists To Locally Hosted Location Sat Apr 17 04:59:41 CEST 2021
+## Pushing Lists To Locally Hosted Location Sun Apr 18 05:01:42 CEST 2021
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
 

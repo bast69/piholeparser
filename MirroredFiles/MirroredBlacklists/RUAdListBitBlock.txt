@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oDI0lMJbEAsmwMUU5dNQoQ
-! Version: 202104160120
+! Checksum: gLGfomGyQtk3G/F9e2Jfaw
+! Version: 202104180120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 16 Apr 2021 01:20 UTC
+! Last modified: 18 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -581,7 +581,7 @@ bloomchain.ru##.bc-footer__social
 bloomchain.ru##.bc-header__social
 woman.ua##.bl-share
 sergeistrelec.ru#?#.bl0:-abp-has(div:-abp-contains(/друзья|telegram/i))
-tehnikoved.ru##.block-share
+lgoty-vsem.ru,tehnikoved.ru##.block-share
 fanserial.net##.block-small-login-social
 forbes.ru##.block-social-dockable
 sfera.fm##.block-social-widget
@@ -3214,7 +3214,7 @@ europaplus.ru,rambler.ru##.cookie-notification
 fireman.club,labirint.ru##.cookie-policy
 press.lv##.cookie-policy-popup
 akson.ru##.cookie-popup-div
-cbr.ru##.cookie-warning
+cbr.ru,sberbank.ru##.cookie-warning
 delfi.lv##.cookie.notification-widget
 bitcryptonews.ru,yk.kz##.cookie_accept
 tvzvezda.ru##.cookie_messege
@@ -3678,7 +3678,7 @@ finam.ru##.subScribeModal
 rockstargame.su##.subs-form
 fedpress.ru##.subscr_prompt_wrap
 nv.ua##.subscrb_form_wrap
-112ua.tv,censor.net,it-tehnik.ru,kod.ru,kp.by,kp.kg,kp.kz,kp.md,kp.ru,liga.net,rockstargame.su,tverigrad.ru,vz.ru##.subscribe
+112ua.tv,censor.net,it-tehnik.ru,kod.ru,kp.by,kp.kg,kp.kz,kp.md,kp.ru,liga.net,rockstargame.su,sm.news,tverigrad.ru,vz.ru##.subscribe
 chita.ru##.subscribe-form
 hyser.ua,ukrainianwall.com,znaj.ua##.subscribe-in-article
 russian.rt.com##.subscribe-layout
@@ -4595,7 +4595,6 @@ myshared.ru#@#.ya-share2_inited
 @@||informers.sinoptik.ua^$third-party
 @@||informers.ukr.net/kino/slider/$domain=vn.20minut.ua
 @@||kali.org^*/min/?f=
-@@||kinogoo.cc/engine/classes/min/index.php?f=/*/js/social-$xmlhttprequest,domain=kinogoo.cc
 @@||kinohd.red/templates/grunge-film-blue/images/social/$image,domain=kinohd.red
 @@||kinokopilka.pro/assets/social/$image,domain=kinokopilka.pro
 @@||kopilkasovetov.com/wp-content/uploads*/logo$image
@@ -5116,6 +5115,7 @@ mobi24.net#@#a[href^="http://www.mobi24.net/"]
 mobi24.net#@#a[href^="https://www.mobi24.net/"]
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt ***
 @@||inevent.com/js/wizard/pushNotification.js$script,~third-party
+@@||mirage.ru/js/jquery.smartbanner.js$script,~third-party
 @@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 !
 ! - Социальные сети -----------------------------------------------------------
@@ -22528,7 +22528,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||junglevibe2.net/min/?$script
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
 @@||keepa.com/img/social/Google.svg
-@@||kinogoo.cc/engine/classes/min/index.php$script,~third-party
+@@||kinogoo.cc/engine/classes/min/index.php$~third-party,xmlhttprequest
 @@||komiz.io^*/share/js/$script,stylesheet,domain=mushka.com.ua
 @@||koszykowkanawozkach.pl^*/Header-facebook.jpg
 @@||kpopstarz.com^*/ic_comment_facebook.png
@@ -22584,6 +22584,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||moto.com/wp-content/uploads/*-Social_$image,domain=moto.com
 @@||msecnd.net/resources/gfx/openid/$image
 @@||msfn.org^*/facebook_like_box.css
+@@||mtb-news.de/share/$subdocument,~third-party
 @@||myfav.es/images/icons/$~third-party
 @@||naekranie.pl/wp-content/uploads/2015/08/youtube-logo-640x418.jpg$image,~third-party
 @@||namechk.com^$generichide
