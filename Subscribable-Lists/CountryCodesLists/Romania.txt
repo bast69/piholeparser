@@ -205,7 +205,6 @@ bursaforex.home.ro
 bus4rent.ro
 business.dropbox.okamotocorp.sportsmag.ro
 business.softberg.ro
-business2.softberg.ro
 businessmark-events.ro
 buylevitra.3xforum.ro
 buypc.ro
@@ -415,7 +414,6 @@ exigostrategic.ro
 expatsolutions.ro
 expertmedia.ro
 eymiwj.cancan.ro
-eymiwj.prosport.ro
 ezptntfdueb6coblmfca.viomil.ro
 facebook-confirmation-007.blogspot.ro
 facebook.com-account.security.smahost.ro
@@ -434,6 +432,7 @@ filme18.8k.ro
 filmuloctav.ro
 fit4success.ro
 fjrsitejfnmainserv.ro
+fkcejf.gradinamax.ro
 flaviateodosiu.ro
 florindumitrescu.ro
 fontanaresidence.ro
@@ -491,7 +490,6 @@ hermann.com.ro
 heximed.ro
 hi-peer.ro
 hitx.statistics.ro
-hlygsp.modivo.ro
 homie.ro
 hotel-mures.ro
 hotelimperium.go.ro
@@ -630,6 +628,7 @@ mega-clean.ro
 megascule.ro
 memm.ro
 meridiameridia.3xforum.ro
+merinocraft.ro
 meseriasul24.ro
 meseriiasii.ro
 metin2dlz.hi2.ro
@@ -709,6 +708,7 @@ nordestmedical.ro
 nordxtremesolutions.ro
 notes.moonclub.ro
 notificationvocalmms.webnode.ro
+npylsv.elle.ro
 npylsv.libertatea.ro
 nrjservkcndsw.ro
 o365.loginsecureaccount.ro
@@ -775,6 +775,7 @@ pioneershop.ro
 pisicasalbatica.ro
 pixel2u.ro
 pizzeriarospeto.ro
+plau.devjob.ro
 plopeniparc.ro
 pnl-maieru.ro
 politeh.ro
@@ -858,7 +859,6 @@ rouamaramuresului.ro
 royalmotors.ro
 rozette.ro
 rta-persn2nd.pensiunealazar.ro
-rtpznj.garibald.ro
 rugidom.ro
 ruki.ro
 rulote.allkrisautomobile.ro
@@ -992,6 +992,7 @@ tenisivansieftini.ro
 terem.eltransbt.ro
 termodan.ro
 terrabit.ro
+test.decojitorinimioare.ro
 testari-online.ro
 textad.traficdublu.ro
 textile.softberg.ro
@@ -1038,7 +1039,6 @@ trustsoft.ro
 tudialactate.ro
 tulcealive.ro
 turkishkebab.ro
-uberum.ro
 uggreduceri.ro
 uiwock.epantofi.ro
 unilite.ro
@@ -1150,12 +1150,10 @@ www.trafix.ro
 www.transexclub.ro
 www.w1.ro
 www.xtrafic.ro
-www2.avikofoodservice.ro
 xanaxxanax.3xforum.ro
 xchange.ro
 xn--dezmembrri-constana-dfc400d.ro
 xn--transfgran-mgbbb600b.ro
-xsrzqh.oferte360.ro
 xtrafic.ro
 yacovtours.ro
 yhdyhd.ro

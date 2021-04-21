@@ -15,6 +15,7 @@ afic.gov.pk
 aghaz.org.pk
 aimtex.pk
 airfoundation.org.pk
+akhbaar.pk
 al-hilal.com.pk
 al-jawad.com.pk
 alhamdtravel.com.pk
@@ -167,7 +168,6 @@ eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
 emaz.pk
-emeraldtextiles.pk
 ems.ecom.pk
 engage.3m.com.pk
 enqlab.pk
@@ -451,7 +451,6 @@ solutionstech.com.pk
 souqalburj.pk
 spave.com.pk
 speedy.com.pk
-srmc.edu.pk
 ssalliance.com.pk
 staging.securenetworks.pk
 starjobs.com.pk
@@ -509,6 +508,7 @@ wfc.com.pk
 wholesomefoods.com.pk
 wilsons.pk
 wwd.com.pk
+www.akhbaar.pk
 www.apl.com.pk
 www.ausaf.pk
 www.bacr.com.pk

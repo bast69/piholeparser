@@ -173,6 +173,7 @@ kobit.no
 kristiansanddykkerklubb.no
 kristiansund-gravstein.no
 kunnskapsfilm.no
+kurazb.prisjakt.no
 kveldeil.no
 kystensenergi.no
 langhaug.no
@@ -241,19 +242,21 @@ portside.no
 ppcannonsering.no
 proco.no
 proresult.no
+przucu.elkjop.no
 publish.bonzaii.no
 rabita.no
 recmedia.no
 rig.idg.no
 rikstoto.no
 riss.no
-riundo.bonprix.no
 rscs.no
 rysstadsylv.no
 s.cuoresportivo.no
+saa.dyson.no
 sametrics.finn.no
 sanalytics.boomerangtv.no
 sanalytics.wideroe.no
+sanl.footlocker.no
 sbdl.no
 sdc.dn.no
 secureanalytics.avis.no
@@ -285,6 +288,7 @@ tik.no
 tjorhom.no
 tomter.no
 tracking.bonava.no
+tracking.omron.no
 tracking.visma.no
 tracking1.euroads.no
 trondheimsregionen.no
@@ -314,5 +318,6 @@ www.norsk-tipping.no
 www.nytimes.no
 www.rikstoto.no
 www.scanliftmaskin.no
+www2.se-institute.no
 xn--fn-kka.no
 xn--tnsbergkommune-qqb.no

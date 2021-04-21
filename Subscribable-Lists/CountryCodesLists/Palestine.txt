@@ -74,11 +74,11 @@ kutla.ps
 laptop.com.ps
 loyality.alsaqqa.ps
 m.royal-eng.ps
+mail11.royal-eng.ps
 mail7.royal-eng.ps
 mail8.royal-eng.ps
 mailgw.royal-eng.ps
 mailhost.royal-eng.ps
-mailin.royal-eng.ps
 mails.royal-eng.ps
 masader.ps
 mobadarat.ps

@@ -92,6 +92,7 @@ easyapp.com.tw
 eg.com.tw
 eloqua.nissan.com.tw
 elqtrk.intel.com.tw
+emotir.pcone.com.tw
 engage.3m.com.tw
 enlarge.tw
 epharmacy.tw
@@ -145,7 +146,6 @@ jcecl.com.tw
 jhenho.com.tw
 jikao.com.tw
 jikua.com.tw
-jing-da.com.tw
 jingshang.com.tw
 job.wnvs.cyc.edu.tw
 johnsonfashion.com.tw
@@ -223,6 +223,7 @@ polo8789.tw
 practicecom.tw
 prontoed.tw
 proposal.tw
+prz.tw
 puli-hostel.com.tw
 pv.ltn.com.tw
 pvgsaroc.org.tw
@@ -241,9 +242,12 @@ seo.orima.tw
 sepi.tw
 sheentuna.com.tw
 sitebro.com.tw
+smetrics.baby-g.com.tw
+smetrics.boehringer-ingelheim.tw
 smetrics.casio.com.tw
 smetrics.citibank.com.tw
 smetrics.e-casio.com.tw
+smetrics.frontlineplus.com.tw
 smetrics.g-shock.com.tw
 smetrics.kanebocos.com.tw
 snip.tw
@@ -297,12 +301,14 @@ www.butterfly.idv.tw
 www.cati.com.tw
 www.chienhung.url.tw
 www.english.com.tw
+www.hiyang.com.tw
 www.hung-guan.com.tw
 www.inyes.com.tw
 www.isistech.com.tw
 www.kmtks.org.tw
 www.ming-dun.com.tw
 www.playboy.com.tw
+www.prz.tw
 www.skycity.com.tw
 www.skywin.com.tw
 www.ta.com.tw

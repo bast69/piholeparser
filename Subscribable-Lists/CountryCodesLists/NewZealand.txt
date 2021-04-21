@@ -2,6 +2,8 @@
 1am.co.nz
 60live.co.nz
 90s.co.nz
+ablink.emails.themarket.nz
+ablink.info.themarket.nz
 activemedia.co.nz
 acuraonline.co.nz
 adclick.stuff.co.nz
@@ -114,8 +116,9 @@ gameroff.co.nz
 geoshopping.nzherald.co.nz
 getset.co.nz
 glennroberts.co.nz
+go.breastcancerfoundation.org.nz
 go.gilmours.co.nz
-go.trents.co.nz
+go.smartenergysolutions.co.nz
 goldbullions.co.nz
 gourmetseafood.co.nz
 greenebrothers.co.nz
@@ -161,6 +164,7 @@ maristtouch.org.nz
 marketing.aia.co.nz
 marketing.huntingandfishing.co.nz
 marketing.peoplesafe.co.nz
+marketing.voltexelectrical.co.nz
 mcivor.gen.nz
 mdental.co.nz
 mein.gmx.de.bbm.co.nz
@@ -194,6 +198,7 @@ pardot.stjohn.org.nz
 parsstone.co.nz
 particuliers.lcl-banque.mrindia.co.nz
 paypal.apply.verifications-identity.co.nz
+pbox.photobox.co.nz
 pcbc.org.nz
 pense.co.nz
 peoples.co.nz
@@ -232,12 +237,14 @@ slatersorchids.co.nz
 smallsmallworld.co.nz
 smallwonders.nz
 smetrics.aainsurance.co.nz
+smetrics.gemfinance.co.nz
 smetrics.lululemon.co.nz
 smetrics.opsm.co.nz
 smetrics.repco.co.nz
 smetrics.vero.co.nz
 smtp.callsouth.net.nz
 snacklovers.co.nz
+solutions.canon.co.nz
 somni.neighbourly.co.nz
 somniture.stuff.co.nz
 sparq.co.nz
@@ -246,7 +253,7 @@ srj.co.nz
 stajittech.co.nz
 starfishservices.org.nz
 static.groupy.co.nz
-stats.geekzone.co.nz
+stats.travel.geek.nz
 steelandcutting.co.nz
 streetelement.co.nz
 super-drinks.co.nz
@@ -285,6 +292,7 @@ webads.co.nz
 windfarmdevelopments.co.nz
 womensshoesnz.co.nz
 wrightindustrial.co.nz
+wwv.mynewroof.co.nz
 www.adultforum.co.nz
 www.adulttoymegastore.co.nz
 www.bannerexchange.co.nz
@@ -297,6 +305,7 @@ www.newzealandgirls.co.nz
 www.rishipes.co.nz
 www.tab.co.nz
 www2.n4l.co.nz
+www2.onenet.co.nz
 xara.co.nz
 xfinity.com--------phone--confirmation---service-11601574.antiochian.org.nz
 xfinity.com--------phone--confirmation---service-25269717.antiochian.org.nz
@@ -305,4 +314,3 @@ xfinity.com--------phone--confirmation---service-86362368.antiochian.org.nz
 xfinity.com--------phone--confirmation---service-90188710.antiochian.org.nz
 xfinity.com--------phone--confirmation---service-923038.antiochian.org.nz
 yscom.co.nz
-yujmyt.theiconic.co.nz

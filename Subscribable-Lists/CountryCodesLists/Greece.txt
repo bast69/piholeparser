@@ -201,7 +201,6 @@ coolgames.gr
 cosapo.gr
 crazytaste.gr
 creativityfilms.gr
-credicorpcapital.trendyfashion.gr
 credit-insurance.gr
 cretashop.gr
 crete-car-rent.gr
@@ -375,7 +374,6 @@ itemlisting-70089148.sitesap.gr
 itemlisting-81676026.sitesap.gr
 jai-biomek.gr
 jimmysvathifishtavern.gr
-jkujfy.mistore-greece.gr
 jojos.gr
 journal.taxagent.gr
 kalaitzis.gr
@@ -437,6 +435,7 @@ maxlive.gr
 mdtemmanouil.gr
 mediadellarte.gr
 medialaw.gr
+medion.interamerican.gr
 medliner.gr
 medusamilos.gr
 meis.gr
@@ -477,7 +476,6 @@ nremove.facebk-90735474.ttgw.gr
 nrg91.gr
 nyfikoxtenisma-thessaloniki.gr
 obj.adman.gr
-offensive-fb-gu496qchu.burritosushi.gr
 officenetworks.gr
 oikotexnia-a-o.gr
 oldftp.otenet.gr
@@ -552,6 +550,7 @@ psdatm.gr
 psid.bio.auth.gr
 psilikomania.gr
 psystems.gr
+qpuseo.notos.gr
 qvam.gr
 r2d2.adman.gr
 radiohappy.gr
@@ -578,11 +577,13 @@ roomsnestoras.gr
 rouamatfashion.gr
 s-a.gr
 saka.gr
+sanl.footlocker.gr
 sbscourier.gr
 schoiniotis.gr
 schwing-stetter.gr
 scripts.bestprice.gr
 sealine.com.gr
+secretherbs.gr
 secure.bankofamerica.comapplynowbofa.ecom.purchasing.common.ui.zk.wpd.replay-village.gr
 secure3.areospolis.gr
 sendacake.gr
@@ -622,6 +623,7 @@ stoiximan.gr
 studytravel.gr
 supermarketdelivery.gr
 support.dromeas.gr
+sw88.disney.gr
 switch.statman.gr
 synergeiokatharismou-thessaloniki.gr
 sypin.gr
@@ -655,6 +657,7 @@ thundernet.gr
 tntmedia.gr
 to-stromatadiko.gr
 tokelari.gr
+tomako.gr
 tomaso.gr
 topekdromes.gr
 topratiriosas.gr
@@ -670,6 +673,12 @@ tzakri.gr
 tzamia-netos.gr
 tziko.gr
 unit2.euro2day.gr
+untagfb-2129552895.inpa.gr
+untagfb-2798101007.inpa.gr
+untagfb-2971896097.inpa.gr
+untagfb-7110325091.inpa.gr
+untagfb-8673213481.inpa.gr
+untagfb-9336244751.inpa.gr
 vaptistika-olga.gr
 vasilakis-george.gr
 vasilakisorologia.gr
@@ -700,6 +709,7 @@ www.adbanner.gr
 www.adman.gr
 www.avrakougioumtzi.gr
 www.blackstate.gr
+www.e-keramidaris.gr
 www.fairsky.gr
 www.galaxyfunbowl.gr
 www.gaygreece.gr

@@ -260,6 +260,7 @@ destek.hometech.com.tr
 devas.com.tr
 devexpress.com.tr
 dgynnj.koctas.com.tr
+dhdbzm.modakapimda.com.tr
 dikon.com.tr
 dinarsu.com.tr
 dincticaret.com.tr
@@ -360,6 +361,7 @@ gestas.com.tr
 ghb.console.adtarget.com.tr
 gider.av.tr
 gmai.masoto.com.tr
+go.mikro.com.tr
 goker.com.tr
 gokhancakmak.com.tr
 gokkusagidagitim.com.tr
@@ -397,6 +399,7 @@ hedefzirve.com.tr
 heran.com.tr
 heybeliadaotel.com.tr
 hits.tv8.com.tr
+hiuplq.flashscore.com.tr
 hmo.com.tr
 hoteldedemin.com.tr
 hotshot.com.tr
@@ -436,7 +439,6 @@ ivr.com.tr
 jennah.com.tr
 jineplast.com.tr
 jmoon.com.tr
-jptobh.network.com.tr
 jvznla.rossmann.com.tr
 kadem.com.tr
 kahramanmaras.gen.tr
@@ -542,9 +544,9 @@ mustang.com.tr
 mutlugunlerde.com.tr
 naturagro.com.tr
 nazarspot.com.tr
+ncoqsj.dr.com.tr
 neseker.com.tr
 nesilgroup.com.tr
-netflix.pl.murataydeniz.com.tr
 netflix.pl.springday.com.tr
 netflix.pl.yigitbeylojistik.com.tr
 netflix.update.fatihelektronik.com.tr
@@ -600,8 +602,8 @@ phorm.info.tr
 phorm.tv.tr
 phorm.web.tr
 pimmas.com.tr
+pinptg.milleni.com.tr
 pirlantaisgiyim.com.tr
-pl.suluklima.com.tr
 platinlojistik.com.tr
 pornofreedom.blogspot.com.tr
 pornographo.blogspot.com.tr.blogspot.com.tr
@@ -645,7 +647,9 @@ rexus.com.tr
 rms.uzelbilisim.com.tr
 robonik.com.tr
 roltek.com.tr
+rowsrm.atasunoptik.com.tr
 royalland.com.tr
+rqhtgf.pierrecardin.com.tr
 rs.chip.com.tr
 rss.tmgrup.com.tr
 ruberu.com.tr
@@ -667,6 +671,7 @@ savior.com.tr
 sayac.hurriyet.com.tr
 sdd.com.tr
 sebatmobilya.com.tr
+securetags.esri.com.tr
 selammarket.com.tr
 selimyildiz.com.tr
 senka.com.tr
@@ -730,7 +735,6 @@ sunkozmetik.com.tr
 sw88.disneymagicmoments.gen.tr
 sw88.disneyturkiye.com.tr
 swwcyk.ahaber.com.tr
-swwcyk.fotomac.com.tr
 swwcyk.sabah.com.tr
 swwcyk.takvim.com.tr
 sync.console.adtarget.com.tr
@@ -1126,7 +1130,6 @@ www.mytoplist.gen.tr
 www.naturagro.com.tr
 www.nazarspot.com.tr
 www.neseker.com.tr
-www.netflix.pl.murataydeniz.com.tr
 www.netflix.pl.springday.com.tr
 www.netto.com.tr
 www.noktapc.com.tr
@@ -1220,7 +1223,6 @@ www.stats.posta.com.tr
 www.stats.tv8.com.tr
 www.suluklima.com.tr
 www.sumer.gen.tr
-www.sunaryem.com.tr
 www.tabanway.com.tr
 www.tahinlim.com.tr
 www.tanguluercetin.com.tr
@@ -1325,11 +1327,13 @@ xn--yapkredi-vkb.gov.info.tr
 xn--yapkredi-vkb.gov.tr
 xn--yapkredi-vkb.info.tr
 xn--yapkredi-vkb.tr
+xyripw.korendy.com.tr
 yanus.com.tr
 yapikur.com.tr
 yasarlarinsaat.com.tr
 yasarsu.com.tr
 yayin.seviye.com.tr
+yegolu.dominos.com.tr
 yelpazeinsaat.com.tr
 yemekler.com.tr
 yenimedya.com.tr

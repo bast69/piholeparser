@@ -4,12 +4,10 @@ amurehotel.mn
 annatmc.mn
 antipopelg.mn
 asenware.mn
-auth.ganara.mn
 bedimbb.mn
 blockerdj.mn
 chd-incubator.mn
 chef.mn
-cies-adslzk8gsm.ganara.mn
 cmd-verify.mn
 comby.mn
 containerhouse.mn
@@ -56,8 +54,6 @@ pahoii.mn
 paravailmd.mn
 parliament76.mn
 pitierei.mn
-policies-5vrh7omu.ganara.mn
-policies-by78fkay6.ganara.mn
 printing.mn
 razecc.mn
 ruv.mn

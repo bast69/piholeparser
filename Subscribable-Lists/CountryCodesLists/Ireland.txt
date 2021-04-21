@@ -275,6 +275,8 @@ softsale.ie
 soundhire.ie
 specialchild.ie
 splonk.ie
+sstats.fishersci.ie
+sstats.tiffany.ie
 stairnaheireann.ie
 stats.independent.ie
 stats.irishmirror.ie
@@ -298,7 +300,6 @@ threadingbar.ie
 tiny.ie
 tkgenerators.ie
 tkladders.ie
-tqiwqa.jdsports.ie
 trutech.ie
 ucdwaves.ie
 updated.rbktechnology.ie

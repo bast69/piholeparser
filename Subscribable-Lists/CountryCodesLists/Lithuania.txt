@@ -231,6 +231,7 @@ teofilius.lt
 terrasport.lt
 testnpost.nsoft.lt
 themes.affect.lt
+thirdparty.bnc.lt
 tillmoon.lt
 tingiunoriu.lt
 toniteradio.lt
@@ -262,6 +263,7 @@ www.bnc.lt
 www.hey.lt
 www.orakulas.lt
 www.simnokomun.lt
+www.smulkmenele.lt
 www.top100.lt
 www.visits.lt
 xbox.visits.lt

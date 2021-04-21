@@ -30,7 +30,6 @@ a-origin.teads.tv
 a.fobos.tv
 a.fuel.tv
 a.teads.tv
-abad.tv
 aboutharrypotter.fasthost.tv
 acrdb.alphonso.tv
 ad.dropbooks.tv
@@ -75,6 +74,7 @@ adserver.iad1.videohub.tv
 adserver.uniqube.tv
 adserver.videohub.tv
 adsrv.advanced-television.tv
+adsrv.kobi.tv
 adsrv.kstarplay.tv
 adsrv.moebelmarkt.tv
 adsystem.wasu.tv
@@ -395,6 +395,8 @@ giyejel.co.tv
 go.affec.tv
 go.itpro.tv
 go.liveu.tv
+go.nurse.tv
+go.thecore.tv
 gogaytube.tv
 gogotube.tv
 goldgay.tv
@@ -496,6 +498,7 @@ in-star.videoplaza.tv
 in-starlive-preroll.videoplaza.tv
 in-starlive.videoplaza.tv
 in-viacom18.videoplaza.tv
+ininews.tv
 inread-experience.teads.tv
 insights.alphonso.tv
 interiordezine.tv
@@ -948,7 +951,6 @@ stats.tou.tv
 steur.tv
 stingpictures.tv
 store.ptqy.gitv.tv
-story.firework.tv
 streamingmegavideo.tv
 streams24.tv
 streamservices.tv
@@ -1039,6 +1041,7 @@ trowel.twitch.tv
 tubemature.tv
 tubemom.tv
 tubepatrol.tv
+tubepornstars.tv
 tubespin.tv
 tubexo.tv
 tugjamua.co.tv

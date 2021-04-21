@@ -58,6 +58,7 @@ qu.tc
 search.tc
 sexe-arabe.be.tc
 sexe.be.tc
+soru.umre.tc
 tension3.tc
 tension4.tc
 ua.tc

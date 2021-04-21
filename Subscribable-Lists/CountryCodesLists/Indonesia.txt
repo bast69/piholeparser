@@ -3,7 +3,6 @@
 18groups.guied7.my.id
 1fbsadsheyrhdsbhddas.my.id
 202045654645547547547666666546.my.id
-20facebooksecurity21.my.id
 23paskal.id
 2putra.id
 3dsecure.postfinance.ch.sitbinainsani.sch.id
@@ -28,6 +27,7 @@ acountscancelblock.loginingacount.vipz-04.my.id
 actionpage.my.id
 activation-center-social-media-us2020.my.id
 activation-center-social-us2020.my.id
+activity-page-identity-00066.my.id
 ad.kaskus.co.id
 adha.untirta.ac.id
 adistyshop.co.id
@@ -110,8 +110,6 @@ andromeda-manager-association-offices.my.id
 anekakain.co.id
 animalhusbandry.pps.unud.ac.id
 anisahijabcoid.masterweb.id
-anniversary-3rd.my.id
-anniversarypubg.my.id
 antjava.co.id
 anugrahabadi.co.id
 anzshoesoriginal.co.id
@@ -126,6 +124,7 @@ app-support-pages-2020.my.id
 app-support-pages-departs-2020.my.id
 app.fcgwxsadsscrtyhlp.my.id
 app.managerpage-help.my.id
+app.mobile-auth.signin-amazon.datwah.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
 app.stialanmakassar.ac.id
@@ -331,7 +330,6 @@ cak-gurcafe.id
 cakemamaatin.id
 cakramedika.co.id
 cantikcerdas.id
-capitallifesyariah.co.id
 cateringnoval.co.id
 cateroo.id
 catur.ukm.undip.ac.id
@@ -394,6 +392,7 @@ claimsff.my.id
 clidevteam.id
 cnfirm32page1.my.id
 collaborate.att.corp.com-iinternal.ptt.co.id
+collect18.my.id
 com-mygrub23.xvip.my.id
 community-issue-recovery-page.my.id
 comp-pay-tebakow.my.id
@@ -451,7 +450,6 @@ dapurmakgitta.id
 darasempurna.co.id
 darussunnah.ponpes.id
 daster.id
-dauvwl.cottonink.co.id
 davia.co.id
 dayahblang.id
 dd.ub.ac.id
@@ -467,6 +465,7 @@ departs-society-ganteng-tobingg.my.id
 departs-society.my.id
 deposit.interac.com.canada.refund.from.bell.bindo.unja.ac.id
 depotpakmin.id
+deppages.my.id
 desmonali.id
 desythashop.co.id
 deviwijiyanti.web.id
@@ -761,7 +760,6 @@ himafarmaavicenna.ulm.ac.id
 himahi.upnvj.ac.id
 himateka.umj.ac.id
 himatif.pelitabangsa.ac.id
-hitexpert.id
 hjtriryotrirtuejdfjerywr7347347347347.internal-social-advanced.my.id
 hkb.co.id
 hlp01pgercvrsrvce01.my.id
@@ -808,6 +806,7 @@ iloveukrupuk.co.id
 ilyasyah.id
 imersjogja.id
 impots.gouv.fr.remboursement.jabra.id
+ims.huile-indonesia.co.id
 inatel.co.id
 inc042020.my.id
 inc072020.my.id
@@ -834,7 +833,6 @@ inforeprtpages2020.my.id
 infos3cfbadsacc.my.id
 insanmadani.sch.id
 inspiran.co.id
-instagram.maz.my.id
 instagram.officials.email.mulyatitety.my.id
 instagram.rindagemilang.co.id
 instagram.zyaxu.my.id
@@ -1002,6 +1000,7 @@ kominfo.okukab.go.id
 konawekepulauankab.id
 konfirmasiordatafacebookurl.my.id
 konsultanaplikasiandroid.web.id
+konsultanperijinan.co.id
 kontolmemek.new9.my.id
 konveksipromosi.co.id
 koperasinelayanpintar.id
@@ -1145,6 +1144,7 @@ mentariilmukarawang.sch.id
 menujukemana.my.id
 merishopee.id
 mesin.unsyiah.ac.id
+metrics.abbottfamily.co.id
 meunasahgantung.id
 meunasahkrueng.id
 meunasahmee.id
@@ -1201,7 +1201,6 @@ nemo.pelabuhanperikanan.or.id
 netciti.id
 netflix-global.auths-line.com.jagasia.co.id
 neurolat.id
-newfacebooksecurity.my.id
 newstarplastic.co.id
 nexsukses.co.id
 ngamprahprak.id
@@ -1214,7 +1213,6 @@ nirwanaafoodcoid.masterweb.id
 nonneteddy.id
 notification-office-suporrt-recovery-identity.my.id
 notification-suport-recover-identity-office.my.id
-notifpagekempong.my.id
 nrt0pgehlpsrvcrecvr01.my.id
 ns2.binadarma.ac.id
 ntfctnpgecnfrmtionhlp01.my.id
@@ -1313,6 +1311,8 @@ pena-indonesia.id
 pending-secure-account-inc.hematech.co.id
 peralatanandroid.id
 perfect.dc.unify.id
+perikananterpadu.perinus.co.id
+perpus.onlineman7-jombang.sch.id
 perpustakaan.deliserdangkab.go.id
 persaudaraan.co.id
 persediaan.jogjaprov.go.id
@@ -1409,7 +1409,6 @@ ptkgb.co.id
 ptsp.bangkabaratkab.go.id
 pu.seruyankab.go.id
 pubgme.my.id
-pubgmobille.my.id
 publicspeaking.co.id
 publish-advanced-recovery-2020.my.id
 pukarafahpegundan.co.id
@@ -1420,6 +1419,7 @@ purinex.co.id
 pusong.id
 pustaka.uninus.ac.id
 puuk.desa.id
+pvbgmkarakin.my.id
 pwk.ft.uns.ac.id
 qhadafiarchery.belihosting.co.id
 r23foto.co.id
@@ -1438,7 +1438,6 @@ rcvrypgehlpbsnssrvice01.my.id
 rdnz.my.id
 ready.co.id
 real.de.seller.bookings.siharkaboy.boyolali.go.id
-reconfaccount.my.id
 reconfirm-accounts-protection.my.id
 reconfirm-info-advanced-recovery-2020.my.id
 reconfirm-page-invitation-team.my.id
@@ -1465,12 +1464,14 @@ renatacoid.masterweb.id
 rental-kompresor.web.id
 rentalbackdrop.id
 repairing-my-personal-account-page.my.id
+report.radikari.co.id
 res.adplus.co.id
 resendpages2020.my.id
 revaldy.paramadina.web.id
 review-pages-authorized-2020.my.id
 review-pages-identify-fb2020.my.id
 review-pages-manager-fb03322020.my.id
+reviewhelppage.my.id
 rhbtradesmart.co.id
 rhinoplas.co.id
 riapangestuibu.id
@@ -1551,7 +1552,6 @@ securelogin.verifica.portaletitolari.poste.it.a7378449.multitrendindo.id
 securfb20.my.id
 security-page-notifications-public.my.id
 security-page-notiifications-live.my.id
-securityfacebookinc2020.my.id
 securityupgrade.sumitro.my.id
 segopecel24.id
 seimmanpd.id
@@ -1588,6 +1588,7 @@ sharianewsinstitute.co.id
 sharontour.id
 shop.ismartv.id
 shswywrururehsdfherueruru34773473473477.internal-social-advanced.my.id
+siakad.steilppm.ac.id
 siakad.stimikkupang.ac.id
 sigab.iainbukittinggi.ac.id
 sign.berkahwisata.co.id
@@ -1601,6 +1602,7 @@ simpakan.ditjenpkh.pertanian.go.id
 simpatik.kkp.go.id
 simperizinan.sragenkab.go.id
 simpkbl.mtm.co.id
+sinergibaik.id
 singin.ebay.de.account-trader.moment.co.id
 siskom.co.id
 site.managerpage-help.my.id
@@ -1739,11 +1741,11 @@ stiepancasetia.ac.id
 stikesamanahpadang.ac.id
 stikeshangtuahsby-library.ac.id
 stkipadzkia.ac.id
-stmik-yadika.ac.id
 stmpge01rcvr01.my.id
 stocklab.id
 store.erzet17.my.id
 stptrisakti.ac.id
+suaibsan.id
 subang.go.id
 suburtani.co.id
 succsesafterwork.my.id
@@ -1857,6 +1859,7 @@ umpalangkaraya.ac.id
 undanganwhatsap9.xnxxx.my.id
 unex-aviation.co.id
 uniga.ac.id
+unik.trexa.id
 update-chase-account.com.jayaobayashi.co.id
 update-now-chase.com.usahabaru.web.id
 update-usaa.com.usahabaru.web.id
@@ -1942,6 +1945,7 @@ www-instagram.my.id
 www.123movies.my.id
 www.bankdata.temanggungkab.go.id
 www.charisministries.id
+www.craftnesia.id
 www.diskominfo.asahankab.go.id
 www.dutadharma.co.id
 www.follow-service-your-account-pages.my.id

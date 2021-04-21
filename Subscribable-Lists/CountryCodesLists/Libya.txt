@@ -8,6 +8,7 @@ adz.zwee.ly
 alarabiya.com.ly
 api.ad.ly
 api.adip.ly
+apv-launcher.minute.ly
 bit.ly
 bravo.ly
 bsa.ly
@@ -81,6 +82,7 @@ simp.ly
 sl.ly
 smal.ly
 snip.ly
+snippet.minute.ly
 ssl.biz.ly
 staging.api.kite.ly
 static.adf.ly

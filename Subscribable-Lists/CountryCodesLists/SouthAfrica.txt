@@ -92,7 +92,6 @@ anysbergbiltong.co.za
 ao.co.za
 aperfectmatch.co.za
 aplacelikehome.co.za
-app-postrackingc.parcel.pl.uyfm.co.za
 appleid-issueslogin-globalaccount.dstvcape.co.za
 appr0ve.bdevelop.co.za
 apronreassure.co.za
@@ -215,7 +214,6 @@ canon.myap.co.za
 capadinatrioustreehouse.co.za
 capedieticians.co.za
 capefencingguy.co.za
-capitalprint.co.za
 capricorncoldstorage.co.za
 capturecreative.co.za
 car-insurance-options.co.za
@@ -231,6 +229,7 @@ casablancamanor.co.za
 caslad.co.za
 caterleisure.co.za
 cathedralgolf.co.za
+catwalkcosmetics.co.za
 caughtoncamera.co.za
 caviarclub.co.za
 cc.divineconnectionprop.co.za
@@ -289,7 +288,6 @@ communisave.co.za
 compushoponline.co.za
 consignmentsolutions.co.za
 coreplacements.co.za
-coronavirustestkit.co.za
 corporatevoice.co.za
 corptel.co.za
 coughcrops.co.za
@@ -314,6 +312,7 @@ dad.org.za
 dancezonne.co.za
 danticlantern.co.za
 darklife.co.za
+dashboard.khholdings.co.za
 dashboardnottinghamshire.co.za
 data-ssl.pnet.co.za
 dating.khokhas.co.za
@@ -330,7 +329,6 @@ deedprogress.co.za
 deigratia2.elin.co.za
 delorne.co.za
 deluxevillaconcierge.co.za
-densons.co.za
 derekaugustyn.co.za
 designerliving.co.za
 destinymc.co.za
@@ -410,10 +408,12 @@ elntech.co.za
 elntechnology.co.za
 emadamini.co.za
 emaids.co.za
+email.clearscore.co.za
 emdholdings.co.za
 emitecertidaointernet2487.cloudhosting.rsaweb.co.za
 emmerentia.net.za
 emrabulweni.co.za
+engage.3m.co.za
 ennovate.elin.co.za
 enterzainment.co.za
 enviousminds.co.za
@@ -507,6 +507,7 @@ glare.co.za
 glit.co.za
 global-ics.co.za
 gloda.org.za
+go.redandyellow.co.za
 godwinz.hashtagweb.co.za
 goeft.co.za
 gojuryukarate.co.za
@@ -584,6 +585,7 @@ imbueautoworx.co.za
 imbuyiso.co.za
 imeconsulting.co.za
 imisebe.co.za
+imperiumtherapy.co.za
 imultimedia.co.za
 imvomvo.co.za
 imvusatrading.co.za
@@ -599,8 +601,8 @@ internal.adu.org.za
 internationalexpress.co.za
 intranet.isoflow.co.za
 iqf-sa.co.za
-isiphephelocon.co.za
 islamtoday.co.za
+islfwt.glamira.co.za
 itandall.co.za
 ithubainternships.co.za
 ivorlederle.co.za
@@ -684,6 +686,7 @@ lifelinerewards.co.za
 lifeskillsacademy.co.za
 listserver.bigwebmedia.co.za
 littlebigfarms.co.za
+live.e-lift.co.za
 livemonitor.co.za
 livingnetwork.co.za
 lm.stagingarea.co.za
@@ -694,6 +697,7 @@ lomaent.co.za
 lomand.co.za
 louistopdesigns.co.za
 louriesentrum.co.za
+love.e-lift.co.za
 lovetv.co.za
 lowveldcompressors.co.za
 lungwetechnologies.co.za
@@ -932,6 +936,7 @@ purifiq.co.za
 pusherslands.co.za
 q-comm.co.za
 qbedding.co.za
+qfwfbo.decofurnsa.co.za
 queenlady.co.za
 queensaccessories.co.za
 quickandeasy.co.za
@@ -969,7 +974,6 @@ ripenesseffective.co.za
 rippeleffect.co.za
 risingstarawards.co.za
 riverbendestate.co.za
-riverfox.co.za
 riverviewestate.co.za
 riverwalktrader.co.za
 roobust.co.za
@@ -1051,7 +1055,6 @@ shimahosting.co.za
 shimaxsolutions.co.za
 shopphotographer.co.za
 shoppingrun.co.za
-shrinikelectrical.co.za
 sibuyagr.co.za
 sign.antenatalcourses.co.za
 signature4safety.co.za
@@ -1221,7 +1224,6 @@ tasteofindiarestaurant.co.za
 tctsautobody.co.za
 teachingmathsforunderstanding.co.za
 tecserv.co.za
-teneth.co.za
 thatchpro.co.za
 the-zones.co.za
 thecodeshop.co.za
@@ -1372,14 +1374,12 @@ wsigninrpsnvsrver.cloudhosting.rsaweb.co.za
 www-t-online-de.logomultitech.co.za
 www.andremaraisbeleggings.co.za
 www.anysbergbiltong.co.za
-www.app-postrackingc.parcel.pl.uyfm.co.za
 www.bet.co.za
 www.betflash.co.za
 www.bettingworld.co.za
 www.betxchange.co.za
 www.capturecreative.co.za
 www.cctvalberton.co.za
-www.coronavirustestkit.co.za
 www.cumtree.co.za
 www.curasoles.co.za
 www.document.pdf.kfunk.co.za
@@ -1387,6 +1387,7 @@ www.freeelectricity.co.za
 www.glamourgirls.co.za
 www.interbet.co.za
 www.justbet.co.za
+www.klikd.co.za
 www.matildas.co.za
 www.mbet.co.za
 www.myadsl.co.za

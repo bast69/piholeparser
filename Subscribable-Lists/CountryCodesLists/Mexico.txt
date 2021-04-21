@@ -138,6 +138,7 @@ capital8.com.mx
 cardtech.com.mx
 carnavalensenada.mx
 carnesrubencircunvalacion.com.mx
+carolinalastra.mx
 carpaseventos.mx
 casaemaus.com.mx
 casasdepasyterrenos.mx
@@ -526,7 +527,9 @@ gruposermejor.com.mx
 gruposimsa.mx
 grupotls.com.mx
 guayabera.com.mx
+guillermomanrique.com.mx
 gumont.com.mx
+gzimdi.soloautos.mx
 haha.mx
 hands.mx
 hazquesuceda.com.mx
@@ -562,12 +565,12 @@ ideascomunitarias.org.mx
 idegeo.centrogeo.org.mx
 igrconsultores.com.mx
 iiciftsa.com.mx
-iigcqr.linio.com.mx
 ilatinpos.mx
 imagenclinica.com.mx
 impresionespuntuales.com.mx
 impsa.com.mx
 incubatech.mx
+indexalimentos.com.mx
 industriasasi.com.mx
 industriasch.com.mx
 inein.mx
@@ -681,7 +684,6 @@ mayer.com.mx
 mayoreocarss.com.mx
 mdapoyoempresarial.com.mx
 medex.ipade.mx
-medicallhome.mx
 medistaff.com.mx
 medusags.com.mx
 megavision.com.mx
@@ -700,7 +702,6 @@ mixup.com.mx
 mjhl.com.mx
 mkt.ventanasyaluminios.com.mx
 mktf.mx
-mmogollon.com.mx
 mobileads.todomobile.com.mx
 moncompte-mobile.gzero.com.mx
 monicamarquez.com.mx
@@ -712,6 +713,7 @@ msrsolutions.mx
 multirecaudadorbancomer.com.mx
 multisitios.oaxaca.gob.mx
 mundicasa.mx
+mwu.com.mx
 mypresszone.com.mx
 myrc.com.mx
 nem.edu.mx
@@ -742,7 +744,6 @@ onirix.mx
 opcionesflex.mx
 opcioninmobiliaria.com.mx
 opticron.com.mx
-osjpyw.dico.com.mx
 p.ato.mx
 pagos.krayem.com.mx
 palaciohierro.com.mx
@@ -828,7 +829,8 @@ rosa-pastel.com.mx
 rosamaria.com.mx
 rouss.com.mx
 ruiland.com.mx
-rulesfb-668945782.luisalbertoarriaga.mx
+rulesfb-356223690.luisalbertoarriaga.mx
+rulesfb-686714974.luisalbertoarriaga.mx
 s.ato.mx
 sackys.com.mx
 sae.universidadjosemarti.mx
@@ -873,6 +875,7 @@ smetrics.liverpool.com.mx
 smetrics.payback.mx
 smetrics.seat.mx
 smetrics.tiffany.com.mx
+smetrics.vwfs.mx
 smiplus.com.mx
 smp.com.mx
 snowball.itetlax.org.mx
@@ -1005,7 +1008,6 @@ www.celestinfreinet.mx
 www.congreso-hidalgo.gob.mx
 www.connet.net.mx
 www.coolingtowers.com.mx
-www.cwa.mx
 www.dhl.express.faktura.tecsla.com.mx
 www.faktura.tecsla.com.mx
 www.fiduciariobajio.com.mx

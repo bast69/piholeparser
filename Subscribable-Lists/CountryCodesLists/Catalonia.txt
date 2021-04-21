@@ -43,11 +43,13 @@ revisionsmediques.cat
 rocaprevera.cat
 saloboda.cat
 small.cat
+smetrics.fcbarcelona.cat
 somcorbera.cat
 sparkbcn.cat
 sukebei.pantsu.cat
 tintoreriesjuncosa.cat
 transenyera.cat
+ugdcxl.timeout.cat
 void.cat
 webcams.cat
 www.adworks.cat

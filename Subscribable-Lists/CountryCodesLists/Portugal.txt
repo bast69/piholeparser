@@ -76,6 +76,7 @@ beyondwisdom.pt
 bl11-253-38.dsl.telepac.pt
 blog.insite.pt
 bnox.pt
+boirza.idealista.pt
 bopartners.optimus.pt
 boticariovalepresent.home.sapo.pt
 bounce.elsalibanio.pt
@@ -232,6 +233,7 @@ milcenas.pt
 milenar-ads.pt
 minhon.pt
 miscaros.cm-fundao.pt
+mkt.claranet.pt
 mkt.publico.pt
 mlpoint.pt
 mlribeiro.pt
@@ -264,7 +266,6 @@ peterfilesblog.blogspot.pt
 pgalvaoteles.pt
 photomodels.com.pt
 pinturasfernandes.pt
-pixelware.pt
 plurais.pt
 pnneuroeducacao.pt
 polibarral.pt
@@ -311,6 +312,7 @@ rs-consultores.pt
 ruasepicas.pt
 saa.dyson.pt
 safetrans.pt
+sanl.footlocker.pt
 sapo.pt
 sasenergia.pt
 secure.netscope.marktest.pt
@@ -337,6 +339,7 @@ spedycargo.pt
 sportugal.pt
 sstats.fishersci.pt
 st.pba.xl.pt
+stat.wolterskluwer.pt
 stbb.pt
 sucessenvolve.pt
 suncoastcreditunion.ebanking-services.com.dabacori.pt

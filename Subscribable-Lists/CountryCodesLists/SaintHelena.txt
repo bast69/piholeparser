@@ -276,6 +276,7 @@ filetr.jav.sh
 freelanxer-ddn-net.now.sh
 hp-or.surge.sh
 independentcy.now.sh
+info.locus.sh
 init.sh
 instagram-findwhoishavingcrushonyou.now.sh
 instagram-mirror.now.sh

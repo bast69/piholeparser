@@ -116,6 +116,7 @@ bikemyday.se
 bitslot.se
 bkgr.se
 blackmind.se
+blinks.mindoktor.se
 blocjket.se
 blog.globalsport.se
 blogmagnetix-wellness.se
@@ -273,7 +274,7 @@ getminecraft.se
 getstatistics.se
 gm-trading.se
 go.circlek.se
-go.telenor.se
+go.curonova.se
 gocatering.se
 goldfighter.se
 golfaren1.se
@@ -331,6 +332,7 @@ imbox.se
 img2.zamunda.se
 imwork.se
 inboab.se
+info.helens.se
 inkassoservice.se
 innobo.se
 insidescandinavia.se
@@ -395,6 +397,7 @@ levdittliv.se
 likeitsexy.se
 lilyrose.se
 lincontro.se
+link.ivl.se
 linksysdatakeys.se
 livinggood.se
 ljusihus.se
@@ -418,6 +421,7 @@ manligtharavfall.se
 mariellejensen.se
 marketing.advectas.se
 marketing.business-sweden.se
+marketing.thermocalc.se
 markhuskonsult.se
 matchningsdagen.se
 mattemorden.se
@@ -439,6 +443,7 @@ mobishop.se
 moc-kompetensresurs.se
 mollancurry.se
 mopub-win-us-east.bksn.se
+mqhuzk.soffadirekt.se
 mumbaimalmo.se
 mycorelife.se
 myinstabuzz.se
@@ -527,7 +532,6 @@ prebid.bksn.se
 prettyandgreen.se
 privatebay.se
 prsmaleri.se
-qhxxqt.coolstuff.se
 rabatt-torget.se
 radjuret21.se
 raudas.se
@@ -688,8 +692,10 @@ torptillsalu.se
 totalinstallatoren.se
 touchmidipedal.se
 track.postkodlotteriet.se
+tracking.bonava.se
 tracking.omniture.nt.se
 tracking.ssab.se
+tracking.visma.se
 trafficgateway.research-int.se
 transport-trading.se
 tranzabadan.se.preview.binero.se
@@ -792,7 +798,6 @@ www.vuxen.se
 www.webstat.se
 www.webtraffic.se
 www.zalukaj.se
-www2.adecco.se
 www2.esri.se
 x.se
 xn--avgng-ora.se
