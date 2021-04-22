@@ -793,8 +793,6 @@ antiville.fr
 antoine-maubon.fr
 anu.vqd.fr
 anusdilate.fr
-anz7.allianz-voyage.fr
-aoohaq.micromania.fr
 ap.read.mediation.pns.ap.orangeads.fr
 apa38.fr
 aperomanagement.fr
@@ -879,7 +877,6 @@ auchandirect.fr
 auchandrive.fr
 auction.fr
 audacity.fr
-audience.acpm.fr
 audiophonics.fr
 audrayescortblack.free.fr
 audrey-benjamin.fr
@@ -1386,7 +1383,6 @@ cdn.tradelab.fr
 cdn1-analytics.ladmedia.fr
 cdn2-analytics.ladmedia.fr
 cdn3-analytics.ladmedia.fr
-cdn3.lacoquepersonnalisee.fr
 cdsanit.fr
 cebo.fr
 cec.asso.ac-amiens.fr
@@ -1916,7 +1912,6 @@ dswncjnrjnrj.fr
 dswservncdnikjmain.fr
 dswservncjjfn.fr
 dswsrvyhdyhd.fr
-dt.nrjmobile.fr
 du2k.bhv.fr
 dubaiimmobilier.fr
 dudegames.fr
@@ -1934,19 +1929,14 @@ e-puzzles.fr
 e-sextoys.fr
 e-sudoku.fr
 e.pagesjaunes.fr
-ea.armandthiery.fr
-ea.auchantelecom.fr
 ea.deguisetoi.fr
 ea.fleurancenature.fr
 ea.habitat.fr
 ea.lafrancedunordausud.fr
 ea.leskidunordausud.fr
-ea.lespagnedunordausud.fr
 ea.lexpress.fr
-ea.millet.fr
 ea.numericable.fr
 ea.officedepot.fr
-ea.rentacar.fr
 ea.rueducommerce.fr
 ea.sport365.fr
 ea.warnerbros.fr
@@ -2089,10 +2079,7 @@ ethnyca.fr
 eticusson.fr
 etwowofficiel.fr
 eule1.pmu.fr
-eulerian.belambra.fr
-eulerian.brandalley.fr
 eulerian.look-voyages.fr
-eulerian.mathon.fr
 eulerian.monoprix.fr
 eulerian.telechargement.fr
 eurocreditgroup.fr
@@ -2480,7 +2467,6 @@ guitarepourdebutant.fr
 guitarherogame.fr
 guzmo.free.fr
 gxcaxz.cresus.fr
-gxjnyy.contorion.fr
 gz2.bbsoldes.fr
 h-equestrian.blancfonce.fr
 h0t.free.fr
@@ -2622,7 +2608,6 @@ hordes.fr
 horlogemurale.fr
 horyzonix.sdv.fr
 horyzonix1.sdv.fr
-host10.hotelissima.fr
 hostile-gaming.fr
 hostpoint-paiement-ch-cf1a1dff.dpespaca.fr
 hostpoint-paiement-com-1b7b5e52.imprimerietrace.fr
@@ -3011,7 +2996,6 @@ k.direct-assurance.fr
 k.h.a.d.free.fr
 k.laredoute.fr
 k.libre.free.fr
-k.rueducommerce.fr
 k.voyageursdumonde.fr
 k2001.free.fr
 kaaleth.free.fr
@@ -3195,7 +3179,6 @@ lemaildefou.fr
 lemeilleurdelhumour.free.fr
 lemondeducloud.fr
 lemondeinformatique.fr
-leo1.leon-de-bruxelles.fr
 leparadisdesfakes2.free.fr
 lepdf.fr
 lependu.fr
@@ -3611,7 +3594,6 @@ metrics.sfr.fr
 metrics.shopoon.fr
 meyson.fr
 mf-capital.fr
-mffmbv.cabaia.fr
 mfpds2.fr
 michaelkorbagsoutletonline.fr
 michaelkorpaschermagasin.fr
@@ -3734,7 +3716,6 @@ mr4evmd0r1.s.ad6media.fr
 mrscaro.virginradioblog.fr
 msp-iledefrance.fr
 mtcom-contact.fr
-mts-ws.rueducommerce.fr
 mu101.fr
 multizone.fr
 murs3d.fr
@@ -3935,7 +3916,6 @@ orm-pf060000002133.webnode.fr
 ort721.fr
 orthoptistenathalierollin.fr
 osakasushi-herblay.fr
-oskcop.banque-casino.fr
 osteopathe-salon.fr
 otctu.fr
 otgnawa.fr
@@ -4080,7 +4060,6 @@ piscine-et-eau.fr
 pivoineetc.fr
 pix521.adtech.fr
 pix522.adtech.fr
-pixel.ionos.fr
 pixgame.fr
 pizza-acoye.fr
 pizza-cordial.fr
@@ -4282,7 +4261,6 @@ pvpub.paruvendu.fr
 pwa.telephoneannuaire.fr
 q-leboncoin.fr
 qamb-assurances.fr
-qdkwaz.laredoute.fr
 qigong-gironde.fr
 qjftp55.fr
 qkcehlnkcuts.fr
@@ -4408,7 +4386,6 @@ res.francedimanche.fr
 res.public.fr
 reservation.champagnedouard.fr
 reshana-henne.fr
-ressources.mavoiturecash.fr
 restaurationprelude4g.fr
 resto-rochier.fr
 retro-design.fr
@@ -4458,7 +4435,6 @@ rueducommerce.fr
 ruine98.fr
 runs.fr
 russintv.fr
-rwogij.dimehouse.fr
 rzeryujjh.fr
 s-telecomme-sp-oranges.fr
 s.gstat.orange.fr
@@ -4528,7 +4504,6 @@ savoir-et-voir.fr
 saxc8752.fr
 say.fr
 sbx.pagesjaunes.fr
-sc.mtv.fr
 scatlaws.free.fr
 schizogirl.blogs.allocine.fr
 schooltouch.fr
@@ -4681,7 +4656,6 @@ smetrics.groupama.fr
 smetrics.laredoute.fr
 smetrics.lululemon.fr
 smetrics.michaelkors.fr
-smetrics.professionnels.roche.fr
 smetrics.ralphlauren.fr
 smetrics.runbabyrun.fr
 smetrics.seat.fr
@@ -4765,14 +4739,12 @@ starsix-lejeu.m6.fr
 starwars-kotor.forumactif.fr
 starwarslerpg.free.fr
 stat.prsmedia.fr
-stat.wk-formation.fr
 static.aliceadsl.fr
 static.hentai-paradise.fr
 static.weborama.fr
 stats.carpediem.fr
 stats.click-internet.fr
 stats.fr
-stats.grafikart.fr
 stats.inist.fr
 stats.lebonforfait.fr
 stats.lestypesdefarine.fr
@@ -4863,7 +4835,6 @@ tables-de-poker.fr
 tacticwar.fr
 tadador.fr
 tag.boulanger.fr
-tag.goldenbees.fr
 tag.leadplace.fr
 tag28.fr
 talesofmagic.fr
@@ -4882,7 +4853,6 @@ tblyorkdale.fr
 tccf.cote.azur.free.fr
 tci-treuil.fr
 tdep.vacansoleil.fr
-tdf1.easyvols.fr
 tdf1.laredoute.fr
 tdrgame.free.fr
 teamfantasy.fr
@@ -4977,7 +4947,6 @@ tr.com-parc.sfr.fr
 tr.com-red.sfr.fr
 tr.com.sfr.fr
 tr.communautes-mediametrie.fr
-tr.communication-comptable.fr
 tr.communication.harmonie-mutuelle.fr
 tr.communication.offresb2b.fr
 tr.contact.canalplus.fr
@@ -5001,11 +4970,9 @@ tr.info.casino-proximites.fr
 tr.info.harmonie-mutuelle.fr
 tr.info.lacentrale.fr
 tr.info.mango-mobilites.fr
-tr.info.mavoiturecash.fr
 tr.info.projeo-finance.fr
 tr.infolettre.securite-routiere.gouv.fr
 tr.information.lacollection-airfrance.fr
-tr.informations.dila.gouv.fr
 tr.informations.harmonie-mutuelle.fr
 tr.informations.lcl.fr
 tr.infos.afpa.fr
@@ -5017,7 +4984,6 @@ tr.mp.aconclue-business.fr
 tr.n.info.sygmabanque.fr
 tr.news.casino.fr
 tr.news.casinomax.fr
-tr.news.cotemaison.fr
 tr.news.digitpjms.fr
 tr.news.directeo.fr
 tr.news.kpmgnet.fr
@@ -5026,31 +4992,25 @@ tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
 tr.news.tiptel.fr
 tr.news.vipmag.fr
-tr.news2pjms.fr
 tr.newsletter.capdecision.fr
-tr.newsletter.erenumerique.fr
 tr.newsletter.milleis.fr
 tr.newsletter.np6.fr
 tr.nl.mondo-shop.fr
 tr.notification-gdpr.bnpparibas-personalfinance.fr
 tr.notification-gdpr.domofinance.fr
 tr.notification.cetelem.fr
-tr.notification.credit-moderne.fr
 tr.offrevip.banque-casino.fr
 tr.offrevip.floa.fr
 tr.orange-lease.fr
 tr.portail.afpa.fr
 tr.prevention.harmonie-mutuelle.fr
-tr.qualitevehicule.fr
 tr.ra.cofinoga.fr
 tr.secteurentreprises.harmonie-mutuelle.fr
 tr.servicesclients.canalplus.fr
 tr.smtp1.email-mediapost.fr
-tr.strategie.gouv.fr
 tr.toner-service.fr
 tr.ville.bordeaux.fr
 tr.voixduclient.harmonie-mutuelle.fr
-tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 track.docusign.fr
 track.offermatch.fr
@@ -5063,7 +5023,6 @@ tracking.dvetech.fr
 tracking.ecookie.fr
 tracking.ha.rueducommerce.fr
 tracking.imagewebdesign.fr
-tracking.kdata.fr
 tracking.laredoute.fr
 tracking.lay-ota.fr
 tracking.layo-ta.fr
@@ -5229,12 +5188,9 @@ vps-10298.fhnet.fr
 vps-20046.fhnet.fr
 vps-9435.fhnet.fr
 vqd.fr
-vtf2f.banque-casino.fr
 vuesducap.fr
 vujqbcditgsqxe.fr
 vverisoase.yah0o0.fr
-vzcfqp.unibet.fr
-wa.gmx.fr
 wads.plurielles.fr
 wallpaper15.free.fr
 warashi-asian-pornstars.fr
@@ -5246,8 +5202,6 @@ warofdragons.fr
 warriorsofaeldul.free.fr
 wars-game.site.voila.fr
 waveconnect.fr
-wbdds.allocine.fr
-wbtrkk.teufelaudio.fr
 wbusiness.fr
 weareplaystation.fr
 web-selection.fr
@@ -5308,7 +5262,6 @@ wowtcg.fr
 wpyren.fr
 wrapper.lemde.fr
 wreport.weborama.fr
-wstats.gameblog.fr
 wtracy.free.fr
 wttd.madeleine.fr
 wvvw.rfi.fr

@@ -415,7 +415,6 @@ amma-store9.com.pl
 amultinetruby.pl
 amv186.internetdsl.tpnet.pl
 anaglyph.pl
-analytics.ceneo.pl
 analytics.gazeta.pl
 ancla.pl
 andmak.pl
@@ -974,7 +973,6 @@ clickad.eo.pl
 clickonometrics.pl
 client-portal.info.pl
 clnbze.expressilustrowany.pl
-clnbze.gloswielkopolski.pl
 clnbze.naszemiasto.pl
 clnbze.wspolczesna.pl
 cloud-sso-idea.pl
@@ -998,7 +996,6 @@ coiptpyv.net.pl
 cojestgrane.simplicitygames.pl
 cokupicmamie.pl
 coldy-shop.pl
-collect.state.centrum24.pl
 colorpak.pl
 comfortmedplus.pl
 communication.com.pl
@@ -1351,7 +1348,6 @@ drzwi.malopolska.pl
 drzwiskladane.pl
 ds.onet.pl
 ds1.onet.pl
-dsg.interia.pl
 dstreet.pl
 dtmx.pl
 dudkap6.sk1.pl
@@ -1617,7 +1613,6 @@ enicenetbetday.pl
 eniro.hit.gemius.pl
 enklaawa.pl
 enklawy.pl
-entryhit.wp.pl
 eonline.pl
 epayu.pl
 epegasus.pl
@@ -2595,7 +2590,6 @@ historiajestkobieta.pl
 historiaszczepienie.co.pl
 historiazaszczepionej.co.pl
 hit.gemius.pl
-hit.interia.pl
 hitfilm.pl
 hitprodukt.pl
 hlisovd.pl
@@ -2653,7 +2647,6 @@ hunterwarszawa.pl
 huomdgde.adocean.pl
 hurtowniagmf.pl
 hustleserver.com.pl
-hwwjsi.aboutyou.pl
 hydroplanet.pl
 hydroservis.pl
 hzbot2.5v.pl
@@ -4432,7 +4425,6 @@ ox2.sterta.pl
 oxford-centrum.com.pl
 oze-opole.pl
 ozebox.pl
-p.gazeta.pl
 p986524.pl
 pabiszit.pl
 paciorekradom.pl
@@ -4631,9 +4623,6 @@ piwiarniawarka.opole.pl
 piwnicapizza.pl
 piwo.pl
 pixel-vest.pl
-pixel.homebook.pl
-pixel.wp.pl
-pixel6.wp.pl
 pixelbus.pl
 pizzarewal.pl
 pjm.guidesign.pl
@@ -5136,7 +5125,6 @@ qbonuswestbetday.pl
 qcashmagiceurodice.pl
 qcashvivaeurodice.pl
 qefewqfwq.com.pl
-qejrwy.lazienkaplus.pl
 qextracashvipsp.pl
 qextraclubluxurysp.pl
 qextralifevipsp.pl
@@ -5449,7 +5437,6 @@ sbaq.pl
 scalo.pl
 sciekowekratki.pl
 sclak.pl
-scontent.services.tvn.pl
 scs-szkolenia.pl
 scz.hit.gemius.pl
 sdsmorag.pl
@@ -5631,7 +5618,6 @@ sexwp.pl
 sexy-lale.pl
 seyfwl.interia.pl
 seyfwl.maxmodels.pl
-seyfwl.smaker.pl
 seyfwl.styl.pl
 seznam.hit.gemius.pl
 sezonslubow.pl
@@ -5954,7 +5940,6 @@ static.clickonometrics.pl
 stats.asp24.pl
 stats.dziennik.pl
 stats.media.onet.pl
-stats.ulixes.pl
 status.xn.pl
 status24.5p.pl
 stawiamyslady.pl
@@ -6637,7 +6622,6 @@ wecgj.w.interiowo.pl
 weeb-tv.pl
 weedbook.pl
 wej-dz6.edu.pl
-welcome.item24.pl
 wellbeingworganizacji.pl
 wellneat.pl
 wellyss.pl

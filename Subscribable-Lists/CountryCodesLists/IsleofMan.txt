@@ -29,7 +29,6 @@ ethihadtravel.hst.im
 etrichor.im
 events-collector.spot.im
 f.mol.im
-fathom.status.im
 feed.engage.im
 ff.im
 frankos.im
@@ -76,7 +75,6 @@ statustoken.im
 subscribe.im
 suportte.im
 survivor.thats.im
-t.spot.im
 tov.im
 tr.im
 track.spots.im

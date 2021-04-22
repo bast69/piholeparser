@@ -54,7 +54,6 @@ afkdomainer.se
 afteonbladet.se
 aftonbladet.se
 ahealth.se
-ai.idg.se
 airsonett.se
 akilles.se
 alexapackages.se
@@ -84,7 +83,6 @@ ashnik.se
 atg.se
 autodeal.se
 avidflygare.se
-ax.idg.se
 axp.se
 ba2b687.se
 ba2i.se
@@ -165,7 +163,6 @@ codebuilders.se
 codigo.se
 colorcult.se
 correndo.se
-counter.mtgnewmedia.se
 course.fashion-shop.se
 crocusdesign.se
 crossingfires.net.preview.crystone.se
@@ -205,7 +202,6 @@ duodance.se
 dwlex.se
 e2.emediate.se
 e97527f0.se
-ea.pixmania.se
 eap-tracker.egenerator.se
 eas.hitta.se
 eas3.emediate.se
@@ -262,7 +258,6 @@ freerunsverige.se
 frejahouse.se
 friskvardskupongen.se
 frojdafsverige.se
-fusion.bonniertidskrifter.se
 garagelivet.se
 gasolspecialisten.se
 gcwubi.happypancake.se
@@ -289,7 +284,6 @@ gratispresent.se
 greenmarine.se
 guldsmyckesmedjan.se
 gulmaran.se
-gx.idg.se
 halmstadorienthall.se
 halstad.se
 hammarkabeltv.se
@@ -409,7 +403,6 @@ ltseo.se
 luckystarmusic.se
 lundsprofiltryck.se
 lxsway.familjeliv.se
-lxsway.nyheter24.se
 lybjfx.proffsmagasinet.se
 ma.meritmind.se
 mail.romsasjord.se
@@ -431,7 +424,6 @@ medlern.se
 metrics.aftonbladet.se
 metrics.expressen.se
 metrics.svd.se
-mhidwg.elgiganten.se
 micoel.se
 mile7.smileproduktionsbyra.se
 milf-area.se
@@ -468,7 +460,6 @@ nordfarbo.se
 nordiwellness.se
 norrahh.se
 nosras.batdekor.se
-nqcbgz.cocopanda.se
 nsec.se
 nudevista.se
 nxhqso.nordicnest.se
@@ -526,7 +517,6 @@ porn.se
 pornshop.se
 porrcity.se
 poste.ch.invoicepay.cattleyaperfumes.se
-pplpiq.pricerunner.se
 praximoto.se
 prebid.bksn.se
 prettyandgreen.se
@@ -633,7 +623,6 @@ stallbyggen.se
 stampelstugan.se
 start.badults.se
 stat.cliche.se
-stat.nyheter24.se
 stat.swedbank.se
 static.share-videos.se
 statoilhemavan.se
@@ -666,7 +655,6 @@ swisscasino-bonus.se
 swsociety.se
 sydvision.se
 syskonenanderssonsrestaurang.se
-szakms.bygghemma.se
 tabyel.se
 tailsweep.se
 tandlakarcentrum.se
@@ -693,7 +681,6 @@ totalinstallatoren.se
 touchmidipedal.se
 track.postkodlotteriet.se
 tracking.bonava.se
-tracking.omniture.nt.se
 tracking.ssab.se
 tracking.visma.se
 trafficgateway.research-int.se
@@ -709,7 +696,6 @@ tujo.se
 u.lewd.se
 uhj.metisonline.se
 ujeb.se
-ujzqud.bestsecret.se
 ulfsbergercarlsson.se
 undantagforlag.se
 underluggen.se
@@ -798,7 +784,6 @@ www.vuxen.se
 www.webstat.se
 www.webtraffic.se
 www.zalukaj.se
-www2.esri.se
 x.se
 xn--avgng-ora.se
 xn--bergfstet-z2a.se

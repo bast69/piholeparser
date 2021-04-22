@@ -3929,7 +3929,6 @@ hir27.in
 hirexpress.in
 hirtop.in
 histartup.in
-hiuplq.livescore.in
 hjfds.in
 hjvts.in
 hl87em61ww14lh.in
@@ -7399,7 +7398,6 @@ redrt.org.in
 reduce-weight.in
 reeree001.in
 reeree003.in
-referer.pixplug.in
 reforge.in
 refreshmall.in
 refund-hmrc.uk-6159368de392558764.oneentertainment.in
@@ -8886,7 +8884,6 @@ track.bidads.co.in
 track.hotdrugsstore.in
 track.india-marketing.in
 track.statesend.co.in
-track.thebase.in
 tracker.dawanda.in
 tracker.freecharge.in
 tracker.infosender.in

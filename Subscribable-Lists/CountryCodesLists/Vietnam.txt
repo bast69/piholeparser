@@ -296,7 +296,6 @@ blendtec.vn
 blog.kapy.vn
 blog.saigon247.vn
 blogstatistics.sapoapps.vn
-blxuue.phukienonline.com.vn
 bm.stats.vng.com.vn
 booking.mediaz.vn
 boxapp.admicro.vn
@@ -544,7 +543,6 @@ erp.mediaz.vn
 euro.klick.vn
 evaxinh.edu.vn
 event.adpia.vn
-f-emc.ngsp.gov.vn
 f.admicro.vn
 f.novanet.vn
 f.vietnamnetad.vn
@@ -557,7 +555,6 @@ faceboook.com.vn
 fast.accesstrade.com.vn
 fbg.mangoads.vn
 fbuser.ovp.vn
-fbycnk.chiaki.vn
 fdvn.vn
 fifaonline.vn
 file.admicro.vn
@@ -813,7 +810,6 @@ log.tinnhanhchungkhoan.vn
 log.tinxe.vn
 log.trithuctructuyen.com.vn
 log.trithuctructuyen.vn
-log.ttbc-hcm.gov.vn
 log.tv.zing.vn
 log.vads.net.vn
 log.vietnamdaily.net.vn
@@ -1283,7 +1279,6 @@ statistics.vov2.vn
 stats.123c.vn
 stats.bizweb.vn
 stats.isacombank.com.vn
-stats.muasamcong.gov.vn
 stats.petrotimes.vn
 stats.sapo.vn
 stats.vietnammoi.vn
@@ -1393,7 +1388,6 @@ tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
 tracking.ad360.vn
 tracking.adflex.vn
-tracking.aita.gov.vn
 tracking.api.media.zapps.vn
 tracking.banner.g6.zing.vn
 tracking.cleverads.vn

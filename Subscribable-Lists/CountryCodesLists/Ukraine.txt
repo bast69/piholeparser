@@ -492,7 +492,6 @@ coolbtc.biz.ua
 count.e-ratings.com.ua
 counter-1.adscounter.com.ua
 counter.opinion.com.ua
-counter.star.lg.ua
 counter.topping.com.ua
 cp24.com.ua
 cqkio.com.ua
@@ -663,7 +662,6 @@ edia.net.ua
 edilot.com.ua
 edmedic.pl.ua
 edv.mebel-lux.kh.ua
-edvaor.estro.ua
 eemedic.pl.ua
 eeriopp.com.ua
 efcering.net.ua
@@ -1098,7 +1096,6 @@ info-service.at.ua
 info2you.net.ua
 infoconfirmpage.at.ua
 infoinvalids.at.ua
-informers.sinoptik.ua
 infostorem.biz.ua
 infostorem.co.ua
 infotop.com.ua

@@ -66,7 +66,6 @@ a.dolphin-browser.jp
 a.geniee.jp
 a.gree.jp
 a.nissyoku.co.jp
-a.o2u.jp
 a.one.impact-ad.jp
 a.shopserve.jp
 a.t.webtracker.jp
@@ -75,7 +74,6 @@ a1.goo.ne.jp
 a5.ogt.jp
 a5qcwi.jp
 a8.cyclemarket.jp
-a8.eonet.jp
 a8.sakuratravel.jp
 a8.shopserve.jp
 a8aspconv.xn--ocn-ws1e.jp
@@ -83,7 +81,6 @@ a8clk.asp.jcity.co.jp
 a8clk.dospara.co.jp
 a8clk.kenkoukazoku.co.jp
 a8clk.rental.geo-online.co.jp
-a8clk.xserver.ne.jp
 a8cv.amiami.jp
 a8cv.broadbandservice.jp
 a8cv.direct-teleshop.jp
@@ -153,7 +150,6 @@ ad-info.val.jp
 ad-link.jp
 ad-move.jp
 ad-seek.jp
-ad-track.paravi.jp
 ad-traffic.jp
 ad-v.jp
 ad-wisteria.excite.co.jp
@@ -215,7 +211,6 @@ ad.spacehunter.drecom.jp
 ad.ssp.d2c.ne.jp
 ad.takasu.co.jp
 ad.tempstaff.co.jp
-ad.udition.jp
 ad.unispire.jp
 ad.val.jp
 ad.valuecommerce.ne.jp
@@ -252,7 +247,6 @@ adebis-52667624.wowma.jp
 adebis.cybozu.co.jp
 adebis.daiwahouse.co.jp
 adebis.fenet.jp
-adebis.nursery.co.jp
 adebis.urban-research.jp
 adebiscname.auone.jp
 adf.send.microad.jp
@@ -353,7 +347,6 @@ aff.i-mobile.co.jp
 affil.jp
 affiliate.rakuten.co.jp
 affiliateone.jp
-afi.ssl.gmobb.jp
 afl.rakuten.co.jp
 aflat.jp
 afs.adjust-net.jp
@@ -414,9 +407,6 @@ an.mainichi.jp
 ana2.tatsumi-sys.jp
 analysis.shinobi.jp
 analytics.app-adforce.jp
-analytics.contents.by-fw.jp
-analytics.liveact.cri-mw.jp
-analytics.mbga.jp
 anamogura.sakura.ne.jp
 anbe.jp
 and.noahapps.jp
@@ -530,7 +520,6 @@ aw.dw.impact-ad.jp
 awasete.nakanohito.jp
 awoniyoshi.jp
 axad.shinobi.jp
-axjfkc.kobayashi.co.jp
 ayatrip.jp
 b-cruise.jp
 b-lab.jp
@@ -585,8 +574,6 @@ bc-lab.jp
 bc.geocities.yahoo.co.jp
 bc.nhk.jp
 bcard.co.jp
-beacon.toyota.co.jp
-beacon.watch.impress.co.jp
 beanscattering.jp
 beauty-co.jp
 beep-shop.jp
@@ -599,7 +586,6 @@ benit.jp
 best-service.jp
 bfile.shinobi.jp
 bibilab.jp
-bidder.mediams.mb.softbank.jp
 bidders.co.jp
 big-capital.jp
 bigg.jp
@@ -669,8 +655,6 @@ business-solution.jp
 butter-delimmo.jp
 buyitnow.jp
 buzzurl.jp
-bvr.ast.snva.jp
-bvr.snva.jp
 bwb101.goo.ne.jp
 bxl.jp
 bypass.jp
@@ -725,10 +709,8 @@ cdn.x-lift.jp
 center-horse.jp
 cf.ad-v.jp
 cfby-5dfd.jp
-cfhjqg.sonyunara.jp
 cfmgwjd6.jp
 cgi.i-mobile.co.jp
-cgi.tbs.co.jp
 cgi2.nintendo.co.jp
 ch.impact-ad.jp
 chakuriki.sakura.ne.jp
@@ -792,7 +774,6 @@ continyup.jp
 control.smbeat.jp
 conv.adlantis.jp
 conv.fout.jp
-cookie.sync.usonar.jp
 cookpad-diet.jp
 core-trading.jp
 coreserver.jp
@@ -803,7 +784,6 @@ coseki.co.jp
 cosme-silkroad.co.jp
 cosmint.co.jp
 cosplay.asiandrug.jp
-count.upc.rakuten.co.jp
 counter.geocities.jp
 cp.lac.co.jp
 cr.izumigo.co.jp
@@ -870,7 +850,6 @@ dejpog.sunstar-shop.jp
 deliver.ads2.iid.jp
 deliver.ads3.iid.jp
 delivery.locari.jp
-delivery.satr.jp
 designlabo.co.jp
 dex.advg.jp
 dic.nicovideo.jp
@@ -936,7 +915,6 @@ ebis.kubara.jp
 ebis.ne.jp
 ebis.okasan-online.co.jp
 ebis.pasonatech.co.jp
-ebis.rozetta.jp
 ebis.seibu-k.co.jp
 ebis.studio-alice.co.jp
 ebis.sunstar-shop.jp
@@ -1486,8 +1464,6 @@ investmentempire.blogspot.jp
 io7oi.jp
 ioda.jp
 ioi-k.co.jp
-ip2c.landscape.co.jp
-ipcheck.blogsys.jp
 ipua.adfurikun.jp
 irie-communications.jp
 irumakg.jp
@@ -1531,7 +1507,6 @@ j6.shinobi.jp
 j7.shinobi.jp
 jabez.jp
 jams.kir.jp
-jaomlf.giftmall.co.jp
 japanc-sansenn2018.jp
 japancontrol.blogspot.jp
 japanking-no1ninaru.jp
@@ -1558,7 +1533,6 @@ jp-bank-japanossts.jp
 jp-labo.co.jp
 jpaatr.astellas.jp
 jpassport.jp
-jpluzr.autoc-one.jp
 js-us.fout.jp
 js.ad-trive.jp
 js.adflare.jp
@@ -1726,10 +1700,7 @@ ln.ameba.jp
 locksmith.jp
 log-in1.jp
 log-marketing.jp
-log.gs3.goo.ne.jp
-log.nordot.jp
 log.shipweb.jp
-log.suumo.jp
 log000.goo.ne.jp
 log999.goo.ne.jp
 login.paypal.co.uk.rangdeindia.jp
@@ -1738,7 +1709,6 @@ logmi.co.jp
 logmi.jp
 logoole.yahoo.co.jp
 logping.exblog.jp
-logql.yahoo.co.jp
 logv2.r-oo.jp
 lom7up.jp
 longman.heteml.jp
@@ -1854,7 +1824,6 @@ metrics.mizuno.jp
 metrics.qvc.jp
 metrics.sbisec.co.jp
 metrics.shopjapan.co.jp
-metrics.smbcnikko.co.jp
 metrics.sony.jp
 mgjshop.co.jp
 mh-miyoshi.jp
@@ -1886,7 +1855,6 @@ mk.neo.co.jp
 mkmree.dmm.co.jp
 mkt.karcher.co.jp
 mlab.ne.jp
-mlmswk.janpara.co.jp
 mng2.mcnt.jp
 mobu.jp
 mobylog.jp
@@ -2029,7 +1997,6 @@ numatakinokoen.jp
 nw.ads.doko.jp
 nw.smart-c.jp
 nw.yucasee.jp
-nwajdf.zakzak.co.jp
 nytjyf.dholic.co.jp
 o-sis.jp
 o.advg.jp
@@ -2166,7 +2133,6 @@ ppf.rakuten.co.jp
 ppgcm.profilepassport.jp
 ppupdate.main.jp
 pr-youhin.co.jp
-pr.ameba.jp
 pr.wikiwiki.jp
 practice.seiko-wired.designtest.jp
 preaf-ad.jp
@@ -2205,7 +2171,6 @@ pulse2.sakura.ne.jp
 punyu01.shard.jp
 push7.jp
 puzzle.jp
-pvtag.yahoo.co.jp
 q2c-pn5ts.jp
 qingxiang.jp
 qlife.jp
@@ -2238,7 +2203,6 @@ rakutenecard.jp
 rakutenhtadmin.jp
 rams-marks.jp
 rangsjapan.co.jp
-ranking.apis.sankei-digital.co.jp
 ranking.infocart.jp
 ranking.kuruten.jp
 ranking.mcnt.jp
@@ -2353,7 +2317,6 @@ sbisl.sbi-sociallending.co.jp
 scalp-d.angfa-store.jp
 scei.co.jp
 scinfo.mitsuifudosan.co.jp
-scis.tbs.co.jp
 scjlpq.navitime.co.jp
 scnd.landsend.co.jp
 scope.ne.jp
@@ -2476,7 +2439,6 @@ smetrics.onward.co.jp
 smetrics.protrek.jp
 smetrics.qvc.jp
 smetrics.sbisec.co.jp
-smetrics.sheen.jp
 smetrics.shopjapan.co.jp
 smetrics.smbcnikko.co.jp
 smetrics.sofina.co.jp
@@ -2571,7 +2533,6 @@ ssp-sync.i-mobile.co.jp
 ssp.advg.jp
 ssp.co.jp
 ssp.send.microad.jp
-sspkbf.ragtag.jp
 sss.co.jp
 sstats.ds-pharma.jp
 sstats.gaba.co.jp
@@ -2604,7 +2565,6 @@ stats.4travel.jp
 stgiga.jp
 stoneriver.sakura.ne.jp
 story-maker.jp
-strack.softbankhawksstore.jp
 straycats.pages.jp
 stream.kobe-med.or.jp
 streamingtv.jp
@@ -2654,7 +2614,6 @@ t9dm8z.jp
 tabitha.jp
 tadreares.jp
 taemhn.zamst-online.jp
-tag.cribnotes.jp
 taggyad.jp
 tai-ga.co.jp
 taitannotatakai-kamisama.jp
@@ -2715,7 +2674,6 @@ toshiotogorou.blogspot.jp
 touchlab.jp
 tr.adplatform.jp
 tr.find-a.jp
-tr.reco.combz.jp
 tracer.a-cast.jp
 tracer.jp
 track.47news.jp
@@ -2726,7 +2684,6 @@ track.send.microad.jp
 track.somewrite.jp
 track.xmax.jp
 tracking.tij.co.jp
-tracking.venture-net.co.jp
 trans-ad.jp
 trax-ad.jp
 trck.dlpo.jp
@@ -2736,8 +2693,6 @@ tres-star.jp
 trk.zkai.co.jp
 truecombat.jp
 trustclick.ne.jp
-trusted-web-seal.cybertrust.ne.jp
-trvonu.k-manga.jp
 tsuuhan-labo.jp
 tukuru.cotta.jp
 tumago.jp
@@ -3026,7 +2981,6 @@ www91.intel.co.jp
 wwwf15.mitsubishielectric.co.jp
 wy9x6k.jp
 x-lift.jp
-x.allabout.co.jp
 x.goo.ne.jp
 x1.ifdef.jp
 x10.ifdef.jp
@@ -3090,7 +3044,6 @@ yinlthoug.jp
 yjaxc.yahoo.co.jp
 yjrcks.smile-zemi.jp
 yjtag.jp
-yjtag.yahoo.co.jp
 yorozuya.jp
 young-saito-5509.weblike.jp
 your.case.id.for.this.reason.is.pp.rangdeindia.jp
@@ -3116,9 +3069,7 @@ zextworks.co.jp
 zhduni.rizap.jp
 zimg.jp
 zmuzma.annamo.cfbx.jp
-zobgqg.sirobari.jp
 zoff.co.jp
-zrw1.destinia.jp
 zt209a.jp
 zucks.co.jp
 zucks.jp

@@ -551,11 +551,9 @@ loanchance.co.kr
 loanconsult.co.kr
 loancs.co.kr
 log.adplex.co.kr
-log.etoday.co.kr
 log.kcisa.kr
 log.kgrid.co.kr
 log.sunnyworks.co.kr
-log.targetpush.co.kr
 log1.ezday.co.kr
 logger.admixer.co.kr
 logger.cauly.co.kr
@@ -656,7 +654,6 @@ pcplus.or.kr
 pcsafe.kr
 pctip.co.kr
 pensionwellbeing.co.kr
-performanceplay.co.kr
 petkorea.co.kr
 pgudwns1201.kro.kr
 phonepara.co.kr
@@ -687,7 +684,6 @@ pwoman.co.kr
 pwsv.0pe.kr
 qclxx002.0pe.kr
 qgumjp.asiae.co.kr
-qgumjp.koreanzz.co.kr
 qkdrntjr.0pe.kr
 qkrguswn.co.kr
 qkzkfk.kro.kr
@@ -792,7 +788,6 @@ ssartpia.or.kr
 sss2056.0pe.kr
 st.a-link.co.kr
 standrew.co.kr
-stat.kbs.co.kr
 store.sony.co.kr
 stormfrosting.co.kr
 stracking.kyobo.co.kr
@@ -813,7 +808,6 @@ tagdol.dothome.co.kr
 tay.f4m.kr
 tech.realmedia.co.kr
 technote.co.kr
-teralog.techhub.co.kr
 theherbfarm.co.kr
 themesaytour.co.kr
 ti-center.co.kr
@@ -825,7 +819,6 @@ toshare.kr
 totoloan.co.kr
 touchnfeel.kr
 track.maillink.co.kr
-tracker.cauly.co.kr
 tracker.digitalcamp.co.kr
 tracking.adsdot.co.kr
 tracking.kyobo.co.kr
@@ -850,7 +843,6 @@ uro-dr.co.kr
 usagevoicemail.co.kr
 user.fileserver.co.kr
 utildata.co.kr
-uts.auction.co.kr
 v30-62.icu.ac.kr
 vaccine-program.co.kr
 vaccineprogram.co.kr
@@ -872,8 +864,6 @@ wbong.es.kr
 web-loan.co.kr
 web.n2s.co.kr
 webbee.co.kr
-weblog.eseoul.go.kr
-weblog2.eseoul.go.kr
 webshare.0pe.kr
 weighttraining.co.kr
 whdnqls.0pe.kr
@@ -944,7 +934,6 @@ yu.ac.kr
 yupdduk.co.kr
 yusungtech.co.kr
 z3ta.kr
-zdwwtt.82plus.co.kr
 zom001.kro.kr
 zumsum.co.kr
 zvxcvzx.co.kr

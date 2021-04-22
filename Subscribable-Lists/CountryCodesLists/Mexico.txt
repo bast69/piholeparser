@@ -937,7 +937,6 @@ top-brand.mx
 topmothers.com.mx
 tortasfactory.com.mx
 toursinlimites.com.mx
-track.docusign.mx
 tradium.com.mx
 traingrad.com.mx
 training4u.com.mx
@@ -1026,6 +1025,5 @@ xtornet.com.mx
 y0utube.com.mx
 yac.mx
 yaguarxoo.com.mx
-znq9.destinia.mx
 zonadehospitales.mx
 zqwofo.liverpool.com.mx

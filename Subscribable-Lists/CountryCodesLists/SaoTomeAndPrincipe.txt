@@ -24,7 +24,6 @@ amateur.lip.st
 ambriteib.st
 amped.st
 analytics.po.st
-analytics.shorte.st
 anaryabe.st
 anergyjj.st
 angel-black.fr.st
@@ -309,8 +308,6 @@ swollen.lip.st
 sxj8.adj.st
 sydneycar.st
 sysseljn.st
-t.av.st
-t.kck.st
 tabs.st
 taishoje.st
 teddyni.st
