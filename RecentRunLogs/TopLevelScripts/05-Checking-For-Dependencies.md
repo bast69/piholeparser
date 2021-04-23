@@ -2,17 +2,17 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## curl Thu Apr 22 03:00:18 CEST 2021
-curl Already Installed Thu Apr 22 03:00:18 CEST 2021
-## gawk Thu Apr 22 03:00:18 CEST 2021
-gawk Already Installed Thu Apr 22 03:00:18 CEST 2021
-## idn Thu Apr 22 03:00:18 CEST 2021
-idn Already Installed Thu Apr 22 03:00:18 CEST 2021
-## p7zip Thu Apr 22 03:00:18 CEST 2021
-p7zip Already Installed Thu Apr 22 03:00:18 CEST 2021
-## sed Thu Apr 22 03:00:18 CEST 2021
-sed Already Installed Thu Apr 22 03:00:18 CEST 2021
-## tar Thu Apr 22 03:00:18 CEST 2021
-tar Already Installed Thu Apr 22 03:00:18 CEST 2021
-## wget Thu Apr 22 03:00:19 CEST 2021
-wget Already Installed Thu Apr 22 03:00:19 CEST 2021
+## curl Fri Apr 23 03:00:20 CEST 2021
+curl Already Installed Fri Apr 23 03:00:20 CEST 2021
+## gawk Fri Apr 23 03:00:20 CEST 2021
+gawk Already Installed Fri Apr 23 03:00:20 CEST 2021
+## idn Fri Apr 23 03:00:21 CEST 2021
+idn Already Installed Fri Apr 23 03:00:21 CEST 2021
+## p7zip Fri Apr 23 03:00:21 CEST 2021
+p7zip Already Installed Fri Apr 23 03:00:21 CEST 2021
+## sed Fri Apr 23 03:00:22 CEST 2021
+sed Already Installed Fri Apr 23 03:00:22 CEST 2021
+## tar Fri Apr 23 03:00:22 CEST 2021
+tar Already Installed Fri Apr 23 03:00:22 CEST 2021
+## wget Fri Apr 23 03:00:22 CEST 2021
+wget Already Installed Fri Apr 23 03:00:22 CEST 2021
