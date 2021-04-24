@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ItDcsk/WMbKj76OPuwz9Bg
-! Version: 202104230120
+! Checksum: BHZuuP5Ag0l7O1J8vrnxEQ
+! Version: 202104240120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 23 Apr 2021 01:20 UTC
+! Last modified: 24 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -11410,6 +11410,7 @@ _youtube_social_
 ##.article-footer-share
 ##.article-footer-social
 ##.article-footer__share
+##.article-footer__sharing
 ##.article-full__share
 ##.article-gutter-share
 ##.article-gutter__social
@@ -16963,6 +16964,7 @@ _youtube_social_
 ##.share-social-box
 ##.share-social-icon
 ##.share-social-links
+##.share-social-list
 ##.share-socials
 ##.share-soundcloud
 ##.share-steemit
@@ -21738,7 +21740,7 @@ onbeing.org#@#.addthisbuttons
 beautifulplanet4u.com#@#.advanced-social-widget
 kino-vorschau.com#@#.arqam-widget-counter
 unian.info,unian.net,unian.ua#@#.article-selection-shares
-banki.ru,neowin.net#@#.article-share
+banki.ru,neowin.net,unionesarda.it#@#.article-share
 heise.de#@#.article-sharing
 adme.ru,pomponik.pl#@#.article-social
 niedziela.pl#@#.article-social-btn
@@ -25060,6 +25062,7 @@ _backToTop.
 ##.chive-newsletter
 ##.circ-signup-form
 ##.circulation-subscribe
+##.cli-newsletter-placement
 ##.cm_mobNewsletterSignup
 ##.cm_newsletter
 ##.cmc-newsletter-signup__widget
