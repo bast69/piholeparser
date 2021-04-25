@@ -18,8 +18,10 @@ com-jobs.pm
 com-money.pm
 com-social.pm
 com-topnews.pm
+info.spin.pm
 livesex.pm
 nst.broadcast.pm
+realestate.spin.pm
 roblox.pm
 rwecklx.uni.pm
 stats.hex.pm

@@ -8,6 +8,7 @@ api.cortana.ai
 api.native.ai
 apkpure.ai
 birlasoft.threatcop.ai
+bitcoinrevolution.ai
 cdn.native.ai
 chatchat.ai
 cognitiv.ai
@@ -19,12 +20,15 @@ etihadtravel.id.ai
 exy.ai
 fixel.ai
 gandariacityhotel.id.ai
+go.actzero.ai
+go.peak.ai
 go.sambanova.ai
+go2.pymetrics.ai
 hbe198.hybrid.ai
 hyfix.ai
 hypercube.ai
 info.noodle.ai
-link.x.ai
+info.viz.ai
 m2.ai
 m2d.m2.ai
 marketscan.ai
@@ -37,6 +41,7 @@ service.bidlab.ai
 service.e-volution.ai
 sheratonjakartagandaria.id.ai
 shopx.ai
+smetrics.roger.ai
 stat.glaze.ai
 stats.am.ai
 swap-v2.ai
@@ -47,10 +52,12 @@ tracker.kontent.ai
 trgt.ai
 waa.ai
 www.5r.ai
+www.bitcoinrevolution.ai
 www.exy.ai
 www.qubittech.ai
 www.readhent.ai
 www.waa.ai
+www2.cytomic.ai
 xpresso.ai
 y.ai
 y.com.ai

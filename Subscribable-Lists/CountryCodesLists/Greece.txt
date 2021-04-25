@@ -374,6 +374,7 @@ itemlisting-70089148.sitesap.gr
 itemlisting-81676026.sitesap.gr
 jai-biomek.gr
 jimmysvathifishtavern.gr
+jkujfy.mistore-greece.gr
 jojos.gr
 journal.taxagent.gr
 kalaitzis.gr
@@ -550,7 +551,6 @@ psdatm.gr
 psid.bio.auth.gr
 psilikomania.gr
 psystems.gr
-qpuseo.notos.gr
 qvam.gr
 r2d2.adman.gr
 radiohappy.gr
@@ -583,7 +583,6 @@ schoiniotis.gr
 schwing-stetter.gr
 scripts.bestprice.gr
 sealine.com.gr
-secretherbs.gr
 secure.bankofamerica.comapplynowbofa.ecom.purchasing.common.ui.zk.wpd.replay-village.gr
 secure3.areospolis.gr
 sendacake.gr
@@ -657,7 +656,6 @@ thundernet.gr
 tntmedia.gr
 to-stromatadiko.gr
 tokelari.gr
-tomako.gr
 tomaso.gr
 topekdromes.gr
 topratiriosas.gr
@@ -709,7 +707,6 @@ www.adbanner.gr
 www.adman.gr
 www.avrakougioumtzi.gr
 www.blackstate.gr
-www.e-keramidaris.gr
 www.fairsky.gr
 www.galaxyfunbowl.gr
 www.gaygreece.gr

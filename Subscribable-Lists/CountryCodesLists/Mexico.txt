@@ -138,7 +138,6 @@ capital8.com.mx
 cardtech.com.mx
 carnavalensenada.mx
 carnesrubencircunvalacion.com.mx
-carolinalastra.mx
 carpaseventos.mx
 casaemaus.com.mx
 casasdepasyterrenos.mx
@@ -273,6 +272,7 @@ diosdelared.com.mx
 disdain.archa.mx
 disfrazplanet.com.mx
 divinite.mx
+dnjpes.samsungstore.mx
 dns1.alestra.net.mx
 dns2.alestra.net.mx
 dns3.alestra.net.mx
@@ -529,7 +529,6 @@ grupotls.com.mx
 guayabera.com.mx
 guillermomanrique.com.mx
 gumont.com.mx
-gzimdi.soloautos.mx
 haha.mx
 hands.mx
 hazquesuceda.com.mx
@@ -565,6 +564,7 @@ ideascomunitarias.org.mx
 idegeo.centrogeo.org.mx
 igrconsultores.com.mx
 iiciftsa.com.mx
+iigcqr.linio.com.mx
 ilatinpos.mx
 imagenclinica.com.mx
 impresionespuntuales.com.mx
@@ -713,7 +713,6 @@ msrsolutions.mx
 multirecaudadorbancomer.com.mx
 multisitios.oaxaca.gob.mx
 mundicasa.mx
-mwu.com.mx
 mypresszone.com.mx
 myrc.com.mx
 nem.edu.mx
@@ -744,6 +743,7 @@ onirix.mx
 opcionesflex.mx
 opcioninmobiliaria.com.mx
 opticron.com.mx
+osjpyw.dico.com.mx
 p.ato.mx
 pagos.krayem.com.mx
 palaciohierro.com.mx
@@ -937,6 +937,7 @@ top-brand.mx
 topmothers.com.mx
 tortasfactory.com.mx
 toursinlimites.com.mx
+track.docusign.mx
 tradium.com.mx
 traingrad.com.mx
 training4u.com.mx
@@ -965,6 +966,7 @@ vacanora-unorestaurante.grupojenrab.mx
 vacanora.grupojenrab.mx
 valor.com.mx
 vazquezcontratistas.com.mx
+vdzpnx.gnc.com.mx
 ventanasyaluminios.com.mx
 ventasverdevalle.com.mx
 verac.com.mx
@@ -1025,5 +1027,6 @@ xtornet.com.mx
 y0utube.com.mx
 yac.mx
 yaguarxoo.com.mx
+znq9.destinia.mx
 zonadehospitales.mx
 zqwofo.liverpool.com.mx

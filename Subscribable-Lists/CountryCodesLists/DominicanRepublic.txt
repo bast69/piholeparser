@@ -45,3 +45,4 @@ webmail.lmv.com.do
 welcome.do
 wildcard.cleanshoes.com.do
 www.gid.do
+zsi7.destinia.do

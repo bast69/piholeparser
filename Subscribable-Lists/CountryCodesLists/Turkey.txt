@@ -35,7 +35,6 @@ adnangul.av.tr
 adnet.com.tr
 adport.com.tr
 ads-hl.noktamedya.com.tr
-ads.biz.tr
 ads.finzoom.com.tr
 ads.sabah.com.tr
 ads.yenimedya.com.tr
@@ -260,7 +259,6 @@ destek.hometech.com.tr
 devas.com.tr
 devexpress.com.tr
 dgynnj.koctas.com.tr
-dhdbzm.modakapimda.com.tr
 dikon.com.tr
 dinarsu.com.tr
 dincticaret.com.tr
@@ -359,8 +357,10 @@ geoloc.hurriyet.com.tr
 gepsan.com.tr
 gestas.com.tr
 ghb.console.adtarget.com.tr
+ghrzlu.skechers.com.tr
 gider.av.tr
 gmai.masoto.com.tr
+gmxcdm.vestel.com.tr
 go.mikro.com.tr
 goker.com.tr
 gokhancakmak.com.tr
@@ -388,6 +388,7 @@ gurmakmakina.com.tr
 guvenagro.com.tr
 guvengazetesi.com.tr
 guzelsanatlar.trakya.edu.tr
+gvsivx.multinet.com.tr
 hacapuri.com.tr
 hacisakirinsaat.com.tr
 hadaticaret.com.tr
@@ -406,11 +407,13 @@ hotshot.com.tr
 houseofbeauty.com.tr
 hsayatirim.com.tr
 humanplus.com.tr
+hxiabp.colins.com.tr
 hygienix.com.tr
 idema.com.tr
 idriskoylu.com.tr
 ifilo.com.tr
 ihhankara.org.tr
+ihmnnz.flo.com.tr
 iklimteknikservis.com.tr
 ildainsaat.com.tr
 ilhankuyumculuk.com.tr
@@ -439,6 +442,7 @@ ivr.com.tr
 jennah.com.tr
 jineplast.com.tr
 jmoon.com.tr
+jptobh.network.com.tr
 jvznla.rossmann.com.tr
 kadem.com.tr
 kahramanmaras.gen.tr
@@ -456,6 +460,7 @@ kayamuh.sarf.com.tr
 kbgh.com.tr
 kelebek.gen.tr
 kendinyap.com.tr
+kgguwk.jeep.com.tr
 kibrit.com.tr
 kilicotomotiv.com.tr
 kirdugunu.com.tr
@@ -542,7 +547,6 @@ mustang.com.tr
 mutlugunlerde.com.tr
 naturagro.com.tr
 nazarspot.com.tr
-ncoqsj.dr.com.tr
 neseker.com.tr
 nesilgroup.com.tr
 netflix.pl.springday.com.tr
@@ -552,6 +556,7 @@ netto.com.tr
 newnight.com.tr
 ninovaeczadeposu.com.tr
 nisamerve.com.tr
+nnlqrd.saillakers.com.tr
 noktapc.com.tr
 notification-control-fb.com.urazlife.com.tr
 nots.com.tr
@@ -599,7 +604,6 @@ phorm.info.tr
 phorm.tv.tr
 phorm.web.tr
 pimmas.com.tr
-pinptg.milleni.com.tr
 pirlantaisgiyim.com.tr
 platinlojistik.com.tr
 pornofreedom.blogspot.com.tr
@@ -644,9 +648,7 @@ rexus.com.tr
 rms.uzelbilisim.com.tr
 robonik.com.tr
 roltek.com.tr
-rowsrm.atasunoptik.com.tr
 royalland.com.tr
-rqhtgf.pierrecardin.com.tr
 rs.chip.com.tr
 rss.tmgrup.com.tr
 ruberu.com.tr
@@ -709,6 +711,7 @@ smartcare.com.tr
 smartoil.com.tr
 smartpos.com.tr
 smartsavunma.com.tr
+smetrics.boehringer-ingelheim.com.tr
 smetrics.vodafone.com.tr
 sonsistemsogutma.com.tr
 source.com.tr
@@ -731,6 +734,8 @@ sunaryem.com.tr
 sunkozmetik.com.tr
 sw88.disneymagicmoments.gen.tr
 sw88.disneyturkiye.com.tr
+swwcyk.ahaber.com.tr
+swwcyk.fotomac.com.tr
 swwcyk.sabah.com.tr
 swwcyk.takvim.com.tr
 sync.console.adtarget.com.tr
@@ -765,6 +770,7 @@ tmpk.org.tr
 topragitaniyoruz.pau.edu.tr
 toramanlar.com.tr
 totemguvenlik.com.tr
+tpjehb.addax.com.tr
 tr.alzaminilac.com.tr
 tracking.omron.com.tr
 tracking.tchibo.com.tr
@@ -1290,6 +1296,7 @@ www.yildiriminsaat.com.tr
 www.yonsoft.com.tr
 www.yos.inonu.edu.tr
 www.yuntper.com.tr
+www2.edenred.com.tr
 www91.intel.com.tr
 xenaly.sozcu.com.tr
 xn--altnoran-vkb.com.tr
@@ -1323,7 +1330,6 @@ xn--yapkredi-vkb.gov.info.tr
 xn--yapkredi-vkb.gov.tr
 xn--yapkredi-vkb.info.tr
 xn--yapkredi-vkb.tr
-xyripw.korendy.com.tr
 yanus.com.tr
 yapikur.com.tr
 yasarlarinsaat.com.tr

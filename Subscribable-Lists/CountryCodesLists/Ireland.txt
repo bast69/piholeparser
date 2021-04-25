@@ -266,6 +266,7 @@ smetrics.48.ie
 smetrics.argos.ie
 smetrics.irishjobs.ie
 smetrics.jobs.ie
+smetrics.ralphlauren.ie
 smetrics.seat.ie
 smetrics.three.ie
 snazzymedia.ie
@@ -298,6 +299,7 @@ threadingbar.ie
 tiny.ie
 tkgenerators.ie
 tkladders.ie
+tqiwqa.jdsports.ie
 trutech.ie
 ucdwaves.ie
 updated.rbktechnology.ie

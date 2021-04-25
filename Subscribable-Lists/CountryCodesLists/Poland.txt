@@ -68,6 +68,12 @@
 8916120996pogonszczecininfo.pogon.max.pl
 8player.pl
 97pogonszczecininfo.pogon.max.pl
+997-policja.pl
+997-policyjka.pl
+997-policyjne.pl
+997policja.pl
+997policyjka.pl
+997policyjne.pl
 9print.pl
 _werbung.pl
 a1a.pl
@@ -300,6 +306,7 @@ agropus.pl
 agroturist.com.pl
 agwacdan.pl
 ahamsi.vot.pl
+ai.aikondistribution.pl
 airmore.pl
 airportaxi.pl
 ajax.rutracker.org.pl
@@ -406,6 +413,7 @@ aluxurylinevivasp.pl
 amainnetrubypalace.pl
 amatorki.sve.pl
 amatorlandia.pl
+amazgift.klaster.kylos.pl
 amazingday.pl
 amazon.check.online.location.tdds.org.pl
 ambasadarozrywki.pl
@@ -446,6 +454,7 @@ ant.trenz.pl
 antiawarepro.pl
 antosz.pl
 anturium.com.pl
+antyspam-bezpieczenstwo.pl
 antyszczepionkowo.you2.pl
 anuluj-dlug.pl
 anuluj-mandat.pl
@@ -683,7 +692,17 @@ bestpricespills.pl
 bestvod.pl
 beto-met.pl
 beyourbest.pl
+bezpieczenstwonaszejpoczty.pl
 bezpieczna-dostawa.com.pl
+bezpieczna-nasza-poczta.biz.pl
+bezpieczna-nasza-poczta.com.pl
+bezpieczna-nasza-poczta.info.pl
+bezpieczna-nasza-poczta.net.pl
+bezpieczna-nasza-poczta.org.pl
+bezpieczna-nasza-poczta.pl
+bezpieczna-naszapoczta.biz.pl
+bezpieczna-naszapoczta.com.pl
+bezpieczna-naszapoczta.pl
 bezpieczna-okazja.pl
 bezpieczne-nieruchomosci.pl
 bezpiecznie.w8w.pl
@@ -733,6 +752,7 @@ birdwatcher.pl
 bisbud.com.pl
 biseksualni.qii.pl
 bistro-apetyczna.pl
+bitcoinera.pl
 bitcoinset.pl
 bittersweet.pl
 biuro-detektywa.waw.pl
@@ -928,6 +948,7 @@ childalertfakt.pl
 childcarepill.pl
 chilkiewicz.pl
 chipo.republika.pl
+chloepolska.pl
 chomik24.com.pl
 chomikuj-new-t1.opx.pl
 chomikuj.pl
@@ -973,6 +994,8 @@ clickad.eo.pl
 clickonometrics.pl
 client-portal.info.pl
 clnbze.expressilustrowany.pl
+clnbze.gloswielkopolski.pl
+clnbze.gol24.pl
 clnbze.naszemiasto.pl
 clnbze.wspolczesna.pl
 cloud-sso-idea.pl
@@ -1014,7 +1037,9 @@ cookie.gazeta.pl
 cookiecontainer.blox.pl
 cookies.fakt.pl
 cookies.forbes.pl
+cool-shop.pl
 coolsex.pl
+cooltoura.com.pl
 coozpn.cba.pl
 copernicusdm.pl
 corbby.pl
@@ -1161,6 +1186,7 @@ defun_erontrans.pl
 dejm.pl
 dekoracjawesela.pl
 dekoratornia-ciastek.pl
+dekoratos.pl
 dekorfarb.pl
 del-sieradz.neostrada.pl
 delfiadee.hit.gemius.pl
@@ -1455,6 +1481,7 @@ ecnffa.za.pl
 ecoblast.pl
 ecohand.pl
 ecolife-home.com.pl
+ecomobilni.pl
 ecompresta.pl
 ecovipgrandlux.pl
 ecovipgrandtime.pl
@@ -1704,6 +1731,7 @@ ewebnicebetday.pl
 ewebnicegoldensp.pl
 ewebvivagoldensp.pl
 ewiadomosci2021.waw.pl
+ewieszaczek.pl
 eworldrubypalace.pl
 ewymiana.com.pl
 ex-torrentycom.5v.pl
@@ -1722,7 +1750,6 @@ expro.pl
 extralawki.pl
 extratesty.pl
 extremetech.pl
-exxzwx.szykownamama.pl
 exyzz.pl
 ezalukaj.pl
 ezigarettekaufen2.blox.pl
@@ -1946,11 +1973,14 @@ flewer.pl
 flexgum.pl
 flexistyle.com.pl
 flinsut.pl
+flyingfish.jak-zrobic-strone.pl
 fminzynieria.pl
 focus24.gpe.pl
 foliar.pl
 fon-gsm.pl
 food-safety.pl
+forex-opinie.pl
+forexopinia.pl
 forexyestrader.pl
 forkids.pl
 forlab.pl
@@ -2125,10 +2155,12 @@ gawyuo.com.pl
 gayfakt.pl
 gayporno.pl
 gazdowkauzajaca.pl
+gazeta-997.pl
 gazeta-potwierdz.co.pl
 gazeta-swiatowa.pl
 gazeta.hit.gemius.pl
 gazeta.kutno.pl
+gazeta997.pl
 gazetagminna.cal24.pl
 gazetalublin.pl
 gazetalubuski.pl
@@ -2139,9 +2171,15 @@ gazetapolska.hoste.pl
 gazetapolska.org.pl
 gazetapucka.pl
 gazetaswiatowa.pl
+gazetka-997.pl
+gazetka-swiatowa.pl
 gazetka24.alte.pl
+gazetka997.pl
 gazetkamazowsze.pl
+gazetkaswiatowa.pl
 gazetkawarszawa.pl
+gazetowo-swiatowo.pl
+gazetowoswiatowo.pl
 gberbhjerfds.osa.pl
 gbud.webd.pl
 gce-mennica.pl
@@ -2255,6 +2293,12 @@ google.plle.pl
 googlecm.hit.gemius.pl
 googlenews.xorg.pl
 goooogle.osa.pl
+gorace-info.pl
+gorace-informacje.pl
+goraceinfo.pl
+goraceinformacje.pl
+goracy-temat.pl
+goracytemat.pl
 goroteka.pl
 gorskaperla.pl
 goryhotel.pl
@@ -2598,6 +2642,7 @@ hmpinvest.pl
 hobbitowa.pl
 hodowlafanaberia.pl
 hodowlaskalia.pl
+hokaoneonespeedgoat.pl
 holdenavenue.pl
 holowanie-aut24.pl
 home-outlet.pl
@@ -2647,6 +2692,7 @@ hunterwarszawa.pl
 huomdgde.adocean.pl
 hurtowniagmf.pl
 hustleserver.com.pl
+hwwjsi.aboutyou.pl
 hydroplanet.pl
 hydroservis.pl
 hzbot2.5v.pl
@@ -2786,6 +2832,7 @@ informacje.radom.pl
 informacje24.dkonto.pl
 informacjepolska.you2.pl
 informacjezkraju.pl
+informacyjnie.radom.pl
 informator-reg.pl
 informatykadlakazdego.dejm.pl
 informazioni.pl
@@ -3268,6 +3315,7 @@ kursyuciebie.pl
 kurtkiwyprzedaz.pl
 kusnierzszczecin.pl
 kuszowka.pl
+kvfpmc.master1.pl
 kwadra-t.pl
 kwaterapodgruszka.pl
 kwaterowanie.pl
@@ -3277,6 +3325,7 @@ kwiaty.oinfo.pl
 kwiatynaboya.pl
 kzprojekt.pl
 l-tabaco.pl
+la-novia.pl
 labarre.com.pl
 labmedica.pl
 labo.com.pl
@@ -3315,6 +3364,7 @@ leczeniepadaczki.pl
 lecznicajaworzno.pl
 leenlife.com.pl
 leeu.pl
+leffler.pl
 legalizacja.5v.pl
 legalsite.pl
 legnica.lokalneinfo24.pl
@@ -3437,6 +3487,7 @@ lutra.pl
 lutz-blades.pl
 lux-car.auto.pl
 luxlifevivasp.pl
+luxoid.pl
 luxurylinevivasp.pl
 lv.adocean.pl
 lv.hit.gemius.pl
@@ -3551,7 +3602,6 @@ mazurpawel.pl
 mazury4x4.pl
 mb-olx.pl
 mbank.hit.gemius.pl
-mbbhij.mi-home.pl
 mbenk.pl
 mbtbuty.pl
 mckm11.cba.pl
@@ -3633,6 +3683,7 @@ miejskapolka.pl
 miejski.098.pl
 miejskie24.gpe.pl
 mielno-baltic.pl
+miernik.technologiewdomu.pl
 mieszkaj-na-swoim.pl
 mieszkania-pokoje-wynajem.pl
 mieszkaniaczernica.pl
@@ -3820,6 +3871,8 @@ nastolatkivideo.pl
 nasza-chata.org.pl
 naszainspiracja.pl
 naszdom.you2.pl
+nasze-info-pl.pl
+nasze-info.pl
 nasze-miasto.k99k.com.pl
 nasze-usg.pl
 naszemiasto.dkonto.pl
@@ -4037,6 +4090,7 @@ notowani.pl
 novamotylarnia.pl
 novem.onet.pl
 novem.pl
+nowa-przyszlosc.com.pl
 noweciezarowe.pl
 nowefakty24online.pl
 noweklks.ibspan.waw.pl
@@ -4057,6 +4111,7 @@ nuiso.vot.pl
 nvcd.pl
 nvod.pl
 nzozmedicus.pl
+o2-antispam.pl
 o2-online.pl
 o2.hit.gemius.pl
 o2.nowy-regulamin.pl
@@ -4123,6 +4178,7 @@ oglaszamy-yorki.dkonto.pl
 oglaszamy24.pl
 ogloszenia-24.cba.pl
 ogloszenia-allegro.you2.pl
+ogloszenia-gminne.pl
 ogloszenia-olx.you2.pl
 ogloszenia.swiat-szkla.pl
 ogloszenia2021.waw.pl
@@ -4216,6 +4272,7 @@ olx-oferta.pl
 olx-ogioszenia.pl
 olx-ogloszenie.dkonto.pl
 olx-online.pl
+olx-order.pl
 olx-p.pl
 olx-paczka.pl
 olx-payments.pl
@@ -4426,6 +4483,7 @@ oxford-centrum.com.pl
 oze-opole.pl
 ozebox.pl
 p986524.pl
+pabgey.siepomaga.pl
 pabiszit.pl
 paciorekradom.pl
 pacjentpolski.pl
@@ -4434,6 +4492,7 @@ paczkowodpd4you.pl
 paczuli.pl
 painthouse.com.pl
 pallotyni.ryn.pl
+palmera.pl
 pamietajmyoogrodach.pl
 panaceum-poznan.pl
 panaceumgabinety.pl
@@ -4532,6 +4591,13 @@ pay50-olx.pl
 pay51-olx.pl
 pay52-olx.pl
 pay53-olx.pl
+pay54-olx.pl
+pay55-olx.pl
+pay56-olx.pl
+pay57-olx.pl
+pay58-olx.pl
+pay59-olx.pl
+pay60-olx.pl
 payment-olx.pl
 payment.pl
 payplupdatecenter.pl
@@ -4719,9 +4785,22 @@ polecieli.pl
 polic.you2.pl
 police-info.pl
 polichrom.pl
+policja-997.pl
+policyjka-997.pl
+policyjka997.pl
 policyjna-informacje.pl
+policyjne-997.pl
 policyjne-info.pl
 policyjne-informacje.pl
+policyjne-poszukiwania.pl
+policyjne-poszukiwania997.pl
+policyjne-tematy.pl
+policyjne997.pl
+policyjneposzukiwania.pl
+policyjneposzukiwania997.pl
+policyjnetematy.pl
+policyjnie-tematowo.pl
+policyjnietematowo.pl
 poliflex.net.pl
 polish-books.pl
 polish-engineer.pl
@@ -4734,7 +4813,9 @@ polmathome.pl
 polonialaziska.pl
 polonicakonstrukcje.com.pl
 poloralphlaurenpoland.pl
+polsat-nevsy.pl
 polsatboxingnight-transmisjahd.ujm.pl
+polsatnevsy.pl
 polsetk.pl
 polska-olx.pl
 polska-teraz1.idl.pl
@@ -4754,6 +4835,7 @@ polskapolicja.you2.pl
 polskaporwania.com.pl
 polskaporwania.net.pl
 polskayear.pl
+polski-blog-medyczny.pl
 polski-lot.dfirma.pl
 polskiagazeta24.serwerplus.pl
 polskidziennik.dkonto.pl
@@ -5125,6 +5207,7 @@ qbonuswestbetday.pl
 qcashmagiceurodice.pl
 qcashvivaeurodice.pl
 qefewqfwq.com.pl
+qejrwy.lazienkaplus.pl
 qextracashvipsp.pl
 qextraclubluxurysp.pl
 qextralifevipsp.pl
@@ -5156,6 +5239,8 @@ qmagiccasheurodice.pl
 qmagictopeudice.pl
 qmultinetruby.pl
 qnetextrafestival.pl
+qolx.pl
+qoygsv.born2be.pl
 qpodgladacz.glt.pl
 qrubydreamweb.pl
 qrubygrandmycash.pl
@@ -5465,10 +5550,12 @@ sekretymagii.pl
 sekrom.pl
 seks-laski.pl
 sektorbhp.pl
+selada.com.pl
 senatoranders.pl
 sendspace.pl
 seniority.pl
 seniorzydecyduja.pl
+sennahaus.pl
 senseiwolf.pl
 sensosushi.pl
 seolandia.pl
@@ -5492,6 +5579,7 @@ server062295.nazwa.pl
 server082057.nazwa.pl
 server094350.nazwa.pl
 server102661.nazwa.pl
+server123175.nazwa.pl
 server132024.nazwa.pl
 server144191.nazwa.pl
 server150767.nazwa.pl
@@ -5519,9 +5607,11 @@ server328687.nazwa.pl
 server359661.nazwa.pl
 server364714.nazwa.pl
 server375674.nazwa.pl
+server387376.nazwa.pl
 server401169.nazwa.pl
 server410209.nazwa.pl
 server421446.nazwa.pl
+server421585.nazwa.pl
 server428873.nazwa.pl
 server432067.nazwa.pl
 server440086.nazwa.pl
@@ -5535,6 +5625,7 @@ server544553.nazwa.pl
 server547102.nazwa.pl
 server578875.nazwa.pl
 server584025.nazwa.pl
+server589251.nazwa.pl
 server621416.nazwa.pl
 server634288.nazwa.pl
 server655635.nazwa.pl
@@ -5542,6 +5633,7 @@ server658571.nazwa.pl
 server684037.nazwa.pl
 server685641.nazwa.pl
 server698985.nazwa.pl
+server702718.nazwa.pl
 server715152.nazwa.pl
 server716583.nazwa.pl
 server720699.nazwa.pl
@@ -5618,6 +5710,8 @@ sexwp.pl
 sexy-lale.pl
 seyfwl.interia.pl
 seyfwl.maxmodels.pl
+seyfwl.pomponik.pl
+seyfwl.smaker.pl
 seyfwl.styl.pl
 seznam.hit.gemius.pl
 sezonslubow.pl
@@ -5736,6 +5830,7 @@ skpfalenty.pl
 skpgrandcash.pl
 skpwebcash.pl
 skrill-assets.com.pl
+skrocto.pl
 skulicrew.pl
 skullcrew.pl
 skup-zlomu.org.pl
@@ -5766,6 +5861,7 @@ smbccoj.pl
 smetrics.kone.pl
 smetrics.multikino.pl
 smetrics.payback.pl
+smetrics.seat-auto.pl
 smetrics.seat.pl
 smgorczewska.pl
 smhydro.com.pl
@@ -5831,6 +5927,7 @@ spacerek.pl
 spamtitan.pl
 spanel.gem.pl
 spaplanet.pl
+spark-agd.pl
 sparrows.pl
 spartech.pl
 spasinski.pl
@@ -5910,6 +6007,7 @@ stadninagoscimiec.pl
 staldecor.pl
 stalsrubiarnia.pl
 stanishactiv.pl
+stanislaw.org.pl
 stanluks.pl
 star.ct8.pl
 starawawa.website.pl
@@ -6025,9 +6123,9 @@ swam.com.pl
 swapgg.pl
 swarovskisklep.com.pl
 swasc.kaufland.pl
-swatky.takemehome.pl
 sweetbuy.pl
 swiat-inaczej.you2.pl
+swiat-informacji.pl
 swiat-plytek.pl
 swiat24.dkonto.pl
 swiatbotow.pl
@@ -6037,8 +6135,10 @@ swiatowa-gazeta.pl
 swiatowa-gazetka.pl
 swiatowagazeta.pl
 swiatowagazetka.pl
+swiatowe-infa.pl
 swiatowe-info.pl
 swiatowe-informacje.pl
+swiatoweinfa.pl
 swiatoweinfo.pl
 swiatoweinformacje.pl
 swiatpsychoterapii.pl
@@ -6083,6 +6183,7 @@ szybka-dostawa.pl
 szybkapozyczkateraz.pl
 szybkaupadlosc.pl
 szybkie-zakupy.co.pl
+szybkiedpd4you.pl
 szybkieinfo.pl
 szymanski-wnetrza.pl
 szymon.insel.pl
@@ -6136,6 +6237,10 @@ telemediaa.pl
 telewizja-internetowa24.pl
 telewizjaitd.pl
 telmedico.pl
+tematowo-policyjnie.pl
+tematowopolicyjnie.pl
+tematy-policyjne.pl
+tematypolicyjne.pl
 temp162ipaypeler.pl
 templelibra.pl
 temporary.nsx.pl
@@ -6217,6 +6322,7 @@ topceny.pl
 topescortpoland.pl
 topgryusluga.5p.pl
 toplista.xonx.pl
+topogeo.pl
 topparagliding.pl
 toprady.pl
 topsecrets.com.pl
@@ -6279,6 +6385,7 @@ turystykapolska.com.pl
 tuszmajster.pl
 tuv.pl
 tv-maniak.pl
+tv-ogloszam.pl
 tv.gorzow.pl
 tv.unimet.pl
 tv24.dkonto.pl
@@ -6291,6 +6398,7 @@ tvn.hit.gemius.pl
 tvn2.adocean.pl
 tvn24.dfirma.pl
 tvn24polska.you2.pl
+tvogloszam.pl
 tvp-info.you2.pl
 tvp-polska.dfirma.pl
 tvpinfo.net.pl
@@ -6325,6 +6433,7 @@ twojemiaasto.pl
 twojewakacje.com.pl
 twojpodgaladcz.glt.pl
 txmmarket.pl
+tychniebanuj.pl
 tygielrozmaitosci.pl
 tygodniksiedlecki.pl
 tyipieniadze.pl
@@ -6458,7 +6567,6 @@ ustarsmagiceurodice.pl
 usterkiwloclawek.za.pl
 usunwirusa.pl
 uszyce.webd.pl
-utntam.doz.pl
 uultrawestbetday.pl
 uvivaclubluxurysp.pl
 uvy3.pl
@@ -6558,7 +6666,6 @@ vpdr.pl
 vratislavialex.pl
 vrympoqs5ra34nfo.torhelper.pl
 vubu.pl
-vyatih.laurella.pl
 w-r.net.pl
 w-sieci-piszczy.o99o.com.pl
 w-szpitalu.gmina.pl
@@ -6622,6 +6729,7 @@ wecgj.w.interiowo.pl
 weeb-tv.pl
 weedbook.pl
 wej-dz6.edu.pl
+welcome.item24.pl
 wellbeingworganizacji.pl
 wellneat.pl
 wellyss.pl
@@ -6643,14 +6751,19 @@ wgrajka.pl
 whiteflix.pl
 wi.biz.pl
 wiad-info.5v.pl
+wiadomoacizmiasata.pl
 wiadomosci-24.dkonto.pl
+wiadomosci-gmina.pl
 wiadomosci-lokalne.5v.pl
 wiadomosci-region24.pl
 wiadomosci.you2.pl
 wiadomosci24polska.pl
+wiadomoscigmina.pl
 wiadomoscigwalt.com.pl
 wiadomoscigwalt.net.pl
 wiadomoscigwalt.pl
+wiadomoscione-tu.pl
+wiadomoscionetu.pl
 wiadomoscix8.pl
 wiadomoscizkraju24.com.pl
 wiadomosclokalna.pl
@@ -6661,6 +6774,7 @@ wieleba.pl
 wielkaniespodzianka.pl
 wielkasowa.com.pl
 wielkilukwarty.pl
+wielkopolska.waw.pl
 wielkopolskie.refundacjeregionalne.pl
 wielosztuka.pl
 wiemyto.you2.pl
@@ -6792,6 +6906,12 @@ www.6m.pl
 www.7218.pl
 www.7386977377.findprofile.net.pl
 www.7405377477.findprofile.net.pl
+www.997-policja.pl
+www.997-policyjka.pl
+www.997-policyjne.pl
+www.997policja.pl
+www.997policyjka.pl
+www.997policyjne.pl
 www.9print.pl
 www.a1a.pl
 www.a2btrans.pl
@@ -6886,6 +7006,7 @@ www.anetakonik.pl
 www.angielskibelchatow.pl
 www.ankiety-konsumenckie.pl
 www.annapiaseczno.pl
+www.antyspam-bezpieczenstwo.pl
 www.antyszczepionkowo.you2.pl
 www.anuluj-dlug.pl
 www.anuluj-mandat.pl
@@ -6988,7 +7109,17 @@ www.bestcheats.cba.pl
 www.bestofelektro.pl
 www.bestvod.pl
 www.beyourbest.pl
+www.bezpieczenstwonaszejpoczty.pl
 www.bezpieczna-dostawa.com.pl
+www.bezpieczna-nasza-poczta.biz.pl
+www.bezpieczna-nasza-poczta.com.pl
+www.bezpieczna-nasza-poczta.info.pl
+www.bezpieczna-nasza-poczta.net.pl
+www.bezpieczna-nasza-poczta.org.pl
+www.bezpieczna-nasza-poczta.pl
+www.bezpieczna-naszapoczta.biz.pl
+www.bezpieczna-naszapoczta.com.pl
+www.bezpieczna-naszapoczta.pl
 www.bezpieczna-okazja.pl
 www.bezpieczne-nieruchomosci.pl
 www.bezprzekazu.pl
@@ -7005,6 +7136,7 @@ www.bifrost.pl
 www.bioperfect.pl
 www.birdwatcher.pl
 www.bistro-apetyczna.pl
+www.bitcoinera.pl
 www.bitcoinset.pl
 www.biuro-detektywa.waw.pl
 www.biznesinpro.pl
@@ -7114,6 +7246,7 @@ www.cheaptronic.pl
 www.cheats4u.pl
 www.check-olx.pl
 www.chicharito14.c0.pl
+www.chloepolska.pl
 www.chomik24.com.pl
 www.chomikuj-new-t1.opx.pl
 www.chomikuj.pl
@@ -7144,6 +7277,8 @@ www.coldy-shop.pl
 www.comfortmedplus.pl
 www.concash.pl
 www.contentagenda.pl
+www.cool-shop.pl
+www.cooltoura.com.pl
 www.copernicusdm.pl
 www.corezone.pl
 www.cosanostra.com.pl
@@ -7213,6 +7348,7 @@ www.decodorebasic.pl
 www.deepshoes.pl
 www.defrost.pl
 www.dekoracjawesela.pl
+www.dekoratos.pl
 www.del-sieradz.neostrada.pl
 www.delibrium.pl
 www.demo.website.pl
@@ -7336,6 +7472,7 @@ www.ecco-polska.pl
 www.eccooutletbuty.pl
 www.ecoblast.pl
 www.ecolife-home.com.pl
+www.ecomobilni.pl
 www.edotpay.pl
 www.eduhull.pl
 www.edumedix.pl
@@ -7403,6 +7540,7 @@ www.eurosprinthiker.pl
 www.evaave12.nazwa.pl
 www.everyday-news.you2.pl
 www.ewiadomosci2021.waw.pl
+www.ewieszaczek.pl
 www.ewymiana.com.pl
 www.ex-torrentycom.5v.pl
 www.expertbike.pl
@@ -7547,6 +7685,8 @@ www.flexgum.pl
 www.fminzynieria.pl
 www.focus24.gpe.pl
 www.footballmanager.com.pl
+www.forex-opinie.pl
+www.forexopinia.pl
 www.forexyestrader.pl
 www.forlife-szkolenia.pl
 www.formanaplus.pl
@@ -7602,8 +7742,10 @@ www.garwolin.info.pl
 www.gastrohurt.neostrada.pl
 www.gatr.hit.gemius.pl
 www.gayfakt.pl
+www.gazeta-997.pl
 www.gazeta-swiatowa.pl
 www.gazeta.kutno.pl
+www.gazeta997.pl
 www.gazetalublin.pl
 www.gazetalubuski.pl
 www.gazetamazowska.pl
@@ -7612,9 +7754,15 @@ www.gazetapolska.hoste.pl
 www.gazetapolska.org.pl
 www.gazetapucka.pl
 www.gazetaswiatowa.pl
+www.gazetka-997.pl
+www.gazetka-swiatowa.pl
 www.gazetka24.alte.pl
+www.gazetka997.pl
 www.gazetkamazowsze.pl
+www.gazetkaswiatowa.pl
 www.gazetkawarszawa.pl
+www.gazetowo-swiatowo.pl
+www.gazetowoswiatowo.pl
 www.gce-mennica.pl
 www.gdynia-fakt24.pl
 www.gemius.pl
@@ -7649,6 +7797,12 @@ www.goku-sklep.pl
 www.gold-barber.pl
 www.goldenrelations.pl
 www.goodmovie.pl
+www.gorace-info.pl
+www.gorace-informacje.pl
+www.goraceinfo.pl
+www.goraceinformacje.pl
+www.goracy-temat.pl
+www.goracytemat.pl
 www.goryhotel.pl
 www.gospodarstwo-rolne.com.pl
 www.gotowkanadowod.pl
@@ -7700,6 +7854,7 @@ www.hitprodukt.pl
 www.hobbitowa.pl
 www.hodowlafanaberia.pl
 www.hodowlaskalia.pl
+www.hokaoneonespeedgoat.pl
 www.holdenavenue.pl
 www.home-outlet.pl
 www.homearena.pl
@@ -7783,6 +7938,7 @@ www.informacje-z-polski-48.waw.pl
 www.informacje.radom.pl
 www.informacje24.dkonto.pl
 www.informacjepolska.you2.pl
+www.informacyjnie.radom.pl
 www.informator-reg.pl
 www.informuj-swiat.pl
 www.informujemy-kazdego.pl
@@ -7990,6 +8146,7 @@ www.kwaterapodgruszka.pl
 www.kwaterowanie.pl
 www.kwaterynasezon.pl
 www.kzprojekt.pl
+www.la-novia.pl
 www.labarre.com.pl
 www.labmedica.pl
 www.laguna24.pl
@@ -8006,6 +8163,7 @@ www.lebskiewycieczki.com.pl
 www.leczeniepadaczki.pl
 www.leenlife.com.pl
 www.leeu.pl
+www.leffler.pl
 www.legalizacja.5v.pl
 www.legalsite.pl
 www.lekarzbialoleka.pl
@@ -8067,6 +8225,7 @@ www.lululo.pl
 www.lunzo.pl
 www.lutra.pl
 www.lutz-blades.pl
+www.luxoid.pl
 www.lyke.pl
 www.m-facebook.ct8.pl
 www.maciejbieniek.pl
@@ -8249,6 +8408,8 @@ www.narpol.com.pl
 www.nartypomorze.pl
 www.nassy.pl
 www.naszdom.you2.pl
+www.nasze-info-pl.pl
+www.nasze-info.pl
 www.nasze-miasto.k99k.com.pl
 www.nasze-usg.pl
 www.naszemiasto.dkonto.pl
@@ -8309,6 +8470,7 @@ www.notariuszursus.pl
 www.notatnik-poliglotki.pl
 www.notowani.pl
 www.novamotylarnia.pl
+www.nowa-przyszlosc.com.pl
 www.noweciezarowe.pl
 www.nowmarket.pl
 www.nowoczesnafizjoterapia.pl
@@ -8317,6 +8479,7 @@ www.nowy-regulamin.pl
 www.nu7.pl
 www.nudevista.com.pl
 www.nvod.pl
+www.o2-antispam.pl
 www.o2-online.pl
 www.o2.nowy-regulamin.pl
 www.o2news.you2.pl
@@ -8350,6 +8513,7 @@ www.oglaszam929.pl
 www.oglaszamy-yorki.dkonto.pl
 www.oglaszamy24.pl
 www.ogloszenia-24.cba.pl
+www.ogloszenia-gminne.pl
 www.ogloszenia-olx.you2.pl
 www.ogloszenia2021.waw.pl
 www.ogloszenia24.dfirma.pl
@@ -8402,6 +8566,7 @@ www.olx-n.pl
 www.olx-oferta.pl
 www.olx-ogloszenie.dkonto.pl
 www.olx-online.pl
+www.olx-order.pl
 www.olx-p.pl
 www.olx-paczka.pl
 www.olx-payments.pl
@@ -8528,6 +8693,7 @@ www.ozonatory24.pl
 www.pacyfka99.pl
 www.paczuli.pl
 www.painthouse.com.pl
+www.palmera.pl
 www.panaceum-poznan.pl
 www.panivan.pl
 www.paoloeluca.strefa.pl
@@ -8599,6 +8765,13 @@ www.pay50-olx.pl
 www.pay51-olx.pl
 www.pay52-olx.pl
 www.pay53-olx.pl
+www.pay54-olx.pl
+www.pay55-olx.pl
+www.pay56-olx.pl
+www.pay57-olx.pl
+www.pay58-olx.pl
+www.pay59-olx.pl
+www.pay60-olx.pl
 www.payment-olx.pl
 www.payu-24.pl
 www.payu-platnosc943412.pl
@@ -8705,9 +8878,22 @@ www.polaczenie.xn.pl
 www.polic.you2.pl
 www.police-info.pl
 www.polichrom.pl
+www.policja-997.pl
+www.policyjka-997.pl
+www.policyjka997.pl
 www.policyjna-informacje.pl
+www.policyjne-997.pl
 www.policyjne-info.pl
 www.policyjne-informacje.pl
+www.policyjne-poszukiwania.pl
+www.policyjne-poszukiwania997.pl
+www.policyjne-tematy.pl
+www.policyjne997.pl
+www.policyjneposzukiwania.pl
+www.policyjneposzukiwania997.pl
+www.policyjnetematy.pl
+www.policyjnie-tematowo.pl
+www.policyjnietematowo.pl
 www.polish-engineer.pl
 www.polishfashionshops.pl
 www.polisy4u.pl
@@ -8716,7 +8902,9 @@ www.polluk.pl
 www.polmathome.pl
 www.polonialaziska.pl
 www.poloralphlaurenpoland.pl
+www.polsat-nevsy.pl
 www.polsatboxingnight-transmisjahd.ujm.pl
+www.polsatnevsy.pl
 www.polska-olx.pl
 www.polska-tv.pl
 www.polska24.com.pl
@@ -8729,6 +8917,7 @@ www.polskadziennik.pl
 www.polskainfo.co.pl
 www.polskapolicja.you2.pl
 www.polskayear.pl
+www.polski-blog-medyczny.pl
 www.polski-lot.dfirma.pl
 www.polskiagazeta24.serwerplus.pl
 www.polskidziennik.dkonto.pl
@@ -8894,6 +9083,7 @@ www.pyrchla.pl
 www.pysznatoskania.pl
 www.pz21.pl
 www.pzutrasyzdrowia.pl
+www.qolx.pl
 www.qpodgladacz.glt.pl
 www.quadre.pl
 www.quick-eye.pl
@@ -9006,7 +9196,9 @@ www.securebiz.pl
 www.sekrecik.pl
 www.sekretymagii.pl
 www.sektorbhp.pl
+www.selada.com.pl
 www.sendspace.pl
+www.sennahaus.pl
 www.sensosushi.pl
 www.seolandia.pl
 www.sercedzwonu.pl
@@ -9019,6 +9211,7 @@ www.serialowo.pl
 www.server031290.nazwa.pl
 www.server041990.nazwa.pl
 www.server094350.nazwa.pl
+www.server123175.nazwa.pl
 www.server132024.nazwa.pl
 www.server167147.nazwa.pl
 www.server178477.nazwa.pl
@@ -9029,17 +9222,21 @@ www.server292369.nazwa.pl
 www.server314517.nazwa.pl
 www.server328095.nazwa.pl
 www.server359661.nazwa.pl
+www.server387376.nazwa.pl
 www.server401169.nazwa.pl
 www.server410209.nazwa.pl
 www.server421446.nazwa.pl
+www.server421585.nazwa.pl
 www.server454171.nazwa.pl
 www.server517854.nazwa.pl
 www.server522523.nazwa.pl
 www.server544553.nazwa.pl
+www.server589251.nazwa.pl
 www.server621416.nazwa.pl
 www.server634288.nazwa.pl
 www.server655635.nazwa.pl
 www.server658571.nazwa.pl
+www.server702718.nazwa.pl
 www.server716583.nazwa.pl
 www.server741227.nazwa.pl
 www.server742538.nazwa.pl
@@ -9106,6 +9303,7 @@ www.skleptus.pl
 www.sklepygucci.pl
 www.skpfalenty.pl
 www.skrill-assets.com.pl
+www.skrocto.pl
 www.skulicrew.pl
 www.skullcrew.pl
 www.skupjajek.pl
@@ -9151,6 +9349,7 @@ www.sorelpl.pl
 www.sowaksiazki.pl
 www.sp2mzc.pl
 www.spamtitan.pl
+www.spark-agd.pl
 www.spdobropole.pl
 www.specjalservice.pl
 www.specyfika.xn.pl
@@ -9198,6 +9397,7 @@ www.ssl.dfirma.pl
 www.sso.cloud.idecloud.com.pl
 www.sspbadecz.ugu.pl
 www.stalsrubiarnia.pl
+www.stanislaw.org.pl
 www.starmach.com.pl
 www.staroil.pl
 www.starsex.pl
@@ -9256,6 +9456,7 @@ www.suwalskieprzytulisko.pl
 www.swapgg.pl
 www.sweetbuy.pl
 www.swiat-inaczej.you2.pl
+www.swiat-informacji.pl
 www.swiat24.dkonto.pl
 www.swiatdory.pl
 www.swiatfilmikow.pl
@@ -9263,8 +9464,10 @@ www.swiatowa-gazeta.pl
 www.swiatowa-gazetka.pl
 www.swiatowagazeta.pl
 www.swiatowagazetka.pl
+www.swiatowe-infa.pl
 www.swiatowe-info.pl
 www.swiatowe-informacje.pl
+www.swiatoweinfa.pl
 www.swiatoweinfo.pl
 www.swiatoweinformacje.pl
 www.swiatpsychoterapii.pl
@@ -9289,6 +9492,7 @@ www.szybka-dostawa.pl
 www.szybkapozyczkateraz.pl
 www.szybkaupadlosc.pl
 www.szybkie-zakupy.co.pl
+www.szybkiedpd4you.pl
 www.szybkieinfo.pl
 www.t72.dkonto.pl
 www.tajskimasazsopot.pl
@@ -9303,6 +9507,10 @@ www.teleaudio.pl
 www.telefonika.com.pl
 www.telemediaa.pl
 www.telewizja-internetowa24.pl
+www.tematowo-policyjnie.pl
+www.tematowopolicyjnie.pl
+www.tematy-policyjne.pl
+www.tematypolicyjne.pl
 www.temporary.nsx.pl
 www.terrex.pl
 www.tesco-zakupy.pl
@@ -9334,6 +9542,7 @@ www.topbateria.pl
 www.topceny.pl
 www.topgryusluga.5p.pl
 www.topiarius.ur.edu.pl
+www.topogeo.pl
 www.topparagliding.pl
 www.toprady.pl
 www.torrent.pl
@@ -9366,12 +9575,14 @@ www.turystyczne-suwalki.pl
 www.turystyka.cal.pl
 www.turystykapolska.com.pl
 www.tv-maniak.pl
+www.tv-ogloszam.pl
 www.tv.gorzow.pl
 www.tv24.dkonto.pl
 www.tvinfo-24.pl
 www.tvn-uwaga.dfirma.pl
 www.tvn24.dfirma.pl
 www.tvn24polska.you2.pl
+www.tvogloszam.pl
 www.tvp-info.you2.pl
 www.tvp-polska.dfirma.pl
 www.tvpinfo.net.pl
@@ -9397,6 +9608,7 @@ www.twojebony.com.pl
 www.twojekwatery.com.pl
 www.twojemiaasto.pl
 www.twojewakacje.com.pl
+www.tychniebanuj.pl
 www.tyipieniadze.pl
 www.tyqu.pl
 www.tzr.grejt.pl
@@ -9520,14 +9732,20 @@ www.wesolywagonik.pl
 www.weterynarzjedrzejow.pl
 www.whiteflix.pl
 www.wi.biz.pl
+www.wiadomoacizmiasata.pl
 www.wiadomosci-24.dkonto.pl
+www.wiadomosci-gmina.pl
 www.wiadomosci-region24.pl
 www.wiadomosci.you2.pl
 www.wiadomosci24polska.pl
+www.wiadomoscigmina.pl
+www.wiadomoscione-tu.pl
+www.wiadomoscionetu.pl
 www.wiadomoscizkraju24.com.pl
 www.wiadomosclokalna.pl
 www.widget-eforsa.pl
 www.wielkaniespodzianka.pl
+www.wielkopolska.waw.pl
 www.wielkopolskie.refundacjeregionalne.pl
 www.wielosztuka.pl
 www.wiemyto.you2.pl
@@ -9650,6 +9868,7 @@ www.zabawlandia.pl
 www.zabiczyn.pl
 www.zacha.com.pl
 www.zacznij-prace.co.pl
+www.zaginieni24.nq.pl
 www.zaginieni24.pl
 www.zaglebiefanatykow.pl
 www.zaglosuj-warszawa.vot.pl
@@ -9728,6 +9947,8 @@ www.znamcie.pl
 www.znaneleki.pl
 www.znany-lekarz.dfirma.pl
 www.znany-lekarz.pl
+www.znany-temat.pl
+www.znanytemat.pl
 www.zobacz-film.pl
 www.zobacz24.pl
 www.zognia.pl
@@ -9946,6 +10167,7 @@ zaczarowane-warkocze.pl
 zacznij-prace.co.pl
 zaczytajsie.pl
 zafundujsobie.pl
+zaginieni24.nq.pl
 zaginieni24.pl
 zaginioneslowo.glcs.pl
 zagle.zbaszynek.pl
@@ -10071,6 +10293,8 @@ znamcie.pl
 znaneleki.pl
 znany-lekarz.dfirma.pl
 znany-lekarz.pl
+znany-temat.pl
+znanytemat.pl
 zobacz-film.pl
 zobacz24.pl
 zobaczto.pisz.pl

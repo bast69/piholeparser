@@ -2,6 +2,8 @@ agrepres.com.py
 alquileres.com.py
 altaja.com.py
 apcarreteras.org.py
+aula-web.posgradocolumbia.edu.py
+aula.posgradocolumbia.edu.py
 balanzas.com.py
 basanews.com.py
 belleenfance.com.py

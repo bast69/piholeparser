@@ -17,7 +17,6 @@ aln-edu.ng
 alumnus.unical.edu.ng
 amenaacademy.com.ng
 ampos.com.ng
-ams.alvinasschools.org.ng
 andrewsworld.com.ng
 appswift.com.ng
 arcf.com.ng
@@ -28,6 +27,7 @@ armsecurities.com.ng
 ashtongardens.com.ng
 atlanticsupport.com.ng
 bayelsacsda.ng
+bcmart.com.ng
 betpawa.ng
 bizltd.com.ng
 bjan.com.ng
@@ -48,6 +48,7 @@ callatelogs.com.ng
 campusshop.com.ng
 capitaloneus.brownglobalagroplant.com.ng
 cashexchanger.com.ng
+ccandcautos.com.ng
 cheapesthost.com.ng
 chigogroups.com.ng
 christainmingle.com-v3-login.cpsessionid.5af6a8d1-c3ae-4f25-9a99-fd47443bbcb3-201701057204783582.deliverit.com.ng
@@ -56,7 +57,6 @@ clicksms247.com.ng
 client.ewc.com.ng
 coht-takum.edu.ng
 correctstuff.com.ng
-cowries.cooperative.com.ng
 crg.ng
 criskolak.i.ng
 current9.com.ng
@@ -188,7 +188,6 @@ mi-ki12.org.ng
 miatyere.com.ng
 mikhimshaissayd.blogspot.com.ng
 mikrosoft.com.ng
-modern.mydesign.ng
 mofels.com.ng
 mrempowerment.ng
 myetherwallet.com.ng

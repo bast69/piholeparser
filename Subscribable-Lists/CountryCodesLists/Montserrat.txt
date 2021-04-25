@@ -14,6 +14,7 @@ embed-stats.rbl.ms
 foflrius.ms
 friweb.ms
 frontpage-stats.rbl.ms
+goat.codeofar.ms
 gouser.ms
 hentai.ms
 icloud.com.admin-rs-mcas.ms

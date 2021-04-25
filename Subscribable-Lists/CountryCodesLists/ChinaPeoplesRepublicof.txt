@@ -8842,6 +8842,7 @@ cdn.casee.cn
 cdn.hiido.cn
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
+cdn.tmooc.cn
 cdnedx.cn
 cdnhost.cn
 cdofycafu.cn
@@ -30806,6 +30807,7 @@ jianxiadianshiju.cn
 jiaoben.ganji.cn
 jiaoben.xinshipu.cn
 jiaosuba.cn
+jiaoyuzixun.cn
 jiaoyvwang.cn
 jiasrvy.cn
 jiayoumei.com.cn
@@ -37168,6 +37170,7 @@ metopulez.cn
 metqif.cn
 metremur.cn
 metrics.ilovematlab.cn
+metrics.mathworks.cn
 metrics.rolex.cn
 metroid5.cn
 metuk.cn

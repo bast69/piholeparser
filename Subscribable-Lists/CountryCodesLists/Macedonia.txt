@@ -8,7 +8,6 @@ ads.puls24.mk
 arkoplast.com.mk
 bgsoft.mk
 bibliskozdruzenie.mk
-cbtpzx.pazar3.mk
 creativepool.mk
 dds.com.mk
 diendicure.mk

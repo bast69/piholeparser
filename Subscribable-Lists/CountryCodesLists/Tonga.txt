@@ -29,7 +29,6 @@ autodiscover.messenger-check.to
 avs.to
 banner.publisher.to
 banner.sextorrent.to
-bashervlmao.to
 bccc.kickme.to
 beam.to
 blum.1t.to
@@ -150,6 +149,7 @@ musicmaargarit63.uk.to
 my.putlocker.to
 mychat.to
 mysoftbank.uy.to
+noapr1lsed.solo.to
 nrg.to
 num.to
 nurgay.to

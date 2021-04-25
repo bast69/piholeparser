@@ -245,6 +245,7 @@ tracking.visma.lt
 tradecharm.lt
 travelmaster.lt
 triusiai.lt
+upz1.destinia.lt
 v2.ads3.ipon.lt
 vaikoateitis.lt
 valdis.puslapiai.lt
@@ -262,7 +263,6 @@ www.bnc.lt
 www.hey.lt
 www.orakulas.lt
 www.simnokomun.lt
-www.smulkmenele.lt
 www.top100.lt
 www.visits.lt
 xbox.visits.lt

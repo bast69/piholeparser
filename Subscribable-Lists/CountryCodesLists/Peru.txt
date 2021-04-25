@@ -8,6 +8,7 @@ adobe.falabella.com.pe
 ads.elcomercioperu.com.pe
 aei.com.pe
 aglzeyhwmr.cwp.com.pe
+alcaperu.com.pe
 alexanderfleming.edu.pe
 aliati.com.pe
 alpaser.com.pe
@@ -79,9 +80,9 @@ dimacin.com.pe
 diplomadosyespecializaciones.org.pe
 diyitals.pe
 djeane.com.pe
-doagpm.promart.pe
 doncuy.com.pe
 e-solutions.com.pe
+ea.megustaleer.com.pe
 eca-amarakaeri.org.pe
 ecoelectric.com.pe
 ectaca.com.pe
@@ -110,9 +111,11 @@ floresysorpresas.pe
 fundomaranello.com.pe
 gadesoluciones.pe
 galaproyectos.pe
+gat.munihuanuco.gob.pe
 gedvendo.com.pe
 gessol.com.pe
 go.appa.pe
+go.isil.pe
 goal.com.pe
 grimahotel.pe
 grupo3com.pe
@@ -253,6 +256,7 @@ servican.pe
 sillasderuedas.pe
 smetrics.interbank.com.pe
 smetrics.interbank.pe
+smetrics.interbankbenefit.pe
 smprovidencia.edu.pe
 sociales.unmsm.edu.pe
 sociedadperuanadecirugiaplastica.com.pe

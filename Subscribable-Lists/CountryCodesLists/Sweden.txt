@@ -76,6 +76,7 @@ aquilastudios.se
 arbarkiv.se
 argosactive.se
 arkitektmuseet.se
+armadillo.gothiacup.se
 arstaparkbilvard.se
 artistkontoret.se
 asd.byggrakt.se
@@ -105,6 +106,7 @@ barthelsonforlag.se
 bastutunnan.se
 bbehk.se
 bbsmobler.se
+bdocpx.lagerhaus.se
 beautychance.se
 beijerkidsday.se
 bema-elautomatik.se
@@ -142,6 +144,7 @@ bygg.add.se
 byggrakt.se
 byme.se
 cakeaway.se
+campaign.bbmbonnier.se
 candypeople.se
 carlandren.se
 carslberg.se
@@ -215,6 +218,7 @@ elpa.se
 elqtrk.morningstar.se
 emediate.se
 emmabodakonst.se
+energikundservice.se
 energy.se
 engage.3msverige.se
 enhand.se
@@ -270,6 +274,7 @@ getstatistics.se
 gm-trading.se
 go.circlek.se
 go.curonova.se
+go.telenor.se
 gocatering.se
 goldfighter.se
 golfaren1.se
@@ -351,6 +356,7 @@ jtecab.se
 jubba.se
 juliajaanna.se
 juventa.se
+kaebyy.autouncle.se
 kagghamrabygg.se
 kakbollen.se
 kardborren.se
@@ -403,7 +409,10 @@ ltseo.se
 luckystarmusic.se
 lundsprofiltryck.se
 lxsway.familjeliv.se
+lxsway.loppi.se
+lxsway.nyheter24.se
 lybjfx.proffsmagasinet.se
+ma.meritgo.se
 ma.meritmind.se
 mail.romsasjord.se
 mall2.happyandsmile.se
@@ -424,6 +433,7 @@ medlern.se
 metrics.aftonbladet.se
 metrics.expressen.se
 metrics.svd.se
+mhidwg.elgiganten.se
 micoel.se
 mile7.smileproduktionsbyra.se
 milf-area.se
@@ -435,7 +445,6 @@ mobishop.se
 moc-kompetensresurs.se
 mollancurry.se
 mopub-win-us-east.bksn.se
-mqhuzk.soffadirekt.se
 mumbaimalmo.se
 mycorelife.se
 myinstabuzz.se
@@ -460,6 +469,7 @@ nordfarbo.se
 nordiwellness.se
 norrahh.se
 nosras.batdekor.se
+nqcbgz.cocopanda.se
 nsec.se
 nudevista.se
 nxhqso.nordicnest.se
@@ -517,11 +527,13 @@ porn.se
 pornshop.se
 porrcity.se
 poste.ch.invoicepay.cattleyaperfumes.se
+pplpiq.pricerunner.se
 praximoto.se
 prebid.bksn.se
 prettyandgreen.se
 privatebay.se
 prsmaleri.se
+qhxxqt.coolstuff.se
 rabatt-torget.se
 radjuret21.se
 raudas.se
@@ -655,6 +667,7 @@ swisscasino-bonus.se
 swsociety.se
 sydvision.se
 syskonenanderssonsrestaurang.se
+szakms.bygghemma.se
 tabyel.se
 tailsweep.se
 tandlakarcentrum.se
@@ -681,6 +694,7 @@ totalinstallatoren.se
 touchmidipedal.se
 track.postkodlotteriet.se
 tracking.bonava.se
+tracking.omniture.nt.se
 tracking.ssab.se
 tracking.visma.se
 trafficgateway.research-int.se
@@ -693,9 +707,11 @@ trosabyggplat.se
 trustman.se
 tryme-scandinavianbar.se
 tujo.se
+tzzddk.motoaction.se
 u.lewd.se
 uhj.metisonline.se
 ujeb.se
+ujzqud.bestsecret.se
 ulfsbergercarlsson.se
 undantagforlag.se
 underluggen.se
@@ -753,6 +769,7 @@ www.atg.se
 www.bangextreme.se
 www.casinotown.se
 www.denfriakarolinen.se
+www.energikundservice.se
 www.f8350e7c1.se
 www.getstatistics.se
 www.gymbolaget.se
@@ -784,6 +801,10 @@ www.vuxen.se
 www.webstat.se
 www.webtraffic.se
 www.zalukaj.se
+www1.tt.se
+www2.adecco.se
+www2.berghs.se
+www2.esri.se
 x.se
 xn--avgng-ora.se
 xn--bergfstet-z2a.se

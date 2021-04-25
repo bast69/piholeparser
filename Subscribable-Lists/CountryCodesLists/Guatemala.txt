@@ -13,7 +13,6 @@ empresaweb.com.gt
 funjose.org.gt
 gateway.chiquimulja.net.gt
 globocentro.com.gt
-go.url.edu.gt
 halo.ad.gt
 id.halo.ad.gt
 ids.ad.gt
@@ -29,6 +28,7 @@ safer.com.gt
 scd.com.gt
 seg.ad.gt
 seg.halo.ad.gt
+smetrics.tecoloco.com.gt
 tlcc.com.gt
 todoinmueble.com.gt
 unhogarenelcamino.org.gt

@@ -2,7 +2,6 @@
 5599.gg
 a.gg
 alicebayedo.mfs.gg
-barcellos.gg
 bin.pinion.gg
 cdn.pinion.gg
 cpu30691.mfs.gg
@@ -30,6 +29,7 @@ pebed.dm.gg
 pinion.gg
 plik.root.gg
 pp.gg
+primate.builds.gg
 qqq.mfs.gg
 remission.tv.gg
 sesliaskim.tr.gg
@@ -38,6 +38,7 @@ skinsjar.gg
 sova.gg
 stats.leaguestats.gg
 stats.stadiastats.gg
+stats.tk.gg
 stats.vc.gg
 tics.seeker.gg
 tix.pinion.gg

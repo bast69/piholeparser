@@ -371,7 +371,6 @@ bud-etc.com.ua
 budmavtomatika.com.ua
 budnik.com.ua
 budpost.com.ua
-bumka.com.ua
 bunny.net.ua
 bushub.com.ua
 businessvideo.urbanhealth.com.ua
@@ -662,6 +661,7 @@ edia.net.ua
 edilot.com.ua
 edmedic.pl.ua
 edv.mebel-lux.kh.ua
+edvaor.estro.ua
 eemedic.pl.ua
 eeriopp.com.ua
 efcering.net.ua
@@ -2077,6 +2077,7 @@ newsoft2012.pl.ua
 newworld.zzz.com.ua
 newxico.kl.com.ua
 nextros.com.ua
+nfused.eobuv.com.ua
 ngdoctor.pl.ua
 niagara.vn.ua
 nicesft2012.pl.ua
@@ -2165,6 +2166,7 @@ orbit.lun.ua
 ordoctor.pl.ua
 orekhov-city.zp.ua
 orenthe.com.ua
+orevbi.lamoda.ua
 osbb.lviv.ua
 osvitaportal.com.ua
 otdoctor.pl.ua
@@ -2240,6 +2242,7 @@ pillsowl.com.ua
 pillstabs.com.ua
 pillswoo.com.ua
 pingwin.net.ua
+pixkny.dressa.com.ua
 pjtlme.rozetka.com.ua
 planet.dp.ua
 pls-findme.net.ua

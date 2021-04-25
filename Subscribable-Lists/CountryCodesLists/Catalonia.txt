@@ -49,7 +49,6 @@ sparkbcn.cat
 sukebei.pantsu.cat
 tintoreriesjuncosa.cat
 transenyera.cat
-ugdcxl.timeout.cat
 void.cat
 webcams.cat
 www.adworks.cat
@@ -57,3 +56,4 @@ www.aparcamentsveinals.cat
 www.casalparis.cat
 www.girlsbcn.cat
 www.ikebana.cat
+www3.apabcn.cat
