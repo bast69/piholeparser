@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tP6hUH03t06NjIGZNgajDw
-! Version: 202104260120
+! Checksum: yqWxLT/FtfPNTbRzltW2ZQ
+! Version: 202104280120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 26 Apr 2021 01:20 UTC
+! Last modified: 28 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1126,6 +1126,7 @@ t.ks.ua#?#.sidebar-box:-abp-has(> div > div > ul > .facebook)
 ryfma.com#?#.sidebar-card:-abp-has(> .content > .header:-abp-contains(Мы в соц.сетях))
 masterok.livejournal.com##.sidebar-custom > dd > a[href]
 southpark-online.ru#?#.sidebar-row:-abp-has(.sidebar-repost)
+kg-portal.ru##.sidebar-social
 4eva.ru,darada.co##.sidebar-social__header
 moika78.ru,nevasport.ru##.sidebar-widget
 proidei.com##.sidebar-widgets-1
@@ -1196,7 +1197,7 @@ amedia.online,wincore.ru##.socc
 torrentfilmi.co##.socfull
 vgtimes.ru##.soci
 overclockers.ru##.soci-link
-bestfm.ru,dentv.ru,dt.ua,gomel.today,hdzilla.me,hi-news.ru,iblitzmods.ru,ivi.ru,mk.ru,nashe.ru,pandafilms.ru,podrobnosti.ua,radiojazzfm.ru,radioultra.ru,rockfm.ru,s-info.ru,sportarena.com,ua.today,zn.ua##.social
+bestfm.ru,dentv.ru,dt.ua,gomel.today,hdzilla.me,hi-news.ru,iblitzmods.ru,ivi.ru,kg-portal.ru,mk.ru,nashe.ru,pandafilms.ru,podrobnosti.ua,radiojazzfm.ru,radioultra.ru,rockfm.ru,s-info.ru,sportarena.com,ua.today,zn.ua##.social
 goha.ru##.social > *
 akniga.org##.social--link
 nachasi.com##.social-big
@@ -1734,6 +1735,7 @@ woman365.ru##.mc-share-toggle
 megogo.net##.megogo_view_share
 audioportal.su,vsthouse.ru##.pluso
 electrotests.ru,test24.wweek.ru,tests24.su##.rambler-share
+kg-portal.ru##.section_social
 ficbook.net##.share-buttons
 axd.semestr.ru,math.semestr.ru##.share42init
 fishki.net##.share_ajax
@@ -3131,6 +3133,7 @@ zaruba.fun##.banner-promotions-wrapper
 riafan.ru##.banner-rating-container
 politexpert.net##.banner-tg
 get-styles.ru##.banner-up
+radiosvoboda.org##.banner[id^="GR-"]
 game2day.ru##.banner_articl
 ruskline.ru##.banners-line
 pleer.ru##.banners_shrinking
@@ -3226,6 +3229,7 @@ hi-tech.ua##.content-single-part > #disqus_thread ~ *
 vse42.ru#?#.content-switcher:-abp-has(> .content-switcher__title:-abp-contains(Читайте также))
 kinoteatr.ru##.content_right_banner
 vtimes.io##.contribute-bar
+informator.ua##.coockies
 2x2tv.ru##.cook
 dw.com,eg.ru,hashrating.com,nspk.ru,wifire.tv##.cookie
 xhamster.com##.cookie-announce
@@ -3307,6 +3311,7 @@ kinopoisk.ru##.film-thin-teaser
 skidkaonline.ru##.fixed-tabs
 kommersant.ru##.fixed_bottom
 nalog.ru##.fixed_shortcut_vc
+informator.ua##.flex.post__subscribe-banner
 searchengines.guru##.float-vertical-panel
 101.ru##.flying-banner-wrapper
 russian.rt.com##.follows-channel
@@ -3712,6 +3717,7 @@ hyser.ua,ukrainianwall.com,znaj.ua##.subscribe-in-article
 russian.rt.com##.subscribe-layout
 vesti.ua##.subscribe-line
 myseria.club##.subscribe-link
+sm.news##.subscribe-news
 24tv.ua##.subscribe-wrap
 openmedia.io##.subscribePopUp
 expert.ru##.subscribe_banner_fixed
@@ -4661,10 +4667,8 @@ myshared.ru#@#.ya-share2_inited
 @@||stat.radar.imgsmail.ru/*=honeypot_fake_$image,domain=e.mail.ru
 @@||static.tacdn.com/components/dist/social.share-cta.*.js|$script,domain=tripadvisor.ru
 @@||static1.1tv.ru/resources/jquery.smartbanner.js$script,domain=1tv.ru
-@@||syndication.twimg.com/widgets/timelines/$script,domain=kg-portal.ru
 @@||talon.by/squeeze/$domain=talon.by
 @@||trinixy.ru/engine/classes/min/index.php$script,domain=trinixy.ru
-@@||twitter.com/js/timeline.$third-party,script,domain=kg-portal.ru
 @@||twitter.com/widgets.js|$domain=slon.ru
 @@||unn.com.ua/images/social/*.gif$domain=unn.com.ua
 @@||vgtimes.ru/img/gplus.png|
@@ -23885,6 +23889,7 @@ _backToTop.
 ##.genericon-feed
 ##.gt-popup
 ##.home-twitterfeed
+##.house-ad-wrap
 ##.ico-livejournal
 ##.icomoon-feed
 ##.icon-icons_email-share
