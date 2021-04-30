@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7MKk96GtQCs6bDmxs52biA
-! Version: 202104290120
+! Checksum: haRzf1NZWgobVCsIexazyA
+! Version: 202104300120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 29 Apr 2021 01:20 UTC
+! Last modified: 30 Apr 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -3361,6 +3361,7 @@ finbalance.com.ua##.header__bottom > .app
 champion.com.ua#?#.header__row:-abp-has(> .header-battles-block)
 seasonvar.ru##.header_icon
 superhimik.com##.headerbar
+ferra.ru,letidor.ru,moslenta.ru,motor.ru,passion.ru,quto.ru,wmj.ru#?#.heading:-abp-contains(Рекомендуем ещё)
 tvzvezda.ru##.hendler_multivideoplayer_class.fixed
 igromania.ru##.hmenu_box > a[href="/stream/"]
 ikea.com##.hnf-banner
@@ -4416,8 +4417,8 @@ youtube.com##ytd-popup-container > [force-close-on-outside-click="true"] > #cont
 youtube.com#?#ytd-popup-container > tp-yt-paper-dialog:-abp-has(> yt-upsell-dialog-renderer > #dialog > #content > yt-formatted-string > a[href*="://support.google.com/youtube/?p=sign_in"])
 !
 ! - Экспериментальные правила, добавлять только для доменов, на которых нет :-abp, либо изолировать
-www.google.*##div[jsname="XKSfm"]
-www.google.*#?#html.QVCmK:style(overflow: auto !important)
+www.google.*##div[id][class]:not([style]) > [jsname="XKSfm"]
+www.google.*#?#.QVCmK:style(overflow: auto !important)
 www.kinopoisk.*#?##kinopoisk-header-sticky-container:style(top: 0 !important)
 www.kinopoisk.*#?#.app__header[style^="--header-height:"]:style(top: 0 !important)
 www.kinopoisk.*#?#.desktop-layout-with-sidebar__header[style^="--header-height:"]:style(top: 0 !important)
@@ -5025,6 +5026,7 @@ _revotas_push.
 ||pushe.co^$third-party
 ||pusherapp.com^$third-party
 ||pushiki.ru^$third-party
+||pushinpage.com^$third-party
 ||pushinstruments.com^$third-party
 ||pushkahouse.com^$third-party
 ||pushkaplus.com^$third-party
@@ -5710,6 +5712,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /FaceBook_48x
 /facebook_64.
 /facebook_64px_
+/facebook_aqu_48.
 /facebook_badge-
 /facebook_badge.
 /facebook_boton.
@@ -7652,6 +7655,7 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /twitter_64x
 /twitter_add.
 /twitter_alt.
+/twitter_aqu_48.
 /twitter_badge.
 /twitter_bird.
 /twitter_bird_
@@ -27460,6 +27464,7 @@ _backToTop.
 ||letreach.com^$third-party
 ||letsgetsocialnow.com^$third-party
 ||ligatus.com^$third-party
+||lightboxcdn.com/vendor/$script,third-party
 ||linkwithin.com^$third-party
 ||list-manage1.com/subscriber-count?$third-party
 ||live4sport.net^$third-party

@@ -139,6 +139,7 @@ lablue.*##+js(nostif, push, 500)
 !#endif
 osthessen-news.de##+js(nostif, .call(null))
 *$image,redirect-rule=2x2.png,domain=tweakers.net
+tweakers.net##+js(aopr, document.head.appendChild)
 @@||tweakers.net^$ghide
 freenet.de,hifi-forum.de,kicker.de,musiker-board.de,quoka.de,recording.de,transfermarkt.*##+js(nostif, .call(null), 10)
 airliners.de,auszeit.bio,autorevue.at,berliner-kurier.de,berliner-zeitung.de,boersennews.de,clever-tanken.de,dasgelbeblatt.de,deichstube.de,der-betze-brennt.de,desired.de,digitalfernsehen.de,express.de,fanfiktion.de,fehmarn24.de,finya.de,frankfurter-wochenblatt.de,frustfrei-lernen.de,funandnews.de,fussballdaten.de,gamepro.de,gameswelt.*,giessener-allgemeine.de,giga.de,heidelberg24.de,kino.de,gesund-vital.de,gruenderlexikon.de,kreisbote.de,kurierverlag.de,leinetal24.de,liga3-online.de,lokalo24.de,lz.de,macworld.co.uk,meine-anzeigenzeitung.de,mt.de,news.de,nordbayern.de,nw.de,prad.de,psychic.de,reviersport.de,rimondo.com,sozialversicherung-kompetent.de,spielen.de,spieletipps.de,tichyseinblick.de,tvinfo.de,unicum.de,weltfussball.at,weristdeinfreund.de,ze.tt##+js(nostif, .call(null), 10)
@@ -1238,17 +1239,17 @@ mind42.com###content.sidebar2:style(margin-right: 0 !important;)
 ||zdnet.com/*recommendation/
 
 ! xhamster
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##+js(acis, Array.prototype.indexOf, popunder)
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##+js(acis, Array.prototype.indexOf, popunder)
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##+js(aopr, wih-popunder)
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##+js(aeld, , pop)
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##.wit-sponsor-banner
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##.promo-message
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##.xplayer-banner-bottom
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##.clipstore-bottom
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##.xplayer-banner
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##div[class*="-vcams-thumb-widget"]
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##div[class*="-vspot-container"]
-fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*##div[class*="-vspb"]
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##.clipstore-bottom
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##.xplayer-banner
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##div[class*="-vcams-thumb-widget"]
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##div[class*="-vspot-container"]
+fullxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamster10.*,xhamster19.*##div[class*="-vspb"]
 ||xhamsterpremium.com^$3p
 ||xhamsterlive.com^$3p
 !#if env_mobile
@@ -4896,12 +4897,12 @@ pelisplus.*##+js(aopr, AaDetector)
 pelisplus.*,pelisplushd.*##+js(aopw, adcashMacros)
 pelisplus.*##+js(aopw, smrtSP)
 pelisplus.*##+js(aopw, smrtSB)
-pelisplus.*##+js(aopw, _pop)
-pelisplus.*,pelisplushd.*,pelispng.online,streampelis.club##+js(nowoif)
+pelisplus.*,clasico.tv##+js(aopw, _pop)
+pelisplus.*,pelisplushd.*,pelispng.online,pelispop.net,player.moovies.in,streampelis.club##+js(nowoif)
 pelisplus.*##+js(ra, href, #opfk)
 pelisplus.*##[class^="smartadtags"]
 pelisplus.*##.links > a.btn[class*="fa-"]
-pelisplus2.*##[style^="display:"] > [style^="margin:-30px"] > [href][target="_blank"]
+pelisplus2.*##[style^="margin:-30px"] > [href][target="_blank"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1816
 hardsextube.com##+js(aopr, ExoLoader)
@@ -19497,7 +19498,7 @@ gazzetta.it##+js(aeld, adblockActivated)
 ! https://github.com/uBlockOrigin/uAssets/issues/6702
 ! https://github.com/uBlockOrigin/uAssets/issues/6702#issuecomment-576407378
 upstream.to##+js(acis, $, .css)
-upstream.to##+js(acis, String.fromCharCode, /btoa|break/)
+upstream.to##+js(acis, Math, break;case $.)
 upstream.to##+js(aopr, open)
 upstream.to##+js(aopr, _run)
 upstream.to##+js(aopw, _pop)
@@ -19625,7 +19626,7 @@ qqcinema21.com##+js(aopw, puShown)
 ! https://github.com/uBlockOrigin/uAssets/issues/8842
 fandom.com##+js(set, wgAffiliateEnabled, false)
 kenshi.fandom.com##+js(set, ads, null)
-fandom.com###siderail_bindingofisaacre_gamepedia
+fandom.com##[id^="siderail_"][id*="_gamepedia"]
 fandom.com###bodyContent:style(width:100% !important)
 
 ! https://github.com/DandelionSprout/adfilt/issues/7#issuecomment-569529562
@@ -22709,11 +22710,11 @@ fiches-auto.fr##.adsbygoogle:style(visibility: collapse !important)
 ludigames.com##+js(nostif, ads)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7180
-imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(nano-sib, timer)
-imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(nowoif, !/prcf.fiyar|themes|pixsense|.jpg/)
-imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(set, hold_click, false)
-imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site###pbe
-*$frame,script,3p,denyallow=googleapis.com,domain=imageking.xyz|imgair.net|imgao.xyz|imgbird.xyz|imgblaze.net|imgfl.xyz|imgfsh.xyz|imggoing.xyz|imgkes.xyz|imgkis.xyz|imgko.xyz|imgkoi.xyz|imglin.xyz|imglion.xyz|imgsupa.xyz|imgtigr.xyz|imgviv.xyz|imgweng.xyz|imgwew.xyz|imgxen.xyz|imgxn.xyz|imgxx.xyz|imgzer.net|venpix.xyz|vestimage.site
+imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtiger.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(nano-sib, timer)
+imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtiger.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(nowoif, !/prcf.fiyar|themes|pixsense|.jpg/)
+imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtiger.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site##+js(set, hold_click, false)
+imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz,imggoing.xyz,imgkes.xyz,imgkis.xyz,imgko.xyz,imgkoi.xyz,imglin.xyz,imglion.xyz,imgsupa.xyz,imgtiger.xyz,imgtigr.xyz,imgviv.xyz,imgweng.xyz,imgwew.xyz,imgxen.xyz,imgxn.xyz,imgxx.xyz,imgzer.net,venpix.xyz,vestimage.site###pbe
+*$frame,script,3p,denyallow=googleapis.com,domain=imageking.xyz|imgair.net|imgao.xyz|imgbird.xyz|imgblaze.net|imgfl.xyz|imgfsh.xyz|imggoing.xyz|imgkes.xyz|imgkis.xyz|imgko.xyz|imgkoi.xyz|imglin.xyz|imglion.xyz|imgsupa.xyz|imgtiger.xyz|imgtigr.xyz|imgviv.xyz|imgweng.xyz|imgwew.xyz|imgxen.xyz|imgxn.xyz|imgxx.xyz|imgzer.net|venpix.xyz|vestimage.site
 ||chaglihysty.pro^
 ||aspirinelitistunderstood.com^
 ||gahapule.pro^
@@ -22733,6 +22734,8 @@ imageking.xyz,imgair.net,imgao.xyz,imgbird.xyz,imgblaze.net,imgfl.xyz,imgfsh.xyz
 ||membershorny.com^
 ||news-easy.org^
 ||premiumbros.com^
+||beliefindefinite.com^
+||luglestowha.pro^
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/fqjo82/pandora_just_started_detecting_ad_blocker_wont/
 @@||pandora.com/web-version/*/ads.json$1p
@@ -24707,6 +24710,8 @@ hamakei.com###topBnr, #recBanner, .partner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56569
 popimed.com##+js(aopr, app_vars.force_disable_adblock)
 popimed.com##+js(nowebrtc)
+popimed.com##+js(aopw, _pop)
+popimed.com##+js(set, blurred, false)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56572
 myviptuto.com##+js(nosiif, visibility, 1000)
