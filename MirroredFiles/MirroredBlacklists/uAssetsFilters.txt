@@ -139,7 +139,7 @@ lablue.*##+js(nostif, push, 500)
 !#endif
 osthessen-news.de##+js(nostif, .call(null))
 *$image,redirect-rule=2x2.png,domain=tweakers.net
-tweakers.net##+js(aopr, document.head.appendChild)
+tweakers.net##+js(aost, JSON.parse, inlineScript)
 @@||tweakers.net^$ghide
 freenet.de,hifi-forum.de,kicker.de,musiker-board.de,quoka.de,recording.de,transfermarkt.*##+js(nostif, .call(null), 10)
 airliners.de,auszeit.bio,autorevue.at,berliner-kurier.de,berliner-zeitung.de,boersennews.de,clever-tanken.de,dasgelbeblatt.de,deichstube.de,der-betze-brennt.de,desired.de,digitalfernsehen.de,express.de,fanfiktion.de,fehmarn24.de,finya.de,frankfurter-wochenblatt.de,frustfrei-lernen.de,funandnews.de,fussballdaten.de,gamepro.de,gameswelt.*,giessener-allgemeine.de,giga.de,heidelberg24.de,kino.de,gesund-vital.de,gruenderlexikon.de,kreisbote.de,kurierverlag.de,leinetal24.de,liga3-online.de,lokalo24.de,lz.de,macworld.co.uk,meine-anzeigenzeitung.de,mt.de,news.de,nordbayern.de,nw.de,prad.de,psychic.de,reviersport.de,rimondo.com,sozialversicherung-kompetent.de,spielen.de,spieletipps.de,tichyseinblick.de,tvinfo.de,unicum.de,weltfussball.at,weristdeinfreund.de,ze.tt##+js(nostif, .call(null), 10)
@@ -9766,12 +9766,14 @@ livetotal.*##+js(aopr, _pop)
 sportz.pw##+js(nowebrtc)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=42076
-cambabe.*,camgirlbay.net,homewhores.net,hotbabes.tv,webcamsluts.net##+js(aopr, loadTool)
-cambabe.*,camgirlbay.net,candid.tube,filesamba.*,homewhores.net,hotbabes.tv,purelyceleb.com,ukrainenude.eu,webcamsluts.net##+js(aopr, _wm)
+homewhores.net,hotbabes.tv,webcamsluts.net##+js(aopr, loadTool)
+candid.tube,filesamba.*,homewhores.net,hotbabes.tv,purelyceleb.com,ukrainenude.eu,webcamsluts.net##+js(aopr, _wm)
 camclips.cc##+js(aeld, , click)
 camclips.cc##+js(aeld, canplay)
+cambabe.*,camgirlbay.net##+js(acis, onload)
 camclips.cc##[href="/upgrade"]:upward(1)
-cambabe.me##.topad
+cambabe.*##.topad
+cambabe.*##.place
 camclips.cc##.videobanner
 purelyceleb.com##.embed-container
 ##.exo-horizontal
@@ -26379,8 +26381,10 @@ watchfreenet.org##+js(aopr, exoJsPop101)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60945
 turkcemuzik.co##+js(aopr, absda)
 
-! https://github.com/NanoMeow/QuickReports/issues/4458
-pasend.net##+js(nosiif, visibility, 1000)
+! https://github.com/AdguardTeam/AdguardFilters/issues/81851
+pasend.*##+js(nosiif, visibility, 1000)
+pasend.*##+js(acis, document.querySelectorAll, popMagic)
+pasend.*##+js(acis, String.prototype.charCodeAt, ai_)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60995
 unity3diy.blogspot.com##+js(nosiif, visibility, 1000)
@@ -27053,9 +27057,10 @@ youngpornvideos.com##.ads-thumb-list:upward(.outer-item)
 ||bestcontentoperation.top^$3p
 ||titanads1.com^$3p
 
-! hentaicloud.com popup ads
+! https://github.com/uBlockOrigin/uAssets/issues/8988
+hentaicloud.com##+js(set, decodeURI, noopFunc)
 hentaicloud.com##+js(aopr, customAdDisplay)
-hentaicloud.com##+js(aopr, Light.Popup)
+hentaicloud.com##+js(aopr, TotemToolsObject)
 hentaicloud.com##+js(aopr, outputCanvas)
 hentaicloud.com##.vertical-ads-content
 hentaicloud.com##.ad:upward(.horizontal-ads-content)
@@ -27504,7 +27509,6 @@ camclips.tv##[src^="https://camclips.tv/player/html.php?aid"]
 camclips.tv##div.cbchat
 camclips.tv##.box.rltd
 camclips.tv##.table
-||camclips.tv/player/html.php?aid=start_html$frame
 ||promos.camsoda.com^
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64318
@@ -30084,7 +30088,7 @@ dvdplay.*,rawmanga.top##+js(aost, Math, onreadystatechange)
 ||sexsim2.com^$domain=2adultflashgames.com
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/knara8/need_help_with_anti_adblock/
-javnow.net##+js(aopw, ai_front)
+javnow.net##+js(acis, String.prototype.charCodeAt, ai_)
 javnow.net##div[style$="width:300px;height:250px;"]
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/71217
