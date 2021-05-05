@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: w/H44zmdIuOMYfvQkxR3QA
-! Version: 202105040130
+! Checksum: WJ5up6ZKydgE8aINJf9m5Q
+! Version: 202105050120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 04 May 2021 01:30 UTC
+! Last modified: 05 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -624,6 +624,7 @@ aknigionline.ru##.btn-vk
 playground.ru##.btn-vkontakte
 gismeteo.ru##.btn_instagram
 qiq.ws##.buttonbox
+vgorodekirove.ru##.buttond
 nvworld.ru##.buttons
 stroyobzor.ua##.buttons-holder > .like
 stroyobzor.ua##.buttons-holder > li > a[href="#profile"]
@@ -901,6 +902,7 @@ apparat.cc##.metaTable-inner
 minfin.com.ua##.mfz-social-footer-btns
 orelgrad.ru#?#.mh-sidebar > .widget_text:-abp-has(> .textwidget > #vk_groups)
 enovosty.com##.mo-openid-app-icons
+vgorodekirove.ru##.mob_hide > .ai_c
 politexpert.net##.more_in_telegramm
 kinoferma.top##.movie-cols > font[color="crimson"]
 newseries.club##.mshare
@@ -1511,6 +1513,7 @@ kinovod.net,kinovod77.cc##[onclick^="sharer."]
 eneyida.tv##[onclick^="window.open('https://t.me/"]
 planetanovosti.com##[title="Vkontakte"]
 ukrs.com.ua##a[class^="finewp-social-icon-"][target="_blank"]
+vgorodekirove.ru##a[class^="soc_"]
 www.rambler.ru##a[data-cerber-head^="main::footer::smm:"]
 kuban24.tv##a[href*="://t-do.ru/"]
 computerra.ru##a[href*="://tele.click/"]
@@ -3308,6 +3311,7 @@ ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Промо))
 dtf.ru,tjournal.ru,vc.ru#?#.feed:not([data-feed-more-url*="/promo/"]) .feed__chunk > .feed__item:-abp-has(> .content-feed--promo)
 mixed.news##.feed_adv
 vk.com##.feed_friends_recomm
+www.eg.ru##.feed_sub
 drive.ru##.feedsub
 kinopoisk.ru##.film-thin-teaser
 skidkaonline.ru##.fixed-tabs
@@ -27692,6 +27696,7 @@ _backToTop.
 ||js.driftt.com/deploy/assets/static/audio/
 ||js.intercomcdn.com/audio/
 ||livechatinc.com/widget/static/media/
+||purechatcdn.com/Content/Audio/
 ||reamaze.com/audio/
 ||static.widget.trengo.eu/assets/$media
 ||tawk.to/*/audio/
