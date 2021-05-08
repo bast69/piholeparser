@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZbdUgsKTCB+bPCllaXRZKA
-! Version: 202105060120
+! Checksum: MKsm+9vHA4oeT5Mvy03Keg
+! Version: 202105080120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 06 May 2021 01:20 UTC
+! Last modified: 08 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -824,6 +824,7 @@ krymr.com##.infgraphicsAttach
 cyberleninka.ru#?#.infoblock > .half > .title:-abp-contains(Поделиться)
 modelist-konstruktor.com#?#.inside-footer-widgets > .grid-parent > .widget_text:-abp-has(> div > .soc-icon)
 energyfm.ru##.instagram-index
+animevost.tv##.instagram_image
 avito.ru##.item-socials-share
 varlamov.ru##.j-followme
 varlamov.ru##.j-w-social
@@ -926,6 +927,7 @@ disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.nb-
 echo.msk.ru##.netWorkBlock
 kommersant.ru##.network
 buhgalter911.com##.news--social-groups
+mos.ru##.news-article-sharing
 buzday.ru,saltday.ru#?#.news-block:-abp-has(> div > .soc-tab)
 stroyobzor.ua##.news-content .login
 obozrevatel.com##.news-detail__share-wrap
@@ -1470,6 +1472,7 @@ www.kinopoisk.ru##[class*="footer"] > [class*="social-section"]
 manutd.ru##[class*="new_graphic soc_"]
 cn.ru##[class*="socnets"]
 kanobu.ru##[class="i_p d-b"]
+kanobu.ru##[class^="KanobuSocialCommunities_"]
 meduza.io##[class^="Toolbar-module_list"] > [class^="Toolbar-module_item"]:not(:last-child)
 pdd.by##[class^="b-scbutton-"]
 kinogo.appspot.com,kinogo.la##[class^="fbutton_"]
@@ -2520,6 +2523,7 @@ _userbar_$image
 ||hdzona.com/forum/logo.jpg
 ||helpsetup.ru/js/modal.js
 ||hidemyass.com/assets/js/cerabox/
+||hideogenius.com/nokids.mp4
 ||iguides.ru/forum/images/iguides_new/social/
 ||img.imgsmail.ru/webim/agent/images/$media,domain=otvet.mail.ru
 ||img.imgsmail.ru/webim/agent/images/$object,domain=otvet.mail.ru
@@ -3414,6 +3418,7 @@ novy.tv##.jsImportantTop
 onlinemultfilmy.ru##.js_tooltip
 www.kinopoisk.ru##.kinopoisk-header-navigation-menu a[href*="utm_campai"]
 km.ru##.km_ref_adv_popup
+kanobu.ru#?#.knb-grid-layout > .knb-grid-cell:-abp-has(> [class^="SubscribeForm_subscribe__"])
 kinogo.biz##.kreativ
 nnovosti.info##.ks-follow
 www.tut.by##.kupi_wrapper
@@ -27723,7 +27728,7 @@ _backToTop.
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt ***
 nasa.gov#@##BackToTop
 billabong.com#@##NewsletterSignup
-autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
+autotrader.com,brydge.com,controllergear.com,liputan6.com,rejuvenation.com#@##back-to-top
 archeda.eu#@##back-top
 engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
@@ -27820,13 +27825,11 @@ kosmonautix.cz#@#.widget_rss
 tactxflashlights.com#@#.widget_subscribe
 upim.com#@#[data-target="#newsletter-modal"]
 twellow.com#@#a[href="http://www.twellow.com/"]
-nasa.gov#@#backtotop
 reddit.com#@#img[alt="submit to reddit"]
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt ***
 @@/nk-sub.min.js$script,~third-party
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@/threejs/Particles.js$script,~third-party
-@@/wp-content/*/1x1.trans.gif$image,~third-party
 @@||24tv.ua/assets/tv24/images/transparent-pixel.png$image,~third-party
 @@||abc.net.au^*/components/newsletter/
 @@||adfoc.us/*/interstitial.js$~third-party
