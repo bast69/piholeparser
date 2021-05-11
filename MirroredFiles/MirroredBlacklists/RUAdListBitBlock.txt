@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FMEFO580BQXfzoGFWGDryQ
-! Version: 202105100110
+! Checksum: CYyn7ccWJxrmA4k12ZOR7w
+! Version: 202105110120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 10 May 2021 01:10 UTC
+! Last modified: 11 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -903,6 +903,7 @@ minfin.com.ua##.mfz-social-footer-btns
 orelgrad.ru#?#.mh-sidebar > .widget_text:-abp-has(> .textwidget > #vk_groups)
 enovosty.com##.mo-openid-app-icons
 vgorodekirove.ru##.mob_hide > .ai_c
+soundtimes.ru#?#.moduletable:-abp-has(> .ya-share2)
 politexpert.net##.more_in_telegramm
 kinoferma.top##.movie-cols > font[color="crimson"]
 newseries.club##.mshare
@@ -1179,6 +1180,7 @@ oka.fm##.soc-search-block > a[href][target="blank"]
 okna.ua##.soc-share-block-wrapper
 dnepr.info##.soc-tabs-js
 gts.tv,orsk.ru##.soc-widgets
+barneos22.ru##.soc1
 gismeteo.by,gismeteo.kz,oane.ws##.soc2
 mybryansk.ru##.socBlocks
 bigpicture.ru,intvua.com##.soc_block
@@ -1570,6 +1572,7 @@ glavagronom.ru##div > a[href="https://www.facebook.com/GlavAgronom/"]
 glavagronom.ru##div > a[href="https://www.facebook.com/GlavAgronom/"] ~ a
 gorod24.online,kinovidos.com,print-post.com#?#div:-abp-has(> #vk_groups)
 inter.ua#?#div:-abp-has(> .footer-social)
+barneos22.ru#?#div:-abp-has(> .soc1)
 4book.org#?#div:-abp-has(> .uSocial-Share)
 gageno.ru,radiorecord.ru#?#div:-abp-has(> .ya-share2)
 youla.ru#?#div:-abp-has(> [data-test-component="SocialShare"])
@@ -1704,6 +1707,7 @@ mail.ru##.s-sharelist
 mail.ru,sportmail.ru##.sharelist
 mail.ru##.sharelist__items
 auto.mail.ru##.sharelist_justify
+games.mail.ru##.sol-block
 mail.ru##:not([class*="teaser__preview"]):not([class*="article-embed"]):not([class*="article__embed"]):not([class*="slider__item"]):not([class*="article__container"]):not([class*="content__text"]) > .twitter-tweet
 mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
 deti.mail.ru#?#button:-abp-has(> .button__inner:-abp-contains(Поделиться))
@@ -3174,7 +3178,6 @@ lifecell.ua##.bookmark-3g
 professorweb.ru##.bottom-banner
 aniplay.tv##.bottom-panel
 frontend.1worldonline.com##.bottomPanel > .project
-buhonline.ru##.bottomPopup
 2x2tv.ru##.bottom__cookie-block
 driveroff.net,samlab.ws#?#.box-shadow:-abp-has(> .menu > div > iframe[src*="://yoomoney.ru/"])
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##.boxFormWrapper-center.defaultGradient-orange
@@ -3705,7 +3708,6 @@ eda.ru##.special-projects
 tjournal.ru##.special_celebrity
 bhf.io##.sponsor-banner
 goodgame.ru##.sponsors.footer-block
-buhonline.ru##.sticker
 bigpicture.ru##.sticky-bar
 m24.ru##.stickyJoinUs
 101.ru##.store-banner-wrapper
@@ -3845,6 +3847,7 @@ auto.ru##[class*="special"][class$="-sales"]
 kanobu.ru##[class^="SubscribeForm_subscribe_"]
 onlinemschool.com##[class^="oms_gp"]
 friday.ru##[data-block-closer-storage="cookie"]
+tretyakovgallery.ru##[data-block-closer-target="cookie"]
 rambler.ru##[data-blocks="top_news_block"] ~ div[style="margin-bottom:15px"]
 www.rambler.ru##[data-cerber-head*=":search::hint::"]
 www.rambler.ru##[data-cerber-head*=":search::yabro"]
@@ -4428,7 +4431,6 @@ google.by,google.com,google.com.ua,google.kz,google.ru##mobile-promo > [aria-lab
 www.google.*##+js(abort-current-inline-script, String, consentCookiePayload)
 !
 ! - Экспериментальные правила, добавлять только для доменов, на которых нет :-abp, либо изолировать
-dynamo.kiev.*##.video-scroll:remove()
 www.kinopoisk.*#?##kinopoisk-header-sticky-container:style(top: 0 !important)
 www.kinopoisk.*#?#.app__header[style^="--header-height:"]:style(top: 0 !important)
 www.kinopoisk.*#?#.desktop-layout-with-sidebar__header[style^="--header-height:"]:style(top: 0 !important)
