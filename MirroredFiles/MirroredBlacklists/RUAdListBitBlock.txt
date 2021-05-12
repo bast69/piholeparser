@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CYyn7ccWJxrmA4k12ZOR7w
-! Version: 202105110120
+! Checksum: j+ZRjHAjB3AbANEqPSkZGw
+! Version: 202105120120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 11 May 2021 01:20 UTC
+! Last modified: 12 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1575,6 +1575,7 @@ inter.ua#?#div:-abp-has(> .footer-social)
 barneos22.ru#?#div:-abp-has(> .soc1)
 4book.org#?#div:-abp-has(> .uSocial-Share)
 gageno.ru,radiorecord.ru#?#div:-abp-has(> .ya-share2)
+zasekin.ru#?#div:-abp-has(> .yashare-auto-init)
 youla.ru#?#div:-abp-has(> [data-test-component="SocialShare"])
 fontanka.ru#?#div:-abp-has(> ul > [data-rg-name="lj"])
 traktorist.ua#?#div:not([id]):not([class]):-abp-has(> a[href="https://t.me/traktoristua"])
@@ -3042,9 +3043,7 @@ softportal.com##.TblTopBanCLR td > a[href] > img
 lux.fm##.UNI-feedback-trigger
 audi-club.ru##.XenAdvShop
 instagram.com##.ZUqME.N9d2H
-novayagazeta.ru##._1npEp
 ngnovoros.ru##._2AzODJM
-novayagazeta.ru##._3I62d.QECK7
 online.sberbank.ru##._3K1DRIKw
 rambler.ru##._3S8wP > div:first-child + div
 reddit.com##._3q-XSJ2vokDQrvdG6mR__k
@@ -3870,7 +3869,7 @@ nv.ua##[data-type="advertising"]
 znak.com##[data-type="maillist_main"]
 warspot.ru##[data-wgcds-place]
 sxnarod.com##[href$="?act=acquaintance"] > img[src^="/image/"]
-gsminfo.com.ua,inforesist.org,root-nation.com,segodnya.ua##[href^="https://news.google.com/publications/"]
+gsminfo.com.ua,inforesist.org,root-nation.com,segodnya.ua,sportarena.com##[href^="https://news.google.com/publications/"]
 fastpic.ru##[id*="footer"] a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 nashaplaneta.net##[id^="flowblock"]
 gidonline.eu##[id^="iivk"]
@@ -3879,6 +3878,8 @@ hideogenius.com#?#[id^="oframevideoplayer"] > pjsdiv:-abp-has(> pjsdiv:-abp-cont
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##[title="appstore"]
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##[title="googleplay"]
 gamer-info.com##a.logo[href^="/"]
+novayagazeta.ru##a[class^="DonateLink_link_"]
+novayagazeta.ru##a[class^="Header_linkDonate_"]
 torrentiko.net##a[class^="scroll_"]
 kp.by,kp.kg,kp.kz,kp.md,kp.ru##a[class^="styled__SubscriptionLink-"]
 youla.ru##a[href*=".com/"][href*="/app"][title][target="_blank"]
@@ -4004,6 +4005,9 @@ www.kinopoisk.ru##div[class] > button + div[class*="_user"][class*="ar"] + a[hre
 www.fontanka.ru#?#div[class]:-abp-has(> [href="/format/fproject/"] > h3)
 www.fontanka.ru#?#div[class]:-abp-has(> div > button + [href="/pressrelease/"])
 ctc.ru##div[class^="AcceptCookie_placeholder"]
+novayagazeta.ru##div[class^="Content_donateWrap_"]
+novayagazeta.ru##div[class^="DonateBlock_"]
+novayagazeta.ru##div[class^="DonateInformer_"]
 mail.rambler.ru##div[class^="Profile-banner"]
 nova.rambler.ru##div[class^="RabotaWidget__root_"]
 nova.rambler.ru##div[class^="SearchWidget__root_"]
@@ -4501,6 +4505,7 @@ app.tbn.ru,livejournal.com#@#.fb_iframe_widget
 joblib.ru#@#.feedback-button
 store.steampowered.com#@#.follow_btn
 inosmi.ru#@#.header__social
+gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces-blogs.com,spaces.im,strip2.in,strip2.xxx#@#.ico_share
 app2top.ru,ekabu.ru,tjournal.ru#@#.icon-facebook
 comunicart.ru#@#.icon-facebook-official
 tut.by#@#.icon-fb
@@ -4529,6 +4534,7 @@ gigapan.com#@#.print-page
 pikabu.ru#@#.scroll-up-button
 irc.lv#@#.share-blog
 ge.tt#@#.share-box
+r-ulybka.ru#@#.share-item-container
 my.kaspersky.com#@#.share-link
 fcdnipro.ua,solncevo.info#@#.share-page
 kino.video,tasix.me#@#.share-video
@@ -20029,6 +20035,7 @@ _youtube_social_
 ##.tweet-btn-container
 ##.tweet-button
 ##.tweet-follow
+##.tweet-link-button
 ##.tweet-results
 ##.tweet-string
 ##.tweet-this
@@ -24412,6 +24419,7 @@ _backToTop.
 ###footer_newsletter
 ###footer_newsletter_signup
 ###form-footer-newsletters
+###form-newsletter
 ###form-newsletter-footer
 ###formNewsLetters
 ###formNewsLetters-block
