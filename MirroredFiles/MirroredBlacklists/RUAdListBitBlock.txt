@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bCSbeOZ65OGZr1vpWLcxdQ
-! Version: 202105140120
+! Checksum: 3RC9mWV/xbRlVUG12jZKMQ
+! Version: 202105150120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 14 May 2021 01:20 UTC
+! Last modified: 15 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -492,6 +492,7 @@ russia.ru,vz.ru##.append-other-applecations
 narutoplanet.ru#?#.art-layout-cell > .art-block:-abp-has(> .art-blockcontent > div > [href="https://fapmc.info/group"])
 cheklab.ru##.art-postcontent > .buttons
 wtftime.ru##.art-telegram-container
+ichip.ru##.article-action
 24smi.org##.article-footer
 4mama.ua##.article-footer--instagram
 tvoymalysh.com.ua##.article-footer-instagram
@@ -1646,6 +1647,7 @@ ctv7.ru##footer .btn_soc
 forum.cxem.net##footer > .ipsLayout_container > noindex
 hardwareluxx.ru#?#footer > h4:-abp-contains(Социальные сети)
 rambler.ru#?#footer div:-abp-has(> div > [data-blocks="vkontakte"])
+yap.ru,yaplakal.com##form[method="POST"] + .row4[style="padding:6px;"][align="center"]
 footballtransfer.com.ua#?#h3:-abp-contains(Вконтакте)
 vse42.ru#?#h3:-abp-contains(Мы в соцсетях)
 mignews.com,mignews.ru#?#h5:-abp-contains(Мы на Facebook)
@@ -2982,6 +2984,7 @@ igra-prestoloff.cx,igra-prestoloff10.xyz#?##sp-right > .sp-inner > .module:-abp-
 asienda.ru###sub-weekly-popup
 professorweb.ru###subscr-alert
 eva.ru###subscribe-dialog
+liga.net###subscribe-right
 securitylab.ru###subscribe-section
 chita.ru###subscribe-sendpulse
 narmed24.ru###subscribe_aside
@@ -3326,6 +3329,7 @@ skidkaonline.ru##.fixed-tabs
 kommersant.ru##.fixed_bottom
 nalog.ru##.fixed_shortcut_vc
 informator.ua##.flex.post__subscribe-banner
+ichip.ru##.float-subscribe
 searchengines.guru##.float-vertical-panel
 101.ru##.flying-banner-wrapper
 russian.rt.com##.follows-channel
@@ -3726,6 +3730,7 @@ rockstargame.su##.subs-form
 fedpress.ru##.subscr_prompt_wrap
 nv.ua##.subscrb_form_wrap
 112ua.tv,censor.net,it-tehnik.ru,kod.ru,kp.by,kp.kg,kp.kz,kp.md,kp.ru,liga.net,rockstargame.su,sm.news,tverigrad.ru,vz.ru##.subscribe
+ichip.ru##.subscribe-content
 chita.ru##.subscribe-form
 hyser.ua,ukrainianwall.com,znaj.ua##.subscribe-in-article
 russian.rt.com##.subscribe-layout
