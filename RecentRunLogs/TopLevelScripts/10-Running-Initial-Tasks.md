@@ -2,31 +2,31 @@
 [Return To Main](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Recreating TempVar File Sun May 16 03:00:20 CEST 2021
+## Recreating TempVar File Mon May 17 03:00:20 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
 
-## Removing Temp Files Sun May 16 03:00:22 CEST 2021
+## Removing Temp Files Mon May 17 03:00:22 CEST 2021
 Process Took 1 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 
-## Setting Start Time Variable Sun May 16 03:00:23 CEST 2021
-Process Took 1 Seconds.
+## Setting Start Time Variable Mon May 17 03:00:23 CEST 2021
+Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 
-## Identifying Lists Without https Sun May 16 03:00:25 CEST 2021
+## Identifying Lists Without https Mon May 17 03:00:25 CEST 2021
 Process Took 11 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
-## Counting Lists To Process Sun May 16 03:00:36 CEST 2021
+## Counting Lists To Process Mon May 17 03:00:36 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/25-Counting-Lists-To-Process.md)
 
-## Checking For Lists With Multiple Sources Sun May 16 03:00:38 CEST 2021
+## Checking For Lists With Multiple Sources Mon May 17 03:00:38 CEST 2021
 Process Took 18 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/30-Checking-For-Lists-With-Multiple-Sources.md)
 
-## Checking To See If Parsing Method Has Changed Sun May 16 03:00:56 CEST 2021
+## Checking To See If Parsing Method Has Changed Mon May 17 03:00:56 CEST 2021
 Process Took 2 Seconds.
 [Details If Any](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
 
