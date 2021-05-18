@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 02 Apr 2021 at 20:57:09 GMT
+# Last updated: Mon, 17 May 2021 at 03:14:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -20,7 +20,7 @@
 
 # There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
 # available at http://someonewhocares.org/hosts/.
-# On some machines this may run minutely faster, however the zero version
+# On some machines the zero version may run minutely faster, however it
 # may not be compatible with all systems. 
 
 # This file must be saved as a text file with no extension. (This means
@@ -408,6 +408,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ai087.insightexpress.com
 0.0.0.0 ai113.insightexpressai.com
 0.0.0.0 ai125.insightexpressai.com
+0.0.0.0 aksecure.imrworldwide.com
 0.0.0.0 alert.mac-notification.com
 0.0.0.0 alpha.easy-hit-counters.com
 0.0.0.0 amateur.xxxcounter.com
@@ -528,9 +529,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 cashcounter.com
 0.0.0.0 cb1.counterbot.com
 0.0.0.0 ccleaner.fr
+0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.doublepimpssl.com
+0.0.0.0 cdn.imrworldwide.com
 0.0.0.0 cdn.oggifinogi.com
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.taboolasyndication.com
@@ -625,7 +628,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.credo.ru
 0.0.0.0 counter.cz
-0.0.0.0 counter.digits.com
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.e-audit.it
 0.0.0.0 counter.execpc.com
@@ -1364,7 +1366,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 sdogiu.bestamazontips.com
 0.0.0.0 se.sitestat.com
 0.0.0.0 searchadv.com
+0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 secure-drm.imrworldwide.com
 0.0.0.0 secure-gg.imrworldwide.com
+0.0.0.0 secure-it.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 sekel.ch
 0.0.0.0 servedby.valuead.com
@@ -2306,7 +2312,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 cleanmobilephone.com
 0.0.0.0 click.get-answers-fast.com
 0.0.0.0 clicktripz.com
-0.0.0.0 clien.net
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
 0.0.0.0 cnbc.com-article906773.us
@@ -2845,6 +2850,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 ryanrhodes.net
 0.0.0.0 s-41.algovid.com
 0.0.0.0 s.pubmine.com
+0.0.0.0 s3-ap-southeast-1-amazonaws.com
+0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 s4d.in
 0.0.0.0 safedownloadcenter.com
 0.0.0.0 safedownloadsrus166.com
@@ -2976,6 +2983,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
 0.0.0.0 tracking.vcommission.com
+0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 trialreg.com
 0.0.0.0 trovi.com
@@ -3018,6 +3026,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 viowyf.khaiafi.com
 0.0.0.0 vip.fortunatetime.xyz
 0.0.0.0 virus-notice.com
+0.0.0.0 vitemadose.fr
 0.0.0.0 vlc.de
 0.0.0.0 voyager1.telesat.com.co
 0.0.0.0 vxiframe.biz
@@ -6997,6 +7006,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 aka.ms-ads.co
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 ako.cc
@@ -7862,6 +7872,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdnt.yottos.com
 0.0.0.0 cdnw.ringtonepartner.com
 0.0.0.0 cds.adecn.com
+0.0.0.0 cds.taboola.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
@@ -7935,7 +7946,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 click.israelinfo.ru
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 click.newviralmobistore.com
-0.0.0.0 click.pulse360.com
 0.0.0.0 click.runcpa.com
 0.0.0.0 click1.mainadv.com
 0.0.0.0 click1.rbc.magna.ru
@@ -8460,6 +8470,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 eas4.emediate.eu
 0.0.0.0 easyadservice.com
 0.0.0.0 easyadvertonline.com
+0.0.0.0 easypills.co
 0.0.0.0 easyweb.tdcanadatrust.secureserver.host1.customer-identification-process.b88600d8.com
 0.0.0.0 eatondesigns.com
 0.0.0.0 eatps.web.aol.com
@@ -8921,6 +8932,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 getmynumber.net
 0.0.0.0 getmyplasmatv.com
 0.0.0.0 getrelator.com
+0.0.0.0 getrxhere.co
 0.0.0.0 getspecialgifts.com
 0.0.0.0 getupdate.thebiggestandmoststabletocontentsafe.bid
 0.0.0.0 getyour5kcredits0.blogspot.com
@@ -9782,7 +9794,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 luckymeetyou.com
 0.0.0.0 luxstockevent.su
 0.0.0.0 luxup.ru
-0.0.0.0 lvbet.pl
 0.0.0.0 lw1.gamecopyworld.com
 0.0.0.0 lw2.gamecopyworld.com
 0.0.0.0 lycos.247realmedia.com
@@ -9887,6 +9898,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mastertracks.be
 0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsrvr.org
+0.0.0.0 match.taboola.com
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matrix.mediavantage.de
 0.0.0.0 maxads.ruralpress.com
@@ -10760,6 +10772,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pletyka.eu
 0.0.0.0 ploaz54.com
 0.0.0.0 pluszcafe.hu
+0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pmelon.com
 0.0.0.0 pmstrk.mercadolivre.com.br
@@ -11278,8 +11291,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 s1.cz.adocean.pl
 0.0.0.0 s1.gratkapl.adocean.pl
 0.0.0.0 s2.buysellads.com
-0.0.0.0 s3-ap-southeast-1-amazonaws.com
-0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.pfp.sina.net
@@ -11475,7 +11486,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 sg.lansweeps.click
 0.0.0.0 sg3.beap.gemini.yahoo.com
-0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 sgs001.adtech.de
 0.0.0.0 sgs001.adtech.fr
 0.0.0.0 sgs001.adtech.us
@@ -11737,7 +11747,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 static.plista.com
 0.0.0.0 static.plugrush.com
 0.0.0.0 static.ptoahaistais.com
-0.0.0.0 static.pulse360.com
 0.0.0.0 static.regiojobs.be
 0.0.0.0 static.scanscout.com
 0.0.0.0 static.tags.yield-atx.com
@@ -12051,6 +12060,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tpienquete.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
+0.0.0.0 tps20519.doubleverify.com
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 tr.bigpoint.com
@@ -13208,7 +13218,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googmel.win
-0.0.0.0 www.gopopup.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.grabflashsign.win
 0.0.0.0 www.greasypalm.com
@@ -13859,7 +13868,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www2.ad.tomshardware.com
 0.0.0.0 www2.adireland.com
 0.0.0.0 www2.adserverpub.com
-0.0.0.0 www2.arnes.si
 0.0.0.0 www2.bannerspace.com
 0.0.0.0 www2.doslectionflash.icu
 0.0.0.0 www2.glam.com

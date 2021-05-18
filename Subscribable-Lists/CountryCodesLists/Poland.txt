@@ -3491,7 +3491,6 @@ luxoid.pl
 luxurylinevivasp.pl
 lv.adocean.pl
 lv.hit.gemius.pl
-lvbet.pl
 lyke.pl
 m-facebook.ct8.pl
 m5e34.pl
@@ -5716,7 +5715,6 @@ seyfwl.styl.pl
 seznam.hit.gemius.pl
 sezonslubow.pl
 sg-r.pl
-sgqcvfjvr.onet.pl
 sgraffito.com.pl
 sgs-service.com.pl
 sh199102.website.pl

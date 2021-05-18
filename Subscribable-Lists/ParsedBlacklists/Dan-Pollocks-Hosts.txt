@@ -2719,10 +2719,12 @@ ak.sail-horizon.com
 aka-cdn-ns.adtech.de
 aka-cdn-ns.adtechus.com
 aka-cdn.adtechus.com
+aka.ms-ads.co
 akaads-espn.starwave.com
 akamai.invitemedia.com
 ako.cc
 aksdk-images.adikteev.com
+aksecure.imrworldwide.com
 aktif.haberx.com
 aktiv-blog.com
 aktiv-hirek.net
@@ -3956,6 +3958,7 @@ cdbs.com.tr
 cdm.unnoticeablegangrene.com
 cdn-box.com
 cdn-downloads.com
+cdn-gl.imrworldwide.com
 cdn-onedrive-live.com
 cdn-social.janrain.com
 cdn.8digits.com
@@ -4022,6 +4025,7 @@ cdn.hanaging.info
 cdn.hauleddes.com
 cdn.holdlads.com
 cdn.imgtty.com
+cdn.imrworldwide.com
 cdn.innovid.com
 cdn.inskinad.com
 cdn.jquery-uim.download
@@ -4098,6 +4102,7 @@ cdns.privatamateure.com
 cdnt.yottos.com
 cdnw.ringtonepartner.com
 cds.adecn.com
+cds.taboola.com
 cds26.ams9.msecn.net
 cdxbin.vulnerap.com
 ce.lijit.com
@@ -4239,7 +4244,6 @@ click.jve.net
 click.maaxmarket.com
 click.newviralmobistore.com
 click.payserve.com
-click.pulse360.com
 click.runcpa.com
 click.silvercash.com
 click1.mainadv.com
@@ -4307,7 +4311,6 @@ clicktracker.postmasterglobal.com
 clicktracks.webmetro.com
 clicktripz.com
 clien.info
-clien.net
 clients-share.com
 clietns-download.com
 clipserv.adclip.com
@@ -4550,7 +4553,6 @@ counter.clubnet.ro
 counter.cnw.cz
 counter.credo.ru
 counter.cz
-counter.digits.com
 counter.dreamhost.com
 counter.e-audit.it
 counter.execpc.com
@@ -5239,6 +5241,7 @@ east.05tz2e9.com
 easy-web-stats.com
 easyadservice.com
 easyadvertonline.com
+easypills.co
 easyweb.tdcanadatrust.secureserver.host1.customer-identification-process.b88600d8.com
 eatondesigns.com
 eatps.web.aol.com
@@ -6161,6 +6164,7 @@ getmynumber.net
 getmyplasmatv.com
 getnewsoft.bestfreesitetocontent.info
 getrelator.com
+getrxhere.co
 getsoftnow.smallandprecise2upgradesnew.review
 getsoftnow.smallandprecise2upgradingnew.review
 getspecialgifts.com
@@ -7634,7 +7638,6 @@ luxpolice.net
 luxstockevent.su
 luxup.ru
 luycos.com
-lvbet.pl
 lw1.gamecopyworld.com
 lw2.gamecopyworld.com
 lycos-eu.imrworldwide.com
@@ -8026,6 +8029,7 @@ massage-v-almaty.kz
 mastertracks.be
 match.ads.betweendigital.com
 match.adsrvr.org
+match.taboola.com
 matomy.adk2.co
 matrix.mediavantage.de
 mature.xxxcounter.com
@@ -9833,6 +9837,7 @@ pleasewait.co
 pletyka.eu
 ploaz54.com
 pluszcafe.hu
+pm.adsafeprotected.com
 pm.w55c.net
 pmelon.com
 pmg.ad-logics.com
@@ -10723,11 +10728,15 @@ secretlanguage.co
 secserv.adtech.de
 secserv.adtech.fr
 secserv.adtech.us
+secure-dcr.imrworldwide.com
+secure-drm.imrworldwide.com
 secure-gg.imrworldwide.com
+secure-it.imrworldwide.com
 secure-jp.imrworldwide.com
 secure-js.kontera.com
 secure-nz.imrworldwide.com
 secure-uk.imrworldwide.com
+secure-us.imrworldwide.com
 secure-za.imrworldwide.com
 secure.160117rd.xyz
 secure.ace-tag.advertising.com
@@ -10926,7 +10935,6 @@ sg.adserver.yahoo.com
 sg.lansweeps.click
 sg.yimg.com
 sg3.beap.gemini.yahoo.com
-sgqcvfjvr.onet.pl
 sgs001.adtech.de
 sgs001.adtech.fr
 sgs001.adtech.us
@@ -11353,7 +11361,6 @@ static.oroll.com
 static.plista.com
 static.plugrush.com
 static.ptoahaistais.com
-static.pulse360.com
 static.regiojobs.be
 static.scanscout.com
 static.tags.yield-atx.com
@@ -11995,6 +12002,7 @@ tpc.googlesyndication.com
 tpienquete.com
 tps.doubleverify.com
 tps10216.doubleverify.com
+tps20519.doubleverify.com
 tps30.doubleverify.com
 tps31.doubleverify.com
 tr.adinterax.com
@@ -12323,6 +12331,7 @@ tradefx.advertserve.com
 tradelax.com
 tradem.com
 tradetracker.net
+traffic-bam.link
 traffic-stats.streamsolutions.co.uk
 traffic.adwitty.com
 traffic.adxprts.com
@@ -12816,6 +12825,7 @@ vistawebs-top-shop-soft.site
 vistawebs-web-techie-app.win
 vitalitymax.1.p2l.info
 vitals.vercel-analytics.com
+vitemadose.fr
 vj.quanjingpay.com
 vk.18sexporn.ru
 vlc.de
@@ -14124,7 +14134,6 @@ www.googkle.com
 www.googleadservices.com
 www.googlewordpad.info
 www.googmel.win
-www.gopopup.com
 www.gozatar.com
 www.gparted.fr
 www.grabbit-rabbit.com
@@ -15113,7 +15122,6 @@ www2.addfreestats.com
 www2.adireland.com
 www2.adserverpub.com
 www2.anybestconcreteflash.icu
-www2.arnes.si
 www2.bannerspace.com
 www2.counter.bloke.com
 www2.doslectionflash.icu
