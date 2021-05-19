@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5IiWsl+30IqkBnXDL53B8g
-! Version: 202105180120
+! Checksum: 6nB1qZE7e+c2geItzS0M/Q
+! Version: 202105190120
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 18 May 2021 01:20 UTC
+! Last modified: 19 May 2021 01:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -3771,6 +3771,7 @@ molodostivivat.ru##.textwidget > a[href][target="_blank"]
 101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.in,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,ikinopoisk.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,rezkion.com,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,xhdrezka.com,youhdrezka.com##.tg__info_block_wrapper
 vedomosti.ru##.the-header-announce
 gameout.ru##.theiaStickySidebar
+vseprosto.top##.theiaStickySidebar > .text-html
 proekt.media##.tile--subscribe
 efxi.ru##.titleblock
 tmfeed.ru##.tm-megaposts-links
@@ -3847,6 +3848,7 @@ car.ru,riamo.ru##.yandex-news-promo
 www.kinopoisk.ru##.yandex-ugc-dialog
 tvc.ru##.yandex_zen_link
 kaifolog.ru##.yandexh,.yandexh + .atextbox
+vseprosto.top##.youtube-widget
 livesport.ru##.zz_cars_twin
 erofishki.cc##:not(.author):not(.avatar-a) > .subscribe_link
 0calc.es,0calc.fr,0calc.in,0calc.ru,0rechner.de,nu.nl,web2.0calc.com,web2.0calc.ru##[action="/cookieconsent"]
@@ -5183,7 +5185,7 @@ audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
 mega.nz#@#.notification-button
 bimmertoday.de,bmwblog.com,carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container:not(body):not(html)
 dvhab.ru#@#.push-notification
-asbclassic.co.nz,envirowaste.co.nz,harmoney.co.nz,harmoney.com.au,underconsideration.com#@#.push-wrap:not(body):not(html)
+asbclassic.co.nz,envirowaste.co.nz,harmoney.co.nz,harmoney.com.au,rocketlabusa.com,underconsideration.com#@#.push-wrap:not(body):not(html)
 arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
 ! Mobile notifications
 mobi24.net#@#a[href^="http://www.mobi24.net/"]
@@ -11575,6 +11577,7 @@ _youtube_social_
 ##.articleSocialMedia
 ##.articleSocialNetwork
 ##.articleToolbarShare
+##.article__actions__social
 ##.article__commentBubble-socialShare
 ##.article__details--desktop-share
 ##.article__details__share
@@ -20583,6 +20586,7 @@ _youtube_social_
 ##.widget_connect_youtube
 ##.widget_custom-twitter-feeds-widget
 ##.widget_do_shortcode_instagram_widget
+##.widget_dpsp_social_media_follow
 ##.widget_easy_facebook_page_plugin
 ##.widget_essbsocialfollowerscounterwidget
 ##.widget_facebook-like-box
@@ -22805,6 +22809,8 @@ digg.com#@#div[id^="digg-widget-"]
 @@||staticwars.com/combo/_/wp-content/themes/$script
 @@||tldrify.com/static/*/sharebox.$script,stylesheet,~third-party
 @@||tldrify.com^$generichide
+@@||yap.ru/html/static/share/$image,~third-party
+@@||yaplakal.com/html/static/$image,~third-party
 !@@||s7.addthis.com^*/addthis_widget.js*pub=$script
 !@@||s7.addthis.com^*/addthis_widget.js*pubid=$script
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
@@ -25287,6 +25293,7 @@ _backToTop.
 ##.expert-newslater
 ##.ezn-newsletter_inarticle_banner
 ##.f-c-subscribe
+##.f-newsletter
 ##.fandom-newsletter-signup
 ##.featured-newsletter
 ##.featurednewsletter-inner
@@ -25423,6 +25430,7 @@ _backToTop.
 ##.ione-widget-bp_newsletter_signup
 ##.ione-widget-social_conversion
 ##.ipWidget-Newsletter
+##.is-newsletter
 ##.iscriviti-newsletter
 ##.iscrizione-newsletter
 ##.iscrizione_newsletter
@@ -26061,6 +26069,7 @@ _backToTop.
 ##.simple-sidebar-emailsignupbox
 ##.simple-sidebar-emailsignupbox-inner
 ##.simplenews_custom-newsletter
+##.single-newsletter
 ##.single-post-newsletter
 ##.single-post__content__subscribe
 ##.single-sidebar--newsletter
@@ -27919,6 +27928,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
 @@||my.leadpages.net/template/$script,domain=weddingjams.com
 @@||my.leadpages.net^*/public/
+@@||nerdwallet.com/cdn/apps/prod/article-client/$~third-party
 @@||netdna-ssl.com^*/scrolltoplugin.min.js$script,domain=cybersecurityventures.com
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com
 @@||ng.cengage.com/static/iloveapps/rssfeed/$script,~third-party
