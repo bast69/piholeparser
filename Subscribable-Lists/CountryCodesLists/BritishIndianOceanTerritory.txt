@@ -685,6 +685,7 @@ go.qbox.io
 go.readytech.io
 go.remerge.io
 go.sealights.io
+go.trafficrouter.io
 go.webhose.io
 go.youreka.io
 goload.wecloud.io
