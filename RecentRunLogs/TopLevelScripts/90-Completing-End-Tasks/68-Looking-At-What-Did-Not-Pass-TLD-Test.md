@@ -3,6 +3,3 @@
 [Go Up One Level](https://github.com/bast69/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 68-Looking-At-What-Did-Not-Pass-TLD-Test
-* 1 Lines After Deduping. 
-____________________________________________________
-* castoola.tv.lan
